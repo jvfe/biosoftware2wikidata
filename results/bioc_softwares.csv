@@ -1,0 +1,2376 @@
+Package,Version,Depends,License,DOI
+a4,1.44.0,"a4Base, a4Preproc, a4Classif, a4Core, a4Reporting",GPL-3,10.18129/B9.BIOC.A4
+a4Base,1.44.0,"a4Preproc, a4Core",GPL-3,10.18129/B9.BIOC.A4BASE
+a4Classif,1.44.0,"a4Core, a4Preproc",GPL-3,10.18129/B9.BIOC.A4CLASSIF
+a4Core,1.44.0,NA,GPL-3,10.18129/B9.BIOC.A4CORE
+a4Preproc,1.44.0,NA,GPL-3,10.18129/B9.BIOC.A4PREPROC
+a4Reporting,1.44.0,NA,GPL-3,10.18129/B9.BIOC.A4REPORTING
+ABarray,1.64.0,NA,GPL,10.18129/B9.BIOC.ABARRAY
+abseqR,1.14.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.ABSEQR
+ABSSeq,1.50.0,"R (>= 2.10), methods",GPL (>= 3),10.18129/B9.BIOC.ABSSEQ
+acde,1.26.0,"R(>= 3.3), boot(>= 1.3)",GPL-3,10.18129/B9.BIOC.ACDE
+ACE,1.14.0,R (>= 3.4),GPL-2,10.18129/B9.BIOC.ACE
+aCGH,1.74.0,"R (>= 2.10), cluster, survival, multtest",GPL-2,10.18129/B9.BIOC.ACGH
+ACME,2.52.0,"R (>= 2.10), Biobase (>= 2.5.5), methods, BiocGenerics",GPL (>= 2),10.18129/B9.BIOC.ACME
+ADaCGH2,2.36.0,"R (>= 3.2.0), parallel, ff, GLAD",GPL (>= 3),10.18129/B9.BIOC.ADACGH2
+ADAM,1.12.0,"R(>= 3.5), stats, utils, methods",GPL (>= 2),10.18129/B9.BIOC.ADAM
+ADAMgui,1.12.0,"R(>= 3.6), stats, utils, methods, ADAM",GPL (>= 2),10.18129/B9.BIOC.ADAMGUI
+adductomicsR,1.12.0,"R (>= 3.6), adductData, ExperimentHub, AnnotationHub",Artistic-2.0,10.18129/B9.BIOC.ADDUCTOMICSR
+ADImpute,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.ADIMPUTE
+adSplit,1.66.0,"R (>= 2.1.0), methods (>= 2.1.0)",GPL (>= 2),10.18129/B9.BIOC.ADSPLIT
+AffiXcan,1.14.0,"R (>= 3.6), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.AFFIXCAN
+affxparser,1.68.1,R (>= 2.14.0),LGPL (>= 2),10.18129/B9.BIOC.AFFXPARSER
+affy,1.74.0,"R (>= 2.8.0), BiocGenerics (>= 0.1.12), Biobase (>= 2.5.5)",LGPL (>= 2.0),10.18129/B9.BIOC.AFFY
+affycomp,1.72.0,"R (>= 2.13.0), methods, Biobase (>= 2.3.3)",GPL (>= 2),10.18129/B9.BIOC.AFFYCOMP
+AffyCompatible,1.56.0,"R (>= 2.7.0), XML (>= 2.8-1), RCurl (>= 0.8-1), methods",Artistic-2.0,10.18129/B9.BIOC.AFFYCOMPATIBLE
+affyContam,1.54.0,"R (>= 2.7.0), tools, methods, utils, Biobase, affy, affydata",Artistic-2.0,10.18129/B9.BIOC.AFFYCONTAM
+affycoretools,1.68.1,"Biobase, methods",Artistic-2.0,10.18129/B9.BIOC.AFFYCORETOOLS
+affyILM,1.48.0,"R (>= 2.10.0), methods, gcrma",GPL-3,10.18129/B9.BIOC.AFFYILM
+affyio,1.66.0,R (>= 2.6.0),LGPL (>= 2),10.18129/B9.BIOC.AFFYIO
+affylmGUI,1.70.0,NA,GPL (>= 2),10.18129/B9.BIOC.AFFYLMGUI
+affyPLM,1.72.0,"R (>= 2.6.0), BiocGenerics (>= 0.3.2), affy (>= 1.11.0),
+Biobase (>= 2.17.8), gcrma, stats, preprocessCore (>= 1.5.1)",GPL (>= 2),10.18129/B9.BIOC.AFFYPLM
+AffyRNADegradation,1.42.0,"R (>= 2.9.0), methods, affy",GPL-2,10.18129/B9.BIOC.AFFYRNADEGRADATION
+AGDEX,1.44.0,"R (>= 2.10), Biobase, GSEABase",GPL (>= 2),10.18129/B9.BIOC.AGDEX
+aggregateBioVar,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.AGGREGATEBIOVAR
+agilp,3.28.0,R (>= 2.14.0),GPL-3,10.18129/B9.BIOC.AGILP
+AgiMicroRna,2.46.0,"R (>= 2.10),methods,Biobase,limma,affy (>=
+1.22),preprocessCore,affycoretools",GPL-3,10.18129/B9.BIOC.AGIMICRORNA
+AIMS,1.28.0,"R (>= 2.10), e1071, Biobase",Artistic-2.0,10.18129/B9.BIOC.AIMS
+airpart,1.4.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.AIRPART
+alevinQC,1.12.1,R (>= 4.0),MIT,10.18129/B9.BIOC.ALEVINQC
+AllelicImbalance,1.34.0,"R (>= 4.0.0), grid, GenomicRanges (>= 1.31.8),
+SummarizedExperiment (>= 0.2.0), GenomicAlignments (>= 1.15.6)",GPL-3,10.18129/B9.BIOC.ALLELICIMBALANCE
+AlphaBeta,1.10.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.ALPHABETA
+alpine,1.22.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.ALPINE
+AlpsNMR,3.6.0,"R (>= 4.1), dplyr (>= 0.7.5), future (>= 1.10.0), magrittr (>=
+1.5)",MIT,10.18129/B9.BIOC.ALPSNMR
+altcdfenvs,2.58.0,"R (>= 2.7), methods, BiocGenerics (>= 0.1.0), S4Vectors (>=
+0.9.25), Biobase (>= 2.15.1), affy, makecdfenv, Biostrings,
+hypergraph",GPL (>= 2),10.18129/B9.BIOC.ALTCDFENVS
+AMARETTO,1.12.0,"R (>= 3.6), impute, doParallel, grDevices, dplyr, methods,
+ComplexHeatmap",Apache License (== 2.0),10.18129/B9.BIOC.AMARETTO
+AMOUNTAIN,1.22.0,R (>= 3.3.0),GPL (>= 2),10.18129/B9.BIOC.AMOUNTAIN
+amplican,1.18.0,"R (>= 3.5.0), methods, BiocGenerics (>= 0.22.0), Biostrings
+(>= 2.44.2), data.table (>= 1.10.4-3)",GPL-3,10.18129/B9.BIOC.AMPLICAN
+Anaquin,2.20.0,"R (>= 3.3), ggplot2 (>= 2.2.0)",BSD_3_clause,10.18129/B9.BIOC.ANAQUIN
+ANCOMBC,1.6.2,NA,Artistic-2.0,10.18129/B9.BIOC.ANCOMBC
+AneuFinder,1.24.0,"R (>= 3.5), GenomicRanges, ggplot2, cowplot, AneuFinderData",Artistic-2.0,10.18129/B9.BIOC.ANEUFINDER
+ANF,1.18.0,NA,GPL-3,10.18129/B9.BIOC.ANF
+animalcules,1.12.0,R (>= 4.0.0),Artistic-2.0,10.18129/B9.BIOC.ANIMALCULES
+annaffy,1.68.0,"R (>= 2.5.0), methods, Biobase, BiocManager, GO.db",LGPL,10.18129/B9.BIOC.ANNAFFY
+annmap,1.38.0,"R (>= 2.15.0), methods, GenomicRanges",GPL-2,10.18129/B9.BIOC.ANNMAP
+annotate,1.74.0,"R (>= 2.10), AnnotationDbi (>= 1.27.5), XML",Artistic-2.0,10.18129/B9.BIOC.ANNOTATE
+AnnotationDbi,1.58.0,"R (>= 2.7.0), methods, utils, stats4, BiocGenerics (>=
+0.29.2), Biobase (>= 1.17.0), IRanges",Artistic-2.0,10.18129/B9.BIOC.ANNOTATIONDBI
+AnnotationFilter,1.20.0,R (>= 3.4.0),Artistic-2.0,10.18129/B9.BIOC.ANNOTATIONFILTER
+AnnotationForge,1.38.0,"R (>= 3.5.0), methods, utils, BiocGenerics (>= 0.15.10),
+Biobase (>= 1.17.0), AnnotationDbi (>= 1.33.14)",Artistic-2.0,10.18129/B9.BIOC.ANNOTATIONFORGE
+AnnotationHub,3.4.0,"BiocGenerics (>= 0.15.10), BiocFileCache (>= 1.5.1)",Artistic-2.0,10.18129/B9.BIOC.ANNOTATIONHUB
+AnnotationHubData,1.26.1,"R (>= 3.2.2), methods, utils, S4Vectors (>= 0.7.21), IRanges
+(>= 2.3.23), GenomicRanges, AnnotationHub (>= 2.15.15)",Artistic-2.0,10.18129/B9.BIOC.ANNOTATIONHUBDATA
+annotationTools,1.70.0,NA,GPL,10.18129/B9.BIOC.ANNOTATIONTOOLS
+annotatr,1.22.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.ANNOTATR
+anota,1.44.0,qvalue,GPL-3,10.18129/B9.BIOC.ANOTA
+anota2seq,1.18.0,"R (>= 3.4.0), methods",GPL-3,10.18129/B9.BIOC.ANOTA2SEQ
+antiProfiles,1.36.0,"R (>= 3.0), matrixStats (>= 0.50.0), methods (>= 2.14), locfit
+(>= 1.5)",Artistic-2.0,10.18129/B9.BIOC.ANTIPROFILES
+AnVIL,1.8.3,"R (>= 3.6), dplyr",Artistic-2.0,10.18129/B9.BIOC.ANVIL
+AnVILBilling,1.6.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.ANVILBILLING
+AnVILPublish,1.6.0,NA,Artistic-2.0,10.18129/B9.BIOC.ANVILPUBLISH
+APAlyzer,1.10.0,R (>= 3.5.0),LGPL-3,10.18129/B9.BIOC.APALYZER
+apComplex,2.62.0,"R (>= 2.10), graph, RBGL",LGPL,10.18129/B9.BIOC.APCOMPLEX
+apeglm,1.18.0,NA,GPL-2,10.18129/B9.BIOC.APEGLM
+APL,1.0.0,R (>= 4.2),GPL (>= 3),10.18129/B9.BIOC.APL
+appreci8R,1.14.0,NA,LGPL-3,10.18129/B9.BIOC.APPRECI8R
+aroma.light,3.26.0,R (>= 2.15.2),GPL (>= 2),10.18129/B9.BIOC.AROMA.LIGHT
+ArrayExpress,1.56.0,"R (>= 2.9.0), Biobase (>= 2.4.0)",Artistic-2.0,10.18129/B9.BIOC.ARRAYEXPRESS
+ArrayExpressHTS,1.46.0,"sampling, Rsamtools (>= 1.99.0), snow",Artistic License 2.0,10.18129/B9.BIOC.ARRAYEXPRESSHTS
+arrayMvout,1.54.0,"R (>= 2.6.0), tools, methods, utils, parody, Biobase, affy",Artistic-2.0,10.18129/B9.BIOC.ARRAYMVOUT
+arrayQuality,1.74.0,R (>= 2.2.0),LGPL,10.18129/B9.BIOC.ARRAYQUALITY
+arrayQualityMetrics,3.52.0,NA,LGPL (>= 2),10.18129/B9.BIOC.ARRAYQUALITYMETRICS
+ARRmNormalization,1.36.0,"R (>= 2.15.1), ARRmData",Artistic-2.0,10.18129/B9.BIOC.ARRMNORMALIZATION
+artMS,1.14.0,R (>= 4.1.0),GPL (>= 3),10.18129/B9.BIOC.ARTMS
+ASAFE,1.22.0,R (>= 3.2),Artistic-2.0,10.18129/B9.BIOC.ASAFE
+ASEB,1.40.0,"R (>= 2.8.0), methods",GPL (>= 3),10.18129/B9.BIOC.ASEB
+ASGSCA,1.30.0,NA,GPL-3,10.18129/B9.BIOC.ASGSCA
+ASICS,2.12.1,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.ASICS
+ASpediaFI,1.10.0,"R (>= 3.6.0), SummarizedExperiment, ROCR",GPL-3,10.18129/B9.BIOC.ASPEDIAFI
+ASpli,2.6.0,"methods, grDevices, stats, utils, parallel, edgeR, limma,
+AnnotationDbi",GPL,10.18129/B9.BIOC.ASPLI
+AssessORF,1.14.0,"R (>= 3.5.0), DECIPHER (>= 2.10.0)",GPL-3,10.18129/B9.BIOC.ASSESSORF
+ASSET,2.14.0,"R (>= 3.5.0), stats, graphics",GPL-2,10.18129/B9.BIOC.ASSET
+ASSIGN,1.32.0,R (>= 3.4),MIT,10.18129/B9.BIOC.ASSIGN
+ASURAT,1.0.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.ASURAT
+ATACseqQC,1.20.2,"R (>= 3.5.0), BiocGenerics, S4Vectors",GPL (>= 2),10.18129/B9.BIOC.ATACSEQQC
+atena,1.2.0,"R (>= 4.1), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.ATENA
+atSNP,1.12.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.ATSNP
+attract,1.48.0,"R (>= 3.4.0), AnnotationDbi",LGPL (>= 2.0),10.18129/B9.BIOC.ATTRACT
+AUCell,1.18.1,NA,GPL-3,10.18129/B9.BIOC.AUCELL
+autonomics,1.4.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.AUTONOMICS
+AWFisher,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.AWFISHER
+awst,1.4.0,NA,MIT,10.18129/B9.BIOC.AWST
+BaalChIP,1.22.0,"R (>= 3.3.1), GenomicRanges, IRanges, Rsamtools,",Artistic-2.0,10.18129/B9.BIOC.BAALCHIP
+BAC,1.56.0,R (>= 2.10),Artistic-2.0,10.18129/B9.BIOC.BAC
+bacon,1.24.0,"R (>= 3.3), methods, stats, ggplot2, graphics, BiocParallel,
+ellipse",GPL (>= 2),10.18129/B9.BIOC.BACON
+BADER,1.34.0,NA,GPL-2,10.18129/B9.BIOC.BADER
+BadRegionFinder,1.24.0,NA,LGPL-3,10.18129/B9.BIOC.BADREGIONFINDER
+BAGS,2.36.0,"R (>= 2.10), breastCancerVDX, Biobase",Artistic-2.0,10.18129/B9.BIOC.BAGS
+ballgown,2.28.0,"R (>= 3.5.0), methods",Artistic-2.0,10.18129/B9.BIOC.BALLGOWN
+bambu,2.2.0,"R(>= 4.1), SummarizedExperiment(>= 1.1.6), S4Vectors(>=
+0.22.1), BSgenome, IRanges",GPL-3,10.18129/B9.BIOC.BAMBU
+bamsignals,1.28.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.BAMSIGNALS
+BANDITS,1.12.0,R (>= 4.0.0),GPL (>= 3),10.18129/B9.BIOC.BANDITS
+bandle,1.0.0,"R (>= 4.1), S4Vectors, Biobase, MSnbase, pRoloc",Artistic-2.0,10.18129/B9.BIOC.BANDLE
+banocc,1.20.0,"R (>= 3.5.1), rstan (>= 2.17.4)",MIT,10.18129/B9.BIOC.BANOCC
+basecallQC,1.20.0,"R (>= 3.4), stats, utils, methods, rmarkdown, knitr,
+prettydoc, yaml",GPL (>= 3),10.18129/B9.BIOC.BASECALLQC
+BaseSpaceR,1.40.0,"R (>= 2.15.0), RCurl, RJSONIO",Apache License 2.0,10.18129/B9.BIOC.BASESPACER
+Basic4Cseq,1.32.0,"R (>= 3.4), Biostrings, GenomicAlignments, caTools,
+GenomicRanges, grDevices, graphics, stats, utils",LGPL-3,10.18129/B9.BIOC.BASIC4CSEQ
+BASiCS,2.8.0,"R (>= 4.0), SingleCellExperiment",GPL (>= 2),10.18129/B9.BIOC.BASICS
+BasicSTARRseq,1.24.0,"GenomicRanges,GenomicAlignments",LGPL-3,10.18129/B9.BIOC.BASICSTARRSEQ
+basilisk,1.8.0,NA,GPL-3,10.18129/B9.BIOC.BASILISK
+basilisk.utils,1.8.0,NA,GPL-3,10.18129/B9.BIOC.BASILISK.UTILS
+batchelor,1.12.3,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.BATCHELOR
+BatchQC,1.24.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.BATCHQC
+BayesKnockdown,1.22.0,R (>= 3.3),GPL-3,10.18129/B9.BIOC.BAYESKNOCKDOWN
+BayesSpace,1.6.0,"R (>= 4.0.0), SingleCellExperiment",MIT,10.18129/B9.BIOC.BAYESSPACE
+bayNorm,1.14.0,"R (>= 3.5),",GPL (>= 2),10.18129/B9.BIOC.BAYNORM
+baySeq,2.30.0,"R (>= 2.3.0), methods, GenomicRanges, abind, parallel",GPL-3,10.18129/B9.BIOC.BAYSEQ
+BBCAnalyzer,1.26.0,NA,LGPL-3,10.18129/B9.BIOC.BBCANALYZER
+BCRANK,1.58.0,methods,GPL-2,10.18129/B9.BIOC.BCRANK
+bcSeq,1.18.0,R (>= 3.4.0),GPL (>= 2),10.18129/B9.BIOC.BCSEQ
+BDMMAcorrect,1.14.0,"R (>= 3.5), vegan, ellipse, ggplot2, ape, SummarizedExperiment",GPL (>= 2),10.18129/B9.BIOC.BDMMACORRECT
+beachmat,2.12.0,NA,GPL-3,10.18129/B9.BIOC.BEACHMAT
+beadarray,2.46.0,"R (>= 2.13.0), BiocGenerics (>= 0.3.2), Biobase (>= 2.17.8),
+hexbin",MIT,10.18129/B9.BIOC.BEADARRAY
+beadarraySNP,1.62.0,"methods, Biobase (>= 2.14), quantsmooth",GPL-2,10.18129/B9.BIOC.BEADARRAYSNP
+BeadDataPackR,1.48.0,NA,GPL-2,10.18129/B9.BIOC.BEADDATAPACKR
+BEARscc,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.BEARSCC
+BEAT,1.34.0,R (>= 2.13.0),LGPL (>= 3.0),10.18129/B9.BIOC.BEAT
+BEclear,2.12.0,BiocParallel (>= 1.14.2),GPL-3,10.18129/B9.BIOC.BECLEAR
+beer,1.0.0,"R (>= 4.2.0), PhIPData (>= 1.1.1), rjags",MIT,10.18129/B9.BIOC.BEER
+benchdamic,1.2.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.BENCHDAMIC
+BgeeCall,1.12.1,R (>= 3.6),GPL-3,10.18129/B9.BIOC.BGEECALL
+BgeeDB,2.22.3,"R (>= 3.6.0), topGO, tidyr",GPL-3,10.18129/B9.BIOC.BGEEDB
+BGmix,1.56.0,"R (>= 2.3.1), KernSmooth",GPL-2,10.18129/B9.BIOC.BGMIX
+bgx,1.62.0,"R (>= 2.0.1), Biobase, affy (>= 1.5.0), gcrma (>= 2.4.1)",GPL-2,10.18129/B9.BIOC.BGX
+BHC,1.48.0,NA,GPL-3,10.18129/B9.BIOC.BHC
+BicARE,1.54.0,"R (>= 1.8.0), Biobase (>= 2.5.5), multtest, GSEABase",GPL-2,10.18129/B9.BIOC.BICARE
+BiFET,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.BIFET
+bigmelon,1.22.0,"R (>= 3.3), wateRmelon (>= 1.25.0), gdsfmt (>= 1.0.4),
+methods, minfi (>= 1.21.0), Biobase, methylumi",GPL-3,10.18129/B9.BIOC.BIGMELON
+bigPint,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.BIGPINT
+BindingSiteFinder,1.2.0,"GenomicRanges, R (>= 4.1)",Artistic-2.0,10.18129/B9.BIOC.BINDINGSITEFINDER
+bioassayR,1.34.0,"R (>= 3.5.0), DBI (>= 0.3.1), RSQLite (>= 1.0.0), methods,
+Matrix, rjson, BiocGenerics (>= 0.13.8)",Artistic-2.0,10.18129/B9.BIOC.BIOASSAYR
+Biobase,2.56.0,"R (>= 2.10), BiocGenerics (>= 0.27.1), utils",Artistic-2.0,10.18129/B9.BIOC.BIOBASE
+biobroom,1.28.0,"R (>= 3.0.0), broom",LGPL,10.18129/B9.BIOC.BIOBROOM
+biobtreeR,1.8.0,NA,MIT,10.18129/B9.BIOC.BIOBTREER
+bioCancer,1.24.01,"R (>= 3.6.0), radiant.data (>= 0.9.1), XML(>= 3.98)",AGPL-3,10.18129/B9.BIOC.BIOCANCER
+BiocCheck,1.32.0,R (>= 4.2.0),Artistic-2.0,10.18129/B9.BIOC.BIOCCHECK
+BiocDockerManager,1.8.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.BIOCDOCKERMANAGER
+BiocFileCache,2.4.0,"R (>= 3.4.0), dbplyr (>= 1.0.0)",Artistic-2.0,10.18129/B9.BIOC.BIOCFILECACHE
+BiocGenerics,0.42.0,"R (>= 4.0.0), methods, utils, graphics, stats",Artistic-2.0,10.18129/B9.BIOC.BIOCGENERICS
+biocGraph,1.58.0,"Rgraphviz, graph",Artistic-2.0,10.18129/B9.BIOC.BIOCGRAPH
+BiocIO,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.BIOCIO
+BiocNeighbors,1.14.0,NA,GPL-3,10.18129/B9.BIOC.BIOCNEIGHBORS
+BiocOncoTK,1.16.0,"R (>= 3.6.0), methods, utils",Artistic-2.0,10.18129/B9.BIOC.BIOCONCOTK
+BioCor,1.20.0,R (>= 3.4.0),MIT,10.18129/B9.BIOC.BIOCOR
+BiocParallel,1.30.3,"methods, R (>= 3.5.0)",GPL-2,10.18129/B9.BIOC.BIOCPARALLEL
+BiocPkgTools,1.14.0,htmlwidgets,MIT,10.18129/B9.BIOC.BIOCPKGTOOLS
+BiocSet,1.10.0,"R (>= 3.6), dplyr",Artistic-2.0,10.18129/B9.BIOC.BIOCSET
+BiocSingular,1.12.0,NA,GPL-3,10.18129/B9.BIOC.BIOCSINGULAR
+BiocSklearn,1.18.2,"R (>= 4.0), reticulate, methods, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.BIOCSKLEARN
+BiocStyle,2.24.0,NA,Artistic-2.0,10.18129/B9.BIOC.BIOCSTYLE
+biocthis,1.6.0,NA,Artistic-2.0,10.18129/B9.BIOC.BIOCTHIS
+BiocVersion,3.15.2,R (>= 4.2.0),Artistic-2.0,10.18129/B9.BIOC.BIOCVERSION
+biocViews,1.64.1,R (>= 3.6.0),Artistic-2.0,10.18129/B9.BIOC.BIOCVIEWS
+BiocWorkflowTools,1.22.0,R (>= 3.4),MIT,10.18129/B9.BIOC.BIOCWORKFLOWTOOLS
+biodb,1.4.0,R (>= 4.1.0),AGPL-3,10.18129/B9.BIOC.BIODB
+biodbChebi,1.2.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBCHEBI
+biodbExpasy,1.0.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBEXPASY
+biodbHmdb,1.2.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBHMDB
+biodbKegg,1.2.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBKEGG
+biodbLipidmaps,1.2.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBLIPIDMAPS
+biodbMirbase,1.0.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBMIRBASE
+biodbNcbi,1.0.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBNCBI
+biodbNci,1.0.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.BIODBNCI
+biodbUniprot,1.2.0,R (>= 4.1.0),AGPL-3,10.18129/B9.BIOC.BIODBUNIPROT
+bioDist,1.68.0,"R (>= 2.0), methods, Biobase,KernSmooth",Artistic-2.0,10.18129/B9.BIOC.BIODIST
+biomaRt,2.52.0,methods,Artistic-2.0,10.18129/B9.BIOC.BIOMART
+biomformat,1.24.0,"R (>= 3.2), methods",GPL-2,10.18129/B9.BIOC.BIOMFORMAT
+BioMM,1.12.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.BIOMM
+BioMVCClass,1.64.0,"R (>= 2.1.0), methods, MVCClass, Biobase, graph, Rgraphviz",LGPL,10.18129/B9.BIOC.BIOMVCCLASS
+biomvRCNS,1.36.0,"R (>= 3.5.0), IRanges, GenomicRanges, Gviz",GPL (>= 2),10.18129/B9.BIOC.BIOMVRCNS
+BioNERO,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.BIONERO
+BioNet,1.56.0,"R (>= 2.10.0), graph, RBGL",GPL (>= 2),10.18129/B9.BIOC.BIONET
+BioNetStat,1.16.1,"R (>= 4.0), shiny, igraph, shinyBS, pathview, DT",GPL (>= 3),10.18129/B9.BIOC.BIONETSTAT
+BioPlex,1.2.3,"R (>= 4.1.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.BIOPLEX
+BioQC,1.24.0,"R (>= 3.5.0), Biobase",GPL (>= 3),10.18129/B9.BIOC.BIOQC
+biosigner,1.24.2,NA,CeCILL,10.18129/B9.BIOC.BIOSIGNER
+Biostrings,2.64.0,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9), XVector (>= 0.29.2),
+GenomeInfoDb",Artistic-2.0,10.18129/B9.BIOC.BIOSTRINGS
+BioTIP,1.10.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.BIOTIP
+biotmle,1.20.0,R (>= 4.0),MIT,10.18129/B9.BIOC.BIOTMLE
+biovizBase,1.44.0,"R (>= 3.5.0), methods",Artistic-2.0,10.18129/B9.BIOC.BIOVIZBASE
+BiRewire,3.28.0,"igraph, slam, Rtsne, Matrix",GPL-3,10.18129/B9.BIOC.BIREWIRE
+biscuiteer,1.10.0,"R (>= 4.1.0), biscuiteerData, bsseq",GPL-3,10.18129/B9.BIOC.BISCUITEER
+BiSeq,1.36.0,"R (>= 3.5.0), methods, S4Vectors, IRanges (>= 1.17.24),
+GenomicRanges, SummarizedExperiment (>= 0.2.0), Formula",LGPL-3,10.18129/B9.BIOC.BISEQ
+BitSeq,1.40.0,Rsamtools (>= 1.99.3),Artistic-2.0,10.18129/B9.BIOC.BITSEQ
+blacksheepr,1.10.0,R (>= 3.6),MIT,10.18129/B9.BIOC.BLACKSHEEPR
+blima,1.30.0,R(>= 3.3),GPL-3,10.18129/B9.BIOC.BLIMA
+BLMA,1.20.0,"ROntoTools, GSA, PADOG, limma, graph, stats, utils, parallel,
+Biobase, metafor, methods",GPL (>= 2),10.18129/B9.BIOC.BLMA
+BloodGen3Module,1.4.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.BLOODGEN3MODULE
+bluster,1.6.0,NA,GPL-3,10.18129/B9.BIOC.BLUSTER
+bnbc,1.18.0,"R (>= 3.5.0), methods, BiocGenerics, SummarizedExperiment,
+GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.BNBC
+bnem,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.BNEM
+BOBaFIT,1.0.1,R (>= 2.10),GPL (>= 3),10.18129/B9.BIOC.BOBAFIT
+borealis,1.0.1,"R (>= 4.2.0), Biobase",GPL-3,10.18129/B9.BIOC.BOREALIS
+BPRMeth,1.22.0,"R (>= 3.5.0), GenomicRanges",GPL-3,10.18129/B9.BIOC.BPRMETH
+BRAIN,1.42.0,"R (>= 2.8.1), PolynomF, Biostrings, lattice",GPL-2,10.18129/B9.BIOC.BRAIN
+brainflowprobes,1.10.0,R (>= 3.6.0),Artistic-2.0,10.18129/B9.BIOC.BRAINFLOWPROBES
+BrainSABER,1.6.0,"R (>= 4.1.0), biomaRt, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.BRAINSABER
+branchpointer,1.22.0,"caret, R(>= 3.4)",BSD_3_clause,10.18129/B9.BIOC.BRANCHPOINTER
+brendaDb,1.10.0,NA,MIT,10.18129/B9.BIOC.BRENDADB
+BRGenomics,1.8.0,"R (>= 4.0), rtracklayer, GenomeInfoDb, S4Vectors",Artistic-2.0,10.18129/B9.BIOC.BRGENOMICS
+bridge,1.60.0,"R (>= 1.9.0), rama",GPL (>= 2),10.18129/B9.BIOC.BRIDGE
+BridgeDbR,2.6.0,"R (>= 3.3.0), rJava",AGPL-3,10.18129/B9.BIOC.BRIDGEDBR
+BrowserViz,2.18.0,"R (>= 3.5.0), jsonlite (>= 1.5), httpuv(>= 1.5.0)",GPL-2,10.18129/B9.BIOC.BROWSERVIZ
+BSgenome,1.64.0,"R (>= 2.8.0), methods, BiocGenerics (>= 0.13.8), S4Vectors (>=
+0.17.28), IRanges (>= 2.13.16), GenomeInfoDb (>= 1.25.6),
+GenomicRanges (>= 1.31.10), Biostrings (>= 2.47.6), rtracklayer
+(>= 1.39.7)",Artistic-2.0,10.18129/B9.BIOC.BSGENOME
+bsseq,1.32.0,"R (>= 4.0), methods, BiocGenerics, GenomicRanges (>= 1.41.5),
+SummarizedExperiment (>= 1.19.5)",Artistic-2.0,10.18129/B9.BIOC.BSSEQ
+BubbleTree,2.26.0,"R (>= 3.5), IRanges, GenomicRanges, plyr, dplyr, magrittr",LGPL (>= 3),10.18129/B9.BIOC.BUBBLETREE
+BufferedMatrix,1.60.0,"R (>= 2.6.0), methods",LGPL (>= 2),10.18129/B9.BIOC.BUFFEREDMATRIX
+BufferedMatrixMethods,1.60.0,"R (>= 2.6.0), BufferedMatrix (>= 1.3.0), methods",GPL (>= 2),10.18129/B9.BIOC.BUFFEREDMATRIXMETHODS
+bugsigdbr,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.BUGSIGDBR
+BUMHMM,1.20.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.BUMHMM
+bumphunter,1.38.0,"R (>= 3.5), S4Vectors (>= 0.9.25), IRanges (>= 2.3.23),
+GenomeInfoDb, GenomicRanges, foreach, iterators, methods,
+parallel, locfit",Artistic-2.0,10.18129/B9.BIOC.BUMPHUNTER
+BumpyMatrix,1.4.0,NA,MIT,10.18129/B9.BIOC.BUMPYMATRIX
+BUS,1.52.0,"R (>= 2.3.0), minet",GPL-3,10.18129/B9.BIOC.BUS
+BUScorrect,1.14.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.BUSCORRECT
+BUSpaRse,1.10.0,R (>= 3.6),BSD_2_clause,10.18129/B9.BIOC.BUSPARSE
+BUSseq,1.2.0,R (>= 3.6),Artistic-2.0,10.18129/B9.BIOC.BUSSEQ
+CAEN,1.4.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.CAEN
+CAFE,1.32.0,"R (>= 2.10), biovizBase, GenomicRanges, IRanges, ggbio",GPL-3,10.18129/B9.BIOC.CAFE
+CAGEfightR,1.16.0,"R (>= 3.5), GenomicRanges (>= 1.30.1), rtracklayer (>=
+1.38.2), SummarizedExperiment (>= 1.8.1)",GPL-3,10.18129/B9.BIOC.CAGEFIGHTR
+cageminer,1.2.2,R (>= 4.1),GPL-3,10.18129/B9.BIOC.CAGEMINER
+CAGEr,2.2.0,"methods, MultiAssayExperiment, R (>= 4.1.0)",GPL-3,10.18129/B9.BIOC.CAGER
+calm,1.10.0,NA,GPL (>= 2),10.18129/B9.BIOC.CALM
+CAMERA,1.52.0,"R (>= 3.5.0), methods, Biobase, xcms (>= 1.13.5)",GPL (>= 2),10.18129/B9.BIOC.CAMERA
+canceR,1.30.01,"R (>= 4.1), tcltk",GPL-2,10.18129/B9.BIOC.CANCER
+cancerclass,1.40.0,"R (>= 2.14.0), Biobase, binom, methods, stats",GPL-3,10.18129/B9.BIOC.CANCERCLASS
+CancerInSilico,2.16.0,"R (>= 3.4), Rcpp",GPL-2,10.18129/B9.BIOC.CANCERINSILICO
+CancerSubtypes,1.22.0,"R (>= 4.0), sigclust, NMF",GPL (>= 2),10.18129/B9.BIOC.CANCERSUBTYPES
+CAnD,1.27.0,NA,Artistic-2.0,10.18129/B9.BIOC.CAND
+caOmicsV,1.25.0,"R (>= 3.2), igraph (>= 0.7.1), bc3net (>= 1.0.2)",GPL (>= 2.0),10.18129/B9.BIOC.CAOMICSV
+Cardinal,2.14.0,"BiocGenerics, BiocParallel, EBImage, graphics, methods,
+S4Vectors (>= 0.27.3), stats, ProtGenerics",Artistic-2.0,10.18129/B9.BIOC.CARDINAL
+CARNIVAL,2.6.2,R (>= 4.0),GPL-3,10.18129/B9.BIOC.CARNIVAL
+casper,2.30.0,"R (>= 3.6.0), Biobase, IRanges, methods, GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.CASPER
+CATALYST,1.20.1,"R (>= 4.0), SingleCellExperiment",GPL (>= 2),10.18129/B9.BIOC.CATALYST
+Category,2.62.0,"methods, stats4, BiocGenerics, AnnotationDbi, Biobase, Matrix",Artistic-2.0,10.18129/B9.BIOC.CATEGORY
+categoryCompare,1.40.0,"R (>= 2.10), Biobase, BiocGenerics (>= 0.13.8),",GPL-2,10.18129/B9.BIOC.CATEGORYCOMPARE
+CausalR,1.28.0,R (>= 3.2.0),GPL (>= 2),10.18129/B9.BIOC.CAUSALR
+cbaf,1.18.4,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.CBAF
+CBEA,1.0.0,R (>= 4.2.0),MIT,10.18129/B9.BIOC.CBEA
+cBioPortalData,2.8.2,"R (>= 4.2.0), AnVIL (>= 1.7.1), MultiAssayExperiment",AGPL-3,10.18129/B9.BIOC.CBIOPORTALDATA
+cbpManager,1.4.0,"shiny, shinydashboard",AGPL-3,10.18129/B9.BIOC.CBPMANAGER
+ccfindR,1.16.0,R (>= 3.6.0),GPL (>= 2),10.18129/B9.BIOC.CCFINDR
+ccmap,1.22.0,NA,MIT,10.18129/B9.BIOC.CCMAP
+CCPROMISE,1.22.0,"R (>= 3.3.0), stats, methods, CCP, PROMISE, Biobase, GSEABase,
+utils",GPL (>= 2),10.18129/B9.BIOC.CCPROMISE
+ccrepe,1.32.0,NA,MIT,10.18129/B9.BIOC.CCREPE
+celaref,1.14.0,"R (>= 3.5.0), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.CELAREF
+celda,1.12.0,"R (>= 4.0), SingleCellExperiment, Matrix",MIT,10.18129/B9.BIOC.CELDA
+CellaRepertorium,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.CELLAREPERTORIUM
+CellBarcode,1.2.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.CELLBARCODE
+cellbaseR,1.20.1,R(>= 3.4),Apache License (== 2.0),10.18129/B9.BIOC.CELLBASER
+CellBench,1.12.0,"R (>= 3.6), SingleCellExperiment, magrittr, methods, stats,
+tibble, utils",GPL-3,10.18129/B9.BIOC.CELLBENCH
+cellHTS2,2.60.0,"R (>= 2.10), RColorBrewer, Biobase, methods, genefilter,
+splots, vsn, hwriter, locfit, grid",Artistic-2.0,10.18129/B9.BIOC.CELLHTS2
+CelliD,1.4.0,"R (>= 4.1), Seurat (>= 4.0.1), SingleCellExperiment",GPL-3,10.18129/B9.BIOC.CELLID
+cellity,1.24.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.CELLITY
+CellMapper,1.22.0,"S4Vectors, methods",Artistic-2.0,10.18129/B9.BIOC.CELLMAPPER
+cellmigRation,1.4.0,"R (>= 4.1), methods, foreach",GPL-2,10.18129/B9.BIOC.CELLMIGRATION
+CellMixS,1.12.0,"kSamples, R (>= 4.0)",GPL (>= 2),10.18129/B9.BIOC.CELLMIXS
+CellNOptR,1.42.1,"R (>= 4.0.0), RBGL, graph, methods, RCurl, Rgraphviz, XML,
+ggplot2, rmarkdown",GPL-3,10.18129/B9.BIOC.CELLNOPTR
+cellscape,1.20.0,R (>= 3.3),GPL-3,10.18129/B9.BIOC.CELLSCAPE
+CellScore,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.CELLSCORE
+CellTrails,1.14.0,"R (>= 3.5), SingleCellExperiment",Artistic-2.0,10.18129/B9.BIOC.CELLTRAILS
+cellTree,1.26.0,"R (>= 3.3), topGO",Artistic-2.0,10.18129/B9.BIOC.CELLTREE
+cellxgenedp,1.0.0,NA,Artistic-2.0,10.18129/B9.BIOC.CELLXGENEDP
+CEMiTool,1.20.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.CEMITOOL
+censcyt,1.4.0,"R (>= 4.0), diffcyt",MIT,10.18129/B9.BIOC.CENSCYT
+Cepo,1.2.0,"GSEABase, R (>= 4.1)",MIT,10.18129/B9.BIOC.CEPO
+ceRNAnetsim,1.8.0,"R (>= 4.0.0), dplyr, tidygraph",GPL (>= 3.0),10.18129/B9.BIOC.CERNANETSIM
+CeTF,1.8.0,"R (>= 4.0), methods",GPL-3,10.18129/B9.BIOC.CETF
+CexoR,1.34.0,"R (>= 4.0.0), S4Vectors, IRanges",Artistic-2.0,10.18129/B9.BIOC.CEXOR
+CFAssay,1.30.0,R (>= 2.10.0),LGPL,10.18129/B9.BIOC.CFASSAY
+cfDNAPro,1.2.0,"R (>= 4.0), magrittr (>= 1.5.0),",GPL-3,10.18129/B9.BIOC.CFDNAPRO
+CGEN,3.32.0,"R (>= 4.0), survival, mvtnorm",GPL-2,10.18129/B9.BIOC.CGEN
+CGHbase,1.56.0,"R (>= 2.10), methods, Biobase (>= 2.5.5), marray",GPL,10.18129/B9.BIOC.CGHBASE
+cghMCR,1.54.0,"methods, DNAcopy, CNTools, limma",LGPL,10.18129/B9.BIOC.CGHMCR
+CGHnormaliter,1.50.0,"CGHcall (>= 2.17.0), CGHbase (>= 1.15.0)",GPL (>= 3),10.18129/B9.BIOC.CGHNORMALITER
+ChAMP,2.26.0,"R (>= 3.3), minfi, ChAMPdata (>= 2.6.0),DMRcate,
+Illumina450ProbeVariants.db,IlluminaHumanMethylationEPICmanifest,
+DT, RPMM",GPL-3,10.18129/B9.BIOC.CHAMP
+ChemmineR,3.48.0,"R (>= 2.10.0), methods",Artistic-2.0,10.18129/B9.BIOC.CHEMMINER
+ChIC,1.16.0,"spp, R (>= 3.6)",GPL-2,10.18129/B9.BIOC.CHIC
+Chicago,1.24.0,"R (>= 3.3.1), data.table",Artistic-2.0,10.18129/B9.BIOC.CHICAGO
+chimeraviz,1.22.0,"Biostrings, GenomicRanges, IRanges, Gviz, S4Vectors,
+ensembldb, AnnotationFilter, data.table",Artistic-2.0,10.18129/B9.BIOC.CHIMERAVIZ
+ChIPanalyser,1.18.0,"R (>= 3.5.0),GenomicRanges, Biostrings, BSgenome, RcppRoll,
+parallel",GPL-3,10.18129/B9.BIOC.CHIPANALYSER
+ChIPComp,1.26.0,"R (>=
+3.2.0),GenomicRanges,IRanges,rtracklayer,GenomeInfoDb,S4Vectors",GPL,10.18129/B9.BIOC.CHIPCOMP
+chipenrich,2.20.0,R (>= 3.4.0),GPL-3,10.18129/B9.BIOC.CHIPENRICH
+ChIPexoQual,1.20.0,"R (>= 3.5.0), GenomicAlignments (>= 1.0.1)",GPL (>= 2),10.18129/B9.BIOC.CHIPEXOQUAL
+ChIPpeakAnno,3.30.1,"R (>= 3.5), methods, IRanges (>= 2.13.12), GenomicRanges (>=
+1.31.8), S4Vectors (>= 0.17.25)",GPL (>= 2),10.18129/B9.BIOC.CHIPPEAKANNO
+ChIPQC,1.32.0,"R (>= 3.5.0), ggplot2, DiffBind, GenomicRanges (>= 1.17.19)",GPL (>= 3),10.18129/B9.BIOC.CHIPQC
+ChIPseeker,1.32.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.CHIPSEEKER
+chipseq,1.46.0,"R (>= 3.5.0), methods, BiocGenerics (>= 0.1.0), S4Vectors (>=
+0.17.25), IRanges (>= 2.13.12), GenomicRanges (>= 1.31.8),
+ShortRead",Artistic-2.0,10.18129/B9.BIOC.CHIPSEQ
+ChIPseqR,1.50.0,"R (>= 2.10.0), methods, BiocGenerics, S4Vectors (>= 0.9.25)",GPL (>= 2),10.18129/B9.BIOC.CHIPSEQR
+ChIPsim,1.50.0,Biostrings (>= 2.29.2),GPL (>= 2),10.18129/B9.BIOC.CHIPSIM
+ChIPXpress,1.40.0,"R (>= 2.10), ChIPXpressData",GPL (>= 2),10.18129/B9.BIOC.CHIPXPRESS
+chopsticks,1.62.0,NA,GPL-3,10.18129/B9.BIOC.CHOPSTICKS
+chromDraw,2.26.0,R (>= 3.0.0),GPL-3,10.18129/B9.BIOC.CHROMDRAW
+ChromHeatMap,1.50.0,"R (>= 2.9.0), BiocGenerics (>= 0.3.2), annotate (>= 1.20.0),
+AnnotationDbi (>= 1.4.0)",Artistic-2.0,10.18129/B9.BIOC.CHROMHEATMAP
+chromPlot,1.24.0,"stats, utils, graphics, grDevices, datasets, base, biomaRt,
+GenomicRanges, R (>= 3.1.0)",GPL (>= 2),10.18129/B9.BIOC.CHROMPLOT
+ChromSCape,1.6.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.CHROMSCAPE
+chromstaR,1.22.0,"R (>= 3.5.0), GenomicRanges, ggplot2, chromstaRData",Artistic-2.0,10.18129/B9.BIOC.CHROMSTAR
+chromswitch,1.18.0,"R (>= 3.5.0), GenomicRanges (>= 1.26.4)",MIT,10.18129/B9.BIOC.CHROMSWITCH
+chromVAR,1.18.0,R (>= 3.5.0),MIT,10.18129/B9.BIOC.CHROMVAR
+CHRONOS,1.24.1,R (>= 3.5),GPL-2,10.18129/B9.BIOC.CHRONOS
+cicero,1.14.0,"R (>= 3.5.0), monocle, Gviz (>= 1.22.3)",MIT,10.18129/B9.BIOC.CICERO
+CIMICE,1.4.0,NA,Artistic-2.0,10.18129/B9.BIOC.CIMICE
+CINdex,1.24.0,"R (>= 3.3), GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.CINDEX
+circRNAprofiler,1.10.0,R(>= 4.1.0),GPL-3,10.18129/B9.BIOC.CIRCRNAPROFILER
+cisPath,1.36.0,R (>= 2.10.0),GPL (>= 3),10.18129/B9.BIOC.CISPATH
+CiteFuse,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.CITEFUSE
+ClassifyR,3.0.3,"R (>= 4.1.0), methods, S4Vectors (>= 0.18.0),
+MultiAssayExperiment (>= 1.6.0), BiocParallel, survival",GPL-3,10.18129/B9.BIOC.CLASSIFYR
+cleanUpdTSeq,1.34.0,"R (>= 3.5.0), BSgenome.Drerio.UCSC.danRer7, methods",GPL-2,10.18129/B9.BIOC.CLEANUPDTSEQ
+cleaver,1.34.0,"R (>= 3.0.0), methods, Biostrings (>= 1.29.8)",GPL (>= 3),10.18129/B9.BIOC.CLEAVER
+clippda,1.46.0,"R (>= 2.13.1),limma, statmod, rgl, lattice, scatterplot3d,
+graphics, grDevices, stats, utils, Biobase, tools, methods",GPL (>= 2),10.18129/B9.BIOC.CLIPPDA
+clipper,1.36.0,"R (>= 2.15.0), Matrix, graph",AGPL-3,10.18129/B9.BIOC.CLIPPER
+cliProfiler,1.2.0,"S4Vectors, methods, R (>= 4.1)",Artistic-2.0,10.18129/B9.BIOC.CLIPROFILER
+cliqueMS,1.10.0,R (>= 3.6.0),GPL (>= 2),10.18129/B9.BIOC.CLIQUEMS
+Clomial,1.32.0,"R (>= 2.10), matrixStats",GPL (>= 2),10.18129/B9.BIOC.CLOMIAL
+Clonality,1.44.0,"R (>= 2.12.2), DNAcopy",GPL-3,10.18129/B9.BIOC.CLONALITY
+clst,1.44.0,R (>= 2.10),GPL-3,10.18129/B9.BIOC.CLST
+clstutils,1.44.0,"R (>= 2.10), clst, rjson, ape",GPL-3,10.18129/B9.BIOC.CLSTUTILS
+CluMSID,1.12.0,R (>= 3.6),MIT,10.18129/B9.BIOC.CLUMSID
+clustComp,1.24.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.CLUSTCOMP
+clusterExperiment,2.16.0,"R (>= 3.6.0), SingleCellExperiment, SummarizedExperiment (>=
+1.15.4), BiocGenerics",Artistic-2.0,10.18129/B9.BIOC.CLUSTEREXPERIMENT
+ClusterJudge,1.18.0,"R (>= 3.6), stats, utils, graphics, infotheo, lattice,
+latticeExtra, httr, jsonlite",Artistic-2.0,10.18129/B9.BIOC.CLUSTERJUDGE
+clusterProfiler,4.4.4,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.CLUSTERPROFILER
+clusterSeq,1.20.0,"R (>= 3.0.0), methods, BiocParallel, baySeq, graphics, stats,
+utils",GPL-3,10.18129/B9.BIOC.CLUSTERSEQ
+ClusterSignificance,1.24.0,R (>= 3.3.0),GPL-3,10.18129/B9.BIOC.CLUSTERSIGNIFICANCE
+clusterStab,1.68.0,"Biobase (>= 1.4.22), R (>= 1.9.0), methods",Artistic-2.0,10.18129/B9.BIOC.CLUSTERSTAB
+clustifyr,1.8.0,R (>= 4.0),MIT,10.18129/B9.BIOC.CLUSTIFYR
+CMA,1.54.0,"R (>= 2.10), methods, stats, Biobase",GPL (>= 2),10.18129/B9.BIOC.CMA
+cn.farms,1.44.0,"R (>= 3.0), Biobase, methods, ff, oligoClasses, snow",LGPL (>= 2.0),10.18129/B9.BIOC.CN.FARMS
+cn.mops,1.42.0,"R (>= 3.5.0), methods, utils, stats, graphics, parallel,
+GenomicRanges",LGPL (>= 2.0),10.18129/B9.BIOC.CN.MOPS
+CNAnorm,1.42.0,"R (>= 2.10.1), methods",GPL-2,10.18129/B9.BIOC.CNANORM
+CNEr,1.32.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.CNER
+CNORdt,1.38.0,"R (>= 1.8.0), CellNOptR (>= 0.99), abind",GPL-2,10.18129/B9.BIOC.CNORDT
+CNORfeeder,1.36.1,"R (>= 3.6.0), CellNOptR (>= 1.4.0), graph",GPL-3,10.18129/B9.BIOC.CNORFEEDER
+CNORfuzzy,1.38.0,"R (>= 2.15.0), CellNOptR (>= 1.4.0), nloptr (>= 0.8.5)",GPL-2,10.18129/B9.BIOC.CNORFUZZY
+CNORode,1.38.0,"CellNOptR, genalg, knitr",GPL-2,10.18129/B9.BIOC.CNORODE
+CNTools,1.52.0,"R (>= 2.10), methods, tools, stats, genefilter",LGPL,10.18129/B9.BIOC.CNTOOLS
+CNVfilteR,1.10.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.CNVFILTER
+CNVgears,1.4.0,"R (>= 4.1), data.table",GPL-3,10.18129/B9.BIOC.CNVGEARS
+cnvGSA,1.40.0,"brglm, doParallel, foreach, GenomicRanges, methods,
+splitstackshape",LGPL,10.18129/B9.BIOC.CNVGSA
+CNViz,1.4.0,"R (>= 4.0), shiny (>= 1.5.0)",Artistic-2.0,10.18129/B9.BIOC.CNVIZ
+CNVMetrics,1.0.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.CNVMETRICS
+CNVPanelizer,1.28.0,"R (>= 3.2.0), GenomicRanges",GPL-3,10.18129/B9.BIOC.CNVPANELIZER
+CNVRanger,1.12.0,"GenomicRanges, RaggedExperiment",Artistic-2.0,10.18129/B9.BIOC.CNVRANGER
+CNVrd2,1.34.0,"R (>= 3.0.0), methods, VariantAnnotation, parallel, rjags,
+ggplot2, gridExtra",GPL-2,10.18129/B9.BIOC.CNVRD2
+CoCiteStats,1.68.0,"R (>= 2.0), org.Hs.eg.db",CPL,10.18129/B9.BIOC.COCITESTATS
+COCOA,2.10.0,"R (>= 3.5), GenomicRanges",GPL-3,10.18129/B9.BIOC.COCOA
+codelink,1.64.0,"R (>= 2.10), BiocGenerics (>= 0.3.2), methods, Biobase (>=
+2.17.8), limma",GPL-2,10.18129/B9.BIOC.CODELINK
+CODEX,1.28.0,"R (>= 3.2.3), Rsamtools, GenomeInfoDb,
+BSgenome.Hsapiens.UCSC.hg19, IRanges, Biostrings, S4Vectors",GPL-2,10.18129/B9.BIOC.CODEX
+CoGAPS,3.16.0,R (>= 3.5.0),BSD_3_clause,10.18129/B9.BIOC.COGAPS
+cogena,1.30.0,"R (>= 3.6), cluster, ggplot2, kohonen",LGPL-3,10.18129/B9.BIOC.COGENA
+cogeqc,1.0.0,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.COGEQC
+Cogito,1.2.0,"R (>= 4.1), GenomicRanges, jsonlite, GenomicFeatures, entropy",LGPL-3,10.18129/B9.BIOC.COGITO
+coGPS,1.40.0,R (>= 2.13.0),GPL-2,10.18129/B9.BIOC.COGPS
+COHCAP,1.42.0,"WriteXLS, COHCAPanno, RColorBrewer, gplots",GPL-3,10.18129/B9.BIOC.COHCAP
+cola,2.2.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.COLA
+comapr,1.0.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.COMAPR
+combi,1.8.0,"R (>= 4.0), DBI",GPL-2,10.18129/B9.BIOC.COMBI
+coMET,1.28.0,"R (>= 4.0.0), grid, utils, biomaRt, Gviz, psych",GPL (>= 2),10.18129/B9.BIOC.COMET
+coMethDMR,1.0.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.COMETHDMR
+compartmap,1.14.0,"R (>= 4.1.0), SummarizedExperiment, RaggedExperiment,
+BiocSingular, HDF5Array",GPL-3,10.18129/B9.BIOC.COMPARTMAP
+COMPASS,1.34.0,R (>= 3.0.3),Artistic-2.0,10.18129/B9.BIOC.COMPASS
+compcodeR,1.32.0,"R (>= 4.0), sm",GPL (>= 2),10.18129/B9.BIOC.COMPCODER
+compEpiTools,1.30.0,"R (>= 3.5.0), methods, topGO, GenomicRanges",GPL,10.18129/B9.BIOC.COMPEPITOOLS
+ComplexHeatmap,2.12.0,"R (>= 3.5.0), methods, grid, graphics, stats, grDevices",MIT,10.18129/B9.BIOC.COMPLEXHEATMAP
+CompoundDb,1.0.1,"R (>= 4.1), methods, AnnotationFilter, S4Vectors",Artistic-2.0,10.18129/B9.BIOC.COMPOUNDDB
+ComPrAn,1.4.0,NA,MIT,10.18129/B9.BIOC.COMPRAN
+conclus,1.3.3,R (>= 4.2),GPL-3,10.18129/B9.BIOC.CONCLUS
+condiments,1.4.0,R (>= 4.0),MIT,10.18129/B9.BIOC.CONDIMENTS
+CONFESS,1.24.0,"R (>= 3.3),grDevices,utils,stats,graphics",GPL-2,10.18129/B9.BIOC.CONFESS
+consensus,1.14.0,"R (>= 3.5), RColorBrewer",BSD_3_clause,10.18129/B9.BIOC.CONSENSUS
+ConsensusClusterPlus,1.60.0,NA,GPL-2,10.18129/B9.BIOC.CONSENSUSCLUSTERPLUS
+consensusDE,1.14.0,"R (>= 3.5), BiocGenerics",GPL-3,10.18129/B9.BIOC.CONSENSUSDE
+consensusOV,1.18.0,R (>= 3.6),Artistic-2.0,10.18129/B9.BIOC.CONSENSUSOV
+consensusSeekeR,1.24.0,"R (>= 3.5.0), BiocGenerics, IRanges, GenomicRanges,
+BiocParallel",Artistic-2.0,10.18129/B9.BIOC.CONSENSUSSEEKER
+contiBAIT,1.24.0,"R (>= 3.5.0), BH (>= 1.51.0.3), Rsamtools (>= 1.21)",BSD_2_clause,10.18129/B9.BIOC.CONTIBAIT
+conumee,1.30.0,"R (>= 3.5.0), minfi,
+IlluminaHumanMethylation450kanno.ilmn12.hg19,
+IlluminaHumanMethylation450kmanifest,
+IlluminaHumanMethylationEPICanno.ilm10b2.hg19,
+IlluminaHumanMethylationEPICmanifest",GPL (>= 2),10.18129/B9.BIOC.CONUMEE
+convert,1.72.0,"R (>= 2.6.0), Biobase (>= 1.15.33), limma (>= 1.7.0), marray,
+utils, methods",LGPL,10.18129/B9.BIOC.CONVERT
+copa,1.64.0,"Biobase, methods",Artistic-2.0,10.18129/B9.BIOC.COPA
+copynumber,1.36.0,"R (>= 2.10), BiocGenerics",Artistic-2.0,10.18129/B9.BIOC.COPYNUMBER
+CopyNumberPlots,1.12.0,"R (>= 3.6), karyoploteR",Artistic-2.0,10.18129/B9.BIOC.COPYNUMBERPLOTS
+CopywriteR,2.28.0,"R(>= 3.2), BiocParallel",GPL-2,10.18129/B9.BIOC.COPYWRITER
+coRdon,1.14.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.CORDON
+CoRegNet,1.34.0,"R (>= 2.14), igraph, shiny, arules, methods",GPL-3,10.18129/B9.BIOC.COREGNET
+CoreGx,2.0.2,"R (>= 4.1), BiocGenerics, SummarizedExperiment",GPL-3,10.18129/B9.BIOC.COREGX
+Cormotif,1.42.0,"R (>= 2.12.0), affy, limma",GPL-2,10.18129/B9.BIOC.CORMOTIF
+corral,1.6.0,NA,GPL-2,10.18129/B9.BIOC.CORRAL
+CORREP,1.62.0,NA,GPL (>= 2),10.18129/B9.BIOC.CORREP
+coseq,1.20.0,"R (>= 4.0.0), SummarizedExperiment, S4Vectors",GPL-3,10.18129/B9.BIOC.COSEQ
+cosmiq,1.30.0,"R (>= 3.6), Rcpp",GPL-3,10.18129/B9.BIOC.COSMIQ
+cosmosR,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.COSMOSR
+COSNet,1.30.0,NA,GPL (>= 2),10.18129/B9.BIOC.COSNET
+COTAN,1.0.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.COTAN
+countsimQC,1.14.0,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.COUNTSIMQC
+covEB,1.22.0,"R (>= 3.3), mvtnorm, igraph, gsl, Biobase, stats,
+LaplacesDemon, Matrix",GPL-3,10.18129/B9.BIOC.COVEB
+CoverageView,1.34.0,"R (>= 2.10), methods, Rsamtools (>= 1.19.17), rtracklayer",Artistic-2.0,10.18129/B9.BIOC.COVERAGEVIEW
+covRNA,1.22.0,"ade4, Biobase",GPL (>= 2),10.18129/B9.BIOC.COVRNA
+cpvSNP,1.28.0,"R (>= 3.5.0), GenomicFeatures, GSEABase (>= 1.24.0)",Artistic-2.0,10.18129/B9.BIOC.CPVSNP
+cqn,1.42.0,"R (>= 2.10.0), mclust, nor1mix, stats, preprocessCore,
+splines, quantreg",Artistic-2.0,10.18129/B9.BIOC.CQN
+CRImage,1.44.0,"EBImage, DNAcopy, aCGH",Artistic-2.0,10.18129/B9.BIOC.CRIMAGE
+crisprBase,1.0.0,"utils, methods, R (>= 4.1)",MIT,10.18129/B9.BIOC.CRISPRBASE
+crisprBowtie,1.0.0,methods,MIT,10.18129/B9.BIOC.CRISPRBOWTIE
+crisprBwa,1.0.0,methods,MIT,10.18129/B9.BIOC.CRISPRBWA
+crisprScore,1.0.0,"R (>= 4.1), crisprScoreData",MIT,10.18129/B9.BIOC.CRISPRSCORE
+CRISPRseek,1.36.0,"R (>= 3.5.0), BiocGenerics, Biostrings",GPL (>= 2),10.18129/B9.BIOC.CRISPRSEEK
+crisprseekplus,1.22.0,"R (>= 3.3.0), shiny, shinyjs, CRISPRseek",GPL-3,10.18129/B9.BIOC.CRISPRSEEKPLUS
+CrispRVariants,1.24.0,"R (>= 3.5), ggplot2 (>= 2.2.0)",GPL-2,10.18129/B9.BIOC.CRISPRVARIANTS
+crlmm,1.54.0,"R (>= 2.14.0), oligoClasses (>= 1.21.12), preprocessCore (>=
+1.17.7)",Artistic-2.0,10.18129/B9.BIOC.CRLMM
+crossmeta,1.22.1,R (>= 4.0),MIT,10.18129/B9.BIOC.CROSSMETA
+CSAR,1.48.0,"R (>= 2.15.0), S4Vectors, IRanges, GenomeInfoDb, GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.CSAR
+csaw,1.30.1,"R (>= 3.5.0), GenomicRanges, SummarizedExperiment",GPL-3,10.18129/B9.BIOC.CSAW
+csdR,1.2.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.CSDR
+CSSP,1.34.0,NA,GPL-2,10.18129/B9.BIOC.CSSP
+CSSQ,1.8.0,"SummarizedExperiment, GenomicRanges, IRanges, S4Vectors,
+rtracklayer",Artistic-2.0,10.18129/B9.BIOC.CSSQ
+ctc,1.70.0,amap,GPL-2,10.18129/B9.BIOC.CTC
+CTDquerier,2.3.1,R (>= 4.1),MIT,10.18129/B9.BIOC.CTDQUERIER
+ctgGEM,1.7.0,"monocle, SummarizedExperiment,",GPL (>= 2),10.18129/B9.BIOC.CTGGEM
+cTRAP,1.14.1,R (>= 4.0),MIT,10.18129/B9.BIOC.CTRAP
+ctsGE,1.22.0,R (>= 3.2),GPL-2,10.18129/B9.BIOC.CTSGE
+cummeRbund,2.38.0,"R (>= 2.7.0), BiocGenerics (>= 0.3.2), RSQLite, ggplot2,
+reshape2, fastcluster, rtracklayer, Gviz",Artistic-2.0,10.18129/B9.BIOC.CUMMERBUND
+customCMPdb,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.CUSTOMCMPDB
+customProDB,1.36.0,"R (>= 3.5.0), IRanges, AnnotationDbi, biomaRt (>= 2.17.1)",Artistic-2.0,10.18129/B9.BIOC.CUSTOMPRODB
+cyanoFilter,1.4.0,R(>= 4.1.0),MIT,10.18129/B9.BIOC.CYANOFILTER
+cycle,1.50.0,"R (>= 2.10.0), Mfuzz",GPL-2,10.18129/B9.BIOC.CYCLE
+cydar,1.20.0,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.CYDAR
+CytoDx,1.16.0,R (>= 3.5),GPL-2,10.18129/B9.BIOC.CYTODX
+CyTOFpower,1.2.0,R (>= 4.1),LGPL-3,10.18129/B9.BIOC.CYTOFPOWER
+CytoGLMM,1.4.0,NA,LGPL-3,10.18129/B9.BIOC.CYTOGLMM
+cytoKernel,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.CYTOKERNEL
+cytomapper,1.8.0,"R (>= 4.0), EBImage, SingleCellExperiment, methods",GPL (>= 2),10.18129/B9.BIOC.CYTOMAPPER
+cytoMEM,1.0.0,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.CYTOMEM
+CytoTree,1.6.0,"R (>= 4.0), igraph",GPL-3,10.18129/B9.BIOC.CYTOTREE
+dada2,1.24.0,"R (>= 3.4.0), Rcpp (>= 0.12.0), methods (>= 3.4.0)",LGPL-2,10.18129/B9.BIOC.DADA2
+dagLogo,1.34.0,"R (>= 3.0.1), methods, grid",GPL (>= 2),10.18129/B9.BIOC.DAGLOGO
+daMA,1.68.0,NA,GPL (>= 2),10.18129/B9.BIOC.DAMA
+DAMEfinder,1.8.0,R (>= 4.0),MIT,10.18129/B9.BIOC.DAMEFINDER
+DaMiRseq,2.8.0,"R (>= 3.5.0), SummarizedExperiment, ggplot2",GPL (>= 2),10.18129/B9.BIOC.DAMIRSEQ
+DAPAR,1.28.5,R (>= 4.2.0),Artistic-2.0,10.18129/B9.BIOC.DAPAR
+DART,1.44.0,"R (>= 2.10.0), igraph (>= 0.6.0)",GPL-2,10.18129/B9.BIOC.DART
+dasper,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.DASPER
+dcanr,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.DCANR
+dce,1.4.99,R (>= 4.1),GPL-3,10.18129/B9.BIOC.DCE
+dcGSA,1.24.0,"R (>= 3.3), Matrix",GPL-2,10.18129/B9.BIOC.DCGSA
+ddCt,1.52.0,"R (>= 2.3.0), methods",LGPL-3,10.18129/B9.BIOC.DDCT
+ddPCRclust,1.16.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.DDPCRCLUST
+dearseq,1.8.4,R (>= 3.6.0),GPL-2,10.18129/B9.BIOC.DEARSEQ
+debCAM,1.14.0,R (>= 3.5),GPL-2,10.18129/B9.BIOC.DEBCAM
+debrowser,1.24.0,"R (>= 3.5.0),",GPL-3,10.18129/B9.BIOC.DEBROWSER
+DECIPHER,2.24.0,"R (>= 3.5.0), Biostrings (>= 2.59.1), RSQLite (>= 1.1), stats,
+parallel",GPL-3,10.18129/B9.BIOC.DECIPHER
+deco,1.12.0,"R (>= 3.5.0), AnnotationDbi, BiocParallel,
+SummarizedExperiment, limma",GPL (>= 3),10.18129/B9.BIOC.DECO
+DEComplexDisease,1.16.0,R (>= 3.3.3),GPL-3,10.18129/B9.BIOC.DECOMPLEXDISEASE
+decompTumor2Sig,2.12.0,"R(>= 4.0), ggplot2",GPL-2,10.18129/B9.BIOC.DECOMPTUMOR2SIG
+DeconRNASeq,1.38.0,"R (>= 2.14.0), limSolve, pcaMethods, ggplot2, grid",GPL-2,10.18129/B9.BIOC.DECONRNASEQ
+decontam,1.16.0,"R (>= 3.4.1), methods (>= 3.4.1)",Artistic-2.0,10.18129/B9.BIOC.DECONTAM
+deconvR,1.2.0,"R (>= 4.1), data.table (>= 1.14.0)",Artistic-2.0,10.18129/B9.BIOC.DECONVR
+decoupleR,2.2.2,R (>= 4.0),GPL-3,10.18129/B9.BIOC.DECOUPLER
+DeepBlueR,1.22.0,"R (>= 3.3), XML, RCurl",GPL (>= 2.0),10.18129/B9.BIOC.DEEPBLUER
+DeepPINCS,1.4.0,"keras, R (>= 4.1)",Artistic-2.0,10.18129/B9.BIOC.DEEPPINCS
+deepSNV,1.42.1,"R (>= 2.13.0), methods, graphics, parallel, IRanges,
+GenomicRanges, SummarizedExperiment, Biostrings, VGAM,
+VariantAnnotation (>= 1.13.44),",GPL-3,10.18129/B9.BIOC.DEEPSNV
+DEFormats,1.24.0,NA,GPL-3,10.18129/B9.BIOC.DEFORMATS
+DegNorm,1.6.1,"R (>= 4.0.0), methods",LGPL (>= 3),10.18129/B9.BIOC.DEGNORM
+DEGraph,1.48.0,"R (>= 2.10.0), R.utils",GPL-3,10.18129/B9.BIOC.DEGRAPH
+DEGreport,1.32.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.DEGREPORT
+DEGseq,1.50.0,"R (>= 2.8.0), qvalue, methods",LGPL (>= 2),10.18129/B9.BIOC.DEGSEQ
+DelayedArray,0.22.0,"R (>= 4.0.0), methods, stats4, Matrix, BiocGenerics (>=
+0.37.0), MatrixGenerics (>= 1.1.3), S4Vectors (>= 0.27.2),
+IRanges (>= 2.17.3)",Artistic-2.0,10.18129/B9.BIOC.DELAYEDARRAY
+DelayedDataFrame,1.12.0,"R (>= 3.6), S4Vectors (>= 0.23.19), DelayedArray (>= 0.7.5)",GPL-3,10.18129/B9.BIOC.DELAYEDDATAFRAME
+DelayedMatrixStats,1.18.0,"MatrixGenerics (>= 1.5.3), DelayedArray (>= 0.17.6)",MIT,10.18129/B9.BIOC.DELAYEDMATRIXSTATS
+DelayedRandomArray,1.4.0,DelayedArray,GPL-3,10.18129/B9.BIOC.DELAYEDRANDOMARRAY
+DelayedTensor,1.2.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.DELAYEDTENSOR
+deltaCaptureC,1.10.0,R (>= 3.6),MIT,10.18129/B9.BIOC.DELTACAPTUREC
+deltaGseg,1.36.0,"R (>= 2.15.1), methods, ggplot2, changepoint, wavethresh,
+tseries, pvclust, fBasics, grid, reshape, scales",GPL-2,10.18129/B9.BIOC.DELTAGSEG
+DeMixT,1.12.0,"R (>= 3.6.0), parallel, Rcpp (>= 1.0.0), SummarizedExperiment,
+knitr, KernSmooth, matrixcalc, rmarkdown",GPL-3,10.18129/B9.BIOC.DEMIXT
+densvis,1.6.1,NA,MIT,10.18129/B9.BIOC.DENSVIS
+DEP,1.18.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.DEP
+DepecheR,1.12.0,R (>= 4.0),MIT,10.18129/B9.BIOC.DEPECHER
+DepInfeR,1.0.0,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.DEPINFER
+DEqMS,1.14.0,"R(>= 3.5),graphics,stats,ggplot2,matrixStats,limma(>= 3.34)",LGPL,10.18129/B9.BIOC.DEQMS
+derfinder,1.30.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.DERFINDER
+derfinderHelper,1.30.0,R(>= 3.2.2),Artistic-2.0,10.18129/B9.BIOC.DERFINDERHELPER
+derfinderPlot,1.30.0,R(>= 3.2),Artistic-2.0,10.18129/B9.BIOC.DERFINDERPLOT
+DEScan2,1.16.0,"R (>= 3.5), GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.DESCAN2
+DESeq2,1.36.0,"S4Vectors (>= 0.23.18), IRanges, GenomicRanges,
+SummarizedExperiment (>= 1.1.6)",LGPL (>= 3),10.18129/B9.BIOC.DESEQ2
+DEsingle,1.16.0,R (>= 3.4.0),GPL-2,10.18129/B9.BIOC.DESINGLE
+destiny,3.10.0,R (>= 3.4.0),GPL-3,10.18129/B9.BIOC.DESTINY
+DEsubs,1.22.0,"R (>= 3.3), locfit",GPL-3,10.18129/B9.BIOC.DESUBS
+DEWSeq,1.10.0,"R(>= 4.0.0), R.utils, DESeq2, BiocParallel",LGPL (>= 3),10.18129/B9.BIOC.DEWSEQ
+DExMA,1.4.3,"R (>= 4.1), DExMAdata",GPL-2,10.18129/B9.BIOC.DEXMA
+DEXSeq,1.42.0,"BiocParallel, Biobase, SummarizedExperiment, IRanges (>=
+2.5.17), GenomicRanges (>= 1.23.7), DESeq2 (>= 1.9.11),
+AnnotationDbi, RColorBrewer, S4Vectors (>= 0.23.18)",GPL (>= 3),10.18129/B9.BIOC.DEXSEQ
+DFP,1.54.0,"methods, Biobase (>= 2.5.5)",GPL-2,10.18129/B9.BIOC.DFP
+DIAlignR,2.4.0,"methods, stats, R (>= 4.0)",GPL-3,10.18129/B9.BIOC.DIALIGNR
+DiffBind,3.6.1,"R (>= 4.0), GenomicRanges, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.DIFFBIND
+diffcoexp,1.16.0,"R (>= 3.5), WGCNA, SummarizedExperiment",GPL (> 2),10.18129/B9.BIOC.DIFFCOEXP
+diffcyt,1.16.0,R (>= 3.4.0),MIT,10.18129/B9.BIOC.DIFFCYT
+DifferentialRegulation,1.0.7,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.DIFFERENTIALREGULATION
+diffGeneAnalysis,1.78.0,NA,GPL,10.18129/B9.BIOC.DIFFGENEANALYSIS
+diffHic,1.28.0,"R (>= 3.5), GenomicRanges, InteractionSet,
+SummarizedExperiment",GPL-3,10.18129/B9.BIOC.DIFFHIC
+DiffLogo,2.20.0,"R (>= 3.4), stats, cba",GPL (>= 2),10.18129/B9.BIOC.DIFFLOGO
+diffloop,1.24.0,R (>= 3.5.0),MIT,10.18129/B9.BIOC.DIFFLOOP
+diffuStats,1.16.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.DIFFUSTATS
+diffUTR,1.4.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.DIFFUTR
+Dino,1.2.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.DINO
+dir.expiry,1.4.0,NA,GPL-3,10.18129/B9.BIOC.DIR.EXPIRY
+Director,1.22.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.DIRECTOR
+DirichletMultinomial,1.38.0,"S4Vectors, IRanges",LGPL-3,10.18129/B9.BIOC.DIRICHLETMULTINOMIAL
+discordant,1.20.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.DISCORDANT
+DiscoRhythm,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.DISCORHYTHM
+distinct,1.8.0,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.DISTINCT
+dittoSeq,1.8.1,ggplot2,MIT,10.18129/B9.BIOC.DITTOSEQ
+divergence,1.12.0,"R (>= 3.6), SummarizedExperiment",GPL-2,10.18129/B9.BIOC.DIVERGENCE
+dks,1.42.0,R (>= 2.8),GPL,10.18129/B9.BIOC.DKS
+DMCFB,1.10.0,"R (>= 4.0.0), SummarizedExperiment, methods, S4Vectors,
+BiocParallel, GenomicRanges, IRanges",GPL-3,10.18129/B9.BIOC.DMCFB
+DMCHMM,1.18.0,"R (>= 4.1.0), SummarizedExperiment, methods, S4Vectors,
+BiocParallel, GenomicRanges, IRanges, fdrtool",GPL-3,10.18129/B9.BIOC.DMCHMM
+DMRcaller,1.28.0,"R (>= 3.5), GenomicRanges, IRanges, S4Vectors (>= 0.23.10)",GPL-3,10.18129/B9.BIOC.DMRCALLER
+DMRforPairs,1.32.0,"R (>= 2.15.2), Gviz (>= 1.2.1), R2HTML (>= 2.2.1),
+GenomicRanges (>= 1.10.7), parallel",GPL (>= 2),10.18129/B9.BIOC.DMRFORPAIRS
+DMRScan,1.18.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.DMRSCAN
+dmrseq,1.16.0,"R (>= 3.5), bsseq",MIT,10.18129/B9.BIOC.DMRSEQ
+DNABarcodes,1.26.0,"Matrix, parallel",GPL-2,10.18129/B9.BIOC.DNABARCODES
+DNAcopy,1.70.0,NA,GPL (>= 2),10.18129/B9.BIOC.DNACOPY
+DNAshapeR,1.24.0,"R (>= 3.4), GenomicRanges",GPL-2,10.18129/B9.BIOC.DNASHAPER
+DominoEffect,1.16.0,R(>= 3.5),GPL (>= 3),10.18129/B9.BIOC.DOMINOEFFECT
+doppelgangR,1.24.0,"R (>= 3.5.0), Biobase, BiocParallel",GPL (>= 2.0),10.18129/B9.BIOC.DOPPELGANGR
+Doscheda,1.18.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.DOSCHEDA
+DOSE,3.22.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.DOSE
+doseR,1.12.0,R (>= 3.6),GPL,10.18129/B9.BIOC.DOSER
+dpeak,1.8.0,"R (>= 4.0.0), methods, stats, utils, graphics, Rcpp",GPL (>= 2),10.18129/B9.BIOC.DPEAK
+drawProteins,1.16.0,R (>= 4.0),MIT,10.18129/B9.BIOC.DRAWPROTEINS
+DRIMSeq,1.24.0,R (>= 3.4.0),GPL (>= 3),10.18129/B9.BIOC.DRIMSEQ
+DriverNet,1.36.0,"R (>= 2.10), methods",GPL-3,10.18129/B9.BIOC.DRIVERNET
+DropletUtils,1.16.0,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.DROPLETUTILS
+drugTargetInteractions,1.4.0,"methods, R (>= 4.1)",Artistic-2.0,10.18129/B9.BIOC.DRUGTARGETINTERACTIONS
+DrugVsDisease,2.38.0,"R (>= 2.10), affy, limma, biomaRt, ArrayExpress, GEOquery,
+DrugVsDiseasedata, cMap2data, qvalue",GPL-3,10.18129/B9.BIOC.DRUGVSDISEASE
+DSS,2.44.0,"R (>= 3.5.0), methods, Biobase, BiocParallel, bsseq, parallel",GPL,10.18129/B9.BIOC.DSS
+dStruct,1.2.0,R (>= 4.1),GPL (>= 2),10.18129/B9.BIOC.DSTRUCT
+DTA,2.42.0,"R (>= 2.10), LSD",Artistic-2.0,10.18129/B9.BIOC.DTA
+Dune,1.8.0,R (>= 3.6),MIT,10.18129/B9.BIOC.DUNE
+dupRadar,1.26.1,R (>= 3.2.0),GPL-3,10.18129/B9.BIOC.DUPRADAR
+dyebias,1.56.0,"R (>= 1.4.1), marray, Biobase",GPL-3,10.18129/B9.BIOC.DYEBIAS
+DynDoc,1.74.0,"methods, utils",Artistic-2.0,10.18129/B9.BIOC.DYNDOC
+easier,1.2.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.EASIER
+easyreporting,1.8.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.EASYREPORTING
+easyRNASeq,2.32.0,NA,Artistic-2.0,10.18129/B9.BIOC.EASYRNASEQ
+EBarrays,2.60.0,"R (>= 1.8.0), Biobase, lattice, methods",GPL (>= 2),10.18129/B9.BIOC.EBARRAYS
+EBcoexpress,1.40.0,"EBarrays, mclust, minqa",GPL (>= 2),10.18129/B9.BIOC.EBCOEXPRESS
+EBImage,4.38.0,methods,LGPL,10.18129/B9.BIOC.EBIMAGE
+EBSEA,1.24.0,R (>= 4.0.0),GPL-2,10.18129/B9.BIOC.EBSEA
+EBSeq,1.36.0,"blockmodeling, gplots, testthat, R (>= 3.0.0)",Artistic-2.0,10.18129/B9.BIOC.EBSEQ
+EBSeqHMM,1.30.0,EBSeq,Artistic-2.0,10.18129/B9.BIOC.EBSEQHMM
+ecolitk,1.68.0,R (>= 2.10),GPL (>= 2),10.18129/B9.BIOC.ECOLITK
+EDASeq,2.30.0,"Biobase (>= 2.15.1), ShortRead (>= 1.11.42)",Artistic-2.0,10.18129/B9.BIOC.EDASEQ
+edge,2.28.0,"R(>= 3.1.0), Biobase",MIT,10.18129/B9.BIOC.EDGE
+edgeR,3.38.1,"R (>= 3.6.0), limma (>= 3.41.5)",GPL (>= 2),10.18129/B9.BIOC.EDGER
+eegc,1.22.0,R (>= 3.4.0),GPL-2,10.18129/B9.BIOC.EEGC
+EGAD,1.24.0,R(>= 3.5),GPL-2,10.18129/B9.BIOC.EGAD
+EGSEA,1.24.0,"R (>= 3.5), Biobase, gage (>= 2.14.4), AnnotationDbi, topGO
+(>= 2.16.0), pathview (>= 1.4.2)",GPL-3,10.18129/B9.BIOC.EGSEA
+eiR,1.36.0,"R (>= 2.10.0), ChemmineR (>= 2.15.15), methods, DBI",Artistic-2.0,10.18129/B9.BIOC.EIR
+eisaR,1.8.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.EISAR
+ELMER,2.20.0,"R (>= 3.4.0), ELMER.data (>= 2.9.3)",GPL-3,10.18129/B9.BIOC.ELMER
+EMDomics,2.26.0,R (>= 3.2.1),MIT,10.18129/B9.BIOC.EMDOMICS
+EmpiricalBrownsMethod,1.24.0,R (>= 3.2.0),MIT,10.18129/B9.BIOC.EMPIRICALBROWNSMETHOD
+EnhancedVolcano,1.14.0,"ggplot2, ggrepel",GPL-3,10.18129/B9.BIOC.ENHANCEDVOLCANO
+enhancerHomologSearch,1.2.0,"R (>= 4.1.0), methods",GPL (>= 2),10.18129/B9.BIOC.ENHANCERHOMOLOGSEARCH
+EnMCB,1.8.2,R (>= 4.0),GPL-2,10.18129/B9.BIOC.ENMCB
+ENmix,1.32.0,"R (>= 3.5.0), parallel, doParallel, foreach,
+SummarizedExperiment, stats",Artistic-2.0,10.18129/B9.BIOC.ENMIX
+EnrichedHeatmap,1.26.0,"R (>= 3.6.0), methods, grid, ComplexHeatmap (>= 2.11.0),
+GenomicRanges",MIT,10.18129/B9.BIOC.ENRICHEDHEATMAP
+EnrichmentBrowser,2.26.0,"SummarizedExperiment, graph",Artistic-2.0,10.18129/B9.BIOC.ENRICHMENTBROWSER
+enrichplot,1.16.1,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.ENRICHPLOT
+enrichTF,1.12.0,pipeFrame,GPL-3,10.18129/B9.BIOC.ENRICHTF
+ensembldb,2.20.2,"R (>= 3.5.0), BiocGenerics (>= 0.15.10), GenomicRanges (>=
+1.31.18), GenomicFeatures (>= 1.29.10), AnnotationFilter (>=
+1.5.2)",LGPL,10.18129/B9.BIOC.ENSEMBLDB
+ensemblVEP,1.38.0,"methods, BiocGenerics, GenomicRanges, VariantAnnotation",Artistic-2.0,10.18129/B9.BIOC.ENSEMBLVEP
+epialleleR,1.4.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.EPIALLELER
+EpiCompare,1.0.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.EPICOMPARE
+epidecodeR,1.4.0,R (>= 3.1.0),GPL-3,10.18129/B9.BIOC.EPIDECODER
+EpiDISH,2.12.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.EPIDISH
+epigenomix,1.36.0,"R (>= 3.5.0), methods, Biobase, S4Vectors, IRanges,
+GenomicRanges, SummarizedExperiment",LGPL-3,10.18129/B9.BIOC.EPIGENOMIX
+epigraHMM,1.4.0,R (>= 3.5.0),MIT,10.18129/B9.BIOC.EPIGRAHMM
+epihet,1.12.0,"R(>= 3.6), GenomicRanges, IRanges, S4Vectors, ggplot2,
+foreach, Rtsne, igraph",Artistic-2.0,10.18129/B9.BIOC.EPIHET
+epimutacions,1.0.3,"R (>= 4.2.0), epimutacionsData",MIT,10.18129/B9.BIOC.EPIMUTACIONS
+epiNEM,1.20.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.EPINEM
+epistack,1.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.EPISTACK
+EpiTxDb,1.8.0,"R (>= 4.0), AnnotationDbi, Modstrings",Artistic-2.0,10.18129/B9.BIOC.EPITXDB
+epivizr,2.26.0,"R (>= 3.5.0), methods",Artistic-2.0,10.18129/B9.BIOC.EPIVIZR
+epivizrChart,1.18.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.EPIVIZRCHART
+epivizrData,1.24.0,"R (>= 3.4), methods, epivizrServer (>= 1.1.1), Biobase",MIT,10.18129/B9.BIOC.EPIVIZRDATA
+epivizrServer,1.24.0,"R (>= 3.2.3), methods",MIT,10.18129/B9.BIOC.EPIVIZRSERVER
+epivizrStandalone,1.24.0,"R (>= 3.2.3), epivizr (>= 2.3.6), methods",MIT,10.18129/B9.BIOC.EPIVIZRSTANDALONE
+erccdashboard,1.30.0,"R (>= 3.2), ggplot2 (>= 2.1.0), gridExtra (>= 2.0.0)",GPL (>= 2),10.18129/B9.BIOC.ERCCDASHBOARD
+erma,1.12.0,"R (>= 3.1), methods, Homo.sapiens, GenomicFiles (>= 1.5.2)",Artistic-2.0,10.18129/B9.BIOC.ERMA
+ERSSA,1.14.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.ERSSA
+esATAC,1.18.0,"R (>= 4.0.0), Rsamtools, GenomicRanges, ShortRead, pipeFrame",GPL-3,10.18129/B9.BIOC.ESATAC
+escape,1.6.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.ESCAPE
+esetVis,1.22.0,NA,GPL-3,10.18129/B9.BIOC.ESETVIS
+eudysbiome,1.26.0,R (>= 3.1.0),GPL-2,10.18129/B9.BIOC.EUDYSBIOME
+evaluomeR,1.12.0,"R (>= 3.6), SummarizedExperiment, MultiAssayExperiment,
+cluster (>= 2.0.9), fpc (>= 2.2-3), randomForest (>= 4.6.14),
+flexmix (>= 2.3.15)",GPL-3,10.18129/B9.BIOC.EVALUOMER
+EventPointer,3.4.1,"R (>= 3.5.0), SGSeq, Matrix, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.EVENTPOINTER
+EWCE,1.4.0,"R (>= 4.1), RNOmni (>= 1.0)",GPL-3,10.18129/B9.BIOC.EWCE
+ExCluster,1.14.0,"Rsubread, GenomicRanges, rtracklayer, matrixStats, IRanges",GPL-3,10.18129/B9.BIOC.EXCLUSTER
+ExiMiR,2.38.0,"R (>= 2.10), Biobase (>= 2.5.5), affy (>= 1.26.1), limma",GPL-2,10.18129/B9.BIOC.EXIMIR
+exomeCopy,1.42.0,"R (>= 3.5.0), IRanges (>= 2.5.27), GenomicRanges (>= 1.23.16),
+Rsamtools",GPL (>= 2),10.18129/B9.BIOC.EXOMECOPY
+exomePeak2,1.8.1,"R (>= 3.5.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.EXOMEPEAK2
+ExperimentHub,2.4.0,"methods, BiocGenerics (>= 0.15.10), AnnotationHub (>= 3.3.6),
+BiocFileCache (>= 1.5.1)",Artistic-2.0,10.18129/B9.BIOC.EXPERIMENTHUB
+ExperimentHubData,1.22.0,"utils, BiocGenerics (>= 0.15.10), S4Vectors, AnnotationHubData
+(>= 1.21.3)",Artistic-2.0,10.18129/B9.BIOC.EXPERIMENTHUBDATA
+ExperimentSubset,1.6.0,"R (>= 4.0.0), SummarizedExperiment, SingleCellExperiment,
+SpatialExperiment, TreeSummarizedExperiment",MIT,10.18129/B9.BIOC.EXPERIMENTSUBSET
+ExploreModelMatrix,1.8.0,NA,MIT,10.18129/B9.BIOC.EXPLOREMODELMATRIX
+ExpressionAtlas,1.24.0,"R (>= 4.1.1), methods, Biobase, SummarizedExperiment, limma,
+S4Vectors, xml2",GPL (>= 3),10.18129/B9.BIOC.EXPRESSIONATLAS
+extraChIPs,1.0.2,"BiocParallel, R (>= 4.2.0), GenomicRanges, ggplot2,
+SummarizedExperiment, tibble",GPL-3,10.18129/B9.BIOC.EXTRACHIPS
+fabia,2.42.0,"R (>= 3.6.0), Biobase",LGPL (>= 2.1),10.18129/B9.BIOC.FABIA
+factDesign,1.72.0,Biobase (>= 2.5.5),LGPL,10.18129/B9.BIOC.FACTDESIGN
+FamAgg,1.24.0,"methods, kinship2, igraph",MIT,10.18129/B9.BIOC.FAMAGG
+famat,1.5.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.FAMAT
+farms,1.48.0,"R (>= 2.8), affy (>= 1.20.0), MASS, methods",LGPL (>= 2.1),10.18129/B9.BIOC.FARMS
+fastLiquidAssociation,1.32.0,"methods, LiquidAssociation, parallel, doParallel, stats,
+Hmisc, utils",GPL-2,10.18129/B9.BIOC.FASTLIQUIDASSOCIATION
+FastqCleaner,1.13.0,NA,MIT,10.18129/B9.BIOC.FASTQCLEANER
+fastreeR,1.0.0,R (>= 4.2),GPL-3,10.18129/B9.BIOC.FASTREER
+fastseg,1.42.0,"R (>= 2.13), GenomicRanges, Biobase",LGPL (>= 2.0),10.18129/B9.BIOC.FASTSEG
+FCBF,2.4.0,R (>= 4.1),MIT,10.18129/B9.BIOC.FCBF
+fCCAC,1.22.0,"R (>= 3.3.0), S4Vectors, IRanges, GenomicRanges, grid",Artistic-2.0,10.18129/B9.BIOC.FCCAC
+fCI,1.26.0,"R (>= 3.1),FNN, psych, gtools, zoo, rgl, grid, VennDiagram",GPL (>= 2),10.18129/B9.BIOC.FCI
+fcoex,1.10.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.FCOEX
+fcScan,1.10.0,NA,Artistic-2.0,10.18129/B9.BIOC.FCSCAN
+fdrame,1.68.0,NA,GPL (>= 2),10.18129/B9.BIOC.FDRAME
+FEAST,1.4.0,"R (>= 4.1), mclust, BiocParallel, SummarizedExperiment",GPL-2,10.18129/B9.BIOC.FEAST
+fedup,1.4.0,R (>= 4.1),MIT,10.18129/B9.BIOC.FEDUP
+FELLA,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.FELLA
+ffpe,1.40.0,"R (>= 2.10.0), TTR, methods",GPL (> 2),10.18129/B9.BIOC.FFPE
+fgga,1.4.0,"R (>= 4.1), RBGL",GPL-3,10.18129/B9.BIOC.FGGA
+FGNet,3.30.0,R (>= 4.2.0),GPL (>= 2),10.18129/B9.BIOC.FGNET
+fgsea,1.22.0,R (>= 3.3),MIT,10.18129/B9.BIOC.FGSEA
+FilterFFPE,1.6.0,NA,LGPL-3,10.18129/B9.BIOC.FILTERFFPE
+FindIT2,1.2.3,"GenomicRanges, R (>= 3.5.0)",Artistic-2.0,10.18129/B9.BIOC.FINDIT2
+FISHalyseR,1.30.0,"EBImage,abind",Artistic-2.0,10.18129/B9.BIOC.FISHALYSER
+fishpond,2.2.0,NA,GPL-2,10.18129/B9.BIOC.FISHPOND
+FitHiC,1.22.0,NA,GPL (>= 2),10.18129/B9.BIOC.FITHIC
+flagme,1.52.0,"gcspikelite, xcms, CAMERA",LGPL (>= 2),10.18129/B9.BIOC.FLAGME
+FLAMES,1.2.1,NA,GPL (>= 2),10.18129/B9.BIOC.FLAMES
+flowAI,1.26.0,R (>= 3.6),GPL (>= 2),10.18129/B9.BIOC.FLOWAI
+flowBeads,1.34.0,"R (>= 2.15.0), methods, Biobase, rrcov, flowCore",Artistic-2.0,10.18129/B9.BIOC.FLOWBEADS
+flowBin,1.32.0,"methods, flowCore, flowFP, R (>= 2.10)",Artistic-2.0,10.18129/B9.BIOC.FLOWBIN
+flowcatchR,1.30.0,"R (>= 2.10), methods, EBImage",BSD_3_clause,10.18129/B9.BIOC.FLOWCATCHR
+flowCHIC,1.30.0,R (>= 3.1.0),GPL-2,10.18129/B9.BIOC.FLOWCHIC
+flowCL,1.34.0,"R (>= 3.4), Rgraphviz, SPARQL",Artistic-2.0,10.18129/B9.BIOC.FLOWCL
+flowClean,1.34.0,"R (>= 2.15.0), flowCore",Artistic-2.0,10.18129/B9.BIOC.FLOWCLEAN
+flowClust,3.34.0,R(>= 2.5.0),Artistic-2.0,10.18129/B9.BIOC.FLOWCLUST
+flowCore,2.8.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.FLOWCORE
+flowCut,1.6.0,"R (>= 3.4), flowCore",Artistic-2.0,10.18129/B9.BIOC.FLOWCUT
+flowCyBar,1.32.0,R (>= 3.0.0),GPL-2,10.18129/B9.BIOC.FLOWCYBAR
+flowDensity,1.30.0,NA,Artistic-2.0,10.18129/B9.BIOC.FLOWDENSITY
+flowFP,1.54.0,"R (>= 2.10), flowCore, flowViz",Artistic-2.0,10.18129/B9.BIOC.FLOWFP
+flowGraph,1.4.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.FLOWGRAPH
+flowMap,1.34.0,"R (>= 3.0.1), ade4(>= 1.5-2), doParallel(>= 1.0.3), abind(>=
+1.4.0), reshape2(>= 1.2.2), scales(>= 0.2.3), Matrix(>= 1.1-4),
+methods (>= 2.14)",GPL (>= 2),10.18129/B9.BIOC.FLOWMAP
+flowMatch,1.32.0,"R (>= 3.0.0), Rcpp (>= 0.11.0), methods, flowCore",Artistic-2.0,10.18129/B9.BIOC.FLOWMATCH
+flowMeans,1.56.0,R (>= 2.10.0),Artistic-2.0,10.18129/B9.BIOC.FLOWMEANS
+flowMerge,2.44.0,"graph,feature,flowClust,Rgraphviz,foreach,snow",Artistic-2.0,10.18129/B9.BIOC.FLOWMERGE
+flowPeaks,1.42.0,R (>= 2.12.0),Artistic-1.0,10.18129/B9.BIOC.FLOWPEAKS
+flowPloidy,1.22.0,NA,GPL-3,10.18129/B9.BIOC.FLOWPLOIDY
+flowPlots,1.44.0,"R (>= 2.13.0), methods",Artistic-2.0,10.18129/B9.BIOC.FLOWPLOTS
+FlowSOM,2.4.0,"R (>= 4.0), igraph",GPL (>= 2),10.18129/B9.BIOC.FLOWSOM
+flowSpecs,1.10.0,R (>= 4.0),MIT,10.18129/B9.BIOC.FLOWSPECS
+flowStats,4.8.2,R (>= 3.0.2),Artistic-2.0,10.18129/B9.BIOC.FLOWSTATS
+flowTime,1.20.0,"R (>= 3.4), flowCore",Artistic-2.0,10.18129/B9.BIOC.FLOWTIME
+flowTrans,1.48.0,"R (>= 2.11.0), flowCore, flowViz,flowClust",Artistic-2.0,10.18129/B9.BIOC.FLOWTRANS
+flowUtils,1.59.0,R (>= 2.2.0),Artistic-2.0,10.18129/B9.BIOC.FLOWUTILS
+flowViz,1.60.2,"R (>= 2.7.0), flowCore(>= 1.41.9), lattice",Artistic-2.0,10.18129/B9.BIOC.FLOWVIZ
+flowVS,1.28.0,"R (>= 3.2), methods, flowCore, flowViz, flowStats",Artistic-2.0,10.18129/B9.BIOC.FLOWVS
+fmcsR,1.38.0,"R (>= 2.10.0), ChemmineR, methods",Artistic-2.0,10.18129/B9.BIOC.FMCSR
+fmrs,1.6.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.FMRS
+fobitools,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.FOBITOOLS
+FoldGO,1.14.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.FOLDGO
+FRASER,1.8.1,"BiocParallel, data.table, Rsamtools, SummarizedExperiment",MIT,10.18129/B9.BIOC.FRASER
+frenchFISH,1.8.0,NA,Artistic-2.0,10.18129/B9.BIOC.FRENCHFISH
+FRGEpistasis,1.32.0,"R (>= 2.15), MASS, fda, methods, stats",GPL-2,10.18129/B9.BIOC.FRGEPISTASIS
+frma,1.48.0,"R (>= 2.10.0), Biobase (>= 2.6.0)",GPL (>= 2),10.18129/B9.BIOC.FRMA
+frmaTools,1.48.0,"R (>= 2.10.0), affy",GPL (>= 2),10.18129/B9.BIOC.FRMATOOLS
+FScanR,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.FSCANR
+FunChIP,1.22.0,"R (>= 3.5.0), GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.FUNCHIP
+funtooNorm,1.20.0,R(>= 3.4),GPL-3,10.18129/B9.BIOC.FUNTOONORM
+GA4GHclient,1.20.0,"R (>= 3.5.0), S4Vectors",GPL (>= 2),10.18129/B9.BIOC.GA4GHCLIENT
+GA4GHshiny,1.18.0,GA4GHclient,GPL-3,10.18129/B9.BIOC.GA4GHSHINY
+gaga,2.42.0,"R (>= 2.8.0), Biobase, coda, EBarrays, mgcv",GPL (>= 2),10.18129/B9.BIOC.GAGA
+gage,2.46.0,R (>= 3.5.0),GPL (>= 2.0),10.18129/B9.BIOC.GAGE
+gaggle,1.64.0,"R (>= 2.3.0), rJava (>= 0.4), graph (>= 1.10.2), RUnit (>=
+0.4.17)",GPL (>= 2),10.18129/B9.BIOC.GAGGLE
+gaia,2.39.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.GAIA
+GAPGOM,1.11.0,R (>= 4.0),MIT,10.18129/B9.BIOC.GAPGOM
+GAprediction,1.22.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.GAPREDICTION
+garfield,1.24.0,NA,GPL-3,10.18129/B9.BIOC.GARFIELD
+GARS,1.16.0,"R (>= 3.5), ggplot2, cluster",GPL (>= 2),10.18129/B9.BIOC.GARS
+GateFinder,1.16.0,NA,Artistic-2.0,10.18129/B9.BIOC.GATEFINDER
+GBScleanR,1.0.0,NA,GPL-3,10.18129/B9.BIOC.GBSCLEANR
+gcapc,1.20.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.GCAPC
+gcatest,1.26.0,R (>= 3.2),GPL-3,10.18129/B9.BIOC.GCATEST
+gCrisprTools,2.2.1,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.GCRISPRTOOLS
+gcrma,2.68.0,"R (>= 2.6.0), affy (>= 1.23.2), graphics, methods, stats,
+utils",LGPL,10.18129/B9.BIOC.GCRMA
+GCSConnection,1.7.0,R (>= 4.0.0),GPL (>= 2),10.18129/B9.BIOC.GCSCONNECTION
+GCSFilesystem,1.6.0,R (>= 4.0.0),GPL (>= 2),10.18129/B9.BIOC.GCSFILESYSTEM
+GCSscore,1.10.0,R (>= 3.6),GPL (>= 3),10.18129/B9.BIOC.GCSSCORE
+GDCRNATools,1.16.2,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.GDCRNATOOLS
+GDSArray,1.16.0,"R (>= 3.5), gdsfmt, methods, BiocGenerics, DelayedArray (>=
+0.5.32)",GPL-3,10.18129/B9.BIOC.GDSARRAY
+gdsfmt,1.32.0,"R (>= 2.15.0), methods",LGPL-3,10.18129/B9.BIOC.GDSFMT
+GEM,1.22.0,R (>= 3.3),Artistic-2.0,10.18129/B9.BIOC.GEM
+gemini,1.10.0,R (>= 4.1.0),BSD_3_clause,10.18129/B9.BIOC.GEMINI
+genbankr,1.24.0,methods,Artistic-2.0,10.18129/B9.BIOC.GENBANKR
+geneAttribution,1.22.0,NA,Artistic-2.0,10.18129/B9.BIOC.GENEATTRIBUTION
+GeneBreak,1.26.0,"R(>= 3.2), QDNAseq, CGHcall, CGHbase, GenomicRanges",GPL-2,10.18129/B9.BIOC.GENEBREAK
+geneClassifiers,1.20.0,R (>= 3.6.0),GPL-2,10.18129/B9.BIOC.GENECLASSIFIERS
+GeneExpressionSignature,1.42.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.GENEEXPRESSIONSIGNATURE
+genefilter,1.78.0,NA,Artistic-2.0,10.18129/B9.BIOC.GENEFILTER
+genefu,2.28.0,"R (>= 4.1), survcomp, biomaRt, iC10, AIMS",Artistic-2.0,10.18129/B9.BIOC.GENEFU
+GeneGA,1.46.0,"seqinr, hash, methods",GPL-2,10.18129/B9.BIOC.GENEGA
+GeneGeneInteR,1.22.0,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.GENEGENEINTER
+GeneMeta,1.68.0,"R (>= 2.10), methods, Biobase (>= 2.5.5), genefilter",Artistic-2.0,10.18129/B9.BIOC.GENEMETA
+GeneNetworkBuilder,1.38.0,"R (>= 2.15.1), Rcpp (>= 0.9.13)",GPL (>= 2),10.18129/B9.BIOC.GENENETWORKBUILDER
+GeneOverlap,1.32.0,NA,GPL-3,10.18129/B9.BIOC.GENEOVERLAP
+geneplast,1.22.0,"R (>= 4.0), methods",GPL (>= 2),10.18129/B9.BIOC.GENEPLAST
+geneplotter,1.74.0,"R (>= 2.10), methods, Biobase, BiocGenerics, lattice, annotate",Artistic-2.0,10.18129/B9.BIOC.GENEPLOTTER
+geneRecommender,1.68.0,"R (>= 1.8.0), Biobase (>= 1.4.22), methods",GPL (>= 2),10.18129/B9.BIOC.GENERECOMMENDER
+GeneRegionScan,1.52.0,"methods, Biobase (>= 2.5.5), Biostrings",GPL (>= 2),10.18129/B9.BIOC.GENEREGIONSCAN
+geneRxCluster,1.32.0,"GenomicRanges,IRanges",GPL (>= 2),10.18129/B9.BIOC.GENERXCLUSTER
+GeneSelectMMD,2.40.0,"R (>= 2.13.2), Biobase",GPL (>= 2),10.18129/B9.BIOC.GENESELECTMMD
+GENESIS,2.26.0,NA,GPL-3,10.18129/B9.BIOC.GENESIS
+GeneStructureTools,1.16.0,NA,BSD_3_clause,10.18129/B9.BIOC.GENESTRUCTURETOOLS
+geNetClassifier,1.36.0,"R (>= 2.10.1), Biobase (>= 2.5.5), EBarrays, minet, methods",GPL (>= 2),10.18129/B9.BIOC.GENETCLASSIFIER
+GeneticsPed,1.58.0,"R (>= 2.4.0), MASS",LGPL (>= 2.1),10.18129/B9.BIOC.GENETICSPED
+GeneTonic,2.0.1,R (>= 4.0.0),MIT,10.18129/B9.BIOC.GENETONIC
+geneXtendeR,1.22.0,"rtracklayer, GO.db, R (>= 3.5.0)",GPL (>= 3),10.18129/B9.BIOC.GENEXTENDER
+GENIE3,1.18.0,NA,GPL (>= 2),10.18129/B9.BIOC.GENIE3
+genoCN,1.48.0,NA,GPL (>= 2),10.18129/B9.BIOC.GENOCN
+genomation,1.28.0,"R (>= 3.5.0), grid",Artistic-2.0,10.18129/B9.BIOC.GENOMATION
+GenomeInfoDb,1.32.2,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.25.12), IRanges (>= 2.13.12)",Artistic-2.0,10.18129/B9.BIOC.GENOMEINFODB
+genomeIntervals,1.52.0,"R (>= 2.15.0), methods, intervals (>= 0.14.0), BiocGenerics
+(>= 0.15.2)",Artistic-2.0,10.18129/B9.BIOC.GENOMEINTERVALS
+genomes,3.26.0,"readr, curl",GPL-3,10.18129/B9.BIOC.GENOMES
+GenomicAlignments,1.32.1,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9), GenomeInfoDb (>= 1.13.1),
+GenomicRanges (>= 1.41.5), SummarizedExperiment (>= 1.9.13),
+Biostrings (>= 2.55.7), Rsamtools (>= 1.31.2)",Artistic-2.0,10.18129/B9.BIOC.GENOMICALIGNMENTS
+GenomicDataCommons,1.20.1,"R (>= 3.4.0), magrittr",Artistic-2.0,10.18129/B9.BIOC.GENOMICDATACOMMONS
+GenomicDistributions,1.4.6,"R (>= 4.0), IRanges, GenomicRanges",BSD_2_clause,10.18129/B9.BIOC.GENOMICDISTRIBUTIONS
+GenomicFeatures,1.48.3,"R (>= 3.5.0), BiocGenerics (>= 0.1.0), S4Vectors (>= 0.17.29),
+IRanges (>= 2.13.23), GenomeInfoDb (>= 1.25.7), GenomicRanges
+(>= 1.31.17), AnnotationDbi (>= 1.41.4)",Artistic-2.0,10.18129/B9.BIOC.GENOMICFEATURES
+GenomicFiles,1.32.1,"R (>= 3.1.0), methods, BiocGenerics (>= 0.11.2),
+MatrixGenerics, GenomicRanges (>= 1.31.16),
+SummarizedExperiment, BiocParallel (>= 1.1.0), Rsamtools (>=
+1.17.29), rtracklayer (>= 1.25.3)",Artistic-2.0,10.18129/B9.BIOC.GENOMICFILES
+GenomicInteractions,1.30.0,"R (>= 3.5), InteractionSet",GPL-3,10.18129/B9.BIOC.GENOMICINTERACTIONS
+GenomicOZone,1.10.0,"R (>= 4.0.0), Ckmeans.1d.dp (>= 4.3.0), GenomicRanges,
+biomaRt, ggplot2",LGPL (>= 3),10.18129/B9.BIOC.GENOMICOZONE
+GenomicRanges,1.48.0,"R (>= 4.0.0), methods, stats4, BiocGenerics (>= 0.37.0),
+S4Vectors (>= 0.27.12), IRanges (>= 2.23.9), GenomeInfoDb (>=
+1.15.2)",Artistic-2.0,10.18129/B9.BIOC.GENOMICRANGES
+GenomicScores,2.8.2,"R (>= 3.5), S4Vectors (>= 0.7.21), GenomicRanges, methods,
+BiocGenerics (>= 0.13.8)",Artistic-2.0,10.18129/B9.BIOC.GENOMICSCORES
+GenomicSuperSignature,1.4.0,"R (>= 4.1.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.GENOMICSUPERSIGNATURE
+GenomicTuples,1.30.0,"R (>= 4.0), GenomicRanges (>= 1.37.4), GenomeInfoDb (>=
+1.15.2), S4Vectors (>= 0.17.25)",Artistic-2.0,10.18129/B9.BIOC.GENOMICTUPLES
+genphen,1.24.0,"R (>= 3.5.0), Rcpp (>= 0.12.17), methods, stats, graphics",GPL (>= 2),10.18129/B9.BIOC.GENPHEN
+GenProSeq,1.0.0,"keras, mclust, R (>= 4.2)",Artistic-2.0,10.18129/B9.BIOC.GENPROSEQ
+GenVisR,1.28.0,"R (>= 3.3.0), methods",GPL-3,10.18129/B9.BIOC.GENVISR
+GeoDiff,1.2.0,"R (>= 4.1.0), Biobase",MIT,10.18129/B9.BIOC.GEODIFF
+GEOexplorer,1.2.0,"shiny, limma, Biobase, plotly, shinyBS",GPL-3,10.18129/B9.BIOC.GEOEXPLORER
+GEOfastq,1.4.0,NA,MIT,10.18129/B9.BIOC.GEOFASTQ
+GEOmetadb,1.58.0,"GEOquery,RSQLite",Artistic-2.0,10.18129/B9.BIOC.GEOMETADB
+GeomxTools,3.0.1,"R (>= 3.6), Biobase, NanoStringNCTools, S4Vectors",MIT,10.18129/B9.BIOC.GEOMXTOOLS
+GEOquery,2.64.2,"methods, Biobase",MIT,10.18129/B9.BIOC.GEOQUERY
+GEOsubmission,1.48.0,NA,GPL (>= 2),10.18129/B9.BIOC.GEOSUBMISSION
+gep2pep,1.16.0,NA,GPL-3,10.18129/B9.BIOC.GEP2PEP
+gespeR,1.28.0,"methods, graphics, ggplot2, R(>= 2.10)",GPL-3,10.18129/B9.BIOC.GESPER
+getDEE2,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.GETDEE2
+geva,1.4.0,R (>= 4.1),LGPL-3,10.18129/B9.BIOC.GEVA
+GEWIST,1.40.0,"R (>= 2.10), car",GPL-2,10.18129/B9.BIOC.GEWIST
+ggbio,1.44.1,"methods, BiocGenerics, ggplot2 (>= 1.0.0)",Artistic-2.0,10.18129/B9.BIOC.GGBIO
+ggcyto,1.24.1,"methods, ggplot2(>= 3.3.0), flowCore(>= 1.41.5), ncdfFlow(>=
+2.17.1), flowWorkspace(>= 3.33.1)",Artistic-2.0,10.18129/B9.BIOC.GGCYTO
+ggmanh,1.0.0,"methods, ggplot2",MIT,10.18129/B9.BIOC.GGMANH
+ggmsa,1.2.3,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.GGMSA
+GGPA,1.8.0,"R (>= 4.0.0), stats, methods, graphics, GGally, network, sna,
+scales, matrixStats",GPL (>= 2),10.18129/B9.BIOC.GGPA
+ggspavis,1.2.0,ggplot2,MIT,10.18129/B9.BIOC.GGSPAVIS
+ggtree,3.4.1,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.GGTREE
+ggtreeExtra,1.6.0,NA,GPL (>= 3),10.18129/B9.BIOC.GGTREEEXTRA
+GIGSEA,1.14.0,"R (>= 3.5), Matrix, MASS, locfdr, stats, utils",LGPL-3,10.18129/B9.BIOC.GIGSEA
+girafe,1.48.0,"R (>= 2.10.0), methods, BiocGenerics (>= 0.13.8), S4Vectors
+(>= 0.17.25), Rsamtools (>= 1.31.2), intervals (>= 0.13.1),
+ShortRead (>= 1.37.1), genomeIntervals (>= 1.25.1), grid",Artistic-2.0,10.18129/B9.BIOC.GIRAFE
+GISPA,1.20.0,R (>= 3.5),GPL-2,10.18129/B9.BIOC.GISPA
+GLAD,2.60.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.GLAD
+GladiaTOX,1.12.0,"R (>= 3.6.0), data.table (>= 1.9.4)",GPL-2,10.18129/B9.BIOC.GLADIATOX
+Glimma,2.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.GLIMMA
+glmGamPoi,1.8.0,NA,GPL-3,10.18129/B9.BIOC.GLMGAMPOI
+glmSparseNet,1.14.1,"R (>= 4.1), Matrix, MultiAssayExperiment, glmnet",GPL-3,10.18129/B9.BIOC.GLMSPARSENET
+GlobalAncova,4.14.0,"methods, corpcor, globaltest",GPL (>= 2),10.18129/B9.BIOC.GLOBALANCOVA
+globalSeq,1.24.0,R (>= 3.0.0),GPL-3,10.18129/B9.BIOC.GLOBALSEQ
+globaltest,5.50.0,"methods, survival",GPL (>= 2),10.18129/B9.BIOC.GLOBALTEST
+gmapR,1.38.0,"R (>= 2.15.0), methods, GenomeInfoDb (>= 1.1.3), GenomicRanges
+(>= 1.31.8), Rsamtools (>= 1.31.2)",Artistic-2.0,10.18129/B9.BIOC.GMAPR
+GmicR,1.10.0,NA,GPL-2,10.18129/B9.BIOC.GMICR
+gmoviz,1.8.0,"circlize, GenomicRanges, graphics, R (>= 4.0)",GPL-3,10.18129/B9.BIOC.GMOVIZ
+GMRP,1.24.0,"R(>= 3.3.0),stats,utils,graphics, grDevices, diagram, plotrix,
+base,GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.GMRP
+GNET2,1.12.0,R (>= 3.6),Apache License 2.0,10.18129/B9.BIOC.GNET2
+GOexpress,1.30.0,"R (>= 3.4), grid, stats, graphics, Biobase (>= 2.22.0)",GPL (>= 3),10.18129/B9.BIOC.GOEXPRESS
+GOfuncR,1.16.0,"R (>= 3.4), vioplot (>= 0.2),",GPL (>= 2),10.18129/B9.BIOC.GOFUNCR
+GOpro,1.22.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.GOPRO
+goProfiles,1.58.0,"Biobase, AnnotationDbi, GO.db, CompQuadForm, stringr",GPL-2,10.18129/B9.BIOC.GOPROFILES
+GOSemSim,2.22.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.GOSEMSIM
+goseq,1.48.0,"R (>= 2.11.0), BiasedUrn, geneLenDataBase (>= 1.9.2)",LGPL (>= 2),10.18129/B9.BIOC.GOSEQ
+GOSim,1.34.0,"GO.db, annotate",GPL (>= 2),10.18129/B9.BIOC.GOSIM
+goSTAG,1.20.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.GOSTAG
+GOstats,2.62.0,"R (>= 2.10), Biobase (>= 1.15.29), Category (>= 2.43.2), graph",Artistic-2.0,10.18129/B9.BIOC.GOSTATS
+GOsummaries,2.32.0,"R (>= 2.15), Rcpp",GPL (>= 2),10.18129/B9.BIOC.GOSUMMARIES
+GOTHiC,1.32.0,"R (>= 3.5.0), methods, GenomicRanges, Biostrings, BSgenome,
+data.table",GPL-3,10.18129/B9.BIOC.GOTHIC
+goTools,1.70.0,GO.db,GPL-2,10.18129/B9.BIOC.GOTOOLS
+GPA,1.8.0,"R (>= 4.0.0), methods, graphics, Rcpp",GPL (>= 2),10.18129/B9.BIOC.GPA
+gpart,1.13.0,"R (>= 3.5.0), grid, Homo.sapiens,
+TxDb.Hsapiens.UCSC.hg38.knownGene,",MIT,10.18129/B9.BIOC.GPART
+gpls,1.68.0,NA,Artistic-2.0,10.18129/B9.BIOC.GPLS
+gprege,1.39.0,"R (>= 2.10), gptk",AGPL-3,10.18129/B9.BIOC.GPREGE
+gpuMagic,1.12.0,"R (>= 3.6.0), methods, utils",GPL-3,10.18129/B9.BIOC.GPUMAGIC
+GRaNIE,1.0.5,"R (>= 4.2.0), tidyverse, topGO",Artistic-2.0,10.18129/B9.BIOC.GRANIE
+granulator,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.GRANULATOR
+graper,1.12.0,R (>= 3.6),GPL (>= 2),10.18129/B9.BIOC.GRAPER
+graph,1.74.0,"R (>= 2.10), methods, BiocGenerics (>= 0.13.11)",Artistic-2.0,10.18129/B9.BIOC.GRAPH
+GraphAT,1.68.0,"R (>= 2.10), graph, methods",LGPL,10.18129/B9.BIOC.GRAPHAT
+graphite,1.42.0,"R (>= 4.2), methods",AGPL-3,10.18129/B9.BIOC.GRAPHITE
+GraphPAC,1.38.0,"R(>= 2.15),iPAC, igraph, TSP, RMallow",GPL-2,10.18129/B9.BIOC.GRAPHPAC
+GRENITS,1.48.0,"R (>= 2.12.0), Rcpp (>= 0.8.6), RcppArmadillo (>= 0.2.8),
+ggplot2 (>= 0.9.0)",GPL (>= 2),10.18129/B9.BIOC.GRENITS
+GreyListChIP,1.28.1,"R (>= 4.0), methods, GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.GREYLISTCHIP
+GRmetrics,1.22.0,"R (>= 4.0), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.GRMETRICS
+groHMM,1.30.1,"R (>= 3.5.0), MASS, parallel, S4Vectors (>= 0.17.25), IRanges
+(>= 2.13.12), GenomeInfoDb, GenomicRanges (>= 1.31.8),
+GenomicAlignments (>= 1.15.6), rtracklayer (>= 1.39.7)",GPL-3,10.18129/B9.BIOC.GROHMM
+GRridge,1.20.0,"R (>= 3.2), penalized, Iso, survival, methods,
+graph,stats,glmnet,mvtnorm",GPL-3,10.18129/B9.BIOC.GRRIDGE
+GSALightning,1.24.0,R (>= 3.3.0),GPL (>= 2),10.18129/B9.BIOC.GSALIGHTNING
+GSAR,1.30.0,"R (>= 3.0.1), igraph (>= 0.7.1)",GPL (>= 2),10.18129/B9.BIOC.GSAR
+GSCA,2.26.0,"shiny, sp, gplots, ggplot2, reshape2, RColorBrewer, rhdf5,
+R(>= 2.10.0)",GPL (>= 2),10.18129/B9.BIOC.GSCA
+gscreend,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.GSCREEND
+GSEABase,1.58.0,"R (>= 2.6.0), BiocGenerics (>= 0.13.8), Biobase (>= 2.17.8),
+annotate (>= 1.45.3), methods, graph (>= 1.37.2)",Artistic-2.0,10.18129/B9.BIOC.GSEABASE
+GSEABenchmarkeR,1.16.0,"R (>= 3.5.0), Biobase, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.GSEABENCHMARKER
+GSEAlm,1.56.0,Biobase,Artistic-2.0,10.18129/B9.BIOC.GSEALM
+GSEAmining,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.GSEAMINING
+gsean,1.16.0,"R (>= 3.5), fgsea, PPInfer",Artistic-2.0,10.18129/B9.BIOC.GSEAN
+GSgalgoR,1.6.0,NA,MIT,10.18129/B9.BIOC.GSGALGOR
+GSReg,1.30.0,"R (>= 2.13.1), Homo.sapiens, org.Hs.eg.db, GenomicFeatures,
+AnnotationDbi",GPL-2,10.18129/B9.BIOC.GSREG
+GSRI,2.44.0,"R (>= 2.14.2), fdrtool",GPL-3,10.18129/B9.BIOC.GSRI
+GSVA,1.44.2,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.GSVA
+gtrellis,1.28.0,"R (>= 3.1.2), grid, IRanges, GenomicRanges",MIT,10.18129/B9.BIOC.GTRELLIS
+GUIDEseq,1.26.0,"R (>= 3.5.0), GenomicRanges, BiocGenerics",GPL (>= 2),10.18129/B9.BIOC.GUIDESEQ
+Guitar,2.12.0,"GenomicFeatures, rtracklayer,AnnotationDbi, GenomicRanges,
+magrittr, ggplot2, methods, stats,utils ,knitr,dplyr",GPL-2,10.18129/B9.BIOC.GUITAR
+Gviz,1.40.1,"R (>= 4.2), methods, S4Vectors (>= 0.9.25), IRanges (>=
+1.99.18), GenomicRanges (>= 1.17.20), grid",Artistic-2.0,10.18129/B9.BIOC.GVIZ
+GWAS.BAYES,1.6.0,"R (>= 4.0), Rcpp (>= 1.0.3), RcppEigen (>= 0.3.3.7.0), GA (>=
+3.2), caret (>= 6.0-86), ggplot2 (>= 3.3.0), doParallel (>=
+1.0.15), memoise (>= 1.1.0), reshape2 (>= 1.4.4), Matrix (>=
+1.2-18)",GPL-2,10.18129/B9.BIOC.GWAS.BAYES
+gwascat,2.28.1,"R (>= 3.5.0), methods",Artistic-2.0,10.18129/B9.BIOC.GWASCAT
+GWASTools,1.42.0,Biobase,Artistic-2.0,10.18129/B9.BIOC.GWASTOOLS
+gwasurvivr,1.14.0,R (>= 3.4.0),Artistic-2.0,10.18129/B9.BIOC.GWASURVIVR
+GWENA,1.6.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.GWENA
+h5vc,2.30.0,"grid, gridExtra, ggplot2",GPL (>= 3),10.18129/B9.BIOC.H5VC
+hapFabia,1.38.0,"R (>= 3.6.0), Biobase, fabia (>= 2.3.1)",LGPL (>= 2.1),10.18129/B9.BIOC.HAPFABIA
+Harman,1.24.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.HARMAN
+Harshlight,1.68.0,R (>= 2.10),GPL (>= 2),10.18129/B9.BIOC.HARSHLIGHT
+hca,1.4.3,R (>= 4.1),MIT,10.18129/B9.BIOC.HCA
+HDF5Array,1.24.1,"R (>= 3.4), methods, DelayedArray (>= 0.15.16), rhdf5 (>=
+2.31.6)",Artistic-2.0,10.18129/B9.BIOC.HDF5ARRAY
+HDTD,1.30.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.HDTD
+heatmaps,1.20.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.HEATMAPS
+Heatplus,3.4.0,NA,GPL (>= 2),10.18129/B9.BIOC.HEATPLUS
+HelloRanges,1.22.0,"methods, BiocGenerics, S4Vectors (>= 0.17.39), IRanges (>=
+2.13.12), GenomicRanges (>= 1.31.10), Biostrings (>= 2.41.3),
+BSgenome, GenomicFeatures (>= 1.31.5), VariantAnnotation (>=
+1.19.3), Rsamtools, GenomicAlignments (>= 1.15.7), rtracklayer
+(>= 1.33.8), GenomeInfoDb, SummarizedExperiment, BiocIO",GPL (>= 2),10.18129/B9.BIOC.HELLORANGES
+HELP,1.54.0,"R (>= 2.8.0), stats, graphics, grDevices, Biobase, methods",GPL (>= 2),10.18129/B9.BIOC.HELP
+HEM,1.68.0,R (>= 2.1.0),GPL (>= 2),10.18129/B9.BIOC.HEM
+hermes,1.0.1,"ggfortify, R (>= 4.1), SummarizedExperiment (>= 1.16)",Apache License 2.0,10.18129/B9.BIOC.HERMES
+HGC,1.4.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.HGC
+hiAnnotator,1.30.0,"GenomicRanges, R (>= 2.10)",GPL (>= 2),10.18129/B9.BIOC.HIANNOTATOR
+HIBAG,1.32.0,R (>= 3.2.0),GPL-3,10.18129/B9.BIOC.HIBAG
+HiCBricks,1.14.0,"R (>= 3.6), utils, curl, rhdf5, R6, grid",MIT,10.18129/B9.BIOC.HICBRICKS
+HiCcompare,1.18.0,"R (>= 3.5.0), dplyr",MIT,10.18129/B9.BIOC.HICCOMPARE
+HiCDCPlus,1.4.2,NA,GPL-3,10.18129/B9.BIOC.HICDCPLUS
+hierGWAS,1.26.0,R (>= 3.2.0),GPL-3,10.18129/B9.BIOC.HIERGWAS
+hierinf,1.14.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.HIERINF
+HilbertCurve,1.26.0,"R (>= 3.6.0), grid",MIT,10.18129/B9.BIOC.HILBERTCURVE
+HilbertVis,1.54.0,"R (>= 2.6.0), grid, lattice",GPL (>= 3),10.18129/B9.BIOC.HILBERTVIS
+HilbertVisGUI,1.54.0,"R (>= 2.6.0), HilbertVis (>= 1.1.6)",GPL (>= 3),10.18129/B9.BIOC.HILBERTVISGUI
+HiLDA,1.10.0,"R(>= 4.1), ggplot2",GPL-3,10.18129/B9.BIOC.HILDA
+hipathia,2.12.0,"R (>= 3.6), igraph (>= 1.0.1), AnnotationHub(>= 2.6.5),
+MultiAssayExperiment(>= 1.4.9), SummarizedExperiment(>= 1.8.1)",GPL-2,10.18129/B9.BIOC.HIPATHIA
+HIPPO,1.8.0,R (>= 3.6.0),GPL (>= 2),10.18129/B9.BIOC.HIPPO
+hiReadsProcessor,1.32.0,"R (>= 3.5.0), Biostrings, GenomicAlignments, BiocParallel,
+hiAnnotator",GPL-3,10.18129/B9.BIOC.HIREADSPROCESSOR
+HIREewas,1.14.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.HIREEWAS
+HiTC,1.40.0,"R (>= 2.15.0), methods, IRanges, GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.HITC
+hmdbQuery,1.16.0,"R (>= 3.5), XML",Artistic-2.0,10.18129/B9.BIOC.HMDBQUERY
+HMMcopy,1.38.0,"R (>= 2.10.0), data.table (>= 1.11.8)",GPL-3,10.18129/B9.BIOC.HMMCOPY
+hopach,2.56.0,"R (>= 2.11.0), cluster, Biobase, methods",GPL (>= 2),10.18129/B9.BIOC.HOPACH
+HPAanalyze,1.14.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.HPAANALYZE
+hpar,1.38.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.HPAR
+HPAStainR,1.6.0,"R (>= 4.1.0), dplyr, tidyr",Artistic-2.0,10.18129/B9.BIOC.HPASTAINR
+HPiP,1.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.HPIP
+HTqPCR,1.50.0,"Biobase, RColorBrewer, limma",Artistic-2.0,10.18129/B9.BIOC.HTQPCR
+HTSeqGenie,4.25.1,"R (>= 3.5.0), gmapR (>= 1.8.0), ShortRead (>= 1.19.13),
+VariantAnnotation (>= 1.8.3)",Artistic-2.0,10.18129/B9.BIOC.HTSEQGENIE
+HTSFilter,1.36.0,R (>= 4.0.0),Artistic-2.0,10.18129/B9.BIOC.HTSFILTER
+HubPub,1.4.0,NA,Artistic-2.0,10.18129/B9.BIOC.HUBPUB
+HumanTranscriptomeCompendium,1.12.0,R (>= 3.6),Artistic-2.0,10.18129/B9.BIOC.HUMANTRANSCRIPTOMECOMPENDIUM
+hummingbird,1.6.0,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.HUMMINGBIRD
+HybridMTest,1.40.0,"R (>= 2.9.0), Biobase, fdrtool, MASS, survival",GPL (>= 2),10.18129/B9.BIOC.HYBRIDMTEST
+hypeR,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.HYPER
+hyperdraw,1.48.0,R (>= 2.9.0),GPL (>= 2),10.18129/B9.BIOC.HYPERDRAW
+hypergraph,1.68.0,"R (>= 2.1.0), methods, utils, graph",Artistic-2.0,10.18129/B9.BIOC.HYPERGRAPH
+iASeq,1.40.0,R (>= 2.14.1),GPL-2,10.18129/B9.BIOC.IASEQ
+iasva,1.14.0,"R (>= 3.5),",GPL-2,10.18129/B9.BIOC.IASVA
+iBBiG,1.40.0,biclust,Artistic-2.0,10.18129/B9.BIOC.IBBIG
+ibh,1.44.0,simpIntLists,GPL (>= 2),10.18129/B9.BIOC.IBH
+iBMQ,1.36.0,"R(>= 2.15.0),Biobase (>= 2.16.0), ggplot2 (>= 0.9.2)",Artistic-2.0,10.18129/B9.BIOC.IBMQ
+iCARE,1.24.0,"R (>= 3.3.0), plotrix, gtools, Hmisc",GPL-3,10.18129/B9.BIOC.ICARE
+Icens,1.68.0,survival,Artistic-2.0,10.18129/B9.BIOC.ICENS
+icetea,1.14.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.ICETEA
+iCheck,1.26.0,"R (>= 3.2.0), Biobase, lumi, gplots",GPL (>= 2),10.18129/B9.BIOC.ICHECK
+iChip,1.50.0,R (>= 2.10.0),GPL (>= 2),10.18129/B9.BIOC.ICHIP
+iClusterPlus,1.32.0,"R (>= 3.3.0), parallel",GPL (>= 2),10.18129/B9.BIOC.ICLUSTERPLUS
+iCNV,1.16.0,"R (>= 3.3.1), CODEX",GPL-2,10.18129/B9.BIOC.ICNV
+iCOBRA,1.24.1,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.ICOBRA
+ideal,1.20.0,topGO,MIT,10.18129/B9.BIOC.IDEAL
+IdeoViz,1.32.0,"R (>= 3.5.0), Biobase, IRanges, GenomicRanges, RColorBrewer,
+rtracklayer, graphics, GenomeInfoDb",GPL-2,10.18129/B9.BIOC.IDEOVIZ
+idiogram,1.72.0,"R (>= 2.10), methods, Biobase, annotate, plotrix",GPL-2,10.18129/B9.BIOC.IDIOGRAM
+idpr,1.6.0,R (>= 4.1.0),LGPL-3,10.18129/B9.BIOC.IDPR
+idr2d,1.10.0,R (>= 3.6),MIT,10.18129/B9.BIOC.IDR2D
+iGC,1.26.0,R (>= 3.2.0),GPL-2,10.18129/B9.BIOC.IGC
+igvR,1.16.0,"R (>= 3.5.0), GenomicRanges, GenomicAlignments, BrowserViz (>=
+2.17.1)",MIT,10.18129/B9.BIOC.IGVR
+IHW,1.24.0,R (>= 3.3.0),Artistic-2.0,10.18129/B9.BIOC.IHW
+illuminaio,0.38.0,NA,GPL-2,10.18129/B9.BIOC.ILLUMINAIO
+ILoReg,1.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.ILOREG
+imageHTS,1.45.1,"R (>= 2.9.0), EBImage (>= 4.3.12), cellHTS2 (>= 2.10.0)",LGPL-2.1,10.18129/B9.BIOC.IMAGEHTS
+IMAS,1.20.0,"R (> 3.0.0),GenomicFeatures, ggplot2, IVAS",GPL-2,10.18129/B9.BIOC.IMAS
+imcRtools,1.2.3,"R (>= 4.1), SpatialExperiment",GPL-3,10.18129/B9.BIOC.IMCRTOOLS
+IMMAN,1.16.0,NA,Artistic-2.0,10.18129/B9.BIOC.IMMAN
+ImmuneSpaceR,1.24.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.IMMUNESPACER
+immunoClust,1.28.0,"R(>= 3.6), flowCore",Artistic-2.0,10.18129/B9.BIOC.IMMUNOCLUST
+immunotation,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.IMMUNOTATION
+impute,1.70.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.IMPUTE
+INDEED,2.10.0,"glasso (>= 1.8), R (>= 3.5)",Artistic-2.0,10.18129/B9.BIOC.INDEED
+infercnv,1.12.0,R(>= 4.0),BSD_3_clause,10.18129/B9.BIOC.INFERCNV
+infinityFlow,1.6.0,"R (>= 4.0.0), flowCore",GPL-3,10.18129/B9.BIOC.INFINITYFLOW
+Informeasure,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.INFORMEASURE
+InPAS,2.4.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.INPAS
+INPower,1.32.0,"R (>= 3.1.0), mvtnorm",GPL-2,10.18129/B9.BIOC.INPOWER
+INSPEcT,1.26.0,"R (>= 3.6), methods, Biobase, BiocParallel",GPL-2,10.18129/B9.BIOC.INSPECT
+InTAD,1.16.0,"R (>= 3.5), methods, S4Vectors, IRanges, GenomicRanges,
+MultiAssayExperiment, SummarizedExperiment,stats",GPL (>= 2),10.18129/B9.BIOC.INTAD
+intansv,1.36.0,"R (>= 2.14.0), plyr, ggbio, GenomicRanges",MIT,10.18129/B9.BIOC.INTANSV
+interacCircos,1.6.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.INTERACCIRCOS
+InteractionSet,1.24.0,"GenomicRanges, SummarizedExperiment",GPL-3,10.18129/B9.BIOC.INTERACTIONSET
+InteractiveComplexHeatmap,1.4.0,"R (>= 4.0.0), ComplexHeatmap (>= 2.11.0)",MIT,10.18129/B9.BIOC.INTERACTIVECOMPLEXHEATMAP
+interactiveDisplay,1.34.0,"R (>= 3.5.0), methods, BiocGenerics, grid",Artistic-2.0,10.18129/B9.BIOC.INTERACTIVEDISPLAY
+interactiveDisplayBase,1.34.0,"R (>= 2.10), methods, BiocGenerics",Artistic-2.0,10.18129/B9.BIOC.INTERACTIVEDISPLAYBASE
+InterCellar,2.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.INTERCELLAR
+IntEREst,1.20.0,"R (>= 3.5.0), GenomicRanges, Rsamtools, SummarizedExperiment,
+edgeR, S4Vectors",GPL-2,10.18129/B9.BIOC.INTEREST
+InterMineR,1.18.0,R (>= 3.4.1),LGPL,10.18129/B9.BIOC.INTERMINER
+IntramiRExploreR,1.18.0,R (>= 3.4),GPL-2,10.18129/B9.BIOC.INTRAMIREXPLORER
+inveRsion,1.43.0,"methods, haplo.stats",GPL (>= 2),10.18129/B9.BIOC.INVERSION
+IONiseR,2.20.0,R (>= 3.4),MIT,10.18129/B9.BIOC.IONISER
+iPAC,1.40.0,"R(>= 2.15),gdata, scatterplot3d, Biostrings, multtest",GPL-2,10.18129/B9.BIOC.IPAC
+iPath,1.2.0,"R (>= 4.1), mclust, BiocParallel, survival",GPL-2,10.18129/B9.BIOC.IPATH
+ipdDb,1.14.0,"R (>= 3.5.0), methods, AnnotationDbi (>= 1.43.1),
+AnnotationHub",Artistic-2.0,10.18129/B9.BIOC.IPDDB
+IPO,1.21.0,"xcms (>= 1.50.0), rsm, CAMERA, grDevices, graphics, stats,
+utils",GPL (>= 2),10.18129/B9.BIOC.IPO
+IRanges,2.30.0,"R (>= 4.0.0), methods, utils, stats, BiocGenerics (>= 0.39.2),
+S4Vectors (>= 0.33.3)",Artistic-2.0,10.18129/B9.BIOC.IRANGES
+IRISFGM,1.4.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.IRISFGM
+ISAnalytics,1.6.2,"R (>= 4.2), magrittr",CC BY 4.0,10.18129/B9.BIOC.ISANALYTICS
+iSEE,2.8.0,"SummarizedExperiment, SingleCellExperiment",MIT,10.18129/B9.BIOC.ISEE
+iSEEu,1.8.0,iSEE,MIT,10.18129/B9.BIOC.ISEEU
+iSeq,1.48.0,R (>= 2.10.0),GPL (>= 2),10.18129/B9.BIOC.ISEQ
+isobar,1.42.0,"R (>= 2.10.0), Biobase, stats, methods",LGPL-2,10.18129/B9.BIOC.ISOBAR
+IsoCorrectoR,1.14.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.ISOCORRECTOR
+IsoCorrectoRGUI,1.12.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.ISOCORRECTORGUI
+IsoformSwitchAnalyzeR,1.18.0,"R (>= 3.6), limma, DEXSeq, ggplot2",GPL (>= 2),10.18129/B9.BIOC.ISOFORMSWITCHANALYZER
+IsoGeneGUI,2.31.0,"tcltk, xlsx",GPL-2,10.18129/B9.BIOC.ISOGENEGUI
+ISoLDE,1.24.0,"R (>= 3.3.0),graphics,grDevices,stats,utils",GPL (>= 2.0),10.18129/B9.BIOC.ISOLDE
+isomiRs,1.24.0,"R (>= 3.5), DiscriMiner, SummarizedExperiment",MIT,10.18129/B9.BIOC.ISOMIRS
+ITALICS,2.56.0,"R (>= 2.0.0), GLAD, ITALICSData, oligo, affxparser,
+pd.mapping50k.xba240",GPL-2,10.18129/B9.BIOC.ITALICS
+iterativeBMA,1.54.0,"BMA, leaps, Biobase (>= 2.5.5)",GPL (>= 2),10.18129/B9.BIOC.ITERATIVEBMA
+iterativeBMAsurv,1.54.0,"BMA, leaps, survival, splines",GPL (>= 2),10.18129/B9.BIOC.ITERATIVEBMASURV
+iteremoval,1.15.1,"R (>= 3.5.0), ggplot2 (>= 2.2.1)",GPL-2,10.18129/B9.BIOC.ITEREMOVAL
+IVAS,2.16.0,"R (> 3.0.0),GenomicFeatures, ggplot2, Biobase",GPL-2,10.18129/B9.BIOC.IVAS
+ivygapSE,1.18.0,"R (>= 3.5.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.IVYGAPSE
+IWTomics,1.20.0,"R (>= 3.5.0), GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.IWTOMICS
+karyoploteR,1.22.0,"R (>= 3.4), regioneR, GenomicRanges, methods",Artistic-2.0,10.18129/B9.BIOC.KARYOPLOTER
+KBoost,1.4.0,"R (>= 4.1), stats, utils",GPL-2,10.18129/B9.BIOC.KBOOST
+KCsmart,2.54.0,"siggenes, multtest, KernSmooth",GPL-3,10.18129/B9.BIOC.KCSMART
+kebabs,1.30.0,"R (>= 3.3.0), Biostrings (>= 2.35.5), kernlab",GPL (>= 2.1),10.18129/B9.BIOC.KEBABS
+KEGGgraph,1.56.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.KEGGGRAPH
+KEGGlincs,1.22.0,"R (>= 3.3), KOdata, hgu133a.db, org.Hs.eg.db (>= 3.3.0)",GPL-3,10.18129/B9.BIOC.KEGGLINCS
+keggorthology,2.48.0,"R (>= 2.5.0),stats,graph,hgu95av2.db",Artistic-2.0,10.18129/B9.BIOC.KEGGORTHOLOGY
+KEGGREST,1.36.3,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.KEGGREST
+KinSwingR,1.14.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.KINSWINGR
+kissDE,1.16.0,NA,GPL (>= 2),10.18129/B9.BIOC.KISSDE
+KnowSeq,1.10.2,"R (>= 4.0), cqn (>= 1.28.1)",GPL (>= 2),10.18129/B9.BIOC.KNOWSEQ
+lapmix,1.62.0,"R (>= 2.6.0),stats",GPL (>= 2),10.18129/B9.BIOC.LAPMIX
+LBE,1.64.0,stats,GPL-2,10.18129/B9.BIOC.LBE
+ldblock,1.26.0,"R (>= 3.5), methods",Artistic-2.0,10.18129/B9.BIOC.LDBLOCK
+LEA,3.8.0,"R (>= 3.3.0), methods, stats, utils, graphics",GPL-3,10.18129/B9.BIOC.LEA
+LedPred,1.30.0,"R (>= 3.2.0), e1071 (>= 1.6)",MIT,10.18129/B9.BIOC.LEDPRED
+lefser,1.6.0,"SummarizedExperiment, R (>= 4.0.0)",Artistic-2.0,10.18129/B9.BIOC.LEFSER
+les,1.46.0,"R (>= 2.13.2), methods, graphics, fdrtool",GPL-3,10.18129/B9.BIOC.LES
+levi,1.14.0,NA,GPL (>= 2),10.18129/B9.BIOC.LEVI
+lfa,1.26.0,R (>= 3.2),GPL-3,10.18129/B9.BIOC.LFA
+limma,3.52.2,R (>= 3.6.0),GPL (>= 2),10.18129/B9.BIOC.LIMMA
+limmaGUI,1.72.0,NA,GPL (>= 2),10.18129/B9.BIOC.LIMMAGUI
+LineagePulse,1.16.0,NA,Artistic-2.0,10.18129/B9.BIOC.LINEAGEPULSE
+lineagespot,1.0.0,NA,MIT,10.18129/B9.BIOC.LINEAGESPOT
+LinkHD,1.10.0,"R(>= 3.6.0), methods, ggplot2, stats",GPL-3,10.18129/B9.BIOC.LINKHD
+Linnorm,2.20.0,R(>= 4.1.0),MIT,10.18129/B9.BIOC.LINNORM
+LinTInd,1.0.0,"R (>= 4.0), ggplot2, parallel, stats, S4Vectors",MIT,10.18129/B9.BIOC.LINTIND
+lionessR,1.10.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.LIONESSR
+lipidr,2.10.0,"R (>= 3.6.0), SummarizedExperiment",MIT,10.18129/B9.BIOC.LIPIDR
+LiquidAssociation,1.50.0,"geepack, methods, yeastCC, org.Sc.sgd.db",GPL (>= 3),10.18129/B9.BIOC.LIQUIDASSOCIATION
+lisaClust,1.4.0,R (>= 4.1),GPL (>= 2),10.18129/B9.BIOC.LISACLUST
+lmdme,1.38.0,"R (>= 2.14.1), pls, stemHypoxia",GPL (>= 2),10.18129/B9.BIOC.LMDME
+LOBSTAHS,1.22.0,"R (>= 3.4), xcms, CAMERA, methods",GPL (>= 3),10.18129/B9.BIOC.LOBSTAHS
+loci2path,1.16.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.LOCI2PATH
+logicFS,2.16.0,"LogicReg, mcbiopi, survival",LGPL (>= 2),10.18129/B9.BIOC.LOGICFS
+logitT,1.54.0,affy,GPL (>= 2),10.18129/B9.BIOC.LOGITT
+LOLA,1.26.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.LOLA
+LoomExperiment,1.14.0,"R (>= 3.5.0), S4Vectors, SingleCellExperiment,
+SummarizedExperiment, methods, rhdf5, BiocIO",Artistic-2.0,10.18129/B9.BIOC.LOOMEXPERIMENT
+LowMACA,1.25.0,R (>= 2.10),GPL-3,10.18129/B9.BIOC.LOWMACA
+LPE,1.70.0,R (>= 2.10),LGPL,10.18129/B9.BIOC.LPE
+LPEadj,1.56.0,LPE,LGPL,10.18129/B9.BIOC.LPEADJ
+lpNet,2.28.0,lpSolve,Artistic License 2.0,10.18129/B9.BIOC.LPNET
+lpsymphony,1.24.0,R (>= 3.0.0),EPL,10.18129/B9.BIOC.LPSYMPHONY
+LRBaseDbi,2.6.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.LRBASEDBI
+LRcell,1.4.0,"R (>= 4.1), ExperimentHub, AnnotationHub",MIT,10.18129/B9.BIOC.LRCELL
+lumi,2.48.0,"R (>= 2.10), Biobase (>= 2.5.5)",LGPL (>= 2),10.18129/B9.BIOC.LUMI
+LymphoSeq,1.24.0,"R (>= 3.3), LymphoSeqDB",Artistic-2.0,10.18129/B9.BIOC.LYMPHOSEQ
+M3C,1.18.0,R (>= 3.5.0),AGPL-3,10.18129/B9.BIOC.M3C
+M3Drop,1.22.0,"R (>= 3.4), numDeriv",GPL (>= 2),10.18129/B9.BIOC.M3DROP
+m6Aboost,1.2.0,"S4Vectors, adabag, GenomicRanges, R (>= 4.1)",Artistic-2.0,10.18129/B9.BIOC.M6ABOOST
+maanova,1.66.0,R (>= 2.10),GPL (>= 2),10.18129/B9.BIOC.MAANOVA
+Maaslin2,1.10.0,R (>= 3.6),MIT,10.18129/B9.BIOC.MAASLIN2
+Macarron,1.0.0,"R (>= 4.2.0), SummarizedExperiment",MIT,10.18129/B9.BIOC.MACARRON
+macat,1.70.0,"Biobase, annotate",Artistic-2.0,10.18129/B9.BIOC.MACAT
+maCorrPlot,1.66.0,lattice,GPL (>= 2),10.18129/B9.BIOC.MACORRPLOT
+MACPET,1.15.1,"R (>= 3.6.1), InteractionSet (>= 1.13.0), bigmemory (>=
+4.5.33), BH (>= 1.66.0.1), Rcpp (>= 1.0.1)",GPL-3,10.18129/B9.BIOC.MACPET
+MACSQuantifyR,1.10.0,NA,Artistic-2.0,10.18129/B9.BIOC.MACSQUANTIFYR
+MACSr,1.4.0,R (>= 4.1.0),BSD_3_clause,10.18129/B9.BIOC.MACSR
+made4,1.70.0,"RColorBrewer,gplots,scatterplot3d, Biobase,
+SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.MADE4
+MADSEQ,1.22.0,"R (>= 3.5.0), rjags (>= 4.6)",GPL (>= 2),10.18129/B9.BIOC.MADSEQ
+maftools,2.12.0,R (>= 3.3),MIT,10.18129/B9.BIOC.MAFTOOLS
+MAGAR,1.4.0,"R (>= 4.1), HDF5Array, RnBeads, snpStats, crlmm",GPL-3,10.18129/B9.BIOC.MAGAR
+MAGeCKFlute,2.0.0,R (>= 4.1),GPL (>= 3),10.18129/B9.BIOC.MAGECKFLUTE
+MAI,1.2.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.MAI
+maigesPack,1.60.0,"R (>= 2.10), convert, graph, limma, marray, methods",GPL (>= 2),10.18129/B9.BIOC.MAIGESPACK
+MAIT,1.30.0,"R (>= 2.10), CAMERA, Rcpp, pls",GPL-2,10.18129/B9.BIOC.MAIT
+makecdfenv,1.72.0,"R (>= 2.6.0), affyio",GPL (>= 2),10.18129/B9.BIOC.MAKECDFENV
+MANOR,1.68.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.MANOR
+MantelCorr,1.66.0,R (>= 2.10),GPL (>= 2),10.18129/B9.BIOC.MANTELCORR
+mAPKL,1.26.0,"R (>= 3.6.0), Biobase",GPL (>= 2),10.18129/B9.BIOC.MAPKL
+maPredictDSC,1.34.0,"R (>= 2.15.0),
+MASS,affy,limma,gcrma,ROC,class,e1071,caret,hgu133plus2.db,ROCR,AnnotationDbi,LungCancerACvsSCCGEO",GPL-2,10.18129/B9.BIOC.MAPREDICTDSC
+mapscape,1.20.0,R (>= 3.3),GPL-3,10.18129/B9.BIOC.MAPSCAPE
+marr,1.6.0,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.MARR
+marray,1.74.0,"R (>= 2.10.0), limma, methods",LGPL,10.18129/B9.BIOC.MARRAY
+martini,1.16.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.MARTINI
+maser,1.14.0,"R (>= 3.5.0), ggplot2, GenomicRanges",MIT,10.18129/B9.BIOC.MASER
+maSigPro,1.68.0,R (>= 2.3.1),GPL (>= 2),10.18129/B9.BIOC.MASIGPRO
+maskBAD,1.40.0,"R (>= 2.10), gcrma (>= 2.27.1), affy",GPL (>= 2),10.18129/B9.BIOC.MASKBAD
+MassArray,1.48.0,"R (>= 2.10.0), methods",GPL (>= 2),10.18129/B9.BIOC.MASSARRAY
+massiR,1.32.0,"cluster, gplots, diptest, Biobase, R (>= 3.0.2)",GPL-3,10.18129/B9.BIOC.MASSIR
+MassSpecWavelet,1.62.0,NA,LGPL (>= 2),10.18129/B9.BIOC.MASSSPECWAVELET
+MAST,1.22.0,"SingleCellExperiment (>= 1.2.0), R(>= 3.5)",GPL (>= 2),10.18129/B9.BIOC.MAST
+matchBox,1.38.0,R (>= 2.8.0),Artistic-2.0,10.18129/B9.BIOC.MATCHBOX
+MatrixGenerics,1.8.1,matrixStats (>= 0.60.1),Artistic-2.0,10.18129/B9.BIOC.MATRIXGENERICS
+MatrixQCvis,1.4.0,"SummarizedExperiment (>= 1.20.0), plotly (>= 4.9.3), shiny (>=
+1.6.0)",GPL (>= 3),10.18129/B9.BIOC.MATRIXQCVIS
+MatrixRider,1.28.0,R (>= 3.1.2),GPL-3,10.18129/B9.BIOC.MATRIXRIDER
+matter,1.22.0,"R (>= 3.5), BiocParallel, Matrix, methods, stats, biglm",Artistic-2.0,10.18129/B9.BIOC.MATTER
+MBAmethyl,1.30.0,R (>= 2.15),Artistic-2.0,10.18129/B9.BIOC.MBAMETHYL
+MBASED,1.30.0,"RUnit, BiocGenerics, BiocParallel, GenomicRanges,
+SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.MBASED
+MBCB,1.50.0,"R (>= 2.9.0), tcltk, tcltk2",GPL (>= 2),10.18129/B9.BIOC.MBCB
+MBECS,1.0.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.MBECS
+mbkmeans,1.12.0,R (>= 3.6),MIT,10.18129/B9.BIOC.MBKMEANS
+mbOmic,1.0.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.MBOMIC
+mBPCR,1.50.0,"oligoClasses, GWASTools",GPL (>= 2),10.18129/B9.BIOC.MBPCR
+MBQN,2.8.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.MBQN
+MBttest,1.24.0,"R (>= 3.3.0), stats, gplots, gtools,graphics,base,
+utils,grDevices",GPL-3,10.18129/B9.BIOC.MBTTEST
+MCbiclust,1.20.0,R (>= 3.4),GPL-2,10.18129/B9.BIOC.MCBICLUST
+mCSEA,1.16.0,"R (>= 3.5), mCSEAdata, Homo.sapiens",GPL-2,10.18129/B9.BIOC.MCSEA
+mdp,1.16.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.MDP
+mdqc,1.58.0,"R (>= 2.2.1), cluster, MASS",LGPL (>= 2),10.18129/B9.BIOC.MDQC
+MDTS,1.16.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.MDTS
+MEAL,1.26.0,"R (>= 3.6.0), Biobase, MultiDataSet",Artistic-2.0,10.18129/B9.BIOC.MEAL
+MeasurementError.cor,1.68.0,NA,LGPL,10.18129/B9.BIOC.MEASUREMENTERROR.COR
+MEAT,1.8.0,R (>= 4.0),MIT,10.18129/B9.BIOC.MEAT
+MEB,1.10.0,R (>= 3.6.0),GPL-2,10.18129/B9.BIOC.MEB
+MEDIPS,1.48.0,"R (>= 3.0), BSgenome, Rsamtools",GPL (>= 2),10.18129/B9.BIOC.MEDIPS
+MEDME,1.56.0,"R (>= 2.15), grDevices, graphics, methods, stats, utils",GPL (>= 2),10.18129/B9.BIOC.MEDME
+megadepth,1.6.0,NA,Artistic-2.0,10.18129/B9.BIOC.MEGADEPTH
+MEIGOR,1.30.0,"Rsolnp, snowfall, CNORode, deSolve",GPL-3,10.18129/B9.BIOC.MEIGOR
+Melissa,1.12.0,"R (>= 3.5.0), BPRMeth, GenomicRanges",GPL-3,10.18129/B9.BIOC.MELISSA
+memes,1.4.1,R (>= 4.1),MIT,10.18129/B9.BIOC.MEMES
+Mergeomics,1.24.0,R (>= 3.0.1),GPL (>= 2),10.18129/B9.BIOC.MERGEOMICS
+MeSHDbi,1.32.0,R (>= 3.0.1),Artistic-2.0,10.18129/B9.BIOC.MESHDBI
+meshes,1.22.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.MESHES
+meshr,2.2.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.MESHR
+MesKit,1.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.MESKIT
+messina,1.32.0,"R (>= 3.1.0), survival (>= 2.37-4), methods",EPL (>= 1.0),10.18129/B9.BIOC.MESSINA
+Metab,1.30.0,"xcms, R (>= 3.0.1), svDialogs",GPL (>= 2),10.18129/B9.BIOC.METAB
+metabCombiner,1.6.0,"R (>= 4.0), dplyr (>= 1.0)",GPL-3,10.18129/B9.BIOC.METABCOMBINER
+MetaboAnnotation,1.0.0,R (>= 4.0.0),Artistic-2.0,10.18129/B9.BIOC.METABOANNOTATION
+MetaboCoreUtils,1.4.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.METABOCOREUTILS
+metabolomicsWorkbenchR,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.METABOLOMICSWORKBENCHR
+metabomxtr,1.30.0,"methods,Biobase",GPL-2,10.18129/B9.BIOC.METABOMXTR
+MetaboSignal,1.26.1,R(>= 3.3),GPL-3,10.18129/B9.BIOC.METABOSIGNAL
+metaCCA,1.24.0,NA,MIT,10.18129/B9.BIOC.METACCA
+MetaCyto,1.18.0,R (>= 3.4),GPL (>= 2),10.18129/B9.BIOC.METACYTO
+metagene,2.28.0,"R (>= 3.5.0), R6 (>= 2.0), GenomicRanges, BiocParallel",Artistic-2.0,10.18129/B9.BIOC.METAGENE
+metagene2,1.12.0,"R (>= 4.0), R6 (>= 2.0), GenomicRanges, BiocParallel",Artistic-2.0,10.18129/B9.BIOC.METAGENE2
+metagenomeSeq,1.38.0,"R(>= 3.0), Biobase, limma, glmnet, methods, RColorBrewer",Artistic-2.0,10.18129/B9.BIOC.METAGENOMESEQ
+metahdep,1.54.0,"R (>= 2.10), methods",GPL-3,10.18129/B9.BIOC.METAHDEP
+metaMS,1.32.0,"R (>= 4.0), methods, CAMERA, xcms (>= 1.35)",GPL (>= 2),10.18129/B9.BIOC.METAMS
+MetaNeighbor,1.16.0,R(>= 3.5),MIT,10.18129/B9.BIOC.METANEIGHBOR
+metapod,1.4.0,NA,GPL-3,10.18129/B9.BIOC.METAPOD
+metapone,1.2.0,"R (>= 4.1.0), BiocParallel, fields, markdown, fdrtool, fgsea,
+ggplot2, ggrepel",Artistic-2.0,10.18129/B9.BIOC.METAPONE
+metaSeq,1.36.0,"R (>= 2.13.0), NOISeq, snow, Rcpp",Artistic-2.0,10.18129/B9.BIOC.METASEQ
+metaseqR2,1.8.2,"R (>= 4.0.0), DESeq2, limma, locfit, splines",GPL (>= 3),10.18129/B9.BIOC.METASEQR2
+metavizr,1.20.0,"R (>= 3.4), metagenomeSeq (>= 1.17.1), methods, data.table,
+Biobase, digest",MIT,10.18129/B9.BIOC.METAVIZR
+MetaVolcanoR,1.10.0,R (>= 4.1.1),GPL-3,10.18129/B9.BIOC.METAVOLCANOR
+MetCirc,1.26.0,"R (>= 3.5), amap (>= 0.8), circlize (>= 0.3.9), scales (>=
+0.3.0), shiny (>= 1.0.0), MSnbase (>= 2.15.3),",GPL (>= 3),10.18129/B9.BIOC.METCIRC
+methimpute,1.18.0,"R (>= 3.5.0), GenomicRanges, ggplot2",Artistic-2.0,10.18129/B9.BIOC.METHIMPUTE
+methInheritSim,1.18.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.METHINHERITSIM
+MethPed,1.24.0,"R (>= 3.0.0), Biobase",GPL-2,10.18129/B9.BIOC.METHPED
+MethReg,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.METHREG
+methrix,1.10.0,"R (>= 3.6), data.table (>= 1.12.4), SummarizedExperiment",MIT,10.18129/B9.BIOC.METHRIX
+MethTargetedNGS,1.28.0,"R (>= 3.1.2), stringr, seqinr, gplots, Biostrings",Artistic-2.0,10.18129/B9.BIOC.METHTARGETEDNGS
+MethylAid,1.30.0,R (>= 3.4),GPL (>= 2),10.18129/B9.BIOC.METHYLAID
+methylCC,1.10.0,"R (>= 3.6), FlowSorted.Blood.450k",CC BY 4.0,10.18129/B9.BIOC.METHYLCC
+methylclock,1.2.1,"R (>= 4.1.0), methylclockData, devtools, quadprog",MIT,10.18129/B9.BIOC.METHYLCLOCK
+methylGSA,1.14.0,R (>= 3.5),GPL-2,10.18129/B9.BIOC.METHYLGSA
+methylInheritance,1.20.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.METHYLINHERITANCE
+methylKit,1.22.0,"R (>= 3.5.0), GenomicRanges (>= 1.18.1), methods",Artistic-2.0,10.18129/B9.BIOC.METHYLKIT
+MethylMix,2.26.0,R (>= 3.2.0),GPL-2,10.18129/B9.BIOC.METHYLMIX
+methylMnM,1.34.0,"R (>= 2.12.1), edgeR, statmod",GPL-3,10.18129/B9.BIOC.METHYLMNM
+methylPipe,1.30.0,"R (>= 3.5.0), methods, grDevices, graphics, stats, utils,
+GenomicRanges, SummarizedExperiment (>= 0.2.0), Rsamtools",GPL (>= 2),10.18129/B9.BIOC.METHYLPIPE
+methylscaper,1.4.0,R (>= 4.1.0),GPL-2,10.18129/B9.BIOC.METHYLSCAPER
+MethylSeekR,1.36.0,"rtracklayer (>= 1.16.3), parallel (>= 2.15.1), mhsmm (>=
+0.4.4)",GPL (>= 2),10.18129/B9.BIOC.METHYLSEEKR
+methylSig,1.8.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.METHYLSIG
+methylumi,2.42.0,"Biobase, methods, R (>= 2.13), scales, reshape2, ggplot2,
+matrixStats, FDb.InfiniumMethylation.hg19 (>= 2.2.0), minfi",GPL-2,10.18129/B9.BIOC.METHYLUMI
+MetID,1.14.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.METID
+MetNet,1.14.0,"R (>= 4.0), S4Vectors (>= 0.28.1), SummarizedExperiment (>=
+1.20.0)",GPL (>= 3),10.18129/B9.BIOC.METNET
+mfa,1.18.0,R (>= 3.4.0),GPL (>= 2),10.18129/B9.BIOC.MFA
+Mfuzz,2.56.0,"R (>= 2.5.0), Biobase (>= 2.5.5), e1071",GPL-2,10.18129/B9.BIOC.MFUZZ
+MGFM,1.30.0,"AnnotationDbi,annotate",GPL-3,10.18129/B9.BIOC.MGFM
+MGFR,1.22.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.MGFR
+mgsa,1.44.0,"R (>= 2.14.0), methods, gplots",Artistic-2.0,10.18129/B9.BIOC.MGSA
+mia,1.4.0,"R (>= 4.0), SummarizedExperiment, SingleCellExperiment,
+TreeSummarizedExperiment (>= 1.99.3), MultiAssayExperiment",Artistic-2.0,10.18129/B9.BIOC.MIA
+miaSim,1.2.0,"SummarizedExperiment, TreeSummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.MIASIM
+miaViz,1.4.0,"R (>= 4.0), SummarizedExperiment, TreeSummarizedExperiment,
+mia (>= 0.99), ggplot2, ggraph (>= 2.0)",Artistic-2.0,10.18129/B9.BIOC.MIAVIZ
+MiChip,1.50.0,"R (>= 2.3.0), Biobase",GPL (>= 2),10.18129/B9.BIOC.MICHIP
+microbiome,1.18.0,"R (>= 3.6.0), phyloseq, ggplot2",BSD_2_clause,10.18129/B9.BIOC.MICROBIOME
+microbiomeDASim,1.10.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.MICROBIOMEDASIM
+microbiomeExplorer,1.6.0,"shiny, magrittr, metagenomeSeq, Biobase",MIT,10.18129/B9.BIOC.MICROBIOMEEXPLORER
+microbiomeMarker,1.2.2,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.MICROBIOMEMARKER
+MicrobiomeProfiler,1.2.0,R (>= 4.1.0),GPL-2,10.18129/B9.BIOC.MICROBIOMEPROFILER
+MicrobiotaProcess,1.8.1,R (>= 4.0.0),GPL (>= 3.0),10.18129/B9.BIOC.MICROBIOTAPROCESS
+microRNA,1.54.0,R (>= 2.10),Artistic-2.0,10.18129/B9.BIOC.MICRORNA
+midasHLA,1.4.0,"R (>= 4.1), MultiAssayExperiment (>= 1.8.3)",MIT,10.18129/B9.BIOC.MIDASHLA
+MIGSA,1.20.0,"R (>= 3.4), methods, BiocGenerics",GPL (>= 2),10.18129/B9.BIOC.MIGSA
+miloR,1.4.0,"R (>= 4.0.0), edgeR",GPL-3,10.18129/B9.BIOC.MILOR
+mimager,1.20.0,Biobase,MIT,10.18129/B9.BIOC.MIMAGER
+MIMOSA,1.34.0,"R (>= 3.0.2), MASS, plyr, reshape, Biobase, ggplot2",MIT,10.18129/B9.BIOC.MIMOSA
+mina,1.4.0,R (>= 4.0.0),GPL,10.18129/B9.BIOC.MINA
+MineICA,1.36.0,"R (>= 2.10), methods, BiocGenerics (>= 0.13.8), Biobase, plyr,
+ggplot2, scales, foreach, xtable, biomaRt, gtools, GOstats,
+cluster, marray, mclust, RColorBrewer, colorspace, igraph,
+Rgraphviz, graph, annotate, Hmisc, fastICA, JADE",GPL-2,10.18129/B9.BIOC.MINEICA
+minet,3.54.0,NA,Artistic-2.0,10.18129/B9.BIOC.MINET
+minfi,1.42.0,"methods, BiocGenerics (>= 0.15.3), GenomicRanges,
+SummarizedExperiment (>= 1.1.6), Biostrings, bumphunter (>=
+1.1.9)",Artistic-2.0,10.18129/B9.BIOC.MINFI
+MinimumDistance,1.40.0,"R (>= 3.5.0), VanillaICE (>= 1.47.1)",Artistic-2.0,10.18129/B9.BIOC.MINIMUMDISTANCE
+MiPP,1.68.0,R (>= 2.4),GPL (>= 2),10.18129/B9.BIOC.MIPP
+miQC,1.4.0,R (>= 3.5.0),BSD_3_clause,10.18129/B9.BIOC.MIQC
+MIRA,1.18.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.MIRA
+MiRaGE,1.38.0,"R (>= 3.1.0), Biobase(>= 2.23.3)",GPL,10.18129/B9.BIOC.MIRAGE
+miRBaseConverter,1.20.0,R (>= 3.4),GPL (>= 2),10.18129/B9.BIOC.MIRBASECONVERTER
+miRcomp,1.26.0,"R (>= 3.2), Biobase (>= 2.22.0), miRcompData",GPL-3,10.18129/B9.BIOC.MIRCOMP
+mirIntegrator,1.26.0,R (>= 3.3),GPL (>= 3),10.18129/B9.BIOC.MIRINTEGRATOR
+miRLAB,1.26.0,NA,GPL (>= 2),10.18129/B9.BIOC.MIRLAB
+miRmine,1.18.0,"R (>= 3.5.0), SummarizedExperiment",GPL (>= 3),10.18129/B9.BIOC.MIRMINE
+miRNAmeConverter,1.24.0,miRBaseVersions.db,Artistic-2.0,10.18129/B9.BIOC.MIRNAMECONVERTER
+miRNApath,1.56.0,"methods, R(>= 2.7.0)",LGPL-2.1,10.18129/B9.BIOC.MIRNAPATH
+miRNAtap,1.30.0,"R (>= 3.3.0), AnnotationDbi",GPL-2,10.18129/B9.BIOC.MIRNATAP
+miRSM,1.14.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.MIRSM
+miRspongeR,2.0.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.MIRSPONGER
+mirTarRnaSeq,1.4.0,"R (>= 4.1.0), ggplot2",MIT,10.18129/B9.BIOC.MIRTARRNASEQ
+missMethyl,1.30.0,"R (>= 3.6.0), IlluminaHumanMethylation450kanno.ilmn12.hg19,
+IlluminaHumanMethylationEPICanno.ilm10b4.hg19",GPL-2,10.18129/B9.BIOC.MISSMETHYL
+missRows,1.16.0,"R (>= 3.5), methods, ggplot2, grDevices, MultiAssayExperiment",Artistic-2.0,10.18129/B9.BIOC.MISSROWS
+mistyR,1.4.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.MISTYR
+mitch,1.8.0,R (>= 4.0),CC BY-SA 4.0,10.18129/B9.BIOC.MITCH
+mitoClone2,1.2.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.MITOCLONE2
+mixOmics,6.20.0,"R (>= 3.5.0), MASS, lattice, ggplot2",GPL (>= 2),10.18129/B9.BIOC.MIXOMICS
+MLInterfaces,1.76.0,"R (>= 3.5), Rcpp, methods, BiocGenerics (>= 0.13.11), Biobase,
+annotate, cluster",LGPL,10.18129/B9.BIOC.MLINTERFACES
+MLP,1.44.0,NA,GPL-3,10.18129/B9.BIOC.MLP
+MLSeq,2.14.0,"caret, ggplot2",GPL (>= 2),10.18129/B9.BIOC.MLSEQ
+MMAPPR2,1.10.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.MMAPPR2
+MMDiff2,1.24.0,"R (>= 3.5.0), Rsamtools, Biobase",Artistic-2.0,10.18129/B9.BIOC.MMDIFF2
+MMUPHin,1.10.1,R (>= 3.6),MIT,10.18129/B9.BIOC.MMUPHIN
+mnem,1.12.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.MNEM
+moanin,1.4.0,"R (>= 4.0), SummarizedExperiment, topGO, stats",BSD 3-clause License,10.18129/B9.BIOC.MOANIN
+MobilityTransformR,1.0.0,"MSnbase, R (>= 4.2)",Artistic-2.0,10.18129/B9.BIOC.MOBILITYTRANSFORMR
+MODA,1.22.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.MODA
+ModCon,1.4.0,"data.table, parallel, utils, stats, R (>= 4.1)",GPL-3,10.18129/B9.BIOC.MODCON
+Modstrings,1.12.0,"R (>= 3.6), Biostrings (>= 2.51.5)",Artistic-2.0,10.18129/B9.BIOC.MODSTRINGS
+MOFA2,1.6.0,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.MOFA2
+MOGAMUN,1.6.0,NA,GPL-3,10.18129/B9.BIOC.MOGAMUN
+mogsa,1.30.0,R (>= 3.4.0),GPL-2,10.18129/B9.BIOC.MOGSA
+MOMA,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.MOMA
+monaLisa,1.2.0,R (>= 4.1),GPL (>= 3),10.18129/B9.BIOC.MONALISA
+monocle,2.24.1,"R (>= 2.10.0), methods, Matrix (>= 1.2-6), Biobase, ggplot2
+(>= 1.0.0), VGAM (>= 1.0-6), DDRTree (>= 0.1.4),",Artistic-2.0,10.18129/B9.BIOC.MONOCLE
+MoonlightR,1.22.0,"R (>= 3.5), doParallel, foreach",GPL (>= 3),10.18129/B9.BIOC.MOONLIGHTR
+mosaics,2.34.0,"R (>= 3.0.0), methods, graphics, Rcpp",GPL (>= 2),10.18129/B9.BIOC.MOSAICS
+mosbi,1.2.0,R (>= 4.1),AGPL-3,10.18129/B9.BIOC.MOSBI
+MOSim,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.MOSIM
+Motif2Site,1.0.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.MOTIF2SITE
+motifbreakR,2.10.0,"R (>= 4.1.0), grid, MotifDb",GPL-2,10.18129/B9.BIOC.MOTIFBREAKR
+motifcounter,1.20.0,R(>= 3.0),GPL-2,10.18129/B9.BIOC.MOTIFCOUNTER
+motifmatchr,1.18.0,R (>= 3.3),GPL-3,10.18129/B9.BIOC.MOTIFMATCHR
+motifStack,1.40.0,"R (>= 2.15.1), methods, grid",GPL (>= 2),10.18129/B9.BIOC.MOTIFSTACK
+MouseFM,1.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.MOUSEFM
+MPFE,1.32.0,NA,GPL (>= 3),10.18129/B9.BIOC.MPFE
+mpra,1.18.0,"R (>= 3.5.0), methods, BiocGenerics, SummarizedExperiment,
+limma",Artistic-2.0,10.18129/B9.BIOC.MPRA
+MPRAnalyze,1.14.0,NA,GPL-3,10.18129/B9.BIOC.MPRANALYZE
+MQmetrics,1.4.0,NA,GPL-3,10.18129/B9.BIOC.MQMETRICS
+msa,1.28.0,"R (>= 3.3.0), methods, Biostrings (>= 2.40.0)",GPL (>= 2),10.18129/B9.BIOC.MSA
+MSA2dist,1.0.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.MSA2DIST
+MsBackendMassbank,1.4.0,"R (>= 4.0), Spectra (>= 1.5.17)",Artistic-2.0,10.18129/B9.BIOC.MSBACKENDMASSBANK
+MsBackendMgf,1.4.0,"R (>= 4.0), Spectra (>= 1.5.14)",Artistic-2.0,10.18129/B9.BIOC.MSBACKENDMGF
+MsBackendMsp,1.0.0,"R (>= 4.1.0), Spectra (>= 1.5.14)",Artistic-2.0,10.18129/B9.BIOC.MSBACKENDMSP
+MsBackendRawFileReader,1.2.0,"R (>= 4.1), methods, Spectra (>= 1.5.8)",GPL-3,10.18129/B9.BIOC.MSBACKENDRAWFILEREADER
+MsCoreUtils,1.8.0,R (>= 3.6.0),Artistic-2.0,10.18129/B9.BIOC.MSCOREUTILS
+MsFeatures,1.4.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.MSFEATURES
+msgbsR,1.20.0,"R (>= 3.5.0), GenomicRanges, methods",GPL-2,10.18129/B9.BIOC.MSGBSR
+msImpute,1.6.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.MSIMPUTE
+msmsEDA,1.34.0,"R (>= 3.0.1), MSnbase",GPL-2,10.18129/B9.BIOC.MSMSEDA
+msmsTests,1.34.0,"R (>= 3.0.1), MSnbase, msmsEDA",GPL-2,10.18129/B9.BIOC.MSMSTESTS
+MSnbase,2.22.0,"R (>= 3.5), methods, BiocGenerics (>= 0.7.1), Biobase (>=
+2.15.2), mzR (>= 2.29.3), S4Vectors, ProtGenerics (>= 1.27.2)",Artistic-2.0,10.18129/B9.BIOC.MSNBASE
+MSnID,1.30.0,"R (>= 2.10), Rcpp",Artistic-2.0,10.18129/B9.BIOC.MSNID
+MSPrep,1.6.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.MSPREP
+msPurity,1.22.0,Rcpp,GPL-3,10.18129/B9.BIOC.MSPURITY
+msqrob2,1.4.0,"R (>= 4.1), QFeatures (>= 1.1.2)",Artistic-2.0,10.18129/B9.BIOC.MSQROB2
+MSstats,4.4.1,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.MSSTATS
+MSstatsConvert,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.MSSTATSCONVERT
+MSstatsLiP,1.2.1,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.MSSTATSLIP
+MSstatsLOBD,1.4.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.MSSTATSLOBD
+MSstatsPTM,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.MSSTATSPTM
+MSstatsQC,2.14.0,R (>= 3.5.0),Artistic License 2.0,10.18129/B9.BIOC.MSSTATSQC
+MSstatsQCgui,1.16.0,NA,Artistic License 2.0,10.18129/B9.BIOC.MSSTATSQCGUI
+MSstatsSampleSize,1.10.0,R (>= 3.6),Artistic-2.0,10.18129/B9.BIOC.MSSTATSSAMPLESIZE
+MSstatsTMT,2.4.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.MSSTATSTMT
+MuData,1.0.0,"Matrix, S4Vectors, rhdf5",GPL-3,10.18129/B9.BIOC.MUDATA
+Mulcom,1.46.0,"R (>= 2.10), Biobase",GPL-2,10.18129/B9.BIOC.MULCOM
+MultiAssayExperiment,1.22.0,"R (>= 4.2.0), SummarizedExperiment (>= 1.3.81)",Artistic-2.0,10.18129/B9.BIOC.MULTIASSAYEXPERIMENT
+MultiBaC,1.6.0,NA,GPL-3,10.18129/B9.BIOC.MULTIBAC
+multiClust,1.26.0,NA,GPL (>= 2),10.18129/B9.BIOC.MULTICLUST
+multicrispr,1.6.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.MULTICRISPR
+multiGSEA,1.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.MULTIGSEA
+multiHiCcompare,1.14.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.MULTIHICCOMPARE
+MultiMed,2.18.0,R (>= 3.1.0),GPL (>= 2),10.18129/B9.BIOC.MULTIMED
+multiMiR,1.18.0,R (>= 3.4),MIT,10.18129/B9.BIOC.MULTIMIR
+multiOmicsViz,1.20.0,R (>= 3.3.2),LGPL,10.18129/B9.BIOC.MULTIOMICSVIZ
+multiscan,1.56.0,R (>= 2.3.0),GPL (>= 2),10.18129/B9.BIOC.MULTISCAN
+multiSight,1.4.0,R (>= 4.1),CeCILL,10.18129/B9.BIOC.MULTISIGHT
+multtest,2.52.0,"R (>= 2.10), methods, BiocGenerics, Biobase",LGPL,10.18129/B9.BIOC.MULTTEST
+mumosa,1.4.0,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.MUMOSA
+MungeSumstats,1.4.5,R(>= 4.1),Artistic-2.0,10.18129/B9.BIOC.MUNGESUMSTATS
+muscat,1.10.1,R (>= 4.2),GPL-3,10.18129/B9.BIOC.MUSCAT
+muscle,3.38.0,Biostrings,Unlimited,10.18129/B9.BIOC.MUSCLE
+musicatk,1.6.0,"R (>= 4.0.0), NMF",LGPL-3,10.18129/B9.BIOC.MUSICATK
+MutationalPatterns,3.6.0,"R (>= 4.2.0), GenomicRanges (>= 1.24.0), NMF (>= 0.20.6)",MIT,10.18129/B9.BIOC.MUTATIONALPATTERNS
+MVCClass,1.70.0,"R (>= 2.1.0), methods",LGPL,10.18129/B9.BIOC.MVCCLASS
+MWASTools,1.20.0,R (>= 3.5.0),CC BY-NC-ND 4.0,10.18129/B9.BIOC.MWASTOOLS
+mygene,1.32.0,"R (>= 3.2.1), GenomicFeatures,",Artistic-2.0,10.18129/B9.BIOC.MYGENE
+myvariant,1.26.0,"R (>= 3.2.1), VariantAnnotation",Artistic-2.0,10.18129/B9.BIOC.MYVARIANT
+mzID,1.34.0,methods,GPL (>= 2),10.18129/B9.BIOC.MZID
+mzR,2.30.0,"R (>= 4.0.0), Rcpp (>= 0.10.1), methods, utils",Artistic-2.0,10.18129/B9.BIOC.MZR
+"NADfinder",1.20.0,"R (>= 3.5.0), BiocGenerics, IRanges, GenomicRanges, S4Vectors,
+SummarizedExperiment",GPL (>= 2),10.18129/B9.BIOC.NADFINDER
+NanoMethViz,2.2.0,"R (>= 4.0.0), methods, ggplot2",Apache License (>= 2.0),10.18129/B9.BIOC.NANOMETHVIZ
+NanoStringDiff,1.26.0,Biobase,GPL,10.18129/B9.BIOC.NANOSTRINGDIFF
+NanoStringNCTools,1.4.0,"R (>= 3.6), Biobase, S4Vectors, ggplot2",MIT,10.18129/B9.BIOC.NANOSTRINGNCTOOLS
+NanoStringQCPro,1.28.0,"R (>= 3.2), methods",Artistic-2.0,10.18129/B9.BIOC.NANOSTRINGQCPRO
+NanoTube,1.2.0,"R (>= 4.1), Biobase, ggplot2",GPL-3,10.18129/B9.BIOC.NANOTUBE
+NBAMSeq,1.12.0,"R (>= 3.6), SummarizedExperiment, S4Vectors",GPL-2,10.18129/B9.BIOC.NBAMSEQ
+NBSplice,1.14.0,"R (>= 3.5), methods",GPL (>= 2),10.18129/B9.BIOC.NBSPLICE
+ncGTW,1.10.0,"methods, BiocParallel, xcms",GPL-2,10.18129/B9.BIOC.NCGTW
+NCIgraph,1.44.0,R (>= 2.10.0),GPL-3,10.18129/B9.BIOC.NCIGRAPH
+ncRNAtools,1.6.0,NA,GPL-3,10.18129/B9.BIOC.NCRNATOOLS
+ndexr,1.18.0,"igraph, RCX",BSD_3_clause,10.18129/B9.BIOC.NDEXR
+nearBynding,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.NEARBYNDING
+Nebulosa,1.6.0,"R (>= 4.0), ggplot2, patchwork",GPL-3,10.18129/B9.BIOC.NEBULOSA
+NeighborNet,1.14.0,methods,CC BY-NC-ND 4.0,10.18129/B9.BIOC.NEIGHBORNET
+nempi,1.4.0,"R (>= 4.1), mnem",GPL-3,10.18129/B9.BIOC.NEMPI
+netbiov,1.30.0,"R (>= 3.1.0), igraph (>= 0.7.1)",GPL (>= 2),10.18129/B9.BIOC.NETBIOV
+netboost,2.4.1,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.NETBOOST
+netboxr,1.7.1,"R (>= 4.0.0), igraph (>= 1.2.4.1), parallel",LGPL-3,10.18129/B9.BIOC.NETBOXR
+netDx,1.8.0,R (>= 3.6),MIT,10.18129/B9.BIOC.NETDX
+nethet,1.28.0,NA,GPL-2,10.18129/B9.BIOC.NETHET
+netOmics,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.NETOMICS
+NetPathMiner,1.32.0,"R (>= 3.0.2), igraph (>= 1.0)",GPL (>= 2),10.18129/B9.BIOC.NETPATHMINER
+netprioR,1.22.0,"methods, graphics, R(>= 3.3)",GPL-3,10.18129/B9.BIOC.NETPRIOR
+netresponse,1.56.0,"R (>= 2.15.1), BiocStyle, Rgraphviz, rmarkdown, methods,
+minet, mclust, reshape2",GPL (>= 2),10.18129/B9.BIOC.NETRESPONSE
+NetSAM,1.36.0,"R (>= 3.0.0), seriation (>= 1.0-6), igraph (>= 0.6-1), tools
+(>= 3.0.0), WGCNA (>= 1.34.0), biomaRt (>= 2.18.0)",LGPL,10.18129/B9.BIOC.NETSAM
+netSmooth,1.16.0,"R (>= 3.5), scater (>= 1.15.11), clusterExperiment (>= 2.1.6)",GPL-3,10.18129/B9.BIOC.NETSMOOTH
+networkBMA,2.35.0,"R (>= 2.15.0), stats, utils, BMA, Rcpp (>= 0.10.3),
+RcppArmadillo (>= 0.3.810.2), RcppEigen (>= 0.3.1.2.1), leaps",GPL (>= 2),10.18129/B9.BIOC.NETWORKBMA
+netZooR,1.0.0,"R (>= 4.1.0), igraph, reticulate, pandaR, yarn",GPL-3,10.18129/B9.BIOC.NETZOOR
+NeuCA,1.2.0,"R(>= 3.5.0), keras, limma, e1071, SingleCellExperiment",GPL-2,10.18129/B9.BIOC.NEUCA
+NewWave,1.6.0,"R (>= 4.0), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.NEWWAVE
+nnNorm,2.60.0,"R(>= 2.2.0), marray",LGPL,10.18129/B9.BIOC.NNNORM
+nnSVG,1.0.4,R (>= 4.2),MIT,10.18129/B9.BIOC.NNSVG
+NOISeq,2.40.0,"R (>= 2.13.0), methods, Biobase (>= 2.13.11), splines (>=
+3.0.1), Matrix (>= 1.2)",Artistic-2.0,10.18129/B9.BIOC.NOISEQ
+nondetects,2.26.0,"R (>= 3.2), Biobase (>= 2.22.0)",GPL-3,10.18129/B9.BIOC.NONDETECTS
+NoRCE,1.8.0,R (>= 4.0),MIT,10.18129/B9.BIOC.NORCE
+normalize450K,1.24.0,"R (>= 3.3), Biobase, illuminaio, quadprog",BSD_2_clause,10.18129/B9.BIOC.NORMALIZE450K
+NormalyzerDE,1.14.0,R (>= 3.6),Artistic-2.0,10.18129/B9.BIOC.NORMALYZERDE
+NormqPCR,1.42.0,"R(>= 2.14.0), stats, RColorBrewer, Biobase, methods, ReadqPCR,
+qpcR",LGPL-3,10.18129/B9.BIOC.NORMQPCR
+normr,1.22.0,R (>= 3.3.0),GPL-2,10.18129/B9.BIOC.NORMR
+NPARC,1.8.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.NPARC
+npGSEA,1.32.0,GSEABase (>= 1.24.0),Artistic-2.0,10.18129/B9.BIOC.NPGSEA
+NTW,1.46.0,R (>= 2.3.0),GPL-2,10.18129/B9.BIOC.NTW
+nucleoSim,1.24.0,NA,Artistic-2.0,10.18129/B9.BIOC.NUCLEOSIM
+nucleR,2.28.0,"R (>= 3.5.0), methods",LGPL (>= 3),10.18129/B9.BIOC.NUCLER
+nullranges,1.2.0,NA,GPL-3,10.18129/B9.BIOC.NULLRANGES
+NuPoP,2.4.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.NUPOP
+NxtIRFcore,1.2.1,"R (>= 3.5.0), NxtIRFdata",MIT,10.18129/B9.BIOC.NXTIRFCORE
+occugene,1.56.0,R (>= 2.0.0),GPL (>= 2),10.18129/B9.BIOC.OCCUGENE
+OCplus,1.70.0,R (>= 2.1.0),LGPL,10.18129/B9.BIOC.OCPLUS
+ODER,1.2.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.ODER
+odseq,1.24.0,R (>= 3.2.3),MIT,10.18129/B9.BIOC.ODSEQ
+OGRE,1.0.0,"R (>= 4.1.0), S4Vectors",Artistic-2.0,10.18129/B9.BIOC.OGRE
+oligo,1.60.0,"R (>= 3.2.0), BiocGenerics (>= 0.13.11), oligoClasses (>=
+1.29.6), Biobase (>= 2.27.3), Biostrings (>= 2.35.12)",LGPL (>= 2),10.18129/B9.BIOC.OLIGO
+oligoClasses,1.58.0,R (>= 2.14),GPL (>= 2),10.18129/B9.BIOC.OLIGOCLASSES
+OLIN,1.74.1,"R (>= 2.10), methods, locfit, marray",GPL-2,10.18129/B9.BIOC.OLIN
+OLINgui,1.70.0,"R (>= 2.0.0), OLIN (>= 1.4.0)",GPL-2,10.18129/B9.BIOC.OLINGUI
+OmaDB,2.12.0,"R (>= 3.5), httr (>= 1.2.1), plyr(>= 1.8.4)",GPL-3,10.18129/B9.BIOC.OMADB
+omicade4,1.36.0,"R (>= 3.0.0), ade4",GPL-2,10.18129/B9.BIOC.OMICADE4
+OmicCircos,1.34.0,"R (>= 2.14.0), methods,GenomicRanges",GPL-2,10.18129/B9.BIOC.OMICCIRCOS
+omicplotR,1.16.0,"R (>= 3.6), ALDEx2 (>= 1.18.0)",MIT,10.18129/B9.BIOC.OMICPLOTR
+omicRexposome,1.18.0,"R (>= 3.5.0), Biobase",MIT,10.18129/B9.BIOC.OMICREXPOSOME
+OmicsLonDA,1.12.0,R(>= 3.6),MIT,10.18129/B9.BIOC.OMICSLONDA
+OMICsPCA,1.14.0,"R (>= 3.5.0), OMICsPCAdata",GPL-3,10.18129/B9.BIOC.OMICSPCA
+omicsPrint,1.16.0,"R (>= 3.5), MASS",GPL (>= 2),10.18129/B9.BIOC.OMICSPRINT
+omicsViewer,1.0.1,R (>= 4.2),GPL-2,10.18129/B9.BIOC.OMICSVIEWER
+Omixer,1.6.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.OMIXER
+OmnipathR,3.4.0,R(>= 4.0),MIT,10.18129/B9.BIOC.OMNIPATHR
+ompBAM,1.0.0,NA,MIT,10.18129/B9.BIOC.OMPBAM
+oncomix,1.18.0,R (>= 3.4.0),GPL-3,10.18129/B9.BIOC.ONCOMIX
+OncoSimulR,3.4.0,R (>= 3.5.0),GPL (>= 3),10.18129/B9.BIOC.ONCOSIMULR
+oneSENSE,1.18.0,"R (>= 3.4), webshot, shiny, shinyFiles, scatterplot3d",GPL (>= 3),10.18129/B9.BIOC.ONESENSE
+onlineFDR,2.4.0,NA,GPL-3,10.18129/B9.BIOC.ONLINEFDR
+ontoProc,1.18.0,"R (>= 3.5), ontologyIndex",Artistic-2.0,10.18129/B9.BIOC.ONTOPROC
+openPrimeR,1.18.0,R (>= 4.0.0),GPL-2,10.18129/B9.BIOC.OPENPRIMER
+openPrimeRui,1.18.0,"R (>= 4.0.0), openPrimeR (>= 0.99.0)",GPL-2,10.18129/B9.BIOC.OPENPRIMERUI
+OpenStats,1.8.0,nlme,GPL (>= 2),10.18129/B9.BIOC.OPENSTATS
+oposSOM,2.14.0,"R (>= 4.0.0), igraph (>= 1.0.0)",GPL (>= 2),10.18129/B9.BIOC.OPOSSOM
+oppar,1.24.0,R (>= 3.3),GPL-2,10.18129/B9.BIOC.OPPAR
+oppti,1.10.0,R (>= 3.5),MIT,10.18129/B9.BIOC.OPPTI
+optimalFlow,1.8.0,"dplyr, optimalFlowData, rlang (>= 0.4.0)",Artistic-2.0,10.18129/B9.BIOC.OPTIMALFLOW
+OPWeight,1.18.0,"R (>= 3.4.0),",Artistic-2.0,10.18129/B9.BIOC.OPWEIGHT
+OrderedList,1.68.0,"R (>= 3.6.1), Biobase, twilight",GPL (>= 2),10.18129/B9.BIOC.ORDEREDLIST
+ORFhunteR,1.4.0,"Biostrings, rtracklayer, Peptides",Artistic-2.0,10.18129/B9.BIOC.ORFHUNTER
+ORFik,1.16.3,"R (>= 3.6.0), IRanges (>= 2.17.1), GenomicRanges (>= 1.35.1),
+GenomicAlignments (>= 1.19.0)",MIT,10.18129/B9.BIOC.ORFIK
+Organism.dplyr,1.24.0,"R (>= 3.4), dplyr (>= 0.7.0), AnnotationFilter (>= 1.1.3)",Artistic-2.0,10.18129/B9.BIOC.ORGANISM.DPLYR
+OrganismDbi,1.38.1,"R (>= 2.14.0), methods, BiocGenerics (>= 0.15.10),
+AnnotationDbi (>= 1.33.15), GenomicFeatures (>= 1.39.4)",Artistic-2.0,10.18129/B9.BIOC.ORGANISMDBI
+orthogene,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.ORTHOGENE
+OSAT,1.44.0,"methods,stats",Artistic-2.0,10.18129/B9.BIOC.OSAT
+Oscope,1.26.0,"EBSeq, cluster, testthat, BiocParallel",Artistic-2.0,10.18129/B9.BIOC.OSCOPE
+OTUbase,1.46.0,"R (>= 2.9.0), methods, S4Vectors, IRanges, ShortRead (>=
+1.23.15), Biobase, vegan",Artistic-2.0,10.18129/B9.BIOC.OTUBASE
+OUTRIDER,1.14.0,"R (>= 3.6), BiocParallel, GenomicFeatures,
+SummarizedExperiment, data.table, methods",MIT,10.18129/B9.BIOC.OUTRIDER
+OVESEG,1.12.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.OVESEG
+PAA,1.30.0,"R (>= 3.2.0), Rcpp (>= 0.11.6)",BSD_3_clause,10.18129/B9.BIOC.PAA
+packFinder,1.8.0,R (>= 4.0.0),GPL-2,10.18129/B9.BIOC.PACKFINDER
+padma,1.6.0,"R (>= 4.1.0), SummarizedExperiment, S4Vectors",GPL (>= 3),10.18129/B9.BIOC.PADMA
+PADOG,1.38.0,"R (>= 3.0.0), KEGGdzPathwaysGEO, methods,Biobase",GPL (>= 2),10.18129/B9.BIOC.PADOG
+pageRank,1.6.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.PAGERANK
+PAIRADISE,1.12.0,"R (>= 3.6), nloptr",MIT,10.18129/B9.BIOC.PAIRADISE
+paircompviz,1.34.0,"R (>= 2.10), Rgraphviz",GPL (>= 3.0),10.18129/B9.BIOC.PAIRCOMPVIZ
+pairkat,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.PAIRKAT
+pandaR,1.28.0,"R (>= 3.0.0), methods, Biobase, BiocGenerics,",GPL-2,10.18129/B9.BIOC.PANDAR
+panelcn.mops,1.18.0,"R (>= 3.5.0), cn.mops, methods, utils, stats, graphics",LGPL (>= 2.0),10.18129/B9.BIOC.PANELCN.MOPS
+PanomiR,1.0.1,R (>= 4.2.0),MIT,10.18129/B9.BIOC.PANOMIR
+panp,1.66.0,"R (>= 2.10), affy (>= 1.23.4), Biobase (>= 2.5.5)",GPL (>= 2),10.18129/B9.BIOC.PANP
+PANR,1.42.0,"R (>= 2.14), igraph",Artistic-2.0,10.18129/B9.BIOC.PANR
+pareg,1.0.0,"R (>= 4.2), tensorflow (>= 2.2.0), tfprobability (>= 0.10.0)",GPL-3,10.18129/B9.BIOC.PAREG
+parglms,1.28.0,methods,Artistic-2.0,10.18129/B9.BIOC.PARGLMS
+parody,1.54.0,"R (>= 3.5.0), tools, utils",Artistic-2.0,10.18129/B9.BIOC.PARODY
+PAST,1.12.0,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.PAST
+Path2PPI,1.26.0,"R (>= 3.2.1), igraph (>= 1.0.1), methods",GPL (>= 2),10.18129/B9.BIOC.PATH2PPI
+pathifier,1.34.0,NA,Artistic-1.0,10.18129/B9.BIOC.PATHIFIER
+PathNet,1.36.0,NA,GPL-3,10.18129/B9.BIOC.PATHNET
+PathoStat,1.22.0,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.PATHOSTAT
+pathRender,1.64.0,"graph, Rgraphviz, RColorBrewer, cMAP, AnnotationDbi, methods,
+stats4",LGPL,10.18129/B9.BIOC.PATHRENDER
+pathVar,1.26.0,"R (>= 3.3.0), methods, ggplot2, gridExtra",LGPL (>= 2.0),10.18129/B9.BIOC.PATHVAR
+pathview,1.36.0,R (>= 3.5.0),GPL (>= 3.0),10.18129/B9.BIOC.PATHVIEW
+pathwayPCA,1.12.0,R (>= 3.1),GPL-3,10.18129/B9.BIOC.PATHWAYPCA
+paxtoolsr,1.30.0,"R (>= 3.2), rJava (>= 0.9-8), methods, XML",LGPL-3,10.18129/B9.BIOC.PAXTOOLSR
+pcaExplorer,2.22.0,NA,MIT,10.18129/B9.BIOC.PCAEXPLORER
+pcaMethods,1.88.0,"Biobase, methods",GPL (>= 3),10.18129/B9.BIOC.PCAMETHODS
+PCAN,1.24.0,"R (>= 3.3), BiocParallel",CC BY-NC-ND 4.0,10.18129/B9.BIOC.PCAN
+PCAtools,2.8.0,"ggplot2, ggrepel",GPL-3,10.18129/B9.BIOC.PCATOOLS
+pcxn,2.18.0,"R (>= 3.4), pcxnData",MIT,10.18129/B9.BIOC.PCXN
+PDATK,1.4.0,"R (>= 4.1), SummarizedExperiment",MIT,10.18129/B9.BIOC.PDATK
+pdInfoBuilder,1.60.0,"R (>= 3.2.0), methods, Biobase (>= 2.27.3), RSQLite (>=
+1.0.0), affxparser (>= 1.39.4), oligo (>= 1.31.5)",Artistic-2.0,10.18129/B9.BIOC.PDINFOBUILDER
+PeacoQC,1.6.0,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.PEACOQC
+peakPantheR,1.10.0,R (>= 4.2),GPL-3,10.18129/B9.BIOC.PEAKPANTHER
+PECA,1.32.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.PECA
+peco,1.8.0,R (>= 3.5.0),GPL (>= 3),10.18129/B9.BIOC.PECO
+pengls,1.2.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.PENGLS
+PepsNMR,1.14.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.PEPSNMR
+pepStat,1.30.0,"R (>= 3.0.0), Biobase, IRanges",Artistic-2.0,10.18129/B9.BIOC.PEPSTAT
+pepXMLTab,1.30.0,R (>= 3.0.1),Artistic-2.0,10.18129/B9.BIOC.PEPXMLTAB
+PERFect,1.10.0,"R (>= 3.6.0), sn (>= 1.5.2)",Artistic-2.0,10.18129/B9.BIOC.PERFECT
+periodicDNA,1.6.0,"R (>= 4.0), Biostrings, GenomicRanges, IRanges, BSgenome,
+BiocParallel",GPL-3,10.18129/B9.BIOC.PERIODICDNA
+PFP,1.4.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.PFP
+pgca,1.20.0,NA,GPL (>= 2),10.18129/B9.BIOC.PGCA
+phantasus,1.16.2,R (>= 3.5),MIT,10.18129/B9.BIOC.PHANTASUS
+PharmacoGx,3.0.2,"R (>= 3.6), CoreGx",Artistic-2.0,10.18129/B9.BIOC.PHARMACOGX
+PhenoGeneRanker,1.4.0,NA,Creative Commons Attribution 4.0 International License,10.18129/B9.BIOC.PHENOGENERANKER
+phenopath,1.20.0,NA,Apache License (== 2.0),10.18129/B9.BIOC.PHENOPATH
+phenoTest,1.44.0,"R (>= 3.6.0), Biobase, methods, annotate, Heatplus, BMA,
+ggplot2, Hmisc",GPL (>= 2),10.18129/B9.BIOC.PHENOTEST
+philr,1.22.0,NA,GPL-3,10.18129/B9.BIOC.PHILR
+PhIPData,1.4.0,"R (>= 4.1.0), SummarizedExperiment (>= 1.3.81)",MIT,10.18129/B9.BIOC.PHIPDATA
+phosphonormalizer,1.20.0,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.PHOSPHONORMALIZER
+PhosR,1.6.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.PHOSR
+PhyloProfile,1.10.4,R (>= 4.2.0),MIT,10.18129/B9.BIOC.PHYLOPROFILE
+phyloseq,1.40.0,R (>= 3.3.0),AGPL-3,10.18129/B9.BIOC.PHYLOSEQ
+Pi,2.8.0,"igraph, dnet, ggplot2, graphics",GPL-3,10.18129/B9.BIOC.PI
+piano,2.12.0,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.PIANO
+pickgene,1.68.0,NA,GPL (>= 2),10.18129/B9.BIOC.PICKGENE
+PICS,2.40.0,R (>= 3.0.0),Artistic-2.0,10.18129/B9.BIOC.PICS
+Pigengene,1.22.0,"R (>= 4.0.3), graph, BiocStyle (>= 2.18.1)",GPL (>= 2),10.18129/B9.BIOC.PIGENGENE
+PING,2.40.0,R(>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.PING
+pipeComp,1.6.0,R (>= 4.1),GPL,10.18129/B9.BIOC.PIPECOMP
+pipeFrame,1.12.0,"R (>= 4.0.0),",GPL-3,10.18129/B9.BIOC.PIPEFRAME
+pkgDepTools,1.62.0,"methods, graph, RBGL",GPL-2,10.18129/B9.BIOC.PKGDEPTOOLS
+planet,1.4.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.PLANET
+plethy,1.34.0,"R (>= 3.1.0), methods, DBI (>= 0.5-1), RSQLite (>= 1.1),
+BiocGenerics, S4Vectors",GPL-3,10.18129/B9.BIOC.PLETHY
+plgem,1.68.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.PLGEM
+plier,1.66.0,"R (>= 2.0), methods",GPL (>= 2),10.18129/B9.BIOC.PLIER
+PloGO2,1.8.0,"R (>= 4.0), GO.db, GOstats",GPL-2,10.18129/B9.BIOC.PLOGO2
+plotgardener,1.2.8,R (>= 4.1.0),MIT,10.18129/B9.BIOC.PLOTGARDENER
+plotGrouper,1.14.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.PLOTGROUPER
+PLPE,1.56.0,"R (>= 2.6.2), Biobase (>= 2.5.5), LPE, MASS, methods",GPL (>= 2),10.18129/B9.BIOC.PLPE
+plyranges,1.16.0,"R (>= 3.5), BiocGenerics, IRanges (>= 2.12.0), GenomicRanges
+(>= 1.28.4)",Artistic-2.0,10.18129/B9.BIOC.PLYRANGES
+pmm,1.28.0,R (>= 2.10),GPL-3,10.18129/B9.BIOC.PMM
+pmp,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.PMP
+PoDCall,1.4.0,R (>= 4.2),GPL-3,10.18129/B9.BIOC.PODCALL
+podkat,1.28.0,"R (>= 3.5.0), methods, Rsamtools (>= 1.99.1), GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.PODKAT
+pogos,1.16.0,"R (>= 3.5.0), rjson (>= 0.2.15), httr (>= 1.3.1)",Artistic-2.0,10.18129/B9.BIOC.POGOS
+polyester,1.32.0,R (>= 3.0.0),Artistic-2.0,10.18129/B9.BIOC.POLYESTER
+POMA,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.POMA
+PoTRA,1.12.0,"R (>= 3.6.0), stats, BiocGenerics, org.Hs.eg.db, igraph,
+graph, graphite",LGPL,10.18129/B9.BIOC.POTRA
+powerTCR,1.16.0,NA,Artistic-2.0,10.18129/B9.BIOC.POWERTCR
+POWSC,1.4.0,"R (>= 4.1), Biobase, SingleCellExperiment, MAST",GPL-2,10.18129/B9.BIOC.POWSC
+ppcseq,1.4.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.PPCSEQ
+PPInfer,1.22.0,"biomaRt, fgsea, kernlab, ggplot2, igraph, STRINGdb,
+yeastExpData",Artistic-2.0,10.18129/B9.BIOC.PPINFER
+ppiStats,1.62.0,NA,Artistic-2.0,10.18129/B9.BIOC.PPISTATS
+pqsfinder,2.12.0,"R (>= 3.5.0), Biostrings",BSD_2_clause,10.18129/B9.BIOC.PQSFINDER
+pram,1.12.0,R (>= 3.6),GPL (>= 3),10.18129/B9.BIOC.PRAM
+prebs,1.36.0,"R (>= 2.14.0), GenomicAlignments, affy, RPA",Artistic-2.0,10.18129/B9.BIOC.PREBS
+preciseTAD,1.6.0,R (>= 4.1),MIT,10.18129/B9.BIOC.PRECISETAD
+PrecisionTrialDrawer,1.11.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.PRECISIONTRIALDRAWER
+PREDA,1.42.0,"R (>= 2.9.0), Biobase, lokern (>= 1.0.9), multtest, stats,
+methods, annotate",GPL-2,10.18129/B9.BIOC.PREDA
+preprocessCore,1.58.0,NA,LGPL (>= 2),10.18129/B9.BIOC.PREPROCESSCORE
+primirTSS,1.14.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.PRIMIRTSS
+PrInCE,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.PRINCE
+proActiv,1.6.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.PROACTIV
+proBAMr,1.30.0,"R (>= 3.0.1), IRanges, AnnotationDbi",Artistic-2.0,10.18129/B9.BIOC.PROBAMR
+proBatch,1.11.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.PROBATCH
+PROcess,1.72.0,Icens,Artistic-2.0,10.18129/B9.BIOC.PROCESS
+procoil,2.24.0,"R (>= 3.3.0), kebabs",GPL (>= 2),10.18129/B9.BIOC.PROCOIL
+proDA,1.10.0,NA,GPL-3,10.18129/B9.BIOC.PRODA
+proFIA,1.22.0,"R (>= 2.5.0), xcms",CeCILL,10.18129/B9.BIOC.PROFIA
+profileplyr,1.12.0,"R (>= 3.6), BiocGenerics, SummarizedExperiment",GPL (>= 3),10.18129/B9.BIOC.PROFILEPLYR
+profileScoreDist,1.24.0,R(>= 3.3),MIT,10.18129/B9.BIOC.PROFILESCOREDIST
+progeny,1.18.0,R (>= 3.6.0),Apache License (== 2.0),10.18129/B9.BIOC.PROGENY
+projectR,1.12.0,NA,GPL (== 2),10.18129/B9.BIOC.PROJECTR
+pRoloc,1.36.0,"R (>= 3.5), MSnbase (>= 1.19.20), MLInterfaces (>= 1.67.10),
+methods, Rcpp (>= 0.10.3), BiocParallel",GPL-2,10.18129/B9.BIOC.PROLOC
+pRolocGUI,2.6.0,"methods, R (>= 3.1.0), pRoloc (>= 1.27.6), Biobase, MSnbase
+(>= 2.1.11)",GPL-2,10.18129/B9.BIOC.PROLOCGUI
+PROMISE,1.48.0,"R (>= 3.1.0), Biobase, GSEABase",GPL (>= 2),10.18129/B9.BIOC.PROMISE
+PROPER,1.28.0,R (>= 3.3),GPL,10.18129/B9.BIOC.PROPER
+PROPS,1.18.0,NA,GPL-2,10.18129/B9.BIOC.PROPS
+Prostar,1.28.3,R (>= 4.2.0),Artistic-2.0,10.18129/B9.BIOC.PROSTAR
+proteinProfiles,1.36.0,R (>= 2.15.2),GPL-3,10.18129/B9.BIOC.PROTEINPROFILES
+ProteoDisco,1.2.0,"R (>= 4.1.0),",GPL-3,10.18129/B9.BIOC.PROTEODISCO
+ProteoMM,1.14.0,R (>= 3.5),MIT,10.18129/B9.BIOC.PROTEOMM
+protGear,1.0.0,"R (>= 4.2), dplyr (>= 0.8.0) , limma (>= 3.40.2) ,vsn (>=
+3.54.0)",GPL-3,10.18129/B9.BIOC.PROTGEAR
+ProtGenerics,1.28.0,methods,Artistic-2.0,10.18129/B9.BIOC.PROTGENERICS
+PSEA,1.30.0,NA,Artistic-2.0,10.18129/B9.BIOC.PSEA
+psichomics,1.22.1,"R (>= 4.0), shiny (>= 1.7.0), shinyBS",MIT,10.18129/B9.BIOC.PSICHOMICS
+PSICQUIC,1.34.0,"R (>= 3.2.0), methods, IRanges, biomaRt (>= 2.34.1),
+BiocGenerics, httr, plyr",Apache License 2.0,10.18129/B9.BIOC.PSICQUIC
+PSMatch,1.0.0,S4Vectors,Artistic-2.0,10.18129/B9.BIOC.PSMATCH
+psygenet2r,1.28.0,R (>= 3.4),MIT,10.18129/B9.BIOC.PSYGENET2R
+ptairMS,1.4.1,NA,GPL-3,10.18129/B9.BIOC.PTAIRMS
+PubScore,1.8.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.PUBSCORE
+pulsedSilac,1.9.1,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.PULSEDSILAC
+puma,3.38.0,"R (>= 3.2.0), oligo (>= 1.32.0),graphics,grDevices, methods,
+stats, utils, mclust, oligoClasses",LGPL,10.18129/B9.BIOC.PUMA
+PureCN,2.2.0,"R (>= 3.5.0), DNAcopy, VariantAnnotation (>= 1.14.1)",Artistic-2.0,10.18129/B9.BIOC.PURECN
+pvac,1.44.0,R (>= 2.8.0),LGPL (>= 2.0),10.18129/B9.BIOC.PVAC
+pvca,1.36.0,R (>= 2.15.1),LGPL (>= 2.0),10.18129/B9.BIOC.PVCA
+Pviz,1.30.0,"R(>= 3.0.0), Gviz(>= 1.7.10)",Artistic-2.0,10.18129/B9.BIOC.PVIZ
+PWMEnrich,4.32.0,"R (>= 3.5.0), methods, BiocGenerics, Biostrings",LGPL (>= 2),10.18129/B9.BIOC.PWMENRICH
+pwOmics,1.28.0,R (>= 3.2),GPL (>= 2),10.18129/B9.BIOC.PWOMICS
+pwrEWAS,1.10.0,"shinyBS, foreach",Artistic-2.0,10.18129/B9.BIOC.PWREWAS
+qckitfastq,1.12.0,NA,Artistic-2.0,10.18129/B9.BIOC.QCKITFASTQ
+qcmetrics,1.34.0,R (>= 3.3),GPL-2,10.18129/B9.BIOC.QCMETRICS
+QDNAseq,1.32.0,R (>= 3.1.0),GPL,10.18129/B9.BIOC.QDNASEQ
+QFeatures,1.6.0,"R (>= 4.0), MultiAssayExperiment",Artistic-2.0,10.18129/B9.BIOC.QFEATURES
+qmtools,1.0.0,"R (>= 4.2.0), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.QMTOOLS
+qpcrNorm,1.54.0,"methods, Biobase, limma, affy",LGPL (>= 2),10.18129/B9.BIOC.QPCRNORM
+qpgraph,2.30.0,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.QPGRAPH
+qPLEXanalyzer,1.14.0,"R (>= 4.0), Biobase, MSnbase",GPL-2,10.18129/B9.BIOC.QPLEXANALYZER
+qrqc,1.50.0,"reshape, ggplot2, Biostrings, biovizBase, brew, xtable,
+testthat",GPL (>= 2),10.18129/B9.BIOC.QRQC
+qsea,1.22.0,R (>= 3.5),GPL (>= 2),10.18129/B9.BIOC.QSEA
+qsmooth,1.12.0,R (>= 4.0),CC BY 4.0,10.18129/B9.BIOC.QSMOOTH
+qsvaR,1.0.0,"R (>= 4.2), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.QSVAR
+Qtlizer,1.10.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.QTLIZER
+quantiseqr,1.4.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.QUANTISEQR
+quantro,1.30.0,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.QUANTRO
+quantsmooth,1.62.0,"R(>= 2.10.0), quantreg, grid",GPL-2,10.18129/B9.BIOC.QUANTSMOOTH
+QuartPAC,1.28.0,"iPAC, GraphPAC, SpacePAC, data.table",GPL-2,10.18129/B9.BIOC.QUARTPAC
+QuasR,1.36.0,"R (>= 4.1), parallel, GenomicRanges, Rbowtie",GPL-2,10.18129/B9.BIOC.QUASR
+QuaternaryProd,1.30.0,"R (>= 3.2.0), Rcpp (>= 0.11.3), dplyr, yaml (>= 2.1.18)",GPL (>= 3),10.18129/B9.BIOC.QUATERNARYPROD
+QUBIC,1.24.0,"R (>= 3.1), biclust",CC BY-NC-ND 4.0,10.18129/B9.BIOC.QUBIC
+qusage,2.30.0,"R (>= 2.10), limma (>= 3.14), methods",GPL (>= 2),10.18129/B9.BIOC.QUSAGE
+qvalue,2.28.0,R(>= 2.10),LGPL,10.18129/B9.BIOC.QVALUE
+R3CPET,1.28.0,"R (>= 3.2), Rcpp (>= 0.10.4), methods",GPL (>= 2),10.18129/B9.BIOC.R3CPET
+r3Cseq,1.42.0,"GenomicRanges, Rsamtools, rtracklayer, VGAM, qvalue",GPL-3,10.18129/B9.BIOC.R3CSEQ
+R453Plus1Toolbox,1.46.0,"R (>= 2.12.0), methods, VariantAnnotation (>= 1.25.11),
+Biostrings (>= 2.47.6), Biobase",LGPL-3,10.18129/B9.BIOC.R453PLUS1TOOLBOX
+R4RNA,1.24.0,"R (>= 3.2.0), Biostrings (>= 2.38.0)",GPL-3,10.18129/B9.BIOC.R4RNA
+RadioGx,2.0.0,"R (>= 4.1), CoreGx",GPL-3,10.18129/B9.BIOC.RADIOGX
+RaggedExperiment,1.20.0,"R (>= 3.6.0), GenomicRanges (>= 1.37.17)",Artistic-2.0,10.18129/B9.BIOC.RAGGEDEXPERIMENT
+rain,1.30.0,"R (>= 2.10), gmp, multtest",GPL-2,10.18129/B9.BIOC.RAIN
+rama,1.70.0,R(>= 2.5.0),GPL (>= 2),10.18129/B9.BIOC.RAMA
+ramr,1.4.0,"R (>= 4.1), GenomicRanges, parallel, doParallel, foreach,
+doRNG, methods",Artistic-2.0,10.18129/B9.BIOC.RAMR
+ramwas,1.20.0,"R (>= 3.3.0), methods, filematrix",LGPL-3,10.18129/B9.BIOC.RAMWAS
+RandomWalkRestartMH,1.16.0,R(>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.RANDOMWALKRESTARTMH
+randPack,1.42.0,methods,Artistic-2.0,10.18129/B9.BIOC.RANDPACK
+randRotation,1.8.0,NA,GPL-3,10.18129/B9.BIOC.RANDROTATION
+RAREsim,1.0.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.RARESIM
+RareVariantVis,2.24.0,"BiocGenerics, VariantAnnotation, googleVis, GenomicFeatures",Artistic-2.0,10.18129/B9.BIOC.RAREVARIANTVIS
+rawrr,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.RAWRR
+RbcBook1,1.64.0,"R (>= 2.10), Biobase, graph, rpart",Artistic-2.0,10.18129/B9.BIOC.RBCBOOK1
+Rbec,1.4.0,NA,LGPL-3,10.18129/B9.BIOC.RBEC
+RBGL,1.72.0,"graph, methods",Artistic-2.0,10.18129/B9.BIOC.RBGL
+RBioinf,1.56.0,"graph, methods",Artistic-2.0,10.18129/B9.BIOC.RBIOINF
+rBiopaxParser,2.36.0,"R (>= 4.0), data.table",GPL (>= 2),10.18129/B9.BIOC.RBIOPAXPARSER
+RBM,1.28.0,"R (>= 3.2.0), limma, marray",GPL (>= 2),10.18129/B9.BIOC.RBM
+Rbowtie,1.36.0,NA,Artistic-2.0,10.18129/B9.BIOC.RBOWTIE
+Rbowtie2,2.2.0,R (>= 4.1.0),GPL (>= 3),10.18129/B9.BIOC.RBOWTIE2
+rbsurv,2.54.0,"R (>= 2.5.0), Biobase (>= 2.5.5), survival",GPL (>= 2),10.18129/B9.BIOC.RBSURV
+Rcade,1.37.0,"R (>= 3.5.0), methods, GenomicRanges, Rsamtools, baySeq",GPL-2,10.18129/B9.BIOC.RCADE
+RCAS,1.22.0,"R (>= 3.5.0), plotly (>= 4.5.2), DT (>= 0.2), data.table",Artistic-2.0,10.18129/B9.BIOC.RCAS
+RCASPAR,1.42.0,NA,GPL (>= 3),10.18129/B9.BIOC.RCASPAR
+rcellminer,2.18.0,"R (>= 3.2), Biobase, rcellminerData (>= 2.0.0)",LGPL-3,10.18129/B9.BIOC.RCELLMINER
+rCGH,1.26.0,"R (>= 3.4),methods,stats,utils,graphics",Artistic-2.0,10.18129/B9.BIOC.RCGH
+RcisTarget,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.RCISTARGET
+RCM,1.12.0,"R (>= 4.0), DBI",GPL-2,10.18129/B9.BIOC.RCM
+Rcpi,1.32.2,R (>= 3.0.2),Artistic-2.0,10.18129/B9.BIOC.RCPI
+RCSL,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.RCSL
+Rcwl,1.12.0,"R (>= 3.6), yaml, methods, S4Vectors",GPL-2,10.18129/B9.BIOC.RCWL
+RcwlPipelines,1.12.0,"R (>= 3.6), Rcwl, BiocFileCache",GPL-2,10.18129/B9.BIOC.RCWLPIPELINES
+RCX,1.0.0,R (>= 4.2.0),MIT,10.18129/B9.BIOC.RCX
+RCy3,2.16.0,NA,MIT,10.18129/B9.BIOC.RCY3
+RCyjs,2.18.0,"R (>= 3.5.0), BrowserViz (>= 2.7.18), graph (>= 1.56.0)",MIT,10.18129/B9.BIOC.RCYJS
+rDGIdb,1.22.0,NA,MIT,10.18129/B9.BIOC.RDGIDB
+Rdisop,1.56.0,"R (>= 2.0.0), Rcpp",GPL-2,10.18129/B9.BIOC.RDISOP
+RDRToolbox,1.46.0,R (>= 2.9.0),GPL (>= 2),10.18129/B9.BIOC.RDRTOOLBOX
+ReactomeContentService4R,1.4.0,NA,Apache License (>= 2.0),10.18129/B9.BIOC.REACTOMECONTENTSERVICE4R
+ReactomeGraph4R,1.4.0,R (>= 4.1),Apache License (>= 2),10.18129/B9.BIOC.REACTOMEGRAPH4R
+ReactomeGSA,1.10.0,NA,MIT,10.18129/B9.BIOC.REACTOMEGSA
+ReactomePA,1.40.0,R (>= 3.4.0),GPL-2,10.18129/B9.BIOC.REACTOMEPA
+ReadqPCR,1.42.0,"R(>= 2.14.0), Biobase, methods",LGPL-3,10.18129/B9.BIOC.READQPCR
+REBET,1.14.0,ASSET,GPL-2,10.18129/B9.BIOC.REBET
+rebook,1.6.0,NA,GPL-3,10.18129/B9.BIOC.REBOOK
+receptLoss,1.7.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.RECEPTLOSS
+reconsi,1.8.0,NA,GPL-2,10.18129/B9.BIOC.RECONSI
+recount,1.22.0,"R (>= 3.5.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.RECOUNT
+recount3,1.6.0,SummarizedExperiment,Artistic-2.0,10.18129/B9.BIOC.RECOUNT3
+recountmethylation,1.6.1,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.RECOUNTMETHYLATION
+recoup,1.24.0,"R (>= 4.0.0), GenomicRanges, GenomicAlignments, ggplot2,
+ComplexHeatmap",GPL (>= 3),10.18129/B9.BIOC.RECOUP
+RedeR,2.0.0,"R (>= 4.0), methods",GPL (>= 3),10.18129/B9.BIOC.REDER
+REDseq,1.42.0,"R (>= 3.5.0), BiocGenerics, BSgenome.Celegans.UCSC.ce2,
+multtest, Biostrings, BSgenome, ChIPpeakAnno",GPL (>= 2),10.18129/B9.BIOC.REDSEQ
+RefPlus,1.66.0,"R (>= 2.8.0), Biobase (>= 2.1.0), affy (>= 1.20.0), affyPLM
+(>= 1.18.0), preprocessCore (>= 1.4.0)",GPL (>= 2),10.18129/B9.BIOC.REFPLUS
+RegEnrich,1.6.0,"R (>= 4.0.0), S4Vectors, dplyr, tibble, BiocSet,
+SummarizedExperiment",GPL (>= 2),10.18129/B9.BIOC.REGENRICH
+regioneR,1.28.0,GenomicRanges,Artistic-2.0,10.18129/B9.BIOC.REGIONER
+regionReport,1.30.0,R(>= 3.2),Artistic-2.0,10.18129/B9.BIOC.REGIONREPORT
+regsplice,1.22.0,NA,MIT,10.18129/B9.BIOC.REGSPLICE
+regutools,1.8.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.REGUTOOLS
+REMP,1.20.1,"R (>= 3.6), SummarizedExperiment(>= 1.1.6), minfi (>= 1.22.0)",GPL-3,10.18129/B9.BIOC.REMP
+Repitools,1.42.0,"R (>= 3.5.0), methods, BiocGenerics (>= 0.8.0)",LGPL (>= 2),10.18129/B9.BIOC.REPITOOLS
+ReportingTools,2.36.0,"methods, knitr, utils",Artistic-2.0,10.18129/B9.BIOC.REPORTINGTOOLS
+RepViz,1.12.0,"R (>= 3.5.1), GenomicRanges (>= 1.30.0), Rsamtools (>=
+1.34.1), IRanges (>= 2.14.0), biomaRt (>= 2.36.0), S4Vectors
+(>= 0.18.0), graphics, grDevices, utils",GPL-3,10.18129/B9.BIOC.REPVIZ
+ReQON,1.42.0,"R (>= 3.0.2), Rsamtools, seqbias",GPL-2,10.18129/B9.BIOC.REQON
+ResidualMatrix,1.6.0,NA,GPL-3,10.18129/B9.BIOC.RESIDUALMATRIX
+restfulSE,1.18.0,"R (>= 3.6), SummarizedExperiment,DelayedArray",Artistic-2.0,10.18129/B9.BIOC.RESTFULSE
+rexposome,1.18.2,"R (>= 3.5), Biobase",MIT,10.18129/B9.BIOC.REXPOSOME
+rfaRm,1.8.0,NA,GPL-3,10.18129/B9.BIOC.RFARM
+Rfastp,1.6.0,NA,GPL-3,10.18129/B9.BIOC.RFASTP
+rfPred,1.34.0,"R (>= 3.5.0), Rsamtools, GenomicRanges, IRanges, data.table,
+methods, parallel",GPL (>= 2),10.18129/B9.BIOC.RFPRED
+rGADEM,2.44.0,"R (>= 2.11.0), Biostrings, IRanges, BSgenome, methods, seqLogo",Artistic-2.0,10.18129/B9.BIOC.RGADEM
+rGenomeTracks,1.2.0,"R (>= 4.1.0),",GPL-3,10.18129/B9.BIOC.RGENOMETRACKS
+Rgin,1.15.0,R (>= 3.5),MIT,10.18129/B9.BIOC.RGIN
+RGMQL,1.16.0,"R(>= 3.4.2), RGMQLlib",Artistic-2.0,10.18129/B9.BIOC.RGMQL
+rgoslin,1.0.0,NA,MIT,10.18129/B9.BIOC.RGOSLIN
+RGraph2js,1.24.0,NA,GPL-2,10.18129/B9.BIOC.RGRAPH2JS
+Rgraphviz,2.40.0,"R (>= 2.6.0), methods, utils, graph, grid",EPL,10.18129/B9.BIOC.RGRAPHVIZ
+rGREAT,1.28.0,"R (>= 3.1.2), GenomicRanges, IRanges, methods",MIT,10.18129/B9.BIOC.RGREAT
+RGSEA,1.30.0,R(>= 2.10.0),GPL (>= 3),10.18129/B9.BIOC.RGSEA
+rgsepd,1.28.0,"R (>= 4.2.0), DESeq2, goseq (>= 1.28)",GPL-3,10.18129/B9.BIOC.RGSEPD
+rhdf5,2.40.0,"R (>= 4.0.0), methods",Artistic-2.0,10.18129/B9.BIOC.RHDF5
+rhdf5client,1.18.0,"R (>= 3.6), methods, DelayedArray",Artistic-2.0,10.18129/B9.BIOC.RHDF5CLIENT
+rhdf5filters,1.8.0,NA,BSD_2_clause,10.18129/B9.BIOC.RHDF5FILTERS
+Rhdf5lib,1.18.2,R (>= 4.0.0),Artistic-2.0,10.18129/B9.BIOC.RHDF5LIB
+Rhisat2,1.12.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.RHISAT2
+Rhtslib,1.28.0,NA,LGPL (>= 2),10.18129/B9.BIOC.RHTSLIB
+RiboCrypt,1.2.0,"R (>= 3.6.0), ORFik (>= 1.13.12)",MIT,10.18129/B9.BIOC.RIBOCRYPT
+RiboDiPA,1.4.1,"R (>= 4.1), Rsamtools, GenomicFeatures, GenomicAlignments",LGPL (>= 3),10.18129/B9.BIOC.RIBODIPA
+RiboProfiling,1.26.0,"R (>= 3.5.0), Biostrings",GPL-3,10.18129/B9.BIOC.RIBOPROFILING
+ribor,1.8.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.RIBOR
+riboSeqR,1.30.0,"R (>= 3.0.2), methods, GenomicRanges, abind",GPL-3,10.18129/B9.BIOC.RIBOSEQR
+ribosomeProfilingQC,1.8.0,"R (>= 4.0), GenomicRanges",GPL (>= 3),10.18129/B9.BIOC.RIBOSOMEPROFILINGQC
+rifi,1.0.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.RIFI
+RImmPort,1.24.0,NA,GPL-3,10.18129/B9.BIOC.RIMMPORT
+Ringo,1.60.0,"methods, Biobase (>= 1.14.1), RColorBrewer, limma, Matrix,
+grid, lattice",Artistic-2.0,10.18129/B9.BIOC.RINGO
+RIPAT,1.6.0,R (>= 4.0),Artistic-2.0,10.18129/B9.BIOC.RIPAT
+Risa,1.38.0,"R (>= 2.0.9), Biobase (>= 2.4.0), methods, Rcpp (>= 0.9.13),
+biocViews, affy",LGPL,10.18129/B9.BIOC.RISA
+RIVER,1.20.0,R (>= 3.3.2),GPL (>= 2),10.18129/B9.BIOC.RIVER
+RJMCMCNucleosomes,1.20.0,"R (>= 3.5.0), IRanges, GenomicRanges",Artistic-2.0,10.18129/B9.BIOC.RJMCMCNUCLEOSOMES
+RLassoCox,1.4.0,"R (>= 4.1), glmnet",Artistic-2.0,10.18129/B9.BIOC.RLASSOCOX
+RLMM,1.58.0,R (>= 2.1.0),LGPL (>= 2),10.18129/B9.BIOC.RLMM
+RLSeq,1.2.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.RLSEQ
+Rmagpie,1.52.0,"R (>= 2.6.1), Biobase (>= 2.5.5)",GPL (>= 3),10.18129/B9.BIOC.RMAGPIE
+RMassBank,3.6.1,Rcpp,Artistic-2.0,10.18129/B9.BIOC.RMASSBANK
+rmelting,1.12.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.RMELTING
+Rmmquant,1.14.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.RMMQUANT
+rmspc,1.2.0,NA,GPL-3,10.18129/B9.BIOC.RMSPC
+RNAAgeCalc,1.8.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.RNAAGECALC
+RNAdecay,1.16.0,R (>= 3.5),GPL-2,10.18129/B9.BIOC.RNADECAY
+rnaEditr,1.6.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.RNAEDITR
+RNAinteract,1.44.0,"R (>= 2.12.0),",Artistic-2.0,10.18129/B9.BIOC.RNAINTERACT
+RNAmodR,1.10.0,"R (>= 4.0), S4Vectors (>= 0.27.12), IRanges (>= 2.23.9),
+GenomicRanges, Modstrings",Artistic-2.0,10.18129/B9.BIOC.RNAMODR
+RNAmodR.AlkAnilineSeq,1.10.0,"R (>= 4.0), RNAmodR (>= 1.5.3)",Artistic-2.0,10.18129/B9.BIOC.RNAMODR.ALKANILINESEQ
+RNAmodR.ML,1.10.0,"R (>= 3.6), RNAmodR",Artistic-2.0,10.18129/B9.BIOC.RNAMODR.ML
+RNAmodR.RiboMethSeq,1.10.0,"R (>= 4.0), RNAmodR (>= 1.5.3)",Artistic-2.0,10.18129/B9.BIOC.RNAMODR.RIBOMETHSEQ
+RNAsense,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.RNASENSE
+rnaseqcomp,1.26.0,R (>= 3.2.0),GPL-3,10.18129/B9.BIOC.RNASEQCOMP
+RNASeqPower,1.36.0,NA,LGPL (>= 2),10.18129/B9.BIOC.RNASEQPOWER
+RnaSeqSampleSize,2.6.0,"R (>= 4.0.0), ggplot2, RnaSeqSampleSizeData",GPL (>= 2),10.18129/B9.BIOC.RNASEQSAMPLESIZE
+RnBeads,2.14.0,"R (>= 3.0.0), BiocGenerics, S4Vectors (>= 0.9.25),
+GenomicRanges, MASS, cluster, ff, fields, ggplot2 (>= 0.9.2),
+gplots, grid, gridExtra, limma, matrixStats, methods,
+illuminaio, methylumi, plyr",GPL-3,10.18129/B9.BIOC.RNBEADS
+Rnits,1.29.0,"R (>= 3.6.0), Biobase, ggplot2, limma, methods",GPL-3,10.18129/B9.BIOC.RNITS
+roar,1.32.0,R (>= 3.0.1),GPL-3,10.18129/B9.BIOC.ROAR
+ROC,1.72.0,"R (>= 1.9.0), utils, methods",Artistic-2.0,10.18129/B9.BIOC.ROC
+ROCpAI,1.8.0,"boot, SummarizedExperiment, fission, knitr, methods",GPL-3,10.18129/B9.BIOC.ROCPAI
+RolDE,1.0.0,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.ROLDE
+rols,2.24.2,methods,GPL-2,10.18129/B9.BIOC.ROLS
+ROntoTools,2.24.0,"methods, graph, boot, KEGGREST, KEGGgraph, Rgraphviz",CC BY-NC-ND 4.0,10.18129/B9.BIOC.RONTOTOOLS
+ropls,1.28.2,R (>= 3.5.0),CeCILL,10.18129/B9.BIOC.ROPLS
+ROSeq,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.ROSEQ
+ROTS,1.24.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.ROTS
+RPA,1.52.0,"R (>= 3.1.1), affy, BiocGenerics, BiocStyle, methods,
+rmarkdown",BSD_2_clause,10.18129/B9.BIOC.RPA
+rprimer,1.0.0,R (>= 4.2),GPL-3,10.18129/B9.BIOC.RPRIMER
+RProtoBufLib,2.8.0,NA,BSD_3_clause,10.18129/B9.BIOC.RPROTOBUFLIB
+RpsiXML,2.38.0,"methods, XML (>= 2.4.0), utils",LGPL-3,10.18129/B9.BIOC.RPSIXML
+rpx,2.4.0,methods,GPL-2,10.18129/B9.BIOC.RPX
+Rqc,1.30.0,"BiocParallel, ShortRead, ggplot2",GPL (>= 2),10.18129/B9.BIOC.RQC
+rqt,1.22.0,"R (>= 3.4), SummarizedExperiment",GPL,10.18129/B9.BIOC.RQT
+rqubic,1.42.0,NA,GPL-2,10.18129/B9.BIOC.RQUBIC
+rRDP,1.30.0,Biostrings (>= 2.26.2),GPL-2,10.18129/B9.BIOC.RRDP
+RRHO,1.36.0,"R (>= 2.10), grid",GPL-2,10.18129/B9.BIOC.RRHO
+rrvgo,1.8.0,NA,GPL-3,10.18129/B9.BIOC.RRVGO
+Rsamtools,2.12.0,"methods, GenomeInfoDb (>= 1.1.3), GenomicRanges (>= 1.31.8),
+Biostrings (>= 2.47.6), R (>= 3.5.0)",Artistic-2.0,10.18129/B9.BIOC.RSAMTOOLS
+rsbml,2.54.0,"R (>= 2.6.0), BiocGenerics (>= 0.3.2), methods, utils",Artistic-2.0,10.18129/B9.BIOC.RSBML
+rScudo,1.12.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.RSCUDO
+rsemmed,1.6.0,"R (>= 4.0), igraph",Artistic-2.0,10.18129/B9.BIOC.RSEMMED
+RSeqAn,1.16.0,NA,BSD_3_clause,10.18129/B9.BIOC.RSEQAN
+Rsubread,2.10.4,NA,GPL (>= 3),10.18129/B9.BIOC.RSUBREAD
+RSVSim,1.36.0,"R (>= 3.5.0), Biostrings, GenomicRanges",LGPL-3,10.18129/B9.BIOC.RSVSIM
+rSWeeP,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.RSWEEP
+RTCA,1.48.0,"methods,stats,graphics,Biobase,RColorBrewer, gtools",LGPL-3,10.18129/B9.BIOC.RTCA
+RTCGA,1.26.0,R (>= 3.3.0),GPL-2,10.18129/B9.BIOC.RTCGA
+RTN,2.20.0,"R (>= 3.6.3), methods,",Artistic-2.0,10.18129/B9.BIOC.RTN
+RTNduals,1.20.0,"R(>= 3.6.3), RTN(>= 2.14.1), methods",Artistic-2.0,10.18129/B9.BIOC.RTNDUALS
+RTNsurvival,1.20.0,"R(>= 3.6.3), RTN(>= 2.14.1), RTNduals(>= 1.14.1), methods",Artistic-2.0,10.18129/B9.BIOC.RTNSURVIVAL
+RTopper,1.42.0,"R (>= 2.12.0), Biobase",GPL (>= 3),10.18129/B9.BIOC.RTOPPER
+Rtpca,1.6.0,"R (>= 4.0.0), stats, dplyr, tidyr",GPL-3,10.18129/B9.BIOC.RTPCA
+rtracklayer,1.56.1,"R (>= 3.5.0), methods, GenomicRanges (>= 1.37.2)",Artistic-2.0,10.18129/B9.BIOC.RTRACKLAYER
+Rtreemix,1.58.0,R (>= 2.5.0),LGPL,10.18129/B9.BIOC.RTREEMIX
+rTRM,1.34.0,"R (>= 2.10), igraph (>= 1.0)",GPL-3,10.18129/B9.BIOC.RTRM
+rTRMui,1.34.0,NA,GPL-3,10.18129/B9.BIOC.RTRMUI
+runibic,1.18.0,"R (>= 3.4.0), biclust, SummarizedExperiment",MIT,10.18129/B9.BIOC.RUNIBIC
+RUVcorr,1.28.0,NA,GPL-2,10.18129/B9.BIOC.RUVCORR
+RUVnormalize,1.30.0,R (>= 2.10.0),GPL-3,10.18129/B9.BIOC.RUVNORMALIZE
+RUVSeq,1.30.0,"Biobase, EDASeq (>= 1.99.1), edgeR",Artistic-2.0,10.18129/B9.BIOC.RUVSEQ
+RVS,1.18.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.RVS
+rWikiPathways,1.16.0,NA,MIT,10.18129/B9.BIOC.RWIKIPATHWAYS
+S4Vectors,0.34.0,"R (>= 4.0.0), methods, utils, stats, stats4, BiocGenerics (>=
+0.37.0)",Artistic-2.0,10.18129/B9.BIOC.S4VECTORS
+safe,3.36.0,"R (>= 2.4.0), AnnotationDbi, Biobase, methods, SparseM",GPL (>= 2),10.18129/B9.BIOC.SAFE
+sagenhaft,1.66.0,"R (>= 2.10), SparseM (>= 0.73), methods",GPL (>= 2),10.18129/B9.BIOC.SAGENHAFT
+SAIGEgds,1.10.0,"R (>= 3.5.0), gdsfmt (>= 1.20.0), SeqArray (>= 1.31.8), Rcpp",GPL-3,10.18129/B9.BIOC.SAIGEGDS
+sampleClassifier,1.20.0,"R (>= 4.0), MGFM, MGFR, annotate",Artistic-2.0,10.18129/B9.BIOC.SAMPLECLASSIFIER
+SamSPECTRAL,1.50.0,R (>= 3.3.3),GPL (>= 2),10.18129/B9.BIOC.SAMSPECTRAL
+sangeranalyseR,1.6.1,"R (>= 4.0.0), stringr, ape, Biostrings, DECIPHER, parallel,
+reshape2, phangorn, sangerseqR, gridExtra, shiny,
+shinydashboard, shinyjs, data.table, plotly, DT, zeallot,
+excelR, shinycssloaders, ggdendro, shinyWidgets, openxlsx,
+tools, rmarkdown (>= 2.9), knitr (>= 1.33), seqinr, BiocStyle,
+logger",GPL-2,10.18129/B9.BIOC.SANGERANALYSER
+sangerseqR,1.32.0,"R (>= 3.0.2), Biostrings",GPL-2,10.18129/B9.BIOC.SANGERSEQR
+SANTA,2.32.0,"R (>= 4.1), igraph",GPL (>= 2),10.18129/B9.BIOC.SANTA
+sarks,1.8.0,R (>= 4.0),BSD_3_clause,10.18129/B9.BIOC.SARKS
+satuRn,1.4.1,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.SATURN
+savR,1.34.0,ggplot2,AGPL-3,10.18129/B9.BIOC.SAVR
+SBGNview,1.10.0,"R (>= 3.6), pathview, SBGNview.data",AGPL-3,10.18129/B9.BIOC.SBGNVIEW
+SBMLR,1.92.0,"XML, deSolve",GPL-2,10.18129/B9.BIOC.SBMLR
+SC3,1.24.0,R(>= 3.3),GPL-3,10.18129/B9.BIOC.SC3
+Scale4C,1.18.0,"R (>= 3.4), smoothie, GenomicRanges, IRanges,
+SummarizedExperiment",LGPL-3,10.18129/B9.BIOC.SCALE4C
+ScaledMatrix,1.4.0,NA,GPL-3,10.18129/B9.BIOC.SCALEDMATRIX
+scAlign,1.9.0,"R (>= 3.6), SingleCellExperiment (>= 1.4), Seurat (>= 2.3.4),
+tensorflow, purrr, irlba, Rtsne, ggplot2, methods, utils, FNN",GPL-3,10.18129/B9.BIOC.SCALIGN
+SCAN.UPC,2.38.0,"R (>= 2.14.0), Biobase (>= 2.6.0), oligo, Biostrings,
+GEOquery, affy, affyio, foreach, sva",MIT,10.18129/B9.BIOC.SCAN.UPC
+scanMiR,1.2.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SCANMIR
+scanMiRApp,1.2.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SCANMIRAPP
+scAnnotatR,1.2.0,"R (>= 4.1), Seurat, SingleCellExperiment, SummarizedExperiment",MIT,10.18129/B9.BIOC.SCANNOTATR
+SCArray,1.4.0,"R (>= 3.5.0), gdsfmt (>= 1.27.4), methods, DelayedArray (>=
+0.16.0)",GPL-3,10.18129/B9.BIOC.SCARRAY
+SCATE,1.6.0,"parallel, preprocessCore, splines, splines2, xgboost,
+SCATEData, Rtsne, mclust",MIT,10.18129/B9.BIOC.SCATE
+scater,1.24.0,"SingleCellExperiment, scuttle, ggplot2",GPL-3,10.18129/B9.BIOC.SCATER
+scatterHatch,1.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SCATTERHATCH
+scBFA,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.SCBFA
+SCBN,1.14.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.SCBN
+scCB2,1.6.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.SCCB2
+scClassify,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SCCLASSIFY
+sccomp,1.0.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.SCCOMP
+scDataviz,1.6.0,"R (>= 4.0), S4Vectors, SingleCellExperiment,",GPL-3,10.18129/B9.BIOC.SCDATAVIZ
+scDblFinder,1.10.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SCDBLFINDER
+scDD,1.20.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.SCDD
+scde,2.24.0,"R (>= 3.0.0), flexmix",GPL-2,10.18129/B9.BIOC.SCDE
+scds,1.12.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.SCDS
+SCFA,1.6.0,R (>= 4.0),LGPL,10.18129/B9.BIOC.SCFA
+scFeatureFilter,1.16.0,R (>= 3.6),MIT,10.18129/B9.BIOC.SCFEATUREFILTER
+scGPS,1.10.0,"R (>= 3.6), SummarizedExperiment, dynamicTreeCut,
+SingleCellExperiment",GPL-3,10.18129/B9.BIOC.SCGPS
+schex,1.10.0,"SingleCellExperiment (>= 1.7.4), Seurat, ggplot2 (>= 3.2.1),
+shiny",GPL-3,10.18129/B9.BIOC.SCHEX
+scHOT,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SCHOT
+scMAGeCK,1.8.0,NA,BSD_2_clause,10.18129/B9.BIOC.SCMAGECK
+scmap,1.18.0,R(>= 3.4),GPL-3,10.18129/B9.BIOC.SCMAP
+scMerge,1.12.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.SCMERGE
+scmeth,1.16.0,R (>= 3.5.0),GPL-2,10.18129/B9.BIOC.SCMETH
+SCnorm,1.18.0,"R (>= 3.4.0),",GPL (>= 2),10.18129/B9.BIOC.SCNORM
+scone,1.20.0,"R (>= 3.4), methods, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.SCONE
+Sconify,1.16.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.SCONIFY
+SCOPE,1.8.0,"R (>= 3.6.0), GenomicRanges, IRanges, Rsamtools, GenomeInfoDb,
+BSgenome.Hsapiens.UCSC.hg19",GPL-2,10.18129/B9.BIOC.SCOPE
+scp,1.6.0,"R (>= 4.0), QFeatures (>= 1.3.5)",Artistic-2.0,10.18129/B9.BIOC.SCP
+scPCA,1.10.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.SCPCA
+scPipe,1.18.0,"R (>= 3.4), ggplot2, methods, SingleCellExperiment",GPL (>= 2),10.18129/B9.BIOC.SCPIPE
+scran,1.24.0,"SingleCellExperiment, scuttle",GPL-3,10.18129/B9.BIOC.SCRAN
+scReClassify,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SCRECLASSIFY
+scRecover,1.12.0,R (>= 3.4.0),GPL,10.18129/B9.BIOC.SCRECOVER
+scRepertoire,1.6.0,"ggplot2, R (>= 4.0)",Apache License 2.0,10.18129/B9.BIOC.SCREPERTOIRE
+scruff,1.14.0,R (>= 4.0),MIT,10.18129/B9.BIOC.SCRUFF
+scry,1.8.0,"R (>= 4.0), stats, methods",Artistic-2.0,10.18129/B9.BIOC.SCRY
+scShapes,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SCSHAPES
+scTensor,2.6.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.SCTENSOR
+scTGIF,1.10.0,R (>= 3.6.0),Artistic-2.0,10.18129/B9.BIOC.SCTGIF
+scTHI,1.8.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.SCTHI
+scTreeViz,1.2.0,"R (>= 4.0), methods, epivizr, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.SCTREEVIZ
+scuttle,1.6.2,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.SCUTTLE
+SDAMS,1.16.0,"R(>= 3.5), SummarizedExperiment",GPL,10.18129/B9.BIOC.SDAMS
+sechm,1.4.1,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SECHM
+segmenter,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SEGMENTER
+segmentSeq,2.30.0,"R (>= 3.5.0), methods, baySeq (>= 2.9.0), S4Vectors, parallel,
+GenomicRanges, ShortRead, stats",GPL-3,10.18129/B9.BIOC.SEGMENTSEQ
+selectKSigs,1.8.0,R(>= 3.6),GPL-3,10.18129/B9.BIOC.SELECTKSIGS
+SELEX,1.28.0,"rJava (>= 0.5-0), Biostrings (>= 2.26.0)",GPL (>= 2),10.18129/B9.BIOC.SELEX
+SemDist,1.30.0,"R (>= 3.1), AnnotationDbi, GO.db, annotate",GPL (>= 2),10.18129/B9.BIOC.SEMDIST
+semisup,1.20.0,R (>= 3.0.0),GPL-3,10.18129/B9.BIOC.SEMISUP
+SEPIRA,1.16.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.SEPIRA
+seq2pathway,1.28.0,R (>= 3.6.2),GPL-2,10.18129/B9.BIOC.SEQ2PATHWAY
+seqArchR,1.0.0,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.SEQARCHR
+SeqArray,1.36.2,"R (>= 3.5.0), gdsfmt (>= 1.31.1)",GPL-3,10.18129/B9.BIOC.SEQARRAY
+seqbias,1.44.0,"R (>= 3.0.2), GenomicRanges (>= 0.1.0), Biostrings (>=
+2.15.0), methods",LGPL-3,10.18129/B9.BIOC.SEQBIAS
+seqCAT,1.18.0,"R (>= 3.6), GenomicRanges (>= 1.26.4), VariantAnnotation(>=
+1.20.3)",MIT,10.18129/B9.BIOC.SEQCAT
+seqCNA,1.42.0,"R (>= 3.0), GLAD (>= 2.14), doSNOW (>= 1.0.5), adehabitatLT
+(>= 0.3.4), seqCNA.annot (>= 0.99), methods",GPL-3,10.18129/B9.BIOC.SEQCNA
+seqcombo,1.18.0,R (>= 3.4.0),Artistic-2.0,10.18129/B9.BIOC.SEQCOMBO
+SeqGate,1.6.0,"S4Vectors, SummarizedExperiment, GenomicRanges",GPL (>= 2.0),10.18129/B9.BIOC.SEQGATE
+SeqGSEA,1.36.0,"Biobase, doParallel, DESeq2",GPL (>= 3),10.18129/B9.BIOC.SEQGSEA
+seqLogo,1.62.0,"R (>= 4.2), methods, grid",LGPL (>= 2),10.18129/B9.BIOC.SEQLOGO
+seqPattern,1.28.0,"methods, R (>= 2.15.0)",GPL-3,10.18129/B9.BIOC.SEQPATTERN
+seqsetvis,1.16.0,"R (>= 3.6), ggplot2",MIT,10.18129/B9.BIOC.SEQSETVIS
+SeqSQC,1.18.0,"R (>= 3.4), ExperimentHub (>= 1.3.7), SNPRelate (>= 1.10.2)",GPL-3,10.18129/B9.BIOC.SEQSQC
+seqTools,1.30.0,"methods,utils,zlibbioc",Artistic-2.0,10.18129/B9.BIOC.SEQTOOLS
+SeqVarTools,1.34.0,SeqArray,GPL-3,10.18129/B9.BIOC.SEQVARTOOLS
+sesame,1.14.2,"R (>= 4.1), sesameData",MIT,10.18129/B9.BIOC.SESAME
+SEtools,1.10.0,R (>= 4.0),GPL,10.18129/B9.BIOC.SETOOLS
+sevenbridges,1.26.0,"methods, utils, stats",Apache License 2.0,10.18129/B9.BIOC.SEVENBRIDGES
+sevenC,1.16.0,"R (>= 3.5), InteractionSet (>= 1.2.0)",GPL-3,10.18129/B9.BIOC.SEVENC
+SGSeq,1.30.0,"R (>= 4.0), IRanges (>= 2.13.15), GenomicRanges (>= 1.31.10),
+Rsamtools (>= 1.31.2), SummarizedExperiment, methods",Artistic-2.0,10.18129/B9.BIOC.SGSEQ
+SharedObject,1.10.0,R (>= 3.6.0),GPL-3,10.18129/B9.BIOC.SHAREDOBJECT
+shinyepico,1.4.2,R (>= 4.2.0),AGPL-3,10.18129/B9.BIOC.SHINYEPICO
+shinyMethyl,1.32.0,"methods, BiocGenerics (>= 0.3.2), shiny (>= 0.13.2), minfi (>=
+1.18.2), IlluminaHumanMethylation450kmanifest, matrixStats, R
+(>= 3.0.0)",Artistic-2.0,10.18129/B9.BIOC.SHINYMETHYL
+ShortRead,1.54.0,"BiocGenerics (>= 0.23.3), BiocParallel, Biostrings (>=
+2.47.6), Rsamtools (>= 1.31.2), GenomicAlignments (>= 1.15.6)",Artistic-2.0,10.18129/B9.BIOC.SHORTREAD
+SIAMCAT,2.0.0,"R (>= 3.6.0), mlr3, phyloseq",GPL-3,10.18129/B9.BIOC.SIAMCAT
+SICtools,1.26.0,"R (>= 3.0.0), methods, Rsamtools (>= 1.18.1), doParallel (>=
+1.0.8), Biostrings (>= 2.32.1), stringr (>= 0.6.2), matrixStats
+(>= 0.10.0), plyr (>= 1.8.3), GenomicRanges (>= 1.22.4),
+IRanges (>= 2.4.8)",GPL (>= 2),10.18129/B9.BIOC.SICTOOLS
+SigCheck,2.28.0,"R (>= 3.2.0), MLInterfaces, Biobase, e1071, BiocParallel,
+survival",Artistic-2.0,10.18129/B9.BIOC.SIGCHECK
+sigFeature,1.14.0,R (>= 3.5.0),GPL (>= 2),10.18129/B9.BIOC.SIGFEATURE
+SigFuge,1.34.0,"R (>= 3.5.0), GenomicRanges",GPL-3,10.18129/B9.BIOC.SIGFUGE
+siggenes,1.70.0,"Biobase, multtest, splines, methods",LGPL (>= 2),10.18129/B9.BIOC.SIGGENES
+sights,1.22.0,R(>= 3.3),GPL-3,10.18129/B9.BIOC.SIGHTS
+signatureSearch,1.10.0,"R(>= 3.6.0), Rcpp, SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.SIGNATURESEARCH
+signeR,1.22.0,"VariantAnnotation, NMF",GPL-3,10.18129/B9.BIOC.SIGNER
+sigPathway,1.64.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.SIGPATHWAY
+SigsPack,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.SIGSPACK
+sigsquared,1.28.0,"R (>= 3.2.0), methods",GPL-3,10.18129/B9.BIOC.SIGSQUARED
+SIM,1.66.0,"R (>= 3.5), quantreg",GPL (>= 2),10.18129/B9.BIOC.SIM
+SIMAT,1.28.0,"R (>= 3.5.0), Rcpp (>= 0.11.3)",GPL-2,10.18129/B9.BIOC.SIMAT
+SimBindProfiles,1.34.0,"R (>= 2.10), methods, Ringo",GPL-3,10.18129/B9.BIOC.SIMBINDPROFILES
+SIMD,1.14.0,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.SIMD
+SimFFPE,1.8.0,Biostrings,LGPL-3,10.18129/B9.BIOC.SIMFFPE
+similaRpeak,1.28.0,R6 (>= 2.0),Artistic-2.0,10.18129/B9.BIOC.SIMILARPEAK
+simplifyEnrichment,1.6.1,"R (>= 3.6.0), BiocGenerics, grid",MIT,10.18129/B9.BIOC.SIMPLIFYENRICHMENT
+sincell,1.28.0,"R (>= 3.0.2), igraph",GPL (>= 2),10.18129/B9.BIOC.SINCELL
+single,1.0.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SINGLE
+SingleCellExperiment,1.18.0,SummarizedExperiment,GPL-3,10.18129/B9.BIOC.SINGLECELLEXPERIMENT
+SingleCellSignalR,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.SINGLECELLSIGNALR
+singleCellTK,2.6.0,"R (>= 4.0), SummarizedExperiment, SingleCellExperiment,
+DelayedArray, Biobase",MIT,10.18129/B9.BIOC.SINGLECELLTK
+SingleMoleculeFootprinting,1.4.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.SINGLEMOLECULEFOOTPRINTING
+SingleR,1.10.0,SummarizedExperiment,GPL-3,10.18129/B9.BIOC.SINGLER
+singscore,1.16.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.SINGSCORE
+SISPA,1.26.0,"R (>= 3.5),genefilter,GSVA,changepoint",GPL-2,10.18129/B9.BIOC.SISPA
+sitadela,1.4.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.SITADELA
+sitePath,1.12.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SITEPATH
+sizepower,1.66.0,stats,LGPL,10.18129/B9.BIOC.SIZEPOWER
+skewr,1.28.0,"R (>= 3.1.1), methylumi, wateRmelon, mixsmsn,
+IlluminaHumanMethylation450kmanifest",GPL-2,10.18129/B9.BIOC.SKEWR
+slalom,1.18.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.SLALOM
+slingshot,2.4.0,"R (>= 4.0), princurve (>= 2.0.4), stats, TrajectoryUtils",Artistic-2.0,10.18129/B9.BIOC.SLINGSHOT
+SLqPCR,1.62.0,R(>= 2.4.0),GPL (>= 2),10.18129/B9.BIOC.SLQPCR
+SMAD,1.12.0,"R (>= 3.6.0), RcppAlgos",MIT,10.18129/B9.BIOC.SMAD
+SMAP,1.60.0,"R (>= 2.10), methods",GPL-2,10.18129/B9.BIOC.SMAP
+SMITE,1.24.0,"R (>= 3.5), GenomicRanges",GPL (>= 2),10.18129/B9.BIOC.SMITE
+SNAGEE,1.36.0,"R (>= 2.6.0), SNAGEEdata",Artistic-2.0,10.18129/B9.BIOC.SNAGEE
+snapCGH,1.66.0,R (>= 3.5.0),GPL,10.18129/B9.BIOC.SNAPCGH
+snapcount,1.8.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.SNAPCOUNT
+snifter,1.6.0,R (>= 4.0.0),GPL-3,10.18129/B9.BIOC.SNIFTER
+snm,1.44.0,R (>= 2.12.0),LGPL,10.18129/B9.BIOC.SNM
+SNPediaR,1.22.0,R (>= 3.0.0),GPL-2,10.18129/B9.BIOC.SNPEDIAR
+SNPhood,1.26.0,"R (>= 3.5.0), GenomicRanges, Rsamtools, data.table, checkmate",LGPL (>= 3),10.18129/B9.BIOC.SNPHOOD
+SNPRelate,1.30.1,"R (>= 2.15), gdsfmt (>= 1.8.3)",GPL-3,10.18129/B9.BIOC.SNPRELATE
+snpStats,1.46.0,"R(>= 2.10.0), survival, Matrix, methods",GPL-3,10.18129/B9.BIOC.SNPSTATS
+soGGi,1.28.0,"R (>= 3.5.0), BiocGenerics, SummarizedExperiment",GPL (>= 3),10.18129/B9.BIOC.SOGGI
+sojourner,1.10.0,NA,Artistic-2.0,10.18129/B9.BIOC.SOJOURNER
+SomaticSignatures,2.32.0,"R (>= 3.5.0), VariantAnnotation, GenomicRanges, NMF",MIT,10.18129/B9.BIOC.SOMATICSIGNATURES
+SOMNiBUS,1.4.0,R (>= 4.1.0),MIT,10.18129/B9.BIOC.SOMNIBUS
+SpacePAC,1.34.0,"R(>= 2.15),iPAC",GPL-2,10.18129/B9.BIOC.SPACEPAC
+Spaniel,1.10.0,R (>= 4.0),MIT,10.18129/B9.BIOC.SPANIEL
+sparrow,1.2.0,R (>= 4.0),MIT,10.18129/B9.BIOC.SPARROW
+sparseDOSSA,1.20.0,NA,MIT,10.18129/B9.BIOC.SPARSEDOSSA
+sparseMatrixStats,1.8.0,MatrixGenerics (>= 1.5.3),MIT,10.18129/B9.BIOC.SPARSEMATRIXSTATS
+sparsenetgls,1.14.0,"R (>= 4.0.0), Matrix, MASS",GPL-3,10.18129/B9.BIOC.SPARSENETGLS
+SpatialCPie,1.12.0,R (>= 3.6),MIT,10.18129/B9.BIOC.SPATIALCPIE
+spatialDE,1.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SPATIALDE
+SpatialDecon,1.6.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.SPATIALDECON
+SpatialExperiment,1.6.0,"methods, SingleCellExperiment",GPL-3,10.18129/B9.BIOC.SPATIALEXPERIMENT
+spatialHeatmap,2.2.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.SPATIALHEATMAP
+spatzie,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SPATZIE
+specL,1.30.0,"R (>= 3.6), DBI (>= 0.5), methods (>= 3.3), protViz (>= 0.5),
+RSQLite (>= 1.1), seqinr (>= 3.3)",GPL-3,10.18129/B9.BIOC.SPECL
+SpeCond,1.50.0,"R (>= 2.10.0), mclust (>= 3.3.1), Biobase (>= 1.15.13),
+fields, hwriter (>= 1.1), RColorBrewer, methods",LGPL (>= 2),10.18129/B9.BIOC.SPECOND
+Spectra,1.6.0,"R (>= 4.0.0), S4Vectors, BiocParallel, ProtGenerics (>=
+1.25.1)",Artistic-2.0,10.18129/B9.BIOC.SPECTRA
+SpectralTAD,1.12.0,R (>= 3.6),MIT,10.18129/B9.BIOC.SPECTRALTAD
+SPEM,1.36.0,"R (>= 2.15.1), Rsolnp, Biobase, methods",GPL-2,10.18129/B9.BIOC.SPEM
+spicyR,1.8.0,R (>= 4.1),GPL (>= 2),10.18129/B9.BIOC.SPICYR
+SpidermiR,1.26.0,R (>= 3.0.0),GPL (>= 3),10.18129/B9.BIOC.SPIDERMIR
+spikeLI,2.56.0,NA,GPL-2,10.18129/B9.BIOC.SPIKELI
+spiky,1.2.0,"Rsamtools, GenomicRanges, R (>= 3.6.0)",GPL-2,10.18129/B9.BIOC.SPIKY
+spkTools,1.52.0,"R (>= 2.7.0), Biobase (>= 2.5.5)",GPL (>= 2),10.18129/B9.BIOC.SPKTOOLS
+splatter,1.20.0,"R (>= 4.0), SingleCellExperiment",GPL-3,10.18129/B9.BIOC.SPLATTER
+SplicingFactory,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SPLICINGFACTORY
+SplicingGraphs,1.36.0,"GenomicFeatures (>= 1.17.13), GenomicAlignments (>= 1.1.22),
+Rgraphviz (>= 2.3.7)",Artistic-2.0,10.18129/B9.BIOC.SPLICINGGRAPHS
+splineTimeR,1.24.0,"R (>= 3.3), Biobase, igraph, limma, GSEABase, gtools, splines,
+GeneNet (>= 1.2.13), longitudinal (>= 1.1.12), FIs",GPL-3,10.18129/B9.BIOC.SPLINETIMER
+SPLINTER,1.22.0,"R (>= 3.6.0), grDevices, stats",GPL-2,10.18129/B9.BIOC.SPLINTER
+splots,1.62.0,NA,LGPL,10.18129/B9.BIOC.SPLOTS
+SPONGE,1.18.1,R (>= 3.6),GPL (>= 3),10.18129/B9.BIOC.SPONGE
+SPOTlight,1.0.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SPOTLIGHT
+spqn,1.8.0,"R (>= 4.0), ggplot2, ggridges, SummarizedExperiment,
+BiocGenerics",Artistic-2.0,10.18129/B9.BIOC.SPQN
+SPsimSeq,1.6.0,R (>= 4.0),GPL-2,10.18129/B9.BIOC.SPSIMSEQ
+SQLDataFrame,1.10.0,"R (>= 3.6), dplyr (>= 0.8.0.1), dbplyr (>= 1.4.0), S4Vectors",GPL-3,10.18129/B9.BIOC.SQLDATAFRAME
+SQUADD,1.46.0,R (>= 2.11.0),GPL (>= 2),10.18129/B9.BIOC.SQUADD
+sRACIPE,1.12.0,"R (>= 3.6.0),SummarizedExperiment, methods, Rcpp",MIT,10.18129/B9.BIOC.SRACIPE
+SRAdb,1.58.0,"RSQLite, graph, RCurl",Artistic-2.0,10.18129/B9.BIOC.SRADB
+srnadiff,1.16.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.SRNADIFF
+sscore,1.68.0,"R (>= 1.8.0), affy, affyio",GPL (>= 2),10.18129/B9.BIOC.SSCORE
+sscu,2.26.0,R (>= 3.3),GPL (>= 2),10.18129/B9.BIOC.SSCU
+sSeq,1.34.0,"R (>= 3.0), caTools, RColorBrewer",GPL (>= 3),10.18129/B9.BIOC.SSEQ
+ssize,1.70.0,"gdata, xtable",LGPL,10.18129/B9.BIOC.SSIZE
+sSNAPPY,1.0.1,R (>= 4.2.0),GPL-3,10.18129/B9.BIOC.SSNAPPY
+ssPATHS,1.10.0,"R (>= 3.5.0), SummarizedExperiment",MIT,10.18129/B9.BIOC.SSPATHS
+ssrch,1.12.0,"R (>= 3.6), methods",Artistic-2.0,10.18129/B9.BIOC.SSRCH
+ssviz,1.30.0,"R (>= 3.5.0), methods, Rsamtools, Biostrings, reshape,
+ggplot2, RColorBrewer, stats",GPL-2,10.18129/B9.BIOC.SSVIZ
+stageR,1.18.0,"R (>= 3.4), SummarizedExperiment",GNU General Public License version 3,10.18129/B9.BIOC.STAGER
+STAN,2.24.0,"R (>= 3.5.0), methods, poilog, parallel",GPL (>= 2),10.18129/B9.BIOC.STAN
+standR,1.0.0,R (>= 4.1),MIT,10.18129/B9.BIOC.STANDR
+staRank,1.38.0,"methods, cellHTS2, R (>= 2.10)",GPL,10.18129/B9.BIOC.STARANK
+StarBioTrek,1.22.0,R (>= 3.3),GPL (>= 3),10.18129/B9.BIOC.STARBIOTREK
+STATegRa,1.32.0,R (>= 2.10),GPL-2,10.18129/B9.BIOC.STATEGRA
+statTarget,1.26.0,R (>= 3.6.0),LGPL (>= 3),10.18129/B9.BIOC.STATTARGET
+STdeconvolve,1.0.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.STDECONVOLVE
+stepNorm,1.68.0,"R (>= 1.8.0), marray, methods",LGPL,10.18129/B9.BIOC.STEPNORM
+strandCheckR,1.14.0,NA,GPL (>= 2),10.18129/B9.BIOC.STRANDCHECKR
+Streamer,1.42.0,NA,Artistic-2.0,10.18129/B9.BIOC.STREAMER
+STRINGdb,2.8.4,R (>= 2.14.0),GPL-2,10.18129/B9.BIOC.STRINGDB
+STROMA4,1.20.0,"R (>= 3.4), Biobase, BiocParallel, cluster, matrixStats,
+stats, graphics, utils",GPL-3,10.18129/B9.BIOC.STROMA4
+struct,1.8.0,R (>= 4.0),GPL-3,10.18129/B9.BIOC.STRUCT
+Structstrings,1.12.0,"R (>= 4.0), S4Vectors (>= 0.27.12), IRanges (>= 2.23.9),
+Biostrings (>= 2.57.2)",Artistic-2.0,10.18129/B9.BIOC.STRUCTSTRINGS
+structToolbox,1.8.0,"R (>= 4.0), struct (>= 1.5.1)",GPL-3,10.18129/B9.BIOC.STRUCTTOOLBOX
+StructuralVariantAnnotation,1.12.0,"GenomicRanges, rtracklayer, VariantAnnotation, BiocGenerics, R
+(>= 4.1.0)",GPL-3,10.18129/B9.BIOC.STRUCTURALVARIANTANNOTATION
+SubCellBarCode,1.12.0,R (>= 3.6),GPL-2,10.18129/B9.BIOC.SUBCELLBARCODE
+subSeq,1.26.0,R (>= 3.2),MIT,10.18129/B9.BIOC.SUBSEQ
+SummarizedBenchmark,2.14.0,"R (>= 3.6), tidyr, SummarizedExperiment, S4Vectors,
+BiocGenerics, methods, UpSetR, rlang, stringr, utils,
+BiocParallel, ggplot2, mclust, dplyr, digest, sessioninfo,
+crayon, tibble",GPL (>= 3),10.18129/B9.BIOC.SUMMARIZEDBENCHMARK
+SummarizedExperiment,1.26.1,"R (>= 4.0.0), methods, MatrixGenerics (>= 1.1.3),
+GenomicRanges (>= 1.41.5), Biobase",Artistic-2.0,10.18129/B9.BIOC.SUMMARIZEDEXPERIMENT
+Summix,2.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SUMMIX
+supersigs,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.SUPERSIGS
+supraHex,1.34.0,"R (>= 3.6), hexbin",GPL-2,10.18129/B9.BIOC.SUPRAHEX
+surfaltr,1.2.1,R (>= 4.0),MIT,10.18129/B9.BIOC.SURFALTR
+survcomp,1.46.0,"survival, prodlim, R (>= 3.4)",Artistic-2.0,10.18129/B9.BIOC.SURVCOMP
+survtype,1.12.0,"SummarizedExperiment, pheatmap, survival, survminer,
+clustvarsel, stats, utils",Artistic-2.0,10.18129/B9.BIOC.SURVTYPE
+Sushi,1.34.0,"R (>= 2.10), zoo,biomaRt",GPL (>= 2),10.18129/B9.BIOC.SUSHI
+sva,3.44.0,"R (>= 3.2), mgcv, genefilter, BiocParallel",Artistic-2.0,10.18129/B9.BIOC.SVA
+svaNUMT,1.2.0,"GenomicRanges, rtracklayer, VariantAnnotation,
+StructuralVariantAnnotation, BiocGenerics, Biostrings, R (>=
+4.0)",GPL-3,10.18129/B9.BIOC.SVANUMT
+svaRetro,1.2.0,"GenomicRanges, rtracklayer, BiocGenerics,
+StructuralVariantAnnotation, R (>= 4.0)",GPL-3,10.18129/B9.BIOC.SVARETRO
+SWATH2stats,1.26.0,R(>= 2.10.0),GPL-3,10.18129/B9.BIOC.SWATH2STATS
+SwathXtend,2.18.0,"e1071, openxlsx, VennDiagram, lattice",GPL-2,10.18129/B9.BIOC.SWATHXTEND
+swfdr,1.22.0,R (>= 3.4),GPL (>= 3),10.18129/B9.BIOC.SWFDR
+switchBox,1.32.0,"R (>= 2.13.1), pROC, gplots",GPL-2,10.18129/B9.BIOC.SWITCHBOX
+switchde,1.22.0,"R (>= 3.4), SingleCellExperiment",GPL (>= 2),10.18129/B9.BIOC.SWITCHDE
+synapsis,1.2.0,R (>= 4.1),MIT,10.18129/B9.BIOC.SYNAPSIS
+synergyfinder,3.4.1,R (>= 4.0.0),Mozilla Public License 2.0,10.18129/B9.BIOC.SYNERGYFINDER
+SynExtend,1.8.0,"R (>= 4.1.0), DECIPHER (>= 2.20.0)",GPL-3,10.18129/B9.BIOC.SYNEXTEND
+synlet,1.26.0,"R (>= 3.2.0), ggplot2",GPL-3,10.18129/B9.BIOC.SYNLET
+SynMut,1.12.1,NA,GPL-2,10.18129/B9.BIOC.SYNMUT
+systemPipeR,2.2.2,"Rsamtools (>= 1.31.2), Biostrings, ShortRead (>= 1.37.1),
+methods",Artistic-2.0,10.18129/B9.BIOC.SYSTEMPIPER
+systemPipeShiny,1.6.1,"R (>= 4.0.0), shiny (>= 1.6.0), spsUtil (>= 0.2.2), spsComps
+(>= 0.3.2), drawer (>= 0.2)",GPL (>= 3),10.18129/B9.BIOC.SYSTEMPIPESHINY
+systemPipeTools,1.4.0,NA,Artistic-2.0,10.18129/B9.BIOC.SYSTEMPIPETOOLS
+TADCompare,1.6.0,R (>= 4.0),MIT,10.18129/B9.BIOC.TADCOMPARE
+tanggle,1.2.0,"R (>= 4.1), ggplot2 (>= 2.2.0), ggtree",Artistic-2.0,10.18129/B9.BIOC.TANGGLE
+TAPseq,1.8.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.TAPSEQ
+target,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.TARGET
+TargetDecoy,1.2.0,R (>= 4.1),Artistic-2.0,10.18129/B9.BIOC.TARGETDECOY
+TargetScore,1.34.0,"pracma, Matrix",GPL-2,10.18129/B9.BIOC.TARGETSCORE
+TargetSearch,1.52.0,NA,GPL (>= 2),10.18129/B9.BIOC.TARGETSEARCH
+TarSeqQC,1.25.1,"R (>= 3.5.1), methods, GenomicRanges, Rsamtools (>= 1.9.2),
+ggplot2, plyr, openxlsx",GPL (>= 2),10.18129/B9.BIOC.TARSEQQC
+TBSignatureProfiler,1.8.0,R (>= 4.1),MIT,10.18129/B9.BIOC.TBSIGNATUREPROFILER
+TCC,1.36.0,"R (>= 3.0), methods, DESeq2, edgeR, baySeq, ROC",GPL-2,10.18129/B9.BIOC.TCC
+TCGAbiolinks,2.24.3,R (>= 4.0),GPL (>= 3),10.18129/B9.BIOC.TCGABIOLINKS
+TCGAbiolinksGUI,1.22.0,"R (>= 3.3.1), shinydashboard (>= 0.5.3), TCGAbiolinksGUI.data",GPL (>= 3),10.18129/B9.BIOC.TCGABIOLINKSGUI
+TCGAutils,1.16.0,R (>= 4.0.0),Artistic-2.0,10.18129/B9.BIOC.TCGAUTILS
+TCseq,1.20.0,R (>= 3.4),GPL (>= 2),10.18129/B9.BIOC.TCSEQ
+TDARACNE,1.46.0,"GenKern, Rgraphviz, Biobase",GPL-2,10.18129/B9.BIOC.TDARACNE
+TEKRABber,1.0.1,R (>= 4.1),GPL (>= 2),10.18129/B9.BIOC.TEKRABBER
+tenXplore,1.17.1,"R (>= 3.5.0), shiny, restfulSE (>= 0.99.12)",Artistic-2.0,10.18129/B9.BIOC.TENXPLORE
+TEQC,4.18.0,"methods, BiocGenerics (>= 0.1.0), IRanges (>= 1.13.5),
+Rsamtools, hwriter",GPL (>= 2),10.18129/B9.BIOC.TEQC
+ternarynet,1.40.0,R (>= 4.0),GPL (>= 2),10.18129/B9.BIOC.TERNARYNET
+terraTCGAdata,1.0.0,"R (>= 4.2.0), AnVIL, MultiAssayExperiment",Artistic-2.0,10.18129/B9.BIOC.TERRATCGADATA
+TFARM,1.18.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.TFARM
+TFBSTools,1.34.0,R (>= 3.2.2),GPL-2,10.18129/B9.BIOC.TFBSTOOLS
+TFEA.ChIP,1.16.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.TFEA.CHIP
+TFHAZ,1.18.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.TFHAZ
+TFutils,1.16.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.TFUTILS
+tidybulk,1.8.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.TIDYBULK
+tidySingleCellExperiment,1.6.3,"R (>= 4.0.0), ttservice, SingleCellExperiment",GPL-3,10.18129/B9.BIOC.TIDYSINGLECELLEXPERIMENT
+tidySummarizedExperiment,1.6.1,"R (>= 4.0.0), SummarizedExperiment",GPL-3,10.18129/B9.BIOC.TIDYSUMMARIZEDEXPERIMENT
+tigre,1.50.0,"R (>= 2.11.0), BiocGenerics, Biobase",AGPL-3,10.18129/B9.BIOC.TIGRE
+TileDBArray,1.6.0,DelayedArray (>= 0.15.16),MIT,10.18129/B9.BIOC.TILEDBARRAY
+tilingArray,1.74.0,"R (>= 2.11.0), Biobase, methods, pixmap",Artistic-2.0,10.18129/B9.BIOC.TILINGARRAY
+timecourse,1.68.0,"R (>= 2.1.1), MASS, methods",LGPL,10.18129/B9.BIOC.TIMECOURSE
+timeOmics,1.7.1,"mixOmics, R (>= 4.0)",GPL-3,10.18129/B9.BIOC.TIMEOMICS
+timescape,1.20.0,R (>= 3.3),GPL-3,10.18129/B9.BIOC.TIMESCAPE
+TimeSeriesExperiment,1.13.0,"R (>= 4.1), S4Vectors (>= 0.19.23), SummarizedExperiment (>=
+1.11.6)",MIT,10.18129/B9.BIOC.TIMESERIESEXPERIMENT
+TimiRGeN,1.6.0,"R (>= 4.1), Mfuzz, MultiAssayExperiment",GPL-3,10.18129/B9.BIOC.TIMIRGEN
+TIN,1.28.0,"R (>= 2.12.0), data.table, impute, aroma.affymetrix",Artistic-2.0,10.18129/B9.BIOC.TIN
+TissueEnrich,1.16.0,"R (>= 3.5), ensurer (>= 1.1.0), ggplot2 (>= 2.2.1),
+SummarizedExperiment (>= 1.6.5), GSEABase (>= 1.38.2)",MIT,10.18129/B9.BIOC.TISSUEENRICH
+TitanCNA,1.34.0,R (>= 3.5.1),GPL-3,10.18129/B9.BIOC.TITANCNA
+tkWidgets,1.74.0,"R (>= 2.0.0), methods, widgetTools (>= 1.1.7), DynDoc (>=
+1.3.0), tools",Artistic-2.0,10.18129/B9.BIOC.TKWIDGETS
+tLOH,1.4.0,R (>= 4.0),MIT,10.18129/B9.BIOC.TLOH
+TMixClust,1.18.0,R (>= 3.4),GPL (>= 2),10.18129/B9.BIOC.TMIXCLUST
+TNBC.CMS,1.12.0,"R (>= 3.6.0), e1071, quadprog, SummarizedExperiment",GPL-3,10.18129/B9.BIOC.TNBC.CMS
+TnT,1.18.0,"R (>= 3.4), GenomicRanges",AGPL-3,10.18129/B9.BIOC.TNT
+TOAST,1.10.0,"R (>= 3.6), EpiDISH, limma, nnls, quadprog",GPL-2,10.18129/B9.BIOC.TOAST
+tomoda,1.6.0,R (>= 4.0.0),MIT,10.18129/B9.BIOC.TOMODA
+tomoseqr,1.0.0,R (>= 4.2),MIT,10.18129/B9.BIOC.TOMOSEQR
+topconfects,1.12.0,R (>= 3.6.0),LGPL-2.1,10.18129/B9.BIOC.TOPCONFECTS
+topdownr,1.18.0,"R (>= 3.5), methods, BiocGenerics (>= 0.20.0), ProtGenerics
+(>= 1.10.0), Biostrings (>= 2.42.1), S4Vectors (>= 0.12.2)",GPL (>= 3),10.18129/B9.BIOC.TOPDOWNR
+topGO,2.48.0,"R (>= 2.10.0), methods, BiocGenerics (>= 0.13.6), graph (>=
+1.14.0), Biobase (>= 2.0.0), GO.db (>= 2.3.0), AnnotationDbi
+(>= 1.7.19), SparseM (>= 0.73)",LGPL,10.18129/B9.BIOC.TOPGO
+ToxicoGx,2.0.0,"R (>= 4.1), CoreGx",MIT,10.18129/B9.BIOC.TOXICOGX
+TPP,3.24.0,"R (>= 3.4), Biobase, dplyr, magrittr, tidyr",Artistic-2.0,10.18129/B9.BIOC.TPP
+TPP2D,1.12.0,"R (>= 3.6.0), stats, utils, dplyr, methods",GPL-3,10.18129/B9.BIOC.TPP2D
+tracktables,1.30.0,R (>= 3.5.0),GPL (>= 3),10.18129/B9.BIOC.TRACKTABLES
+trackViewer,1.32.1,"R (>= 3.5.0), grDevices, methods, GenomicRanges, grid, Rcpp",GPL (>= 2),10.18129/B9.BIOC.TRACKVIEWER
+tradeSeq,1.10.0,R (>= 3.6),MIT,10.18129/B9.BIOC.TRADESEQ
+TrajectoryGeometry,1.4.0,R (>= 4.1),MIT,10.18129/B9.BIOC.TRAJECTORYGEOMETRY
+TrajectoryUtils,1.4.0,SingleCellExperiment,GPL-3,10.18129/B9.BIOC.TRAJECTORYUTILS
+transcriptogramer,1.18.0,"R (>= 3.4), methods",GPL (>= 2),10.18129/B9.BIOC.TRANSCRIPTOGRAMER
+transcriptR,1.24.0,"R (>= 3.5.0), methods",GPL-3,10.18129/B9.BIOC.TRANSCRIPTR
+transformGamPoi,1.2.0,NA,GPL-3,10.18129/B9.BIOC.TRANSFORMGAMPOI
+transite,1.14.0,R (>= 3.5),MIT,10.18129/B9.BIOC.TRANSITE
+tRanslatome,1.34.0,"R (>= 2.15.0), methods, limma, sigPathway, anota, DESeq2,
+edgeR, RankProd, topGO, org.Hs.eg.db, GOSemSim, Heatplus,
+gplots, plotrix, Biobase",GPL-3,10.18129/B9.BIOC.TRANSLATOME
+transomics2cytoscape,1.6.1,NA,Artistic-2.0,10.18129/B9.BIOC.TRANSOMICS2CYTOSCAPE
+TransView,1.40.0,"methods, GenomicRanges",GPL-3,10.18129/B9.BIOC.TRANSVIEW
+TraRe,1.4.0,R (>= 4.1),MIT,10.18129/B9.BIOC.TRARE
+traseR,1.26.0,"R (>= 3.5.0), GenomicRanges, IRanges,
+BSgenome.Hsapiens.UCSC.hg19",GPL,10.18129/B9.BIOC.TRASER
+Travel,1.4.0,NA,GPL-3,10.18129/B9.BIOC.TRAVEL
+traviz,1.2.0,R (>= 4.0),MIT,10.18129/B9.BIOC.TRAVIZ
+TreeAndLeaf,1.8.0,R(>= 4.0),Artistic-2.0,10.18129/B9.BIOC.TREEANDLEAF
+treeio,1.20.1,R (>= 3.6.0),Artistic-2.0,10.18129/B9.BIOC.TREEIO
+treekoR,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.TREEKOR
+TreeSummarizedExperiment,2.4.0,"R(>= 3.6.0), SingleCellExperiment, S4Vectors (>= 0.23.18),
+Biostrings",GPL (>= 2),10.18129/B9.BIOC.TREESUMMARIZEDEXPERIMENT
+TREG,1.0.1,"R (>= 4.2), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.TREG
+trena,1.18.0,"R (>= 3.5.0), utils, glmnet (>= 2.0.3), MotifDb (>= 1.19.17)",GPL-3,10.18129/B9.BIOC.TRENA
+Trendy,1.18.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.TRENDY
+TRESS,1.2.0,"R (>= 4.1.0), parallel, S4Vectors",GPL-3,10.18129/B9.BIOC.TRESS
+tricycle,1.4.0,"R (>= 4.0), SingleCellExperiment",GPL-3,10.18129/B9.BIOC.TRICYCLE
+trigger,1.42.0,"R (>= 2.14.0), corpcor, qtl",GPL-3,10.18129/B9.BIOC.TRIGGER
+trio,3.34.0,R (>= 3.0.1),LGPL-2,10.18129/B9.BIOC.TRIO
+triplex,1.36.0,"R (>= 2.15.0), S4Vectors (>= 0.5.14), IRanges (>= 2.5.27),
+XVector (>= 0.11.6), Biostrings (>= 2.39.10)",BSD_2_clause,10.18129/B9.BIOC.TRIPLEX
+tripr,1.2.0,"shiny (>= 1.6.0), shinyBS",MIT,10.18129/B9.BIOC.TRIPR
+tRNA,1.14.0,"R (>= 3.5), GenomicRanges, Structstrings",GPL-3,10.18129/B9.BIOC.TRNA
+tRNAdbImport,1.14.0,"R (>= 3.5), GenomicRanges, Modstrings, Structstrings, tRNA",GPL-3,10.18129/B9.BIOC.TRNADBIMPORT
+tRNAscanImport,1.16.0,"R (>= 3.5), GenomicRanges, tRNA",GPL-3,10.18129/B9.BIOC.TRNASCANIMPORT
+TRONCO,2.28.0,"R (>= 4.1.0),",GPL-3,10.18129/B9.BIOC.TRONCO
+TSCAN,1.34.0,"SingleCellExperiment, TrajectoryUtils",GPL (>= 2),10.18129/B9.BIOC.TSCAN
+tscR,1.8.0,"R (>= 4.1.0), dplyr",Artistic-2.0,10.18129/B9.BIOC.TSCR
+tspair,1.53.0,"R (>= 2.10), Biobase (>= 2.4.0)",GPL-2,10.18129/B9.BIOC.TSPAIR
+ttgsea,1.4.0,keras,Artistic-2.0,10.18129/B9.BIOC.TTGSEA
+TTMap,1.18.0,"rgl, colorRamps",GPL-2,10.18129/B9.BIOC.TTMAP
+TurboNorm,1.44.0,"R (>= 2.12.0), convert, limma (>= 1.7.0), marray",LGPL,10.18129/B9.BIOC.TURBONORM
+TVTB,1.22.0,"R (>= 3.4), methods, utils, stats",Artistic-2.0,10.18129/B9.BIOC.TVTB
+tweeDEseq,1.42.0,R (>= 2.12.0),GPL (>= 2),10.18129/B9.BIOC.TWEEDESEQ
+twilight,1.72.0,"R (>= 2.10), splines (>= 2.2.0), stats (>= 2.2.0), Biobase(>=
+1.12.0)",GPL (>= 2),10.18129/B9.BIOC.TWILIGHT
+twoddpcr,1.20.0,R (>= 3.4),GPL-3,10.18129/B9.BIOC.TWODDPCR
+txcutr,1.2.0,R (>= 4.1.0),GPL-3,10.18129/B9.BIOC.TXCUTR
+tximeta,1.14.1,NA,GPL-2,10.18129/B9.BIOC.TXIMETA
+tximport,1.24.0,NA,GPL (>= 2),10.18129/B9.BIOC.TXIMPORT
+TypeInfo,1.62.0,methods,BSD_2_clause,10.18129/B9.BIOC.TYPEINFO
+UCell,2.0.1,R(>= 4.1.0),GPL-3,10.18129/B9.BIOC.UCELL
+UMI4Cats,1.6.0,"R (>= 4.0.0), SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.UMI4CATS
+uncoverappLib,1.6.0,NA,MIT,10.18129/B9.BIOC.UNCOVERAPPLIB
+UNDO,1.38.0,"R (>= 2.15.2), methods, BiocGenerics, Biobase",GPL-2,10.18129/B9.BIOC.UNDO
+unifiedWMWqPCR,1.32.0,methods,GPL (>= 2),10.18129/B9.BIOC.UNIFIEDWMWQPCR
+UniProt.ws,2.36.0,"methods, utils, RSQLite, BiocGenerics (>= 0.13.8)",Artistic License 2.0,10.18129/B9.BIOC.UNIPROT.WS
+Uniquorn,2.16.0,R (>= 3.5),Artistic-2.0,10.18129/B9.BIOC.UNIQUORN
+universalmotif,1.14.1,R (>= 3.5.0),GPL-3,10.18129/B9.BIOC.UNIVERSALMOTIF
+updateObject,1.0.0,"R (>= 4.2.0), methods, BiocGenerics, S4Vectors",Artistic-2.0,10.18129/B9.BIOC.UPDATEOBJECT
+uSORT,1.22.0,"R (>= 3.3.0), tcltk",Artistic-2.0,10.18129/B9.BIOC.USORT
+VAExprs,1.2.1,"keras, mclust",Artistic-2.0,10.18129/B9.BIOC.VAEXPRS
+VanillaICE,1.58.0,"R (>= 3.5.0), BiocGenerics (>= 0.13.6), GenomicRanges (>=
+1.27.6), SummarizedExperiment (>= 1.5.3)",LGPL-2,10.18129/B9.BIOC.VANILLAICE
+VarCon,1.4.0,"Biostrings, BSgenome, GenomicRanges, R (>= 4.1)",GPL-3,10.18129/B9.BIOC.VARCON
+variancePartition,1.26.0,"R (>= 4.0.0), ggplot2, limma, BiocParallel",GPL-2,10.18129/B9.BIOC.VARIANCEPARTITION
+VariantAnnotation,1.42.1,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0),
+MatrixGenerics, GenomeInfoDb (>= 1.15.2), GenomicRanges (>=
+1.41.5), SummarizedExperiment (>= 1.19.5), Rsamtools (>=
+1.99.0)",Artistic-2.0,10.18129/B9.BIOC.VARIANTANNOTATION
+VariantExperiment,1.10.0,"R (>= 3.6.0), S4Vectors (>= 0.21.24), SummarizedExperiment (>=
+1.13.0), GenomicRanges,",GPL-3,10.18129/B9.BIOC.VARIANTEXPERIMENT
+VariantFiltering,1.32.0,"R (>= 3.5.0), methods, BiocGenerics (>= 0.25.1),
+VariantAnnotation (>= 1.13.29)",Artistic-2.0,10.18129/B9.BIOC.VARIANTFILTERING
+VariantTools,1.38.0,"R (>= 3.5.0), S4Vectors (>= 0.17.33), IRanges (>= 2.13.12),
+GenomicRanges (>= 1.31.8), VariantAnnotation (>= 1.11.16),
+methods",Artistic-2.0,10.18129/B9.BIOC.VARIANTTOOLS
+VaSP,1.8.0,"R (>= 4.0), ballgown",GPL (>= 2.0),10.18129/B9.BIOC.VASP
+vbmp,1.64.0,R (>= 2.10),GPL (>= 2),10.18129/B9.BIOC.VBMP
+VCFArray,1.12.0,"R (>= 3.6), methods, BiocGenerics, DelayedArray (>= 0.7.28)",GPL-3,10.18129/B9.BIOC.VCFARRAY
+VegaMC,3.34.0,"R (>= 2.10.0), biomaRt, Biobase",GPL-2,10.18129/B9.BIOC.VEGAMC
+velociraptor,1.6.0,SummarizedExperiment,MIT,10.18129/B9.BIOC.VELOCIRAPTOR
+veloviz,1.2.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.VELOVIZ
+VennDetail,1.12.0,NA,GPL-2,10.18129/B9.BIOC.VENNDETAIL
+vidger,1.16.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.VIDGER
+ViSEAGO,1.10.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.VISEAGO
+vissE,1.4.0,R (>= 4.1),GPL-3,10.18129/B9.BIOC.VISSE
+VplotR,1.6.0,"R (>= 4.0), GenomicRanges, IRanges, ggplot2",GPL-3,10.18129/B9.BIOC.VPLOTR
+vsn,3.64.0,"R (>= 4.0.0), methods, Biobase",Artistic-2.0,10.18129/B9.BIOC.VSN
+vtpnet,0.36.0,"R (>= 3.0.0), graph, GenomicRanges, gwascat, doParallel,
+foreach",Artistic-2.0,10.18129/B9.BIOC.VTPNET
+vulcan,1.18.0,"R (>= 4.0), ChIPpeakAnno,TxDb.Hsapiens.UCSC.hg19.knownGene,
+zoo, GenomicRanges, S4Vectors, viper, DiffBind, locfit",LGPL-3,10.18129/B9.BIOC.VULCAN
+waddR,1.10.0,R (>= 3.6.0),MIT,10.18129/B9.BIOC.WADDR
+wateRmelon,2.2.0,"R (>= 3.5.0), Biobase, limma, methods, matrixStats, methylumi,
+lumi, ROC, IlluminaHumanMethylation450kanno.ilmn12.hg19,
+illuminaio",GPL-3,10.18129/B9.BIOC.WATERMELON
+wavClusteR,2.30.0,"R (>= 3.2), GenomicRanges (>= 1.31.8), Rsamtools",GPL-2,10.18129/B9.BIOC.WAVCLUSTER
+weaver,1.62.0,"R (>= 2.5.0), digest, tools, utils, codetools",GPL-2,10.18129/B9.BIOC.WEAVER
+webbioc,1.68.0,"R (>= 1.8.0), Biobase, affy, multtest, annaffy, vsn, gcrma,
+qvalue",GPL (>= 2),10.18129/B9.BIOC.WEBBIOC
+weitrix,1.8.0,"R (>= 3.6), SummarizedExperiment",LGPL-2.1,10.18129/B9.BIOC.WEITRIX
+widgetTools,1.74.0,"R (>= 2.4.0), methods, utils, tcltk",LGPL,10.18129/B9.BIOC.WIDGETTOOLS
+wiggleplotr,1.20.0,R (>= 3.6),Apache License 2.0,10.18129/B9.BIOC.WIGGLEPLOTR
+wpm,1.6.0,R (>= 4.1.0),Artistic-2.0,10.18129/B9.BIOC.WPM
+wppi,1.4.0,R(>= 4.1),MIT,10.18129/B9.BIOC.WPPI
+Wrench,1.14.0,R (>= 3.5.0),Artistic-2.0,10.18129/B9.BIOC.WRENCH
+xcms,3.18.0,"R (>= 4.0.0), BiocParallel (>= 1.8.0), MSnbase (>= 2.21.4)",GPL (>= 2),10.18129/B9.BIOC.XCMS
+xcore,1.0.0,R (>= 4.2),GPL-2,10.18129/B9.BIOC.XCORE
+XDE,2.42.0,"R (>= 2.10.0), Biobase (>= 2.5.5)",LGPL-2,10.18129/B9.BIOC.XDE
+Xeva,1.12.0,R (>= 3.6),GPL-3,10.18129/B9.BIOC.XEVA
+XINA,1.14.0,R (>= 3.5),GPL-3,10.18129/B9.BIOC.XINA
+xmapbridge,1.54.0,"R (>= 2.0), methods",LGPL-3,10.18129/B9.BIOC.XMAPBRIDGE
+XNAString,1.4.0,R (>= 4.1),GPL-2,10.18129/B9.BIOC.XNASTRING
+XVector,0.36.0,"R (>= 4.0.0), methods, BiocGenerics (>= 0.37.0), S4Vectors (>=
+0.27.12), IRanges (>= 2.23.9)",Artistic-2.0,10.18129/B9.BIOC.XVECTOR
+yamss,1.22.0,"R (>= 3.5.0), methods, BiocGenerics (>= 0.15.3),
+SummarizedExperiment",Artistic-2.0,10.18129/B9.BIOC.YAMSS
+YAPSA,1.22.0,"R (>= 3.6.0), GenomicRanges, ggplot2, grid",GPL-3,10.18129/B9.BIOC.YAPSA
+yarn,1.22.0,Biobase,Artistic-2.0,10.18129/B9.BIOC.YARN
+zellkonverter,1.6.3,NA,MIT,10.18129/B9.BIOC.ZELLKONVERTER
+zFPKM,1.18.0,R (>= 3.4.0),GPL-3,10.18129/B9.BIOC.ZFPKM
+zinbwave,1.18.0,"R (>= 3.4), methods, SummarizedExperiment,
+SingleCellExperiment",Artistic-2.0,10.18129/B9.BIOC.ZINBWAVE
+zlibbioc,1.42.0,NA,Artistic-2.0,10.18129/B9.BIOC.ZLIBBIOC

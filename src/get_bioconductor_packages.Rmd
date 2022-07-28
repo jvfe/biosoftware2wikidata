@@ -1,0 +1,74 @@
+---
+title: "Bioconductor packages"
+author: "João Vitor F. Cavalcante"
+date: "2022-07-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(rvest)
+```
+
+# Get all bioconductor packages
+
+```{r bioc-data}
+
+bioc_packages <- read.dcf(url(
+  "https://bioconductor.org/packages/release/bioc/src/contrib/PACKAGES"
+)) %>%
+  as_tibble()
+
+```
+
+Que tipo de informação podemos migrar?
+- Nome do software
+- Versão
+- Licença
+- DOI
+- Dependências (talvez)
+
+# Gerar DOI dos pacotes
+
+- DOIs seguem o mesmo padrão:
+
+`10.18129/B9.bioc.{NOME DO PACOTE}`
+
+
+```{r}
+with_dois <- bioc_packages %>% 
+  # É necessário deixar em maiúscula para o modelo de dados da Wikidata
+  mutate(DOI = toupper(paste0("10.18129/B9.bioc.", Package)))
+```
+
+# Limpar os dados
+
+Vamos tirar colunas com muita informação faltante ou que não constituirão propriedades no item final.
+
+```{r}
+bioc_clean <- with_dois %>%
+  filter(License_is_FOSS != "no" | is.na(License_is_FOSS)) %>%
+  select(c(Package,
+           Version,
+           Depends,
+           License,
+           DOI)) %>%
+  filter(License != "file LICENSE") %>% 
+  # Limpar 'file LICENSE' 
+  mutate(License = stringr::str_remove(License, "\\s(\\+|\\|).*"))
+```
+
+Escrever o dado a ser reconciliado:
+
+```{r}
+bioc_clean %>% 
+  readr::write_csv("results/bioc_softwares.csv")
+```
+
+
+
+
