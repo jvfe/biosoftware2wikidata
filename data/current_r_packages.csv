@@ -1,0 +1,36 @@
+item,itemLabel
+Q326489,ggplot2
+Q4798127,Knitr
+Q7276692,RGtk2
+Q28957051,Quantitative Discourse Analysis Package
+Q59154648,rdflib
+Q85699649,Seurat
+Q91626942,bssm: Bayesian Inference of Non-Linear and Non-Gaussian State Space
+Q98974089,BAS: Bayesian Variable Selection and Model Averaging using Bayesian Adaptive Sampling
+Q101074371,"ontoProc: processing of ontologies of anatomy, cell lines, and so on"
+Q102187923,quanteda
+Q102537983,WGCNA
+Q103815779,Scater
+Q104552099,Single-cell RNAseq cell cluster labelling by reference (celaref)
+Q104854189,dplyr
+Q105209416,gganimate
+Q108282427,WikidataR
+Q108282448,rwikidata
+Q109500105,CellMix
+Q109500237,biomaRt
+Q109500261,HilbertCurve
+Q111827439,metafor
+Q112143970,eDNAoccupancy
+Q112205047,Easystats
+Q112236343,limma
+Q112236367,edgeR package
+Q112281656,CEMiTool
+Q112335435,sdcMicro
+Q112806005,spBayes
+Q113017558,Glimma
+Q113017994,mixtools
+Q113018142,tolerance
+Q113018293,DESeq2
+Q113018345,future
+Q113047099,MSstats
+Q113111334,BASiNET
