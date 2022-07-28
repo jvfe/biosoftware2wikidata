@@ -45,28 +45,70 @@ with_dois <- bioc_packages %>%
   mutate(DOI = toupper(paste0("10.18129/B9.bioc.", Package)))
 ```
 
+# Achar publicação associada
+
+```{r}
+
+.get_citation <- function(package_name) {
+  bioc_url <- paste0(
+    "http://bioconductor.org/packages/release/bioc/citations/",
+    package_name,
+    "/citation.html"
+  )
+  
+  page <- read_html(bioc_url)
+  
+  page %>%
+    html_element("a") %>%
+    html_text() %>%
+    toupper()
+  
+}
+
+get_citation <- purrr::safely(.get_citation)
+
+with_citation <- with_dois %>% 
+  mutate(citation_doi = purrr::map(Package, get_citation))
+
+only_citation_dois <- with_citation %>%
+  tidyr::unnest(citation_doi) %>%
+  mutate(citation_doi = as.character(citation_doi)) %>%
+  # https://stackoverflow.com/a/48524047
+  mutate(citation_doi = stringr::str_extract(citation_doi, '^10.\\d{4,9}/[-._;()/:A-Z0-9]+$')) %>% 
+  filter(!is.na(citation_doi))
+```
+
+
 # Limpar os dados
 
 Vamos tirar colunas com muita informação faltante ou que não constituirão propriedades no item final.
 
 ```{r}
-bioc_clean <- with_dois %>%
+bioc_clean <- only_citation_dois %>%
   filter(License_is_FOSS != "no" | is.na(License_is_FOSS)) %>%
   select(c(Package,
            Version,
            Depends,
            License,
            DOI)) %>%
-  filter(License != "file LICENSE") %>% 
-  # Limpar 'file LICENSE' 
-  mutate(License = stringr::str_remove(License, "\\s(\\+|\\|).*"))
+  filter(License != "file LICENSE") %>%
+  # Limpar 'file LICENSE'
+  mutate(License = stringr::str_remove(License, "\\s(\\+|\\|).*")) %>%
+  mutate(
+    License = case_when(
+      stringr::str_detect(License, "LGPL") ~ "LGPL (>= 2.1)",
+      stringr::str_detect(License, "Apache") ~ "Apache License 2.0",
+      stringr::str_detect(License, "GPL (>= 3)") ~ "GPL-3",
+      TRUE ~ License
+    )
+  )
 ```
 
 Escrever o dado a ser reconciliado:
 
 ```{r}
 bioc_clean %>% 
-  readr::write_csv("results/bioc_softwares.csv")
+  readr::write_csv("results/bioc_softwares_with_citations.csv")
 ```
 
 
