@@ -90,24 +90,6 @@
     LAST|P856|"https://lief.if.ufrgs.br/pub/biosoftwares/viacomplex"|P407|Q1860
 
     CREATE
-    LAST|Len|"RTNsurvival"
-    LAST|Den|"software"
-    LAST|P31|Q73539779
-    LAST|P277|Q206904
-    LAST|P126|Q41049476
-    LAST|P1343|Q92690894
-    LAST|P1324|"http://bioconductor.org/packages/release/bioc/html/RTNsurvival.html"|P8423|Q186055|P10627|Q364
-
-    CREATE
-    LAST|Len|"RTNduals"
-    LAST|Den|"software"
-    LAST|P31|Q73539779
-    LAST|P277|Q206904
-    LAST|P126|Q41049476
-    LAST|P1343|Q93098410
-    LAST|P1324|"http://bioconductor.org/packages/release/bioc/html/RTNduals.html"|P8423|Q186055|P10627|Q364
-
-    CREATE
     LAST|Len|"GFinisher"
     LAST|Den|"software"
     LAST|P31|Q1995545
