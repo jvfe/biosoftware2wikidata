@@ -1,0 +1,14 @@
+rótulo,descrição,P31,linguagem de programação,repositório de código-fonte,sistema de controle de versão,web interface software,sítio oficial,língua da obra ou do nome,mantido por,descrito pela fonte
+RNAplonc,software,Q1995545,Q42478,https://github.com/TatianneNegri/RNAplonc/,Q186055,Q364,,,Q113328839,Q60213471
+TERL,software,Q1995545,Q28865,https://github.com/muriloHoracio/TERL,Q186055,Q364,,,Q113329022,Q99209715
+BioAutoML,software,Q1995545,Q28865,https://github.com/Bonidia/BioAutoML,Q186055,Q364,,,Q113329204,Q113329147
+MathFeature,software,Q1995545,Q28865,https://github.com/Bonidia/MathFeature,Q186055,Q364,,,Q113329204,Q113329343
+Sweep,software,Q1995545,Q169478,,,,https://sourceforge.net/projects/spacedwordsprojection/,Q1860,Q105621954,Q92528002
+RAFTS³G,software,Q1995545,Q169478,,,,https://sourceforge.net/projects/rafts-g/,Q1860,Q105621954,Q91894211
+ProClaT,software,Q1995545,Q169478,,,,https://sourceforge.net/projects/proclat/,Q1860,Q105621954,Q36254956
+Biotext,software,Q1995545,Q28865,https://pypi.org/project/BIOTEXT/,Q186055,Q364,,,Q105621954,Q113330068
+RedeR,software,Q73539779,Q206904,http://bioconductor.org/packages/release/bioc/html/RedeR.html,Q186055,Q364,,,Q41049476,Q34244343
+ViaComplex,software,Q1995545,Q83303,,,,https://lief.if.ufrgs.br/pub/biosoftwares/viacomplex,Q1860,Q41049476,Q48286342
+RTNsurvival,software,Q73539779,Q206904,http://bioconductor.org/packages/release/bioc/html/RTNsurvival.html,Q186055,Q364,,,Q41049476,Q92690894
+RTNduals,software,Q73539779,Q206904,http://bioconductor.org/packages/release/bioc/html/RTNduals.html,Q186055,Q364,,,Q41049476,Q93098410
+GFinisher,software,Q1995545,Q251,,,,http://gfinisher.sourceforge.net/,Q1860,Q61774428,Q37323813
