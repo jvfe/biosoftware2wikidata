@@ -23,6 +23,20 @@ bioc_packages <- read.dcf(url(
 )) %>%
   as_tibble()
 
+
+in_wdt <-  WikidataQueryServiceR::query_wikidata(
+  "
+ SELECT ?item ?itemLabel ?doi
+  WHERE
+  {
+   ?item wdt:P31/wdt:P279* wd:Q73539779.
+   ?item wdt:P356 ?doi.
+   SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt-br,en\". }
+  }
+  "
+) %>%
+  mutate(item = stringr::str_remove(item, "http://www.wikidata.org/entity/"))
+
 ```
 
 Que tipo de informação podemos migrar?
@@ -32,7 +46,7 @@ Que tipo de informação podemos migrar?
 - DOI
 - Dependências (talvez)
 
-# Gerar DOI dos pacotes
+## Gerar DOI dos pacotes
 
 - DOIs seguem o mesmo padrão:
 
@@ -45,7 +59,9 @@ with_dois <- bioc_packages %>%
   mutate(DOI = toupper(paste0("10.18129/B9.bioc.", Package)))
 ```
 
-# Achar publicação associada
+## Softwares com publicações
+
+### Achar publicação associada
 
 ```{r}
 
@@ -79,7 +95,7 @@ only_citation_dois <- with_citation %>%
 ```
 
 
-# Limpar os dados
+### Limpar os dados
 
 Vamos tirar colunas com muita informação faltante ou que não constituirão propriedades no item final.
 
@@ -90,6 +106,7 @@ bioc_clean <- only_citation_dois %>%
            Version,
            Depends,
            License,
+           citation_doi,
            DOI)) %>%
   filter(License != "file LICENSE") %>%
   # Limpar 'file LICENSE'
@@ -112,5 +129,72 @@ bioc_clean %>%
 ```
 
 
+
+
+
+
+
+## Softwares com mantenedor
+
+```{r}
+.get_maintainer <- function(package_name) {
+  bioc_url <- paste0("https://bioconductor.org/packages/release/bioc/html/",
+                     package_name,
+                     ".html")
+  
+  page <- read_html(bioc_url)
+  
+  strings <- page %>%
+    html_elements("p") %>%
+    html_text() %>%
+    stringr::str_extract("Maintainer:.*") %>%
+    stringr::str_remove("\\<.*\\>") %>%
+    stringr::str_remove("Maintainer:") %>%
+    stringr::str_trim()
+  
+  strings[!is.na(strings)]
+}
+
+get_maintainer <- purrr::safely(.get_maintainer)
+
+```
+
+```{r}
+not_in_wikidata <- with_dois %>% 
+  filter(!(DOI %in% in_wdt$doi))
+
+with_maintainer <- not_in_wikidata %>% 
+  mutate(maintainer = purrr::map(Package, get_maintainer))
+```
+
+
+```{r}
+maintainers_clean <- with_maintainer %>%
+  tidyr::unnest(maintainer) %>%
+  mutate(maintainer = as.character(maintainer)) %>% 
+  distinct(DOI, .keep_all = TRUE) %>% 
+  filter(maintainer != "NULL") %>% 
+  filter(License_is_FOSS != "no" | is.na(License_is_FOSS)) %>%
+  select(c(Package,
+           License,
+           maintainer,
+           DOI)) %>%
+  filter(License != "file LICENSE") %>%
+  # Limpar 'file LICENSE'
+  mutate(License = stringr::str_remove(License, "\\s(\\+|\\|).*")) %>%
+  mutate(
+    License = case_when(
+      stringr::str_detect(License, "LGPL") ~ "LGPL (>= 2.1)",
+      stringr::str_detect(License, "Apache") ~ "Apache License 2.0",
+      stringr::str_detect(License, "GPL (>= 3)") ~ "GPL-3",
+      TRUE ~ License
+    )
+  )
+```
+
+```{r}
+maintainers_clean %>% 
+  readr::write_csv("results/softwares_with_maintainers.csv")
+```
 
 

@@ -1,0 +1,1704 @@
+Package,License,maintainer,DOI
+a4,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4
+a4Base,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4BASE
+a4Classif,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4CLASSIF
+a4Core,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4CORE
+a4Preproc,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4PREPROC
+a4Reporting,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4REPORTING
+ABarray,GPL,Yongming Andrew Sun,10.18129/B9.BIOC.ABARRAY
+abseqR,GPL-3,JiaHong Fong,10.18129/B9.BIOC.ABSEQR
+ABSSeq,GPL (>= 3),Wentao Yang,10.18129/B9.BIOC.ABSSEQ
+acde,GPL-3,Juan Pablo Acosta,10.18129/B9.BIOC.ACDE
+aCGH,GPL-2,Peter Dimitrov,10.18129/B9.BIOC.ACGH
+ACME,GPL (>= 2),Sean Davis,10.18129/B9.BIOC.ACME
+ADAM,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.ADAM
+ADAMgui,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.ADAMGUI
+adductomicsR,Artistic-2.0,Josie Hayes,10.18129/B9.BIOC.ADDUCTOMICSR
+ADImpute,GPL-3,Ana Carolina Leote,10.18129/B9.BIOC.ADIMPUTE
+adSplit,GPL (>= 2),Claudio Lottaz,10.18129/B9.BIOC.ADSPLIT
+AffiXcan,GPL-3,Alessandro Lussana,10.18129/B9.BIOC.AFFIXCAN
+affxparser,LGPL (>= 2.1),Kasper Daniel Hansen,10.18129/B9.BIOC.AFFXPARSER
+affycomp,GPL (>= 2),Rafael A. Irizarry,10.18129/B9.BIOC.AFFYCOMP
+AffyCompatible,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.AFFYCOMPATIBLE
+affyContam,Artistic-2.0,V. Carey,10.18129/B9.BIOC.AFFYCONTAM
+affycoretools,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.AFFYCORETOOLS
+affyILM,GPL-3,Myriam Kroll and Fabrice Berger,10.18129/B9.BIOC.AFFYILM
+affyio,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.AFFYIO
+affylmGUI,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.AFFYLMGUI
+affyPLM,GPL (>= 2),Ben Bolstad,10.18129/B9.BIOC.AFFYPLM
+AGDEX,GPL (>= 2),Cuilan lani Gao,10.18129/B9.BIOC.AGDEX
+aggregateBioVar,GPL-3,Jason Ratcliff,10.18129/B9.BIOC.AGGREGATEBIOVAR
+agilp,GPL-3,Benny Chain,10.18129/B9.BIOC.AGILP
+AgiMicroRna,GPL-3,Pedro Lopez-Romero,10.18129/B9.BIOC.AGIMICRORNA
+AIMS,Artistic-2.0,Eric R Paquet,10.18129/B9.BIOC.AIMS
+airpart,GPL-2,Wancen Mu,10.18129/B9.BIOC.AIRPART
+alevinQC,MIT,Charlotte Soneson,10.18129/B9.BIOC.ALEVINQC
+AlphaBeta,GPL-3,Yadollah Shahryary Dizaji,10.18129/B9.BIOC.ALPHABETA
+altcdfenvs,GPL (>= 2),Laurent Gautier,10.18129/B9.BIOC.ALTCDFENVS
+AMARETTO,Apache License 2.0,Olivier Gevaert,10.18129/B9.BIOC.AMARETTO
+AMOUNTAIN,GPL (>= 2),Dong Li,10.18129/B9.BIOC.AMOUNTAIN
+Anaquin,BSD_3_clause,Ted Wong,10.18129/B9.BIOC.ANAQUIN
+ANCOMBC,Artistic-2.0,Huang Lin,10.18129/B9.BIOC.ANCOMBC
+ANF,GPL-3,Tianle Ma,10.18129/B9.BIOC.ANF
+annaffy,LGPL (>= 2.1),Colin A. Smith,10.18129/B9.BIOC.ANNAFFY
+annmap,GPL-2,Chris Wirth,10.18129/B9.BIOC.ANNMAP
+annotate,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATE
+AnnotationDbi,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONDBI
+AnnotationFilter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONFILTER
+AnnotationForge,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONFORGE
+AnnotationHub,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONHUB
+AnnotationHubData,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONHUBDATA
+annotationTools,GPL,Alexandre Kuhn,10.18129/B9.BIOC.ANNOTATIONTOOLS
+annotatr,GPL-3,Raymond G. Cavalcante,10.18129/B9.BIOC.ANNOTATR
+anota,GPL-3,Ola Larsson,10.18129/B9.BIOC.ANOTA
+antiProfiles,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.ANTIPROFILES
+AnVIL,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ANVIL
+AnVILBilling,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.ANVILBILLING
+AnVILPublish,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ANVILPUBLISH
+apComplex,LGPL (>= 2.1),Denise Scholtens,10.18129/B9.BIOC.APCOMPLEX
+APL,GPL (>= 3),Elzbieta Gralinska,10.18129/B9.BIOC.APL
+appreci8R,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.APPRECI8R
+ArrayExpress,Artistic-2.0,Suhaib Mohammed,10.18129/B9.BIOC.ARRAYEXPRESS
+ArrayExpressHTS,Artistic License 2.0,Angela Goncalves,10.18129/B9.BIOC.ARRAYEXPRESSHTS
+arrayMvout,Artistic-2.0,V. Carey,10.18129/B9.BIOC.ARRAYMVOUT
+arrayQuality,LGPL (>= 2.1),Agnes Paquet,10.18129/B9.BIOC.ARRAYQUALITY
+arrayQualityMetrics,LGPL (>= 2.1),Mike Smith,10.18129/B9.BIOC.ARRAYQUALITYMETRICS
+ARRmNormalization,Artistic-2.0,Jean-Philippe Fortin,10.18129/B9.BIOC.ARRMNORMALIZATION
+artMS,GPL (>= 3),David Jimenez-Morales,10.18129/B9.BIOC.ARTMS
+ASAFE,Artistic-2.0,Qian Zhang,10.18129/B9.BIOC.ASAFE
+ASEB,GPL (>= 3),Likun Wang,10.18129/B9.BIOC.ASEB
+ASGSCA,GPL-3,Hela Romdhani,10.18129/B9.BIOC.ASGSCA
+ASpediaFI,GPL-3,Doyeong Yu,10.18129/B9.BIOC.ASPEDIAFI
+ASpli,GPL,Estefania Mancini,10.18129/B9.BIOC.ASPLI
+ASSET,GPL-2,Samsiddhi Bhattacharjee,10.18129/B9.BIOC.ASSET
+ASSIGN,MIT,Ying Shen,10.18129/B9.BIOC.ASSIGN
+ASURAT,GPL-3,Keita Iida,10.18129/B9.BIOC.ASURAT
+atena,Artistic-2.0,Beatriz Calvo-Serra,10.18129/B9.BIOC.ATENA
+attract,LGPL (>= 2.1),Samuel Zimmerman,10.18129/B9.BIOC.ATTRACT
+autonomics,GPL-3,Aditya Bhagwat,10.18129/B9.BIOC.AUTONOMICS
+AWFisher,GPL-3,Zhiguang Huo,10.18129/B9.BIOC.AWFISHER
+awst,MIT,Davide Risso,10.18129/B9.BIOC.AWST
+BaalChIP,Artistic-2.0,Ines de Santiago,10.18129/B9.BIOC.BAALCHIP
+BAC,Artistic-2.0,Raphael Gottardo,10.18129/B9.BIOC.BAC
+bacon,GPL (>= 2),Maarten van Iterson,10.18129/B9.BIOC.BACON
+BADER,GPL-2,Andreas Neudecker,10.18129/B9.BIOC.BADER
+BadRegionFinder,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.BADREGIONFINDER
+BAGS,Artistic-2.0,Alejandro Quiroz-Zarate,10.18129/B9.BIOC.BAGS
+ballgown,Artistic-2.0,Jack Fu,10.18129/B9.BIOC.BALLGOWN
+bambu,GPL-3,Ying Chen,10.18129/B9.BIOC.BAMBU
+bamsignals,GPL-2,Johannes Helmuth,10.18129/B9.BIOC.BAMSIGNALS
+bandle,Artistic-2.0,Oliver M. Crook,10.18129/B9.BIOC.BANDLE
+banocc,MIT,George Weingart,10.18129/B9.BIOC.BANOCC
+basecallQC,GPL (>= 3),Thomas Carroll,10.18129/B9.BIOC.BASECALLQC
+BaseSpaceR,Apache License 2.0,Jared O'Connell,10.18129/B9.BIOC.BASESPACER
+Basic4Cseq,LGPL (>= 2.1),Carolin Walter,10.18129/B9.BIOC.BASIC4CSEQ
+BASiCS,GPL (>= 2),Alan O'Callaghan,10.18129/B9.BIOC.BASICS
+BasicSTARRseq,LGPL (>= 2.1),Annika Buerger,10.18129/B9.BIOC.BASICSTARRSEQ
+basilisk,GPL-3,Aaron Lun,10.18129/B9.BIOC.BASILISK
+basilisk.utils,GPL-3,Aaron Lun,10.18129/B9.BIOC.BASILISK.UTILS
+BayesKnockdown,GPL-3,William Chad Young,10.18129/B9.BIOC.BAYESKNOCKDOWN
+BayesSpace,MIT,Matt Stone,10.18129/B9.BIOC.BAYESSPACE
+bayNorm,GPL (>= 2),Wenhao Tang,10.18129/B9.BIOC.BAYNORM
+baySeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.BAYSEQ
+BBCAnalyzer,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.BBCANALYZER
+BCRANK,GPL-2,Adam Ameur,10.18129/B9.BIOC.BCRANK
+BDMMAcorrect,GPL (>= 2),ZHENWEI DAI,10.18129/B9.BIOC.BDMMACORRECT
+beadarray,MIT,Mark Dunning,10.18129/B9.BIOC.BEADARRAY
+beadarraySNP,GPL-2,Jan Oosting,10.18129/B9.BIOC.BEADARRAYSNP
+BeadDataPackR,GPL-2,Mike Smith,10.18129/B9.BIOC.BEADDATAPACKR
+BEARscc,GPL-3,Benjamin Schuster-Boeckler,10.18129/B9.BIOC.BEARSCC
+BEAT,LGPL (>= 2.1),Kemal Akman,10.18129/B9.BIOC.BEAT
+beer,MIT,Athena Chen,10.18129/B9.BIOC.BEER
+benchdamic,Artistic-2.0,Matteo Calgaro,10.18129/B9.BIOC.BENCHDAMIC
+BgeeCall,GPL-3,Julien Wollbrett,10.18129/B9.BIOC.BGEECALL
+BGmix,GPL-2,Alex Lewin,10.18129/B9.BIOC.BGMIX
+bgx,GPL-2,Ernest Turro,10.18129/B9.BIOC.BGX
+BHC,GPL-3,Rich Savage,10.18129/B9.BIOC.BHC
+BicARE,GPL-2,Pierre Gestraud,10.18129/B9.BIOC.BICARE
+BiFET,GPL-3,Ahrim Youn,10.18129/B9.BIOC.BIFET
+bigPint,GPL-3,Lindsay Rutter,10.18129/B9.BIOC.BIGPINT
+Biobase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOBASE
+biobroom,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.BIOBROOM
+biobtreeR,MIT,Tamer Gur,10.18129/B9.BIOC.BIOBTREER
+bioCancer,AGPL-3,Karim Mezhoud,10.18129/B9.BIOC.BIOCANCER
+BiocCheck,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCCHECK
+BiocDockerManager,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCDOCKERMANAGER
+BiocFileCache,Artistic-2.0,Lori Shepherd,10.18129/B9.BIOC.BIOCFILECACHE
+BiocGenerics,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCGENERICS
+biocGraph,Artistic-2.0,Florian Hahne,10.18129/B9.BIOC.BIOCGRAPH
+BiocIO,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCIO
+BiocNeighbors,GPL-3,Aaron Lun,10.18129/B9.BIOC.BIOCNEIGHBORS
+BiocOncoTK,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.BIOCONCOTK
+BioCor,MIT,Lluís Revilla Sancho,10.18129/B9.BIOC.BIOCOR
+BiocParallel,GPL-2,Martin Morgan,10.18129/B9.BIOC.BIOCPARALLEL
+BiocPkgTools,MIT,Sean Davis,10.18129/B9.BIOC.BIOCPKGTOOLS
+BiocSet,Artistic-2.0,Kayla Morrell,10.18129/B9.BIOC.BIOCSET
+BiocSingular,GPL-3,Aaron Lun,10.18129/B9.BIOC.BIOCSINGULAR
+BiocSklearn,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.BIOCSKLEARN
+BiocStyle,Artistic-2.0,Bioconductor Package,10.18129/B9.BIOC.BIOCSTYLE
+biocthis,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.BIOCTHIS
+BiocVersion,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCVERSION
+biocViews,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCVIEWS
+biodb,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODB
+biodbChebi,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBCHEBI
+biodbExpasy,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBEXPASY
+biodbHmdb,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBHMDB
+biodbKegg,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBKEGG
+biodbLipidmaps,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBLIPIDMAPS
+biodbMirbase,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBMIRBASE
+biodbNcbi,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCBI
+biodbNci,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCI
+biodbUniprot,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBUNIPROT
+bioDist,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIODIST
+biomaRt,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.BIOMART
+biomformat,GPL-2,Paul J. McMurdie,10.18129/B9.BIOC.BIOMFORMAT
+BioMM,GPL-3,Junfang Chen,10.18129/B9.BIOC.BIOMM
+BioMVCClass,LGPL (>= 2.1),Elizabeth Whalen,10.18129/B9.BIOC.BIOMVCCLASS
+biomvRCNS,GPL (>= 2),Yang Du,10.18129/B9.BIOC.BIOMVRCNS
+BioNERO,GPL-3,Fabricio Almeida-Silva,10.18129/B9.BIOC.BIONERO
+BioNet,GPL (>= 2),Marcus Dittrich,10.18129/B9.BIOC.BIONET
+BioNetStat,GPL (>= 3),Vinicius Jardim,10.18129/B9.BIOC.BIONETSTAT
+BioPlex,Artistic-2.0,Ludwig Geistlinger,10.18129/B9.BIOC.BIOPLEX
+BioQC,GPL (>= 3),Jitao David Zhang,10.18129/B9.BIOC.BIOQC
+biosigner,CeCILL,Etienne A. Thevenot,10.18129/B9.BIOC.BIOSIGNER
+Biostrings,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.BIOSTRINGS
+BioTIP,GPL-2,Yuxi (Jennifer) Sun,10.18129/B9.BIOC.BIOTIP
+biotmle,MIT,Nima Hejazi,10.18129/B9.BIOC.BIOTMLE
+biovizBase,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.BIOVIZBASE
+BiRewire,GPL-3,Andrea Gobbi,10.18129/B9.BIOC.BIREWIRE
+biscuiteer,GPL-3,Jacob Morrison,10.18129/B9.BIOC.BISCUITEER
+BiSeq,LGPL (>= 2.1),Katja Hebestreit,10.18129/B9.BIOC.BISEQ
+blacksheepr,MIT,RugglesLab,10.18129/B9.BIOC.BLACKSHEEPR
+blima,GPL-3,Vojtěch Kulvait,10.18129/B9.BIOC.BLIMA
+BLMA,GPL (>= 2),Hung Nguyen,10.18129/B9.BIOC.BLMA
+BloodGen3Module,GPL-2,Darawan Rinchai,10.18129/B9.BIOC.BLOODGEN3MODULE
+bluster,GPL-3,Aaron Lun,10.18129/B9.BIOC.BLUSTER
+bnem,GPL-3,Martin Pirkl,10.18129/B9.BIOC.BNEM
+BOBaFIT,GPL (>= 3),Gaia Mazzocchetti,10.18129/B9.BIOC.BOBAFIT
+borealis,GPL-3,Garrett Jenkinson,10.18129/B9.BIOC.BOREALIS
+BRAIN,GPL-2,Piotr Dittwald,10.18129/B9.BIOC.BRAIN
+brainflowprobes,Artistic-2.0,Amanda Price,10.18129/B9.BIOC.BRAINFLOWPROBES
+BrainSABER,Artistic-2.0,USD Biomedical Engineering,10.18129/B9.BIOC.BRAINSABER
+branchpointer,BSD_3_clause,Beth Signal,10.18129/B9.BIOC.BRANCHPOINTER
+brendaDb,MIT,Yi Zhou,10.18129/B9.BIOC.BRENDADB
+BRGenomics,Artistic-2.0,Mike DeBerardine,10.18129/B9.BIOC.BRGENOMICS
+bridge,GPL (>= 2),Raphael Gottardo,10.18129/B9.BIOC.BRIDGE
+BridgeDbR,AGPL-3,Egon Willighagen,10.18129/B9.BIOC.BRIDGEDBR
+BrowserViz,GPL-2,Paul Shannon,10.18129/B9.BIOC.BROWSERVIZ
+BSgenome,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.BSGENOME
+BubbleTree,LGPL (>= 2.1),Todd Creasy,10.18129/B9.BIOC.BUBBLETREE
+BufferedMatrix,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.BUFFEREDMATRIX
+BufferedMatrixMethods,GPL (>= 2),Ben Bolstad,10.18129/B9.BIOC.BUFFEREDMATRIXMETHODS
+bugsigdbr,GPL-3,Ludwig Geistlinger,10.18129/B9.BIOC.BUGSIGDBR
+BUMHMM,GPL-3,Alina Selega,10.18129/B9.BIOC.BUMHMM
+BumpyMatrix,MIT,Aaron Lun,10.18129/B9.BIOC.BUMPYMATRIX
+BUS,GPL-3,Yuanhua Liu,10.18129/B9.BIOC.BUS
+BUScorrect,GPL (>= 2),Xiangyu Luo,10.18129/B9.BIOC.BUSCORRECT
+BUSpaRse,BSD_2_clause,Lambda Moses,10.18129/B9.BIOC.BUSPARSE
+BUSseq,Artistic-2.0,Fangda Song,10.18129/B9.BIOC.BUSSEQ
+CAEN,GPL-2,Zhou Yan,10.18129/B9.BIOC.CAEN
+CAFE,GPL-3,Sander Bollen,10.18129/B9.BIOC.CAFE
+cageminer,GPL-3,Fabrício Almeida-Silva,10.18129/B9.BIOC.CAGEMINER
+calm,GPL (>= 2),Kun Liang,10.18129/B9.BIOC.CALM
+CAMERA,GPL (>= 2),Steffen Neumann,10.18129/B9.BIOC.CAMERA
+canceR,GPL-2,Karim Mezhoud,10.18129/B9.BIOC.CANCER
+cancerclass,GPL-3,Daniel Kosztyla,10.18129/B9.BIOC.CANCERCLASS
+CancerInSilico,GPL-2,Thomas D. Sherman,10.18129/B9.BIOC.CANCERINSILICO
+CancerSubtypes,GPL (>= 2),Taosheng Xu,10.18129/B9.BIOC.CANCERSUBTYPES
+CAnD,Artistic-2.0,Caitlin McHugh,10.18129/B9.BIOC.CAND
+caOmicsV,GPL (>= 2.0),Henry Zhang,10.18129/B9.BIOC.CAOMICSV
+CARNIVAL,GPL-3,Attila Gabor,10.18129/B9.BIOC.CARNIVAL
+casper,GPL (>= 2),David Rossell,10.18129/B9.BIOC.CASPER
+CATALYST,GPL (>= 2),Helena L. Crowell,10.18129/B9.BIOC.CATALYST
+Category,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.CATEGORY
+CausalR,GPL (>= 2),Glyn Bradley,10.18129/B9.BIOC.CAUSALR
+cbaf,Artistic-2.0,Arman Shahrisa,10.18129/B9.BIOC.CBAF
+CBEA,MIT,Quang Nguyen,10.18129/B9.BIOC.CBEA
+cbpManager,AGPL-3,Arsenij Ustjanzew,10.18129/B9.BIOC.CBPMANAGER
+ccfindR,GPL (>= 2),Jun Woo,10.18129/B9.BIOC.CCFINDR
+ccmap,MIT,Alex Pickering,10.18129/B9.BIOC.CCMAP
+CCPROMISE,GPL (>= 2),Xueyuan Cao,10.18129/B9.BIOC.CCPROMISE
+ccrepe,MIT,Emma Schwager,10.18129/B9.BIOC.CCREPE
+celda,MIT,Joshua Campbell,10.18129/B9.BIOC.CELDA
+CellaRepertorium,GPL-3,Andrew McDavid,10.18129/B9.BIOC.CELLAREPERTORIUM
+CellBarcode,MIT,Wenjie Sun,10.18129/B9.BIOC.CELLBARCODE
+cellbaseR,Apache License 2.0,Mohammed OE Abdallah,10.18129/B9.BIOC.CELLBASER
+CellBench,GPL-3,Shian Su,10.18129/B9.BIOC.CELLBENCH
+cellHTS2,Artistic-2.0,Joseph Barry,10.18129/B9.BIOC.CELLHTS2
+CelliD,GPL-3,Akira Cortal,10.18129/B9.BIOC.CELLID
+cellity,GPL (>= 2),Tomislav Ilicic,10.18129/B9.BIOC.CELLITY
+CellMapper,Artistic-2.0,Brad Nelms,10.18129/B9.BIOC.CELLMAPPER
+cellmigRation,GPL-2,Waldir Leoncio,10.18129/B9.BIOC.CELLMIGRATION
+CellMixS,GPL (>= 2),Almut Lütge,10.18129/B9.BIOC.CELLMIXS
+CellNOptR,GPL-3,Attila Gabor,10.18129/B9.BIOC.CELLNOPTR
+cellscape,GPL-3,Maia Smith,10.18129/B9.BIOC.CELLSCAPE
+CellScore,GPL-3,Nancy Mah,10.18129/B9.BIOC.CELLSCORE
+cellTree,Artistic-2.0,David duVerle,10.18129/B9.BIOC.CELLTREE
+cellxgenedp,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.CELLXGENEDP
+censcyt,MIT,Reto Gerber,10.18129/B9.BIOC.CENSCYT
+Cepo,MIT,Hani Jieun Kim,10.18129/B9.BIOC.CEPO
+ceRNAnetsim,GPL (>= 3.0),Selcen Ari Yuka,10.18129/B9.BIOC.CERNANETSIM
+CexoR,Artistic-2.0,Pedro Madrigal,10.18129/B9.BIOC.CEXOR
+CFAssay,LGPL (>= 2.1),Herbert Braselmann,10.18129/B9.BIOC.CFASSAY
+cfDNAPro,GPL-3,Haichao Wang,10.18129/B9.BIOC.CFDNAPRO
+CGEN,GPL-2,Justin Lee,10.18129/B9.BIOC.CGEN
+CGHbase,GPL,Mark van de Wiel,10.18129/B9.BIOC.CGHBASE
+cghMCR,LGPL (>= 2.1),J. Zhang,10.18129/B9.BIOC.CGHMCR
+CGHnormaliter,GPL (>= 3),Bart P.P. van Houte,10.18129/B9.BIOC.CGHNORMALITER
+ChemmineR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.CHEMMINER
+ChIC,GPL-2,Carmen Maria Livi,10.18129/B9.BIOC.CHIC
+Chicago,Artistic-2.0,Mikhail Spivakov,10.18129/B9.BIOC.CHICAGO
+chimeraviz,Artistic-2.0,Stian Lågstad,10.18129/B9.BIOC.CHIMERAVIZ
+chipenrich,GPL-3,Raymond G. Cavalcante,10.18129/B9.BIOC.CHIPENRICH
+ChIPexoQual,GPL (>= 2),Rene Welch,10.18129/B9.BIOC.CHIPEXOQUAL
+ChIPQC,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.CHIPQC
+chipseq,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.CHIPSEQ
+ChIPsim,GPL (>= 2),Peter Humburg,10.18129/B9.BIOC.CHIPSIM
+ChIPXpress,GPL (>= 2),George Wu,10.18129/B9.BIOC.CHIPXPRESS
+chopsticks,GPL-3,Hin-Tak Leung,10.18129/B9.BIOC.CHOPSTICKS
+ChromHeatMap,Artistic-2.0,Tim F. Rayner,10.18129/B9.BIOC.CHROMHEATMAP
+chromPlot,GPL (>= 2),Karen Y. Orostica,10.18129/B9.BIOC.CHROMPLOT
+chromstaR,Artistic-2.0,Aaron Taudt,10.18129/B9.BIOC.CHROMSTAR
+CHRONOS,GPL-2,Panos Balomenos,10.18129/B9.BIOC.CHRONOS
+CIMICE,Artistic-2.0,Nicolò Rossi,10.18129/B9.BIOC.CIMICE
+CINdex,GPL (>= 2),Yuriy Gusev,10.18129/B9.BIOC.CINDEX
+circRNAprofiler,GPL-3,Simona Aufiero,10.18129/B9.BIOC.CIRCRNAPROFILER
+cisPath,GPL (>= 3),Likun Wang,10.18129/B9.BIOC.CISPATH
+CiteFuse,GPL-3,Yingxin Lin,10.18129/B9.BIOC.CITEFUSE
+ClassifyR,GPL-3,Dario Strbenac,10.18129/B9.BIOC.CLASSIFYR
+cleaver,GPL (>= 3),Sebastian Gibb,10.18129/B9.BIOC.CLEAVER
+clippda,GPL (>= 2),Stephen Nyangoma,10.18129/B9.BIOC.CLIPPDA
+clipper,AGPL-3,Paolo Martini,10.18129/B9.BIOC.CLIPPER
+cliProfiler,Artistic-2.0,You Zhou,10.18129/B9.BIOC.CLIPROFILER
+cliqueMS,GPL (>= 2),Oriol Senan Campos,10.18129/B9.BIOC.CLIQUEMS
+Clomial,GPL (>= 2),Habil Zare,10.18129/B9.BIOC.CLOMIAL
+Clonality,GPL-3,Irina Ostrovnaya,10.18129/B9.BIOC.CLONALITY
+clst,GPL-3,Noah Hoffman,10.18129/B9.BIOC.CLST
+clstutils,GPL-3,Noah Hoffman,10.18129/B9.BIOC.CLSTUTILS
+CluMSID,MIT,Tobias Depke,10.18129/B9.BIOC.CLUMSID
+clustComp,GPL (>= 2),Aurora Torrente,10.18129/B9.BIOC.CLUSTCOMP
+clusterExperiment,Artistic-2.0,Elizabeth Purdom,10.18129/B9.BIOC.CLUSTEREXPERIMENT
+ClusterJudge,Artistic-2.0,Adrian Pasculescu,10.18129/B9.BIOC.CLUSTERJUDGE
+clusterProfiler,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.CLUSTERPROFILER
+clusterSeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.CLUSTERSEQ
+ClusterSignificance,GPL-3,Jason T Serviss,10.18129/B9.BIOC.CLUSTERSIGNIFICANCE
+clusterStab,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.CLUSTERSTAB
+clustifyr,MIT,Kent Riemondy,10.18129/B9.BIOC.CLUSTIFYR
+CMA,GPL (>= 2),Roman Hornung,10.18129/B9.BIOC.CMA
+cn.farms,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.CN.FARMS
+CNAnorm,GPL-2,Stefano Berri,10.18129/B9.BIOC.CNANORM
+CNEr,GPL-2,Ge Tan,10.18129/B9.BIOC.CNER
+CNORdt,GPL-2,A. MacNamara,10.18129/B9.BIOC.CNORDT
+CNORfeeder,GPL-3,Attila Gabor,10.18129/B9.BIOC.CNORFEEDER
+CNORfuzzy,GPL-2,T. Cokelaer,10.18129/B9.BIOC.CNORFUZZY
+CNORode,GPL-2,Attila Gabor,10.18129/B9.BIOC.CNORODE
+CNTools,LGPL (>= 2.1),J. Zhang,10.18129/B9.BIOC.CNTOOLS
+CNVfilteR,Artistic-2.0,Jose Marcos Moreno-Cabrera,10.18129/B9.BIOC.CNVFILTER
+CNVgears,GPL-3,Simone Montalbano,10.18129/B9.BIOC.CNVGEARS
+cnvGSA,LGPL (>= 2.1),Joseph Lugo,10.18129/B9.BIOC.CNVGSA
+CNViz,Artistic-2.0,Rebecca Greenblatt,10.18129/B9.BIOC.CNVIZ
+CNVMetrics,Artistic-2.0,Astrid Deschênes,10.18129/B9.BIOC.CNVMETRICS
+CNVPanelizer,GPL-3,Thomas Wolf,10.18129/B9.BIOC.CNVPANELIZER
+CNVrd2,GPL-2,Hoang Tan Nguyen,10.18129/B9.BIOC.CNVRD2
+CoCiteStats,CPL,Bioconductor Package Maintainer,10.18129/B9.BIOC.COCITESTATS
+CODEX,GPL-2,Yuchao Jiang,10.18129/B9.BIOC.CODEX
+CoGAPS,BSD_3_clause,Elana J. Fertig,10.18129/B9.BIOC.COGAPS
+cogena,LGPL (>= 2.1),Zhilong Jia,10.18129/B9.BIOC.COGENA
+cogeqc,GPL-3,Fabrício Almeida-Silva,10.18129/B9.BIOC.COGEQC
+Cogito,LGPL (>= 2.1),Annika Bürger,10.18129/B9.BIOC.COGITO
+coGPS,GPL-2,Yingying Wei,10.18129/B9.BIOC.COGPS
+COHCAP,GPL-3,Charles Warden,10.18129/B9.BIOC.COHCAP
+cola,MIT,Zuguang Gu,10.18129/B9.BIOC.COLA
+comapr,MIT,Ruqian Lyu,10.18129/B9.BIOC.COMAPR
+combi,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.COMBI
+coMET,GPL (>= 2),Tiphaine Martin,10.18129/B9.BIOC.COMET
+coMethDMR,GPL-3,Fernanda Veitzman,10.18129/B9.BIOC.COMETHDMR
+compartmap,GPL-3,Benjamin Johnson,10.18129/B9.BIOC.COMPARTMAP
+COMPASS,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.COMPASS
+compcodeR,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.COMPCODER
+ComplexHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.COMPLEXHEATMAP
+CompoundDb,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.COMPOUNDDB
+ComPrAn,MIT,Petra Palenikova,10.18129/B9.BIOC.COMPRAN
+conclus,GPL-3,Ilyess Rachedi,10.18129/B9.BIOC.CONCLUS
+condiments,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.CONDIMENTS
+CONFESS,GPL-2,Diana LOW,10.18129/B9.BIOC.CONFESS
+consensus,BSD_3_clause,Tim Peters,10.18129/B9.BIOC.CONSENSUS
+ConsensusClusterPlus,GPL-2,Matt Wilkerson,10.18129/B9.BIOC.CONSENSUSCLUSTERPLUS
+consensusDE,GPL-3,Ashley J. Waardenberg,10.18129/B9.BIOC.CONSENSUSDE
+contiBAIT,BSD_2_clause,Kieran O'Neill,10.18129/B9.BIOC.CONTIBAIT
+conumee,GPL (>= 2),Volker Hovestadt,10.18129/B9.BIOC.CONUMEE
+convert,LGPL (>= 2.1),Yee Hwa (Jean) Yang,10.18129/B9.BIOC.CONVERT
+copa,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.COPA
+copynumber,Artistic-2.0,Gro Nilsen,10.18129/B9.BIOC.COPYNUMBER
+CopyNumberPlots,Artistic-2.0,Bernat Gel,10.18129/B9.BIOC.COPYNUMBERPLOTS
+CopywriteR,GPL-2,Oscar Krijgsman,10.18129/B9.BIOC.COPYWRITER
+coRdon,Artistic-2.0,Anamaria Elek,10.18129/B9.BIOC.CORDON
+CoRegNet,GPL-3,Remy Nicolle,10.18129/B9.BIOC.COREGNET
+Cormotif,GPL-2,Yingying Wei,10.18129/B9.BIOC.CORMOTIF
+corral,GPL-2,Lauren Hsu,10.18129/B9.BIOC.CORRAL
+CORREP,GPL (>= 2),Dongxiao Zhu,10.18129/B9.BIOC.CORREP
+coseq,GPL-3,Andrea Rau,10.18129/B9.BIOC.COSEQ
+cosmiq,GPL-3,David Fischer,10.18129/B9.BIOC.COSMIQ
+cosmosR,GPL-3,Attila Gabor,10.18129/B9.BIOC.COSMOSR
+COSNet,GPL (>= 2),Marco Frasca,10.18129/B9.BIOC.COSNET
+COTAN,GPL-3,Galfrè Silvia Giulia,10.18129/B9.BIOC.COTAN
+countsimQC,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.COUNTSIMQC
+covEB,GPL-3,C. Pacini,10.18129/B9.BIOC.COVEB
+CoverageView,Artistic-2.0,Ernesto Lowy,10.18129/B9.BIOC.COVERAGEVIEW
+covRNA,GPL (>= 2),Lara Urban,10.18129/B9.BIOC.COVRNA
+cpvSNP,Artistic-2.0,Caitlin McHugh,10.18129/B9.BIOC.CPVSNP
+cqn,Artistic-2.0,Kasper Daniel Hansen,10.18129/B9.BIOC.CQN
+CRImage,Artistic-2.0,Henrik Failmezger,10.18129/B9.BIOC.CRIMAGE
+crisprBase,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBASE
+crisprBowtie,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBOWTIE
+crisprBwa,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBWA
+crisprScore,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRSCORE
+CRISPRseek,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.CRISPRSEEK
+crisprseekplus,GPL-3,Alper Kucukural,10.18129/B9.BIOC.CRISPRSEEKPLUS
+crlmm,Artistic-2.0,Benilton S Carvalho,10.18129/B9.BIOC.CRLMM
+crossmeta,MIT,Alex Pickering,10.18129/B9.BIOC.CROSSMETA
+CSAR,Artistic-2.0,Jose M Muino,10.18129/B9.BIOC.CSAR
+csaw,GPL-3,Aaron Lun,10.18129/B9.BIOC.CSAW
+csdR,GPL-3,Jakob Peder Pettersen,10.18129/B9.BIOC.CSDR
+CSSP,GPL-2,Chandler Zuo,10.18129/B9.BIOC.CSSP
+CSSQ,Artistic-2.0,Fan Lab at Georgia Institute of Technology,10.18129/B9.BIOC.CSSQ
+ctc,GPL-2,Antoine Lucas,10.18129/B9.BIOC.CTC
+CTDquerier,MIT,Xavier Escribà-Montagut,10.18129/B9.BIOC.CTDQUERIER
+ctgGEM,GPL (>= 2),USD Biomedical Engineering,10.18129/B9.BIOC.CTGGEM
+cTRAP,MIT,Nuno Saraiva-Agostinho,10.18129/B9.BIOC.CTRAP
+ctsGE,GPL-2,Michal Sharabi-Schwager,10.18129/B9.BIOC.CTSGE
+cummeRbund,Artistic-2.0,Loyal A. Goff,10.18129/B9.BIOC.CUMMERBUND
+customCMPdb,Artistic-2.0,Yuzhu Duan,10.18129/B9.BIOC.CUSTOMCMPDB
+cyanoFilter,MIT,Oluwafemi Olusoji,10.18129/B9.BIOC.CYANOFILTER
+cycle,GPL-2,Matthias Futschik,10.18129/B9.BIOC.CYCLE
+CytoDx,GPL-2,Zicheng Hu,10.18129/B9.BIOC.CYTODX
+CyTOFpower,LGPL (>= 2.1),Anne-Maud Ferreira,10.18129/B9.BIOC.CYTOFPOWER
+CytoGLMM,LGPL (>= 2.1),Christof Seiler,10.18129/B9.BIOC.CYTOGLMM
+cytoKernel,GPL-3,Tusharkanti Ghosh,10.18129/B9.BIOC.CYTOKERNEL
+cytoMEM,GPL-3,Jonathan Irish,10.18129/B9.BIOC.CYTOMEM
+CytoTree,GPL-3,Yuting Dai,10.18129/B9.BIOC.CYTOTREE
+daMA,GPL (>= 2),Jobst Landgrebe,10.18129/B9.BIOC.DAMA
+DAPAR,Artistic-2.0,Samuel Wieczorek,10.18129/B9.BIOC.DAPAR
+dasper,Artistic-2.0,David Zhang,10.18129/B9.BIOC.DASPER
+dcanr,GPL-3,Dharmesh D. Bhuva,10.18129/B9.BIOC.DCANR
+dce,GPL-3,Kim Philipp Jablonski,10.18129/B9.BIOC.DCE
+dcGSA,GPL-2,Jiehuan sun,10.18129/B9.BIOC.DCGSA
+ddCt,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.DDCT
+ddPCRclust,Artistic-2.0,Benedikt G. Brink,10.18129/B9.BIOC.DDPCRCLUST
+debCAM,GPL-2,Lulu Chen,10.18129/B9.BIOC.DEBCAM
+DECIPHER,GPL-3,Erik Wright,10.18129/B9.BIOC.DECIPHER
+DEComplexDisease,GPL-3,Guofeng Meng,10.18129/B9.BIOC.DECOMPLEXDISEASE
+decompTumor2Sig,GPL-2,Rosario M. Piro,10.18129/B9.BIOC.DECOMPTUMOR2SIG
+DeconRNASeq,GPL-2,Ting Gong,10.18129/B9.BIOC.DECONRNASEQ
+deconvR,Artistic-2.0,İrem B. Gündüz,10.18129/B9.BIOC.DECONVR
+decoupleR,GPL-3,Pau Badia-i-Mompel,10.18129/B9.BIOC.DECOUPLER
+DeepBlueR,GPL (>= 2.0),Felipe Albrecht,10.18129/B9.BIOC.DEEPBLUER
+DeepPINCS,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.DEEPPINCS
+deepSNV,GPL-3,Moritz Gerstung,10.18129/B9.BIOC.DEEPSNV
+DEFormats,GPL-3,Andrzej Oleś,10.18129/B9.BIOC.DEFORMATS
+DegNorm,LGPL (>= 2.1),Ji-Ping Wang,10.18129/B9.BIOC.DEGNORM
+DEGraph,GPL-3,Laurent Jacob,10.18129/B9.BIOC.DEGRAPH
+DEGreport,MIT,Lorena Pantano,10.18129/B9.BIOC.DEGREPORT
+DEGseq,LGPL (>= 2.1),Likun Wang,10.18129/B9.BIOC.DEGSEQ
+DelayedArray,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.DELAYEDARRAY
+DelayedDataFrame,GPL-3,Qian Liu,10.18129/B9.BIOC.DELAYEDDATAFRAME
+DelayedMatrixStats,MIT,Peter Hickey,10.18129/B9.BIOC.DELAYEDMATRIXSTATS
+DelayedRandomArray,GPL-3,Aaron Lun,10.18129/B9.BIOC.DELAYEDRANDOMARRAY
+DelayedTensor,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.DELAYEDTENSOR
+deltaCaptureC,MIT,Michael Shapiro,10.18129/B9.BIOC.DELTACAPTUREC
+deltaGseg,GPL-2,Diana Low,10.18129/B9.BIOC.DELTAGSEG
+DeMixT,GPL-3,Shuai Guo,10.18129/B9.BIOC.DEMIXT
+DEP,Artistic-2.0,Arne Smits,10.18129/B9.BIOC.DEP
+DepecheR,MIT,Jakob Theorell,10.18129/B9.BIOC.DEPECHER
+DepInfeR,GPL-3,Junyan Lu,10.18129/B9.BIOC.DEPINFER
+DEqMS,LGPL (>= 2.1),Yafeng Zhu,10.18129/B9.BIOC.DEQMS
+derfinderHelper,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERHELPER
+derfinderPlot,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERPLOT
+DEScan2,Artistic-2.0,Dario Righelli,10.18129/B9.BIOC.DESCAN2
+DESeq2,LGPL (>= 2.1),Michael Love,10.18129/B9.BIOC.DESEQ2
+DEsubs,GPL-3,Aristidis G. Vrahatis,10.18129/B9.BIOC.DESUBS
+DEWSeq,LGPL (>= 2.1),bioinformatics team Hentze,10.18129/B9.BIOC.DEWSEQ
+DExMA,GPL-2,Juan Antonio Villatoro-García,10.18129/B9.BIOC.DEXMA
+DFP,GPL-2,Rodrigo Alvarez-Glez,10.18129/B9.BIOC.DFP
+DIAlignR,GPL-3,Shubham Gupta,10.18129/B9.BIOC.DIALIGNR
+DiffBind,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.DIFFBIND
+diffcoexp,GPL (> 2),Wenbin Wei,10.18129/B9.BIOC.DIFFCOEXP
+diffcyt,MIT,Lukas M. Weber,10.18129/B9.BIOC.DIFFCYT
+DifferentialRegulation,GPL-3,Simone Tiberi,10.18129/B9.BIOC.DIFFERENTIALREGULATION
+diffGeneAnalysis,GPL,Choudary Jagarlamudi,10.18129/B9.BIOC.DIFFGENEANALYSIS
+diffHic,GPL-3,Aaron Lun,10.18129/B9.BIOC.DIFFHIC
+DiffLogo,GPL (>= 2),Hendrik Treutler,10.18129/B9.BIOC.DIFFLOGO
+diffloop,MIT,Caleb Lareau,10.18129/B9.BIOC.DIFFLOOP
+Dino,GPL-3,Jared Brown,10.18129/B9.BIOC.DINO
+dir.expiry,GPL-3,Aaron Lun,10.18129/B9.BIOC.DIR.EXPIRY
+DirichletMultinomial,LGPL (>= 2.1),Martin Morgan,10.18129/B9.BIOC.DIRICHLETMULTINOMIAL
+discordant,GPL-3,McGrath Max,10.18129/B9.BIOC.DISCORDANT
+distinct,GPL (>= 3),Simone Tiberi,10.18129/B9.BIOC.DISTINCT
+divergence,GPL-2,Wikum Dinalankara,10.18129/B9.BIOC.DIVERGENCE
+dks,GPL,Jeffrey T. Leek,10.18129/B9.BIOC.DKS
+DMCFB,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.DMCFB
+DMCHMM,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.DMCHMM
+DMRforPairs,GPL (>= 2),Martin Rijlaarsdam,10.18129/B9.BIOC.DMRFORPAIRS
+DMRScan,GPL-3,Christian M Page,10.18129/B9.BIOC.DMRSCAN
+DNABarcodes,GPL-2,Tilo Buschmann,10.18129/B9.BIOC.DNABARCODES
+DNAcopy,GPL (>= 2),Venkatraman E. Seshan,10.18129/B9.BIOC.DNACOPY
+Doscheda,GPL-3,Bruno Contrino,10.18129/B9.BIOC.DOSCHEDA
+doseR,GPL,ake.vastermark,10.18129/B9.BIOC.DOSER
+dpeak,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.DPEAK
+DriverNet,GPL-3,Jiarui Ding,10.18129/B9.BIOC.DRIVERNET
+drugTargetInteractions,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.DRUGTARGETINTERACTIONS
+DrugVsDisease,GPL-3,j. Saez-Rodriguez,10.18129/B9.BIOC.DRUGVSDISEASE
+dStruct,GPL (>= 2),Krishna Choudhary,10.18129/B9.BIOC.DSTRUCT
+DTA,Artistic-2.0,Bjoern Schwalb,10.18129/B9.BIOC.DTA
+Dune,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.DUNE
+DynDoc,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.DYNDOC
+easyreporting,Artistic-2.0,Dario Righelli,10.18129/B9.BIOC.EASYREPORTING
+EBarrays,GPL (>= 2),Ming Yuan,10.18129/B9.BIOC.EBARRAYS
+EBcoexpress,GPL (>= 2),John A. Dawson,10.18129/B9.BIOC.EBCOEXPRESS
+EBSEA,GPL-2,Arfa Mehmood,10.18129/B9.BIOC.EBSEA
+EBSeq,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.EBSEQ
+EBSeqHMM,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.EBSEQHMM
+ecolitk,GPL (>= 2),Laurent Gautier,10.18129/B9.BIOC.ECOLITK
+EDASeq,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.EDASEQ
+edge,MIT,John D. Storey,10.18129/B9.BIOC.EDGE
+eegc,GPL-2,Xiaoyuan Zhou,10.18129/B9.BIOC.EEGC
+eiR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.EIR
+EMDomics,MIT,Sadhika Malladi,10.18129/B9.BIOC.EMDOMICS
+EmpiricalBrownsMethod,MIT,David Gibbs,10.18129/B9.BIOC.EMPIRICALBROWNSMETHOD
+EnhancedVolcano,GPL-3,Kevin Blighe,10.18129/B9.BIOC.ENHANCEDVOLCANO
+enhancerHomologSearch,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.ENHANCERHOMOLOGSEARCH
+EnMCB,GPL-2,Xin Yu,10.18129/B9.BIOC.ENMCB
+ENmix,Artistic-2.0,Zongli Xu,10.18129/B9.BIOC.ENMIX
+EnrichedHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.ENRICHEDHEATMAP
+enrichplot,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.ENRICHPLOT
+enrichTF,GPL-3,Zheng Wei,10.18129/B9.BIOC.ENRICHTF
+ensemblVEP,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ENSEMBLVEP
+epialleleR,Artistic-2.0,Oleksii Nikolaienko,10.18129/B9.BIOC.EPIALLELER
+EpiCompare,GPL-3,Sera Choi,10.18129/B9.BIOC.EPICOMPARE
+epidecodeR,GPL-3,Kandarp Joshi,10.18129/B9.BIOC.EPIDECODER
+EpiDISH,GPL-2,Shijie C. Zheng,10.18129/B9.BIOC.EPIDISH
+epigraHMM,MIT,Pedro Baldoni,10.18129/B9.BIOC.EPIGRAHMM
+epihet,Artistic-2.0,Xiaowen Chen,10.18129/B9.BIOC.EPIHET
+epimutacions,MIT,Leire Abarrategui,10.18129/B9.BIOC.EPIMUTACIONS
+epistack,MIT,DEVAILLY Guillaume,10.18129/B9.BIOC.EPISTACK
+EpiTxDb,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.EPITXDB
+epivizr,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZR
+epivizrChart,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRCHART
+epivizrData,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRDATA
+epivizrServer,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRSERVER
+epivizrStandalone,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRSTANDALONE
+erccdashboard,GPL (>= 2),Sarah Munro,10.18129/B9.BIOC.ERCCDASHBOARD
+erma,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.ERMA
+ERSSA,GPL-3,Zixuan Shao,10.18129/B9.BIOC.ERSSA
+escape,GPL-2,Nick Borcherding,10.18129/B9.BIOC.ESCAPE
+esetVis,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.ESETVIS
+eudysbiome,GPL-2,Xiaoyuan Zhou,10.18129/B9.BIOC.EUDYSBIOME
+evaluomeR,GPL-3,José Antonio Bernabé-Díaz,10.18129/B9.BIOC.EVALUOMER
+EWCE,GPL-3,Alan Murphy,10.18129/B9.BIOC.EWCE
+ExCluster,GPL-3,R. Matthew Tanner,10.18129/B9.BIOC.EXCLUSTER
+ExiMiR,GPL-2,Sylvain Gubian,10.18129/B9.BIOC.EXIMIR
+exomeCopy,GPL (>= 2),Michael Love,10.18129/B9.BIOC.EXOMECOPY
+exomePeak2,Artistic-2.0,Zhen Wei,10.18129/B9.BIOC.EXOMEPEAK2
+ExperimentHub,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.EXPERIMENTHUB
+ExperimentHubData,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.EXPERIMENTHUBDATA
+ExperimentSubset,MIT,Irzam Sarfraz,10.18129/B9.BIOC.EXPERIMENTSUBSET
+ExploreModelMatrix,MIT,Charlotte Soneson,10.18129/B9.BIOC.EXPLOREMODELMATRIX
+ExpressionAtlas,GPL (>= 3),Pedro Madrigal,10.18129/B9.BIOC.EXPRESSIONATLAS
+extraChIPs,GPL-3,Stephen Pederson,10.18129/B9.BIOC.EXTRACHIPS
+fabia,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.FABIA
+factDesign,LGPL (>= 2.1),Denise Scholtens,10.18129/B9.BIOC.FACTDESIGN
+famat,GPL-3,Mathieu Charles,10.18129/B9.BIOC.FAMAT
+farms,LGPL (>= 2.1),Djork-Arne Clevert,10.18129/B9.BIOC.FARMS
+fastLiquidAssociation,GPL-2,Tina Gunderson,10.18129/B9.BIOC.FASTLIQUIDASSOCIATION
+FastqCleaner,MIT,Leandro Roser,10.18129/B9.BIOC.FASTQCLEANER
+fastreeR,GPL-3,Anestis Gkanogiannis,10.18129/B9.BIOC.FASTREER
+FCBF,MIT,Tiago Lubiana,10.18129/B9.BIOC.FCBF
+fCI,GPL (>= 2),Shaojun Tang,10.18129/B9.BIOC.FCI
+fcoex,GPL-3,Tiago Lubiana,10.18129/B9.BIOC.FCOEX
+fcScan,Artistic-2.0,Pierre Khoueiry,10.18129/B9.BIOC.FCSCAN
+fdrame,GPL (>= 2),Effi Kenigsberg,10.18129/B9.BIOC.FDRAME
+FEAST,GPL-2,Kenong Su,10.18129/B9.BIOC.FEAST
+fedup,MIT,Catherine Ross,10.18129/B9.BIOC.FEDUP
+fgga,GPL-3,Spetale Flavio,10.18129/B9.BIOC.FGGA
+FilterFFPE,LGPL (>= 2.1),Lanying Wei,10.18129/B9.BIOC.FILTERFFPE
+FISHalyseR,Artistic-2.0,Karesh Arunakirinathan,10.18129/B9.BIOC.FISHALYSER
+FitHiC,GPL (>= 2),Ruyu Tan,10.18129/B9.BIOC.FITHIC
+flagme,LGPL (>= 2.1),Mark Robinson,10.18129/B9.BIOC.FLAGME
+FLAMES,GPL (>= 2),Voogd Oliver,10.18129/B9.BIOC.FLAMES
+flowBeads,Artistic-2.0,Nikolas Pontikos,10.18129/B9.BIOC.FLOWBEADS
+flowBin,Artistic-2.0,Kieran O'Neill,10.18129/B9.BIOC.FLOWBIN
+flowcatchR,BSD_3_clause,Federico Marini,10.18129/B9.BIOC.FLOWCATCHR
+flowCHIC,GPL-2,Author: Joachim Schumann,10.18129/B9.BIOC.FLOWCHIC
+flowCL,Artistic-2.0,Justin Meskas,10.18129/B9.BIOC.FLOWCL
+flowClean,Artistic-2.0,Kipper Fletez-Brant,10.18129/B9.BIOC.FLOWCLEAN
+flowClust,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWCLUST
+flowCore,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.FLOWCORE
+flowCut,Artistic-2.0,Justin Meskas,10.18129/B9.BIOC.FLOWCUT
+flowCyBar,GPL-2,Joachim Schumann,10.18129/B9.BIOC.FLOWCYBAR
+flowDensity,Artistic-2.0,Mehrnoush Malek,10.18129/B9.BIOC.FLOWDENSITY
+flowFP,Artistic-2.0,Herb Holyst,10.18129/B9.BIOC.FLOWFP
+flowGraph,Artistic-2.0,Alice Yue,10.18129/B9.BIOC.FLOWGRAPH
+flowMap,GPL (>= 2),Chiaowen Joyce Hsiao,10.18129/B9.BIOC.FLOWMAP
+flowMatch,Artistic-2.0,Ariful Azad,10.18129/B9.BIOC.FLOWMATCH
+flowMeans,Artistic-2.0,Nima Aghaeepour,10.18129/B9.BIOC.FLOWMEANS
+flowMerge,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWMERGE
+flowPeaks,Artistic-1.0,Yongchao Ge,10.18129/B9.BIOC.FLOWPEAKS
+flowPlots,Artistic-2.0,N. Hawkins,10.18129/B9.BIOC.FLOWPLOTS
+FlowSOM,GPL (>= 2),Sofie Van Gassen,10.18129/B9.BIOC.FLOWSOM
+flowSpecs,MIT,Jakob Theorell,10.18129/B9.BIOC.FLOWSPECS
+flowStats,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWSTATS
+flowTime,Artistic-2.0,R. Clay Wright,10.18129/B9.BIOC.FLOWTIME
+flowTrans,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWTRANS
+flowUtils,Artistic-2.0,Josef Spidlen,10.18129/B9.BIOC.FLOWUTILS
+flowViz,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.FLOWVIZ
+flowVS,Artistic-2.0,Ariful Azad,10.18129/B9.BIOC.FLOWVS
+fmcsR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.FMCSR
+fmrs,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.FMRS
+FRASER,MIT,Christian Mertes,10.18129/B9.BIOC.FRASER
+frenchFISH,Artistic-2.0,Adam Berman,10.18129/B9.BIOC.FRENCHFISH
+FRGEpistasis,GPL-2,Futao Zhang,10.18129/B9.BIOC.FRGEPISTASIS
+frma,GPL (>= 2),Matthew N. McCall,10.18129/B9.BIOC.FRMA
+frmaTools,GPL (>= 2),Matthew N. McCall,10.18129/B9.BIOC.FRMATOOLS
+FScanR,Artistic-2.0,Xiao Chen,10.18129/B9.BIOC.FSCANR
+FunChIP,Artistic-2.0,Alice Parodi,10.18129/B9.BIOC.FUNCHIP
+funtooNorm,GPL-3,Kathleen Klein,10.18129/B9.BIOC.FUNTOONORM
+GA4GHclient,GPL (>= 2),Welliton Souza,10.18129/B9.BIOC.GA4GHCLIENT
+GA4GHshiny,GPL-3,Welliton Souza,10.18129/B9.BIOC.GA4GHSHINY
+gaga,GPL (>= 2),David Rossell,10.18129/B9.BIOC.GAGA
+gage,GPL (>= 2.0),Weijun Luo,10.18129/B9.BIOC.GAGE
+gaggle,GPL (>= 2),Christopher Bare,10.18129/B9.BIOC.GAGGLE
+gaia,GPL-2,S. Morganella,10.18129/B9.BIOC.GAIA
+GAPGOM,MIT,Rezvan Ehsani,10.18129/B9.BIOC.GAPGOM
+GAprediction,GPL (>= 2),Jon Bohlin,10.18129/B9.BIOC.GAPREDICTION
+garfield,GPL-3,Valentina Iotchkova,10.18129/B9.BIOC.GARFIELD
+GateFinder,Artistic-2.0,Nima Aghaeepour,10.18129/B9.BIOC.GATEFINDER
+GBScleanR,GPL-3,Tomoyuki Furuta,10.18129/B9.BIOC.GBSCLEANR
+gcatest,GPL-3,Wei Hao,10.18129/B9.BIOC.GCATEST
+gCrisprTools,Artistic-2.0,Russell Bainer,10.18129/B9.BIOC.GCRISPRTOOLS
+gcrma,LGPL (>= 2.1),Z. Wu,10.18129/B9.BIOC.GCRMA
+GCSConnection,GPL (>= 2),Jiefei Wang,10.18129/B9.BIOC.GCSCONNECTION
+GCSFilesystem,GPL (>= 2),Jiefei Wang,10.18129/B9.BIOC.GCSFILESYSTEM
+GCSscore,GPL (>= 3),Guy M. Harris,10.18129/B9.BIOC.GCSSCORE
+GDCRNATools,Artistic-2.0,Ruidong Li,10.18129/B9.BIOC.GDCRNATOOLS
+GDSArray,GPL-3,Qian Liu,10.18129/B9.BIOC.GDSARRAY
+GEM,Artistic-2.0,Hong Pan,10.18129/B9.BIOC.GEM
+gemini,BSD_3_clause,Sidharth Jain,10.18129/B9.BIOC.GEMINI
+genbankr,Artistic-2.0,Gabriel Becker,10.18129/B9.BIOC.GENBANKR
+geneAttribution,Artistic-2.0,Arthur Wuster,10.18129/B9.BIOC.GENEATTRIBUTION
+GeneBreak,GPL-2,Evert van den Broek,10.18129/B9.BIOC.GENEBREAK
+geneClassifiers,GPL-2,R Kuiper,10.18129/B9.BIOC.GENECLASSIFIERS
+genefilter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEFILTER
+genefu,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.GENEFU
+GeneGA,GPL-2,Zhenpeng Li,10.18129/B9.BIOC.GENEGA
+GeneMeta,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEMETA
+GeneNetworkBuilder,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.GENENETWORKBUILDER
+GeneOverlap,GPL-3,Ant,10.18129/B9.BIOC.GENEOVERLAP
+geneplotter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEPLOTTER
+geneRecommender,GPL (>= 2),Greg Hather,10.18129/B9.BIOC.GENERECOMMENDER
+GeneRegionScan,GPL (>= 2),Lasse Folkersen,10.18129/B9.BIOC.GENEREGIONSCAN
+GeneSelectMMD,GPL (>= 2),Weiliang Qiu,10.18129/B9.BIOC.GENESELECTMMD
+GeneStructureTools,BSD_3_clause,Beth Signal,10.18129/B9.BIOC.GENESTRUCTURETOOLS
+GeneticsPed,LGPL (>= 2.1),David Henderson,10.18129/B9.BIOC.GENETICSPED
+geneXtendeR,GPL (>= 3),Bohdan Khomtchouk,10.18129/B9.BIOC.GENEXTENDER
+genoCN,GPL (>= 2),Wei Sun,10.18129/B9.BIOC.GENOCN
+GenomeInfoDb,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENOMEINFODB
+genomeIntervals,Artistic-2.0,Julien Gagneur,10.18129/B9.BIOC.GENOMEINTERVALS
+genomes,GPL-3,Chris Stubben,10.18129/B9.BIOC.GENOMES
+GenomicDataCommons,Artistic-2.0,Sean Davis,10.18129/B9.BIOC.GENOMICDATACOMMONS
+GenomicDistributions,BSD_2_clause,Kristyna Kupkova,10.18129/B9.BIOC.GENOMICDISTRIBUTIONS
+GenomicFiles,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENOMICFILES
+GenomicOZone,LGPL (>= 2.1),Hua Zhong,10.18129/B9.BIOC.GENOMICOZONE
+GenomicScores,Artistic-2.0,Robert Castelo,10.18129/B9.BIOC.GENOMICSCORES
+GenomicSuperSignature,Artistic-2.0,Sehyun Oh,10.18129/B9.BIOC.GENOMICSUPERSIGNATURE
+genphen,GPL (>= 2),Simo Kitanovski,10.18129/B9.BIOC.GENPHEN
+GenProSeq,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.GENPROSEQ
+GenVisR,GPL-3,Zachary Skidmore,10.18129/B9.BIOC.GENVISR
+GeoDiff,MIT,Nicole Ortogero,10.18129/B9.BIOC.GEODIFF
+GEOexplorer,GPL-3,Guy Hunt,10.18129/B9.BIOC.GEOEXPLORER
+GEOfastq,MIT,Alex Pickering,10.18129/B9.BIOC.GEOFASTQ
+GeomxTools,MIT,Nicole Ortogero,10.18129/B9.BIOC.GEOMXTOOLS
+GEOquery,MIT,Sean Davis,10.18129/B9.BIOC.GEOQUERY
+GEOsubmission,GPL (>= 2),Alexandre Kuhn,10.18129/B9.BIOC.GEOSUBMISSION
+gep2pep,GPL-3,Francesco Napolitano,10.18129/B9.BIOC.GEP2PEP
+gespeR,GPL-3,Fabian Schmich,10.18129/B9.BIOC.GESPER
+geva,LGPL (>= 2.1),Itamar José Guimarães Nunes,10.18129/B9.BIOC.GEVA
+GEWIST,GPL-2,Wei Q. Deng,10.18129/B9.BIOC.GEWIST
+ggbio,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.GGBIO
+ggcyto,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.GGCYTO
+ggmanh,MIT,John Lee,10.18129/B9.BIOC.GGMANH
+ggmsa,Artistic-2.0,Lang Zhou,10.18129/B9.BIOC.GGMSA
+GGPA,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.GGPA
+ggspavis,MIT,Lukas M. Weber,10.18129/B9.BIOC.GGSPAVIS
+ggtree,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.GGTREE
+GIGSEA,LGPL (>= 2.1),Shijia Zhu,10.18129/B9.BIOC.GIGSEA
+GISPA,GPL-2,Bhakti Dwivedi,10.18129/B9.BIOC.GISPA
+GLAD,GPL-2,Philippe Hupe,10.18129/B9.BIOC.GLAD
+GladiaTOX,GPL-2,PMP S.A. R Support,10.18129/B9.BIOC.GLADIATOX
+Glimma,GPL-3,Shian Su,10.18129/B9.BIOC.GLIMMA
+glmSparseNet,GPL-3,André Veríssimo,10.18129/B9.BIOC.GLMSPARSENET
+GlobalAncova,GPL (>= 2),Manuela Hummel,10.18129/B9.BIOC.GLOBALANCOVA
+globalSeq,GPL-3,Armin Rauschenberger,10.18129/B9.BIOC.GLOBALSEQ
+globaltest,GPL (>= 2),Jelle Goeman,10.18129/B9.BIOC.GLOBALTEST
+gmapR,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.GMAPR
+GmicR,GPL-2,Richard Virgen-Slane,10.18129/B9.BIOC.GMICR
+gmoviz,GPL-3,Kathleen Zeglinski,10.18129/B9.BIOC.GMOVIZ
+GMRP,GPL (>= 2),Yuan-De Tan,10.18129/B9.BIOC.GMRP
+GNET2,Apache License 2.0,Chen Chen,10.18129/B9.BIOC.GNET2
+GOexpress,GPL (>= 3),Kevin Rue-Albrecht,10.18129/B9.BIOC.GOEXPRESS
+GOfuncR,GPL (>= 2),Steffi Grote,10.18129/B9.BIOC.GOFUNCR
+GOpro,GPL-3,Lidia Chrabaszcz,10.18129/B9.BIOC.GOPRO
+goProfiles,GPL-2,Alex Sanchez,10.18129/B9.BIOC.GOPROFILES
+goseq,LGPL (>= 2.1),Matthew Young,10.18129/B9.BIOC.GOSEQ
+GOSim,GPL (>= 2),Holger Froehlich,10.18129/B9.BIOC.GOSIM
+goSTAG,GPL-3,Brian D. Bennett,10.18129/B9.BIOC.GOSTAG
+GOstats,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GOSTATS
+GOsummaries,GPL (>= 2),Raivo Kolde,10.18129/B9.BIOC.GOSUMMARIES
+goTools,GPL-2,Agnes Paquet,10.18129/B9.BIOC.GOTOOLS
+GPA,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.GPA
+gpart,MIT,Sun Ah Kim,10.18129/B9.BIOC.GPART
+gpls,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GPLS
+gpuMagic,GPL-3,Jiefei Wang,10.18129/B9.BIOC.GPUMAGIC
+GRaNIE,Artistic-2.0,Christian Arnold,10.18129/B9.BIOC.GRANIE
+granulator,GPL-3,Sabina Pfister,10.18129/B9.BIOC.GRANULATOR
+graper,GPL (>= 2),Britta Velten,10.18129/B9.BIOC.GRAPER
+graph,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GRAPH
+GraphAT,LGPL (>= 2.1),Thomas LaFramboise,10.18129/B9.BIOC.GRAPHAT
+graphite,AGPL-3,Gabriele Sales,10.18129/B9.BIOC.GRAPHITE
+GraphPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.GRAPHPAC
+GRENITS,GPL (>= 2),Edward Morrissey,10.18129/B9.BIOC.GRENITS
+GreyListChIP,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.GREYLISTCHIP
+GRmetrics,GPL-3,Nicholas Clark,10.18129/B9.BIOC.GRMETRICS
+groHMM,GPL-3,Anusha Nagari,10.18129/B9.BIOC.GROHMM
+GRridge,GPL-3,Mark A. van de Wiel,10.18129/B9.BIOC.GRRIDGE
+GSALightning,GPL (>= 2),Billy Heung Wing Chang,10.18129/B9.BIOC.GSALIGHTNING
+GSAR,GPL (>= 2),Yasir Rahmatallah,10.18129/B9.BIOC.GSAR
+GSCA,GPL (>= 2),Zhicheng Ji,10.18129/B9.BIOC.GSCA
+GSEABase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GSEABASE
+GSEAlm,Artistic-2.0,Assaf Oron,10.18129/B9.BIOC.GSEALM
+GSEAmining,GPL-3,Oriol Arqués,10.18129/B9.BIOC.GSEAMINING
+gsean,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.GSEAN
+GSgalgoR,MIT,Carlos Catania,10.18129/B9.BIOC.GSGALGOR
+GSReg,GPL-2,Bahman Afsari,10.18129/B9.BIOC.GSREG
+GSRI,GPL-3,Julian Gehring,10.18129/B9.BIOC.GSRI
+gtrellis,MIT,Zuguang Gu,10.18129/B9.BIOC.GTRELLIS
+GUIDEseq,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.GUIDESEQ
+Guitar,GPL-2,Jia Meng,10.18129/B9.BIOC.GUITAR
+GWAS.BAYES,GPL-2,Jake Williams,10.18129/B9.BIOC.GWAS.BAYES
+gwascat,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.GWASCAT
+gwasurvivr,Artistic-2.0,Abbas Rizvi,10.18129/B9.BIOC.GWASURVIVR
+GWENA,GPL-3,Gwenaëlle Lemoine,10.18129/B9.BIOC.GWENA
+hapFabia,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.HAPFABIA
+Harshlight,GPL (>= 2),Maurizio Pellegrino,10.18129/B9.BIOC.HARSHLIGHT
+hca,MIT,Martin Morgan,10.18129/B9.BIOC.HCA
+HDF5Array,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.HDF5ARRAY
+HDTD,GPL-3,Anestis Touloumis,10.18129/B9.BIOC.HDTD
+heatmaps,Artistic-2.0,Malcolm Perry,10.18129/B9.BIOC.HEATMAPS
+Heatplus,GPL (>= 2),Alexander Ploner,10.18129/B9.BIOC.HEATPLUS
+HelloRanges,GPL (>= 2),Michael Lawrence,10.18129/B9.BIOC.HELLORANGES
+HELP,GPL (>= 2),Reid F. Thompson,10.18129/B9.BIOC.HELP
+HEM,GPL (>= 2),HyungJun Cho,10.18129/B9.BIOC.HEM
+hermes,Apache License 2.0,Daniel Sabanés Bové,10.18129/B9.BIOC.HERMES
+HGC,GPL-3,XGlab,10.18129/B9.BIOC.HGC
+hiAnnotator,GPL (>= 2),Nirav V Malani,10.18129/B9.BIOC.HIANNOTATOR
+HIBAG,GPL-3,Xiuwen Zheng,10.18129/B9.BIOC.HIBAG
+HiCDCPlus,GPL-3,Merve Sahin,10.18129/B9.BIOC.HICDCPLUS
+hierGWAS,GPL-3,Laura Buzdugan,10.18129/B9.BIOC.HIERGWAS
+hierinf,GPL-3,Claude Renaux,10.18129/B9.BIOC.HIERINF
+HilbertCurve,MIT,Zuguang Gu,10.18129/B9.BIOC.HILBERTCURVE
+HiLDA,GPL-3,Zhi Yang,10.18129/B9.BIOC.HILDA
+hipathia,GPL-2,Marta R. Hidalgo,10.18129/B9.BIOC.HIPATHIA
+HIPPO,GPL (>= 2),Tae Kim,10.18129/B9.BIOC.HIPPO
+hiReadsProcessor,GPL-3,Nirav V Malani,10.18129/B9.BIOC.HIREADSPROCESSOR
+HIREewas,GPL (>= 2),Xiangyu Luo,10.18129/B9.BIOC.HIREEWAS
+hmdbQuery,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.HMDBQUERY
+HMMcopy,GPL-3,Daniel Lai,10.18129/B9.BIOC.HMMCOPY
+hopach,GPL (>= 2),Katherine S. Pollard,10.18129/B9.BIOC.HOPACH
+hpar,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.HPAR
+HPAStainR,Artistic-2.0,Tim O. Nieuwenhuis,10.18129/B9.BIOC.HPASTAINR
+HPiP,MIT,Matineh Rahmatbakhsh,10.18129/B9.BIOC.HPIP
+HTqPCR,Artistic-2.0,Heidi Dvinge,10.18129/B9.BIOC.HTQPCR
+HTSeqGenie,Artistic-2.0,Jens Reeder,10.18129/B9.BIOC.HTSEQGENIE
+HTSFilter,Artistic-2.0,Andrea Rau,10.18129/B9.BIOC.HTSFILTER
+HubPub,Artistic-2.0,Kayla Interdonato,10.18129/B9.BIOC.HUBPUB
+HumanTranscriptomeCompendium,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.HUMANTRANSCRIPTOMECOMPENDIUM
+hummingbird,GPL (>= 2),Eleni Adam,10.18129/B9.BIOC.HUMMINGBIRD
+HybridMTest,GPL (>= 2),Demba Fofana,10.18129/B9.BIOC.HYBRIDMTEST
+hypeR,GPL-3,Anthony Federico,10.18129/B9.BIOC.HYPER
+hyperdraw,GPL (>= 2),Paul Murrell,10.18129/B9.BIOC.HYPERDRAW
+hypergraph,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.HYPERGRAPH
+iASeq,GPL-2,Yingying Wei,10.18129/B9.BIOC.IASEQ
+iasva,GPL-2,Donghyung Lee,10.18129/B9.BIOC.IASVA
+iBBiG,Artistic-2.0,Aedin Culhane,10.18129/B9.BIOC.IBBIG
+ibh,GPL (>= 2),Kircicegi Korkmaz,10.18129/B9.BIOC.IBH
+iBMQ,Artistic-2.0,Greg Imholte,10.18129/B9.BIOC.IBMQ
+iCARE,GPL-3,Bill Wheeler,10.18129/B9.BIOC.ICARE
+Icens,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ICENS
+icetea,GPL-3,Vivek Bhardwaj,10.18129/B9.BIOC.ICETEA
+iCheck,GPL (>= 2),Weiliang Qiu,10.18129/B9.BIOC.ICHECK
+iChip,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ICHIP
+iClusterPlus,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ICLUSTERPLUS
+iCNV,GPL-2,Zilu Zhou,10.18129/B9.BIOC.ICNV
+iCOBRA,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.ICOBRA
+IdeoViz,GPL-2,Shraddha Pai,10.18129/B9.BIOC.IDEOVIZ
+idiogram,GPL-2,Karl J. Dykema,10.18129/B9.BIOC.IDIOGRAM
+iGC,GPL-2,Liang-Bo Wang,10.18129/B9.BIOC.IGC
+igvR,MIT,Paul Shannon,10.18129/B9.BIOC.IGVR
+ILoReg,GPL-3,Johannes Smolander,10.18129/B9.BIOC.ILOREG
+imageHTS,LGPL (>= 2.1),Joseph Barry,10.18129/B9.BIOC.IMAGEHTS
+IMAS,GPL-2,Seonggyun Han,10.18129/B9.BIOC.IMAS
+imcRtools,GPL-3,Nils Eling,10.18129/B9.BIOC.IMCRTOOLS
+IMMAN,Artistic-2.0,Minoo Ashtiani,10.18129/B9.BIOC.IMMAN
+ImmuneSpaceR,GPL-2,ImmuneSpace Package Maintainer,10.18129/B9.BIOC.IMMUNESPACER
+immunoClust,Artistic-2.0,Till Soerensen,10.18129/B9.BIOC.IMMUNOCLUST
+immunotation,GPL-3,Katharina Imkeller,10.18129/B9.BIOC.IMMUNOTATION
+impute,GPL-2,Balasubramanian Narasimhan,10.18129/B9.BIOC.IMPUTE
+INDEED,Artistic-2.0,Ressom group,10.18129/B9.BIOC.INDEED
+infercnv,BSD_3_clause,Christophe Georgescu,10.18129/B9.BIOC.INFERCNV
+infinityFlow,GPL-3,Etienne Becht,10.18129/B9.BIOC.INFINITYFLOW
+Informeasure,GPL-3,Chu Pan,10.18129/B9.BIOC.INFORMEASURE
+InPAS,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.INPAS
+INPower,GPL-2,Bill Wheeler,10.18129/B9.BIOC.INPOWER
+intansv,MIT,Wen Yao,10.18129/B9.BIOC.INTANSV
+interacCircos,GPL-3,Zhe Cui,10.18129/B9.BIOC.INTERACCIRCOS
+InteractionSet,GPL-3,Aaron Lun,10.18129/B9.BIOC.INTERACTIONSET
+InteractiveComplexHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.INTERACTIVECOMPLEXHEATMAP
+interactiveDisplay,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.INTERACTIVEDISPLAY
+interactiveDisplayBase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.INTERACTIVEDISPLAYBASE
+InterCellar,MIT,Marta Interlandi,10.18129/B9.BIOC.INTERCELLAR
+InterMineR,LGPL (>= 2.1),InterMine Team,10.18129/B9.BIOC.INTERMINER
+IntramiRExploreR,GPL-2,Surajit Bhattacharya,10.18129/B9.BIOC.INTRAMIREXPLORER
+inveRsion,GPL (>= 2),Alejandro Caceres,10.18129/B9.BIOC.INVERSION
+IONiseR,MIT,Mike Smith,10.18129/B9.BIOC.IONISER
+iPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.IPAC
+iPath,GPL-2,Kenong Su,10.18129/B9.BIOC.IPATH
+ipdDb,Artistic-2.0,Steffen Klasberg,10.18129/B9.BIOC.IPDDB
+IPO,GPL (>= 2),Thomas Riebenbauer,10.18129/B9.BIOC.IPO
+IRISFGM,GPL-2,Yuzhou Chang,10.18129/B9.BIOC.IRISFGM
+ISAnalytics,CC BY 4.0,Andrea Calabria,10.18129/B9.BIOC.ISANALYTICS
+iSEEu,MIT,Kevin Rue-Albrecht,10.18129/B9.BIOC.ISEEU
+iSeq,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ISEQ
+isobar,LGPL (>= 2.1),Florian P Breitwieser,10.18129/B9.BIOC.ISOBAR
+IsoCorrectoR,GPL-3,Christian Kohler,10.18129/B9.BIOC.ISOCORRECTOR
+IsoCorrectoRGUI,GPL-3,Christian Kohler,10.18129/B9.BIOC.ISOCORRECTORGUI
+IsoGeneGUI,GPL-2,Setia Pramana,10.18129/B9.BIOC.ISOGENEGUI
+ISoLDE,GPL (>= 2.0),Christelle Reynès,10.18129/B9.BIOC.ISOLDE
+isomiRs,MIT,Lorena Pantano,10.18129/B9.BIOC.ISOMIRS
+ITALICS,GPL-2,Guillem Rigaill,10.18129/B9.BIOC.ITALICS
+iterativeBMA,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.ITERATIVEBMA
+iterativeBMAsurv,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.ITERATIVEBMASURV
+iteremoval,GPL-2,Jiacheng Chuan,10.18129/B9.BIOC.ITEREMOVAL
+IVAS,GPL-2,Seonggyun Han,10.18129/B9.BIOC.IVAS
+ivygapSE,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.IVYGAPSE
+KBoost,GPL-2,Luis F. Iglesias-Martinez,10.18129/B9.BIOC.KBOOST
+KCsmart,GPL-3,Jorma de Ronde,10.18129/B9.BIOC.KCSMART
+KEGGgraph,GPL (>= 2),Jitao David Zhang,10.18129/B9.BIOC.KEGGGRAPH
+KEGGlincs,GPL-3,Shana White,10.18129/B9.BIOC.KEGGLINCS
+keggorthology,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.KEGGORTHOLOGY
+KEGGREST,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.KEGGREST
+KinSwingR,GPL-3,Ashley J. Waardenberg,10.18129/B9.BIOC.KINSWINGR
+kissDE,GPL (>= 2),Aurélie Siberchicot,10.18129/B9.BIOC.KISSDE
+KnowSeq,GPL (>= 2),Daniel Castillo-Secilla,10.18129/B9.BIOC.KNOWSEQ
+lapmix,GPL (>= 2),Yann Ruffieux,10.18129/B9.BIOC.LAPMIX
+LBE,GPL-2,Cyril Dalmasso,10.18129/B9.BIOC.LBE
+ldblock,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.LDBLOCK
+LEA,GPL-3,Olivier Francois,10.18129/B9.BIOC.LEA
+lefser,Artistic-2.0,Asya Khleborodova,10.18129/B9.BIOC.LEFSER
+les,GPL-3,Julian Gehring,10.18129/B9.BIOC.LES
+levi,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.LEVI
+lfa,GPL-3,Wei Hao,10.18129/B9.BIOC.LFA
+limma,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.LIMMA
+limmaGUI,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.LIMMAGUI
+LineagePulse,Artistic-2.0,David S Fischer,10.18129/B9.BIOC.LINEAGEPULSE
+lineagespot,MIT,Nikolaos Pechlivanis,10.18129/B9.BIOC.LINEAGESPOT
+LinkHD,GPL-3,"""Laura M Zingaretti""",10.18129/B9.BIOC.LINKHD
+LinTInd,MIT,Luyue Wang,10.18129/B9.BIOC.LINTIND
+lipidr,MIT,Ahmed Mohamed,10.18129/B9.BIOC.LIPIDR
+LiquidAssociation,GPL (>= 3),Yen-Yi Ho,10.18129/B9.BIOC.LIQUIDASSOCIATION
+lisaClust,GPL (>= 2),Ellis Patrick,10.18129/B9.BIOC.LISACLUST
+lmdme,GPL (>= 2),Cristobal Fresno,10.18129/B9.BIOC.LMDME
+LOBSTAHS,GPL (>= 3),Henry Holm,10.18129/B9.BIOC.LOBSTAHS
+loci2path,Artistic-2.0,Tianlei Xu,10.18129/B9.BIOC.LOCI2PATH
+logicFS,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.LOGICFS
+logitT,GPL (>= 2),Tobias Guennel,10.18129/B9.BIOC.LOGITT
+LOLA,GPL-3,Nathan Sheffield,10.18129/B9.BIOC.LOLA
+LoomExperiment,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.LOOMEXPERIMENT
+LPE,LGPL (>= 2.1),Nitin Jain,10.18129/B9.BIOC.LPE
+LPEadj,LGPL (>= 2.1),Carl Murie,10.18129/B9.BIOC.LPEADJ
+lpNet,Artistic License 2.0,Lars Kaderali,10.18129/B9.BIOC.LPNET
+lpsymphony,EPL,Vladislav Kim,10.18129/B9.BIOC.LPSYMPHONY
+LRBaseDbi,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.LRBASEDBI
+LRcell,MIT,Wenjing Ma,10.18129/B9.BIOC.LRCELL
+lumi,LGPL (>= 2.1),Lei Huang,10.18129/B9.BIOC.LUMI
+LymphoSeq,Artistic-2.0,David Coffey,10.18129/B9.BIOC.LYMPHOSEQ
+M3C,AGPL-3,Christopher John,10.18129/B9.BIOC.M3C
+M3Drop,GPL (>= 2),Tallulah Andrews,10.18129/B9.BIOC.M3DROP
+m6Aboost,Artistic-2.0,You Zhou,10.18129/B9.BIOC.M6ABOOST
+maanova,GPL (>= 2),Keith Sheppard,10.18129/B9.BIOC.MAANOVA
+Maaslin2,MIT,Lauren McIver,10.18129/B9.BIOC.MAASLIN2
+Macarron,MIT,Sagun Maharjan,10.18129/B9.BIOC.MACARRON
+macat,Artistic-2.0,Joern Toedling,10.18129/B9.BIOC.MACAT
+maCorrPlot,GPL (>= 2),Alexander Ploner,10.18129/B9.BIOC.MACORRPLOT
+MACPET,GPL-3,Ioannis Vardaxis,10.18129/B9.BIOC.MACPET
+MACSQuantifyR,Artistic-2.0,Raphaël Bonnet,10.18129/B9.BIOC.MACSQUANTIFYR
+MACSr,BSD_3_clause,Qiang Hu,10.18129/B9.BIOC.MACSR
+MADSEQ,GPL (>= 2),Yu Kong,10.18129/B9.BIOC.MADSEQ
+MAGAR,GPL-3,Michael Scherer,10.18129/B9.BIOC.MAGAR
+MAGeCKFlute,GPL (>= 3),Wubing Zhang,10.18129/B9.BIOC.MAGECKFLUTE
+MAI,GPL-3,Jonathan Dekermanjian,10.18129/B9.BIOC.MAI
+maigesPack,GPL (>= 2),Gustavo H. Esteves,10.18129/B9.BIOC.MAIGESPACK
+MAIT,GPL-2,Pol Sola-Santos,10.18129/B9.BIOC.MAIT
+makecdfenv,GPL (>= 2),James W. MacDonald,10.18129/B9.BIOC.MAKECDFENV
+MANOR,GPL-2,Pierre Neuvial,10.18129/B9.BIOC.MANOR
+MantelCorr,GPL (>= 2),Brian Steinmeyer,10.18129/B9.BIOC.MANTELCORR
+mAPKL,GPL (>= 2),Argiris Sakellariou,10.18129/B9.BIOC.MAPKL
+maPredictDSC,GPL-2,Adi Laurentiu Tarca,10.18129/B9.BIOC.MAPREDICTDSC
+mapscape,GPL-3,Maia Smith,10.18129/B9.BIOC.MAPSCAPE
+marr,GPL (>= 3),Tusharkanti Ghosh,10.18129/B9.BIOC.MARR
+marray,LGPL (>= 2.1),Yee Hwa (Jean) Yang,10.18129/B9.BIOC.MARRAY
+martini,GPL-3,Hector Climente-Gonzalez,10.18129/B9.BIOC.MARTINI
+maser,MIT,Diogo F.T. Veiga,10.18129/B9.BIOC.MASER
+maSigPro,GPL (>= 2),Maria Jose Nueda,10.18129/B9.BIOC.MASIGPRO
+maskBAD,GPL (>= 2),Michael Dannemann,10.18129/B9.BIOC.MASKBAD
+MassArray,GPL (>= 2),Reid F. Thompson,10.18129/B9.BIOC.MASSARRAY
+MassSpecWavelet,LGPL (>= 2.1),Sergio Oller Moreno,10.18129/B9.BIOC.MASSSPECWAVELET
+MAST,GPL (>= 2),Andrew McDavid,10.18129/B9.BIOC.MAST
+MatrixGenerics,Artistic-2.0,Peter Hickey,10.18129/B9.BIOC.MATRIXGENERICS
+MatrixQCvis,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.MATRIXQCVIS
+MatrixRider,GPL-3,Elena Grassi,10.18129/B9.BIOC.MATRIXRIDER
+matter,Artistic-2.0,Kylie A. Bemis,10.18129/B9.BIOC.MATTER
+MBAmethyl,Artistic-2.0,Tao Wang,10.18129/B9.BIOC.MBAMETHYL
+MBASED,Artistic-2.0,Oleg Mayba,10.18129/B9.BIOC.MBASED
+MBCB,GPL (>= 2),Jeff Allen,10.18129/B9.BIOC.MBCB
+MBECS,Artistic-2.0,Michael Olbrich,10.18129/B9.BIOC.MBECS
+mbkmeans,MIT,Davide Risso,10.18129/B9.BIOC.MBKMEANS
+mbOmic,Artistic-2.0,Congcong Gong,10.18129/B9.BIOC.MBOMIC
+mBPCR,GPL (>= 2),P.M.V. Rancoita,10.18129/B9.BIOC.MBPCR
+MBQN,GPL-3,Eva Brombacher,10.18129/B9.BIOC.MBQN
+MBttest,GPL-3,Yuan-De Tan,10.18129/B9.BIOC.MBTTEST
+MCbiclust,GPL-2,Robert Bentham,10.18129/B9.BIOC.MCBICLUST
+mdp,GPL-3,Helder Nakaya,10.18129/B9.BIOC.MDP
+mdqc,LGPL (>= 2.1),Gabriela Cohen-Freue,10.18129/B9.BIOC.MDQC
+MDTS,Artistic-2.0,Jack M.. Fu,10.18129/B9.BIOC.MDTS
+MEAL,Artistic-2.0,Xavier Escribà Montagut,10.18129/B9.BIOC.MEAL
+MeasurementError.cor,LGPL (>= 2.1),Beiying Ding,10.18129/B9.BIOC.MEASUREMENTERROR.COR
+MEAT,MIT,Sarah Voisin,10.18129/B9.BIOC.MEAT
+MEB,GPL-2,Jiadi Zhu,10.18129/B9.BIOC.MEB
+MEDIPS,GPL (>= 2),Lukas Chavez,10.18129/B9.BIOC.MEDIPS
+MEDME,GPL (>= 2),Mattia Pelizzola,10.18129/B9.BIOC.MEDME
+megadepth,Artistic-2.0,David Zhang,10.18129/B9.BIOC.MEGADEPTH
+MEIGOR,GPL-3,Jose A. Egea,10.18129/B9.BIOC.MEIGOR
+memes,MIT,Spencer Nystrom,10.18129/B9.BIOC.MEMES
+Mergeomics,GPL (>= 2),Zeyneb Kurt,10.18129/B9.BIOC.MERGEOMICS
+MesKit,GPL-3,Mengni Liu,10.18129/B9.BIOC.MESKIT
+metabCombiner,GPL-3,Hani Habra,10.18129/B9.BIOC.METABCOMBINER
+MetaboAnnotation,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.METABOANNOTATION
+MetaboCoreUtils,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.METABOCOREUTILS
+metabolomicsWorkbenchR,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.METABOLOMICSWORKBENCHR
+metabomxtr,GPL-2,Michael Nodzenski,10.18129/B9.BIOC.METABOMXTR
+MetaCyto,GPL (>= 2),Zicheng Hu,10.18129/B9.BIOC.METACYTO
+metagene,Artistic-2.0,Charles Joly Beauparlant,10.18129/B9.BIOC.METAGENE
+metagene2,Artistic-2.0,Eric Fournier,10.18129/B9.BIOC.METAGENE2
+metahdep,GPL-3,John R. Stevens,10.18129/B9.BIOC.METAHDEP
+metaMS,GPL (>= 2),Yann Guitton,10.18129/B9.BIOC.METAMS
+metapod,GPL-3,Aaron Lun,10.18129/B9.BIOC.METAPOD
+metapone,Artistic-2.0,Tianwei Yu,10.18129/B9.BIOC.METAPONE
+metaSeq,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.METASEQ
+metaseqR2,GPL (>= 3),Panagiotis Moulos,10.18129/B9.BIOC.METASEQR2
+metavizr,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.METAVIZR
+MetaVolcanoR,GPL-3,Cesar Prada,10.18129/B9.BIOC.METAVOLCANOR
+MetCirc,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.METCIRC
+MethPed,GPL-2,Helena Carén,10.18129/B9.BIOC.METHPED
+MethReg,GPL-3,Tiago Silva,10.18129/B9.BIOC.METHREG
+MethTargetedNGS,Artistic-2.0,Muhammad Ahmer Jamil,10.18129/B9.BIOC.METHTARGETEDNGS
+MethylAid,GPL (>= 2),L.J.Sinke,10.18129/B9.BIOC.METHYLAID
+methylCC,CC BY 4.0,Stephanie C. Hicks,10.18129/B9.BIOC.METHYLCC
+methylclock,MIT,Dolors Pelegri-Siso,10.18129/B9.BIOC.METHYLCLOCK
+methylKit,Artistic-2.0,Altuna Akalin,10.18129/B9.BIOC.METHYLKIT
+MethylMix,GPL-2,Olivier Gevaert,10.18129/B9.BIOC.METHYLMIX
+methylMnM,GPL-3,Yan Zhou,10.18129/B9.BIOC.METHYLMNM
+methylscaper,GPL-2,Bacher Rhonda,10.18129/B9.BIOC.METHYLSCAPER
+methylumi,GPL-2,Sean Davis,10.18129/B9.BIOC.METHYLUMI
+MetID,Artistic-2.0,Zhenzhi Li,10.18129/B9.BIOC.METID
+MetNet,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.METNET
+Mfuzz,GPL-2,Matthias Futschik,10.18129/B9.BIOC.MFUZZ
+MGFM,GPL-3,Khadija El Amrani,10.18129/B9.BIOC.MGFM
+MGFR,GPL-3,Khadija El Amrani,10.18129/B9.BIOC.MGFR
+mgsa,Artistic-2.0,Sebastian Bauer,10.18129/B9.BIOC.MGSA
+mia,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MIA
+miaSim,Artistic-2.0,Yagmur Simsek,10.18129/B9.BIOC.MIASIM
+miaViz,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MIAVIZ
+MiChip,GPL (>= 2),Jonathon Blake,10.18129/B9.BIOC.MICHIP
+microbiome,BSD_2_clause,Leo Lahti,10.18129/B9.BIOC.MICROBIOME
+microbiomeDASim,MIT,Justin Williams,10.18129/B9.BIOC.MICROBIOMEDASIM
+microbiomeExplorer,MIT,Janina Reeder,10.18129/B9.BIOC.MICROBIOMEEXPLORER
+microbiomeMarker,GPL-3,Yang Cao,10.18129/B9.BIOC.MICROBIOMEMARKER
+MicrobiomeProfiler,GPL-2,Meijun Chen,10.18129/B9.BIOC.MICROBIOMEPROFILER
+MicrobiotaProcess,GPL (>= 3.0),Shuangbin Xu,10.18129/B9.BIOC.MICROBIOTAPROCESS
+microRNA,Artistic-2.0,"""James F. Reid""",10.18129/B9.BIOC.MICRORNA
+midasHLA,MIT,Maciej Migdał,10.18129/B9.BIOC.MIDASHLA
+MIGSA,GPL (>= 2),Juan C. Rodriguez,10.18129/B9.BIOC.MIGSA
+miloR,GPL-3,Mike Morgan,10.18129/B9.BIOC.MILOR
+mimager,MIT,Aaron Wolen,10.18129/B9.BIOC.MIMAGER
+mina,GPL,Rui Guan,10.18129/B9.BIOC.MINA
+MineICA,GPL-2,Anne Biton,10.18129/B9.BIOC.MINEICA
+minet,Artistic-2.0,Patrick E. Meyer,10.18129/B9.BIOC.MINET
+MinimumDistance,Artistic-2.0,Robert Scharpf,10.18129/B9.BIOC.MINIMUMDISTANCE
+MiPP,GPL (>= 2),Sukwoo Kim,10.18129/B9.BIOC.MIPP
+miQC,BSD_3_clause,Ariel Hippen,10.18129/B9.BIOC.MIQC
+MIRA,GPL-3,John Lawson,10.18129/B9.BIOC.MIRA
+miRBaseConverter,GPL (>= 2),Taosheng Xu,10.18129/B9.BIOC.MIRBASECONVERTER
+miRcomp,GPL-3,Matthew N. McCall,10.18129/B9.BIOC.MIRCOMP
+mirIntegrator,GPL (>= 3),Diana Diaz,10.18129/B9.BIOC.MIRINTEGRATOR
+miRLAB,GPL (>= 2),Thuc Duy Le,10.18129/B9.BIOC.MIRLAB
+miRmine,GPL (>= 3),Dusan Randjelovic,10.18129/B9.BIOC.MIRMINE
+miRNApath,LGPL (>= 2.1),James M. Ward,10.18129/B9.BIOC.MIRNAPATH
+miRNAtap,GPL-2,T. Ian Simpson,10.18129/B9.BIOC.MIRNATAP
+miRSM,GPL-3,Junpeng Zhang,10.18129/B9.BIOC.MIRSM
+miRspongeR,GPL-3,Junpeng Zhang,10.18129/B9.BIOC.MIRSPONGER
+mirTarRnaSeq,MIT,Mercedeh Movassagh,10.18129/B9.BIOC.MIRTARRNASEQ
+missMethyl,GPL-2,Belinda Phipson,10.18129/B9.BIOC.MISSMETHYL
+missRows,Artistic-2.0,Gonzalez Ignacio,10.18129/B9.BIOC.MISSROWS
+mistyR,GPL-3,Jovan Tanevski,10.18129/B9.BIOC.MISTYR
+mitoClone2,GPL-3,Benjamin Story,10.18129/B9.BIOC.MITOCLONE2
+mixOmics,GPL (>= 2),Al J Abadi,10.18129/B9.BIOC.MIXOMICS
+MLInterfaces,LGPL (>= 2.1),V. Carey,10.18129/B9.BIOC.MLINTERFACES
+MLP,GPL-3,Tobias Verbeke,10.18129/B9.BIOC.MLP
+MMAPPR2,GPL-3,Jonathon Hill,10.18129/B9.BIOC.MMAPPR2
+MMDiff2,Artistic-2.0,Gabriele Schweikert,10.18129/B9.BIOC.MMDIFF2
+MMUPHin,MIT,Siyuan MA,10.18129/B9.BIOC.MMUPHIN
+mnem,GPL-3,Martin Pirkl,10.18129/B9.BIOC.MNEM
+moanin,BSD 3-clause License,Nelle Varoquaux,10.18129/B9.BIOC.MOANIN
+MobilityTransformR,Artistic-2.0,Liesa Salzer,10.18129/B9.BIOC.MOBILITYTRANSFORMR
+MODA,GPL (>= 2),Dong Li,10.18129/B9.BIOC.MODA
+ModCon,GPL-3,Johannes Ptok,10.18129/B9.BIOC.MODCON
+Modstrings,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MODSTRINGS
+MOFA2,GPL (>= 2),Britta Velten,10.18129/B9.BIOC.MOFA2
+MOGAMUN,GPL-3,Elva-María Novoa-del-Toro,10.18129/B9.BIOC.MOGAMUN
+mogsa,GPL-2,Chen Meng,10.18129/B9.BIOC.MOGSA
+MOMA,GPL-3,Sunny Jones,10.18129/B9.BIOC.MOMA
+monaLisa,GPL (>= 3),Michael Stadler,10.18129/B9.BIOC.MONALISA
+monocle,Artistic-2.0,Cole Trapnell,10.18129/B9.BIOC.MONOCLE
+MoonlightR,GPL (>= 3),Matteo Tiberti,10.18129/B9.BIOC.MOONLIGHTR
+mosaics,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.MOSAICS
+mosbi,AGPL-3,Tim Daniel Rose,10.18129/B9.BIOC.MOSBI
+MOSim,GPL-3,Carlos Martínez,10.18129/B9.BIOC.MOSIM
+Motif2Site,GPL-2,Peyman Zarrineh,10.18129/B9.BIOC.MOTIF2SITE
+motifcounter,GPL-2,Wolfgang Kopp,10.18129/B9.BIOC.MOTIFCOUNTER
+motifmatchr,GPL-3,Alicia Schep,10.18129/B9.BIOC.MOTIFMATCHR
+MPFE,GPL (>= 3),Conrad Burden,10.18129/B9.BIOC.MPFE
+MPRAnalyze,GPL-3,Tal Ashuach,10.18129/B9.BIOC.MPRANALYZE
+MQmetrics,GPL-3,Alvaro Sanchez-Villalba,10.18129/B9.BIOC.MQMETRICS
+MSA2dist,MIT,Kristian K Ullrich,10.18129/B9.BIOC.MSA2DIST
+MsBackendMassbank,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSBACKENDMASSBANK
+MsBackendMgf,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSBACKENDMGF
+MsBackendMsp,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.MSBACKENDMSP
+MsCoreUtils,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSCOREUTILS
+MsFeatures,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.MSFEATURES
+msgbsR,GPL-2,Benjamin Mayne,10.18129/B9.BIOC.MSGBSR
+msImpute,GPL (>= 2),Soroor Hediyeh-zadeh,10.18129/B9.BIOC.MSIMPUTE
+msmsEDA,GPL-2,Josep Gregori,10.18129/B9.BIOC.MSMSEDA
+msmsTests,GPL-2,Josep Gregori i Font,10.18129/B9.BIOC.MSMSTESTS
+MSnbase,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.MSNBASE
+MSnID,Artistic-2.0,Vlad Petyuk,10.18129/B9.BIOC.MSNID
+MSPrep,GPL-3,Max McGrath,10.18129/B9.BIOC.MSPREP
+MSstats,Artistic-2.0,Meena Choi,10.18129/B9.BIOC.MSSTATS
+MSstatsConvert,Artistic-2.0,Mateusz Staniak,10.18129/B9.BIOC.MSSTATSCONVERT
+MSstatsLiP,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSLIP
+MSstatsPTM,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSPTM
+MSstatsQC,Artistic License 2.0,Eralp Dogu,10.18129/B9.BIOC.MSSTATSQC
+MSstatsQCgui,Artistic License 2.0,Eralp Dogu,10.18129/B9.BIOC.MSSTATSQCGUI
+MSstatsSampleSize,Artistic-2.0,Ting Huang,10.18129/B9.BIOC.MSSTATSSAMPLESIZE
+MSstatsTMT,Artistic-2.0,Ting Huang,10.18129/B9.BIOC.MSSTATSTMT
+MuData,GPL-3,Danila Bredikhin,10.18129/B9.BIOC.MUDATA
+Mulcom,GPL-2,Claudio Isella,10.18129/B9.BIOC.MULCOM
+MultiAssayExperiment,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.MULTIASSAYEXPERIMENT
+MultiBaC,GPL-3,The package maintainer,10.18129/B9.BIOC.MULTIBAC
+multiClust,GPL (>= 2),Nathan Lawlor,10.18129/B9.BIOC.MULTICLUST
+MultiMed,GPL (>= 2),Simina M. Boca,10.18129/B9.BIOC.MULTIMED
+multiOmicsViz,LGPL (>= 2.1),Jing Wang,10.18129/B9.BIOC.MULTIOMICSVIZ
+multiscan,GPL (>= 2),Mizanur Khondoker,10.18129/B9.BIOC.MULTISCAN
+multiSight,CeCILL,Florian Jeanneret,10.18129/B9.BIOC.MULTISIGHT
+multtest,LGPL (>= 2.1),Katherine S. Pollard,10.18129/B9.BIOC.MULTTEST
+mumosa,GPL-3,Aaron Lun,10.18129/B9.BIOC.MUMOSA
+MungeSumstats,Artistic-2.0,Alan Murphy,10.18129/B9.BIOC.MUNGESUMSTATS
+muscat,GPL-3,Helena L. Crowell,10.18129/B9.BIOC.MUSCAT
+musicatk,LGPL (>= 2.1),Aaron Chevalier,10.18129/B9.BIOC.MUSICATK
+MutationalPatterns,MIT,Mark van Roosmalen,10.18129/B9.BIOC.MUTATIONALPATTERNS
+MVCClass,LGPL (>= 2.1),Elizabeth Whalen,10.18129/B9.BIOC.MVCCLASS
+mygene,Artistic-2.0,"Adam Mark, Cyrus Afrasiabi, Chunlei Wu",10.18129/B9.BIOC.MYGENE
+myvariant,Artistic-2.0,"Adam Mark, Chunlei Wu",10.18129/B9.BIOC.MYVARIANT
+mzID,GPL (>= 2),Laurent Gatto,10.18129/B9.BIOC.MZID
+"NADfinder",GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.NADFINDER
+NanoMethViz,Apache License 2.0,Shian Su,10.18129/B9.BIOC.NANOMETHVIZ
+NanoStringDiff,GPL,tingting zhai,10.18129/B9.BIOC.NANOSTRINGDIFF
+NanoStringNCTools,MIT,Nicole Ortogero,10.18129/B9.BIOC.NANOSTRINGNCTOOLS
+NanoStringQCPro,Artistic-2.0,Robert Ziman,10.18129/B9.BIOC.NANOSTRINGQCPRO
+NanoTube,GPL-3,Caleb Class,10.18129/B9.BIOC.NANOTUBE
+NBSplice,GPL (>= 2),Gabriela Merino,10.18129/B9.BIOC.NBSPLICE
+ncGTW,GPL-2,Chiung-Ting Wu,10.18129/B9.BIOC.NCGTW
+NCIgraph,GPL-3,Laurent Jacob,10.18129/B9.BIOC.NCIGRAPH
+ncRNAtools,GPL-3,Lara Selles Vidal,10.18129/B9.BIOC.NCRNATOOLS
+ndexr,BSD_3_clause,Florian Auer,10.18129/B9.BIOC.NDEXR
+nearBynding,Artistic-2.0,Veronica Busa,10.18129/B9.BIOC.NEARBYNDING
+Nebulosa,GPL-3,Jose Alquicira-Hernandez,10.18129/B9.BIOC.NEBULOSA
+NeighborNet,CC BY-NC-ND 4.0,Sahar Ansari,10.18129/B9.BIOC.NEIGHBORNET
+nempi,GPL-3,Martin Pirkl,10.18129/B9.BIOC.NEMPI
+netbiov,GPL (>= 2),Shailesh tripathi,10.18129/B9.BIOC.NETBIOV
+netboxr,LGPL (>= 2.1),Eirc Minwei Liu,10.18129/B9.BIOC.NETBOXR
+nethet,GPL-2,Nicolas Staedler,10.18129/B9.BIOC.NETHET
+netOmics,GPL-3,Antoine Bodein,10.18129/B9.BIOC.NETOMICS
+NetPathMiner,GPL (>= 2),Ahmed Mohamed,10.18129/B9.BIOC.NETPATHMINER
+netprioR,GPL-3,Fabian Schmich,10.18129/B9.BIOC.NETPRIOR
+netresponse,GPL (>= 2),Leo Lahti,10.18129/B9.BIOC.NETRESPONSE
+NetSAM,LGPL (>= 2.1),Zhiao Shi,10.18129/B9.BIOC.NETSAM
+networkBMA,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.NETWORKBMA
+netZooR,GPL-3,Marouen Ben Guebila,10.18129/B9.BIOC.NETZOOR
+NeuCA,GPL-2,Hao Feng,10.18129/B9.BIOC.NEUCA
+NewWave,GPL-3,Federico Agostinis,10.18129/B9.BIOC.NEWWAVE
+nnNorm,LGPL (>= 2.1),Adi Laurentiu Tarca,10.18129/B9.BIOC.NNNORM
+nnSVG,MIT,Lukas M. Weber,10.18129/B9.BIOC.NNSVG
+NOISeq,Artistic-2.0,Sonia Tarazona,10.18129/B9.BIOC.NOISEQ
+nondetects,GPL-3,Valeriia Sherina,10.18129/B9.BIOC.NONDETECTS
+NoRCE,MIT,Gulden Olgun,10.18129/B9.BIOC.NORCE
+normalize450K,BSD_2_clause,Jonathan Alexander Heiss,10.18129/B9.BIOC.NORMALIZE450K
+normr,GPL-2,Johannes Helmuth,10.18129/B9.BIOC.NORMR
+NPARC,GPL-3,Nils Kurzawa,10.18129/B9.BIOC.NPARC
+NTW,GPL-2,Yuanhua Liu,10.18129/B9.BIOC.NTW
+nucleR,LGPL (>= 2.1),Alba Sala,10.18129/B9.BIOC.NUCLER
+nullranges,GPL-3,Michael Love,10.18129/B9.BIOC.NULLRANGES
+NuPoP,GPL-2,Ji-Ping Wang,10.18129/B9.BIOC.NUPOP
+NxtIRFcore,MIT,Alex Chit Hei Wong,10.18129/B9.BIOC.NXTIRFCORE
+occugene,GPL (>= 2),Oliver Will,10.18129/B9.BIOC.OCCUGENE
+OCplus,LGPL (>= 2.1),Alexander Ploner,10.18129/B9.BIOC.OCPLUS
+ODER,Artistic-2.0,David Zhang,10.18129/B9.BIOC.ODER
+odseq,MIT,José Jiménez,10.18129/B9.BIOC.ODSEQ
+OGRE,Artistic-2.0,Sven Berres,10.18129/B9.BIOC.OGRE
+oligoClasses,GPL (>= 2),Benilton Carvalho,10.18129/B9.BIOC.OLIGOCLASSES
+OLIN,GPL-2,Matthias Futschik,10.18129/B9.BIOC.OLIN
+OLINgui,GPL-2,Matthias Futschik,10.18129/B9.BIOC.OLINGUI
+OmaDB,GPL-3,Klara Kaleb,10.18129/B9.BIOC.OMADB
+omicade4,GPL-2,Chen Meng,10.18129/B9.BIOC.OMICADE4
+OmicCircos,GPL-2,Ying Hu,10.18129/B9.BIOC.OMICCIRCOS
+omicplotR,MIT,Daniel Giguere,10.18129/B9.BIOC.OMICPLOTR
+omicRexposome,MIT,Xavier Escribà Montagut,10.18129/B9.BIOC.OMICREXPOSOME
+OmicsLonDA,MIT,Ahmed A. Metwally,10.18129/B9.BIOC.OMICSLONDA
+OMICsPCA,GPL-3,Subhadeep Das,10.18129/B9.BIOC.OMICSPCA
+omicsPrint,GPL (>= 2),Davy Cats,10.18129/B9.BIOC.OMICSPRINT
+omicsViewer,GPL-2,Chen Meng,10.18129/B9.BIOC.OMICSVIEWER
+Omixer,MIT,Lucy Sinke,10.18129/B9.BIOC.OMIXER
+ompBAM,MIT,Alex Chit Hei Wong,10.18129/B9.BIOC.OMPBAM
+oncomix,GPL-3,Daniel Pique,10.18129/B9.BIOC.ONCOMIX
+oneSENSE,GPL (>= 3),Yong Kee Tan,10.18129/B9.BIOC.ONESENSE
+openPrimeR,GPL-2,Matthias Döring,10.18129/B9.BIOC.OPENPRIMER
+openPrimeRui,GPL-2,Matthias Döring,10.18129/B9.BIOC.OPENPRIMERUI
+OpenStats,GPL (>= 2),Hamed Haseli Mashhadi,10.18129/B9.BIOC.OPENSTATS
+oposSOM,GPL (>= 2),Henry Loeffler-Wirth,10.18129/B9.BIOC.OPOSSOM
+oppar,GPL-2,Soroor Hediyeh zadeh,10.18129/B9.BIOC.OPPAR
+oppti,MIT,Abdulkadir Elmas,10.18129/B9.BIOC.OPPTI
+optimalFlow,Artistic-2.0,Hristo Inouzhe,10.18129/B9.BIOC.OPTIMALFLOW
+OPWeight,Artistic-2.0,Mohamad Hasan,10.18129/B9.BIOC.OPWEIGHT
+OrderedList,GPL (>= 2),Claudio Lottaz,10.18129/B9.BIOC.ORDEREDLIST
+ORFhunteR,Artistic-2.0,Vasily V. Grinev,10.18129/B9.BIOC.ORFHUNTER
+Organism.dplyr,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ORGANISM.DPLYR
+OrganismDbi,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ORGANISMDBI
+orthogene,GPL-3,Brian Schilder,10.18129/B9.BIOC.ORTHOGENE
+OSAT,Artistic-2.0,Li Yan,10.18129/B9.BIOC.OSAT
+Oscope,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.OSCOPE
+OTUbase,Artistic-2.0,Daniel Beck,10.18129/B9.BIOC.OTUBASE
+OVESEG,GPL-2,Lulu Chen,10.18129/B9.BIOC.OVESEG
+packFinder,GPL-2,Jack Gisby,10.18129/B9.BIOC.PACKFINDER
+padma,GPL (>= 3),Andrea Rau,10.18129/B9.BIOC.PADMA
+PADOG,GPL (>= 2),Adi L. Tarca,10.18129/B9.BIOC.PADOG
+pageRank,GPL-2,Hongxu Ding,10.18129/B9.BIOC.PAGERANK
+PAIRADISE,MIT,Qiang Hu,10.18129/B9.BIOC.PAIRADISE
+paircompviz,GPL (>= 3.0),Michal Burda,10.18129/B9.BIOC.PAIRCOMPVIZ
+pairkat,GPL-3,Max McGrath,10.18129/B9.BIOC.PAIRKAT
+pandaR,GPL-2,Joseph N. Paulson,10.18129/B9.BIOC.PANDAR
+PanomiR,MIT,Pourya Naderi,10.18129/B9.BIOC.PANOMIR
+panp,GPL (>= 2),Peter Warren,10.18129/B9.BIOC.PANP
+PANR,Artistic-2.0,Xin Wang,10.18129/B9.BIOC.PANR
+pareg,GPL-3,Kim Philipp Jablonski,10.18129/B9.BIOC.PAREG
+parglms,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.PARGLMS
+parody,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.PARODY
+PAST,GPL (>= 3),Thrash Adam,10.18129/B9.BIOC.PAST
+Path2PPI,GPL (>= 2),Oliver Philipp,10.18129/B9.BIOC.PATH2PPI
+PathNet,GPL-3,Ludwig Geistlinger,10.18129/B9.BIOC.PATHNET
+PathoStat,GPL (>= 2),Solaiappan Manimaran,10.18129/B9.BIOC.PATHOSTAT
+pathRender,LGPL (>= 2.1),Vince Carey,10.18129/B9.BIOC.PATHRENDER
+pathVar,LGPL (>= 2.1),Samuel Zimmerman,10.18129/B9.BIOC.PATHVAR
+pathwayPCA,GPL-3,Gabriel Odom,10.18129/B9.BIOC.PATHWAYPCA
+paxtoolsr,LGPL (>= 2.1),Augustin Luna,10.18129/B9.BIOC.PAXTOOLSR
+pcaMethods,GPL (>= 3),Henning Redestig,10.18129/B9.BIOC.PCAMETHODS
+PCAtools,GPL-3,Kevin Blighe,10.18129/B9.BIOC.PCATOOLS
+pcxn,MIT,Sokratis Kariotis,10.18129/B9.BIOC.PCXN
+PDATK,MIT,Benjamin Haibe-Kains,10.18129/B9.BIOC.PDATK
+pdInfoBuilder,Artistic-2.0,Benilton Carvalho,10.18129/B9.BIOC.PDINFOBUILDER
+PeacoQC,GPL (>= 3),Annelies Emmaneel,10.18129/B9.BIOC.PEACOQC
+peakPantheR,GPL-3,Arnaud Wolfer,10.18129/B9.BIOC.PEAKPANTHER
+PECA,GPL (>= 2),Tomi Suomi,10.18129/B9.BIOC.PECA
+peco,GPL (>= 3),Chiaowen Joyce Hsiao,10.18129/B9.BIOC.PECO
+pengls,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.PENGLS
+PepsNMR,GPL-2,Manon Martin,10.18129/B9.BIOC.PEPSNMR
+pepStat,Artistic-2.0,Gregory C Imholte,10.18129/B9.BIOC.PEPSTAT
+pepXMLTab,Artistic-2.0,Xiaojing Wang,10.18129/B9.BIOC.PEPXMLTAB
+PERFect,Artistic-2.0,Quy Cao,10.18129/B9.BIOC.PERFECT
+periodicDNA,GPL-3,Jacques Serizay,10.18129/B9.BIOC.PERIODICDNA
+PFP,GPL-2,XC Zhang,10.18129/B9.BIOC.PFP
+pgca,GPL (>= 2),Gabriela Cohen-Freue,10.18129/B9.BIOC.PGCA
+phantasus,MIT,Alexey Sergushichev,10.18129/B9.BIOC.PHANTASUS
+PharmacoGx,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.PHARMACOGX
+phemd,GPL-2,William S Chen,10.18129/B9.BIOC.PHEMD
+PhenoGeneRanker,Creative Commons Attribution 4.0 International License,Cagatay Dursun,10.18129/B9.BIOC.PHENOGENERANKER
+phenopath,Apache License 2.0,Kieran Campbell,10.18129/B9.BIOC.PHENOPATH
+phenoTest,GPL (>= 2),Evarist Planet,10.18129/B9.BIOC.PHENOTEST
+PhIPData,MIT,Athena Chen,10.18129/B9.BIOC.PHIPDATA
+phosphonormalizer,GPL (>= 2),Sohrab Saraei,10.18129/B9.BIOC.PHOSPHONORMALIZER
+PhosR,GPL-3,Taiyun Kim,10.18129/B9.BIOC.PHOSR
+PhyloProfile,MIT,Vinh Tran,10.18129/B9.BIOC.PHYLOPROFILE
+phyloseq,AGPL-3,Paul J. McMurdie,10.18129/B9.BIOC.PHYLOSEQ
+pickgene,GPL (>= 2),Brian S. Yandell,10.18129/B9.BIOC.PICKGENE
+PICS,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PICS
+Pigengene,GPL (>= 2),Habil Zare,10.18129/B9.BIOC.PIGENGENE
+PING,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PING
+pipeFrame,GPL-3,Zheng Wei,10.18129/B9.BIOC.PIPEFRAME
+pkgDepTools,GPL-2,Bioconductor Package Maintainer,10.18129/B9.BIOC.PKGDEPTOOLS
+planet,GPL-2,Victor Yuan,10.18129/B9.BIOC.PLANET
+plethy,GPL-3,Daniel Bottomly,10.18129/B9.BIOC.PLETHY
+plier,GPL (>= 2),Crispin Miller,10.18129/B9.BIOC.PLIER
+PloGO2,GPL-2,Jemma Wu,10.18129/B9.BIOC.PLOGO2
+plotgardener,MIT,Nicole Kramer,10.18129/B9.BIOC.PLOTGARDENER
+plotGrouper,GPL-3,John D. Gagnon,10.18129/B9.BIOC.PLOTGROUPER
+PLPE,GPL (>= 2),Soo-heang Eo,10.18129/B9.BIOC.PLPE
+plyranges,Artistic-2.0,Stuart Lee,10.18129/B9.BIOC.PLYRANGES
+pmm,GPL-3,Anna Drewek,10.18129/B9.BIOC.PMM
+pmp,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.PMP
+PoDCall,GPL-3,Hans Petter Brodal,10.18129/B9.BIOC.PODCALL
+podkat,GPL (>= 2),Ulrich Bodenhofer,10.18129/B9.BIOC.PODKAT
+pogos,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.POGOS
+polyester,Artistic-2.0,Jack Fu,10.18129/B9.BIOC.POLYESTER
+POMA,GPL-3,Pol Castellano-Escuder,10.18129/B9.BIOC.POMA
+PoTRA,LGPL (>= 2.1),Margaret Linan,10.18129/B9.BIOC.POTRA
+powerTCR,Artistic-2.0,Hillary Koch,10.18129/B9.BIOC.POWERTCR
+POWSC,GPL-2,Kenong Su,10.18129/B9.BIOC.POWSC
+ppcseq,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.PPCSEQ
+PPInfer,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.PPINFER
+ppiStats,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.PPISTATS
+preciseTAD,MIT,Mikhail Dozmorov,10.18129/B9.BIOC.PRECISETAD
+PrecisionTrialDrawer,GPL-3,Giorgio Melloni,10.18129/B9.BIOC.PRECISIONTRIALDRAWER
+PREDA,GPL-2,Francesco Ferrari,10.18129/B9.BIOC.PREDA
+preprocessCore,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.PREPROCESSCORE
+primirTSS,GPL-2,Pumin Li,10.18129/B9.BIOC.PRIMIRTSS
+PrInCE,GPL-3,Michael Skinnider,10.18129/B9.BIOC.PRINCE
+proBAMr,Artistic-2.0,Xiaojing Wang,10.18129/B9.BIOC.PROBAMR
+proBatch,GPL-3,Chloe H. Lee,10.18129/B9.BIOC.PROBATCH
+PROcess,Artistic-2.0,Xiaochun Li,10.18129/B9.BIOC.PROCESS
+proDA,GPL-3,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.PRODA
+proFIA,CeCILL,Alexis Delabriere,10.18129/B9.BIOC.PROFIA
+profileplyr,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.PROFILEPLYR
+profileScoreDist,MIT,Paal O. Westermark,10.18129/B9.BIOC.PROFILESCOREDIST
+progeny,Apache License 2.0,Aurélien Dugourd,10.18129/B9.BIOC.PROGENY
+projectR,GPL (== 2),Genevieve Stein-O'Brien,10.18129/B9.BIOC.PROJECTR
+pRoloc,GPL-2,Laurent Gatto,10.18129/B9.BIOC.PROLOC
+pRolocGUI,GPL-2,Laurent Gatto,10.18129/B9.BIOC.PROLOCGUI
+PROMISE,GPL (>= 2),Stan Pounds,10.18129/B9.BIOC.PROMISE
+PROPS,GPL-2,Lichy Han,10.18129/B9.BIOC.PROPS
+Prostar,Artistic-2.0,Samuel Wieczorek,10.18129/B9.BIOC.PROSTAR
+proteinProfiles,GPL-3,Julian Gehring,10.18129/B9.BIOC.PROTEINPROFILES
+ProteoDisco,GPL-3,Job van Riet,10.18129/B9.BIOC.PROTEODISCO
+ProteoMM,MIT,Yuliya V Karpievitch,10.18129/B9.BIOC.PROTEOMM
+protGear,GPL-3,Kennedy Mwai,10.18129/B9.BIOC.PROTGEAR
+ProtGenerics,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.PROTGENERICS
+psichomics,MIT,Nuno Saraiva-Agostinho,10.18129/B9.BIOC.PSICHOMICS
+PSICQUIC,Apache License 2.0,Paul Shannon,10.18129/B9.BIOC.PSICQUIC
+PSMatch,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.PSMATCH
+psygenet2r,MIT,Alba Gutierrez-Sacristan,10.18129/B9.BIOC.PSYGENET2R
+ptairMS,GPL-3,"c(""camille Roquencourt"", ""camille Roquencourt"")",10.18129/B9.BIOC.PTAIRMS
+PubScore,MIT,Tiago Lubiana,10.18129/B9.BIOC.PUBSCORE
+pulsedSilac,GPL-3,Marc Pagès-Gallego,10.18129/B9.BIOC.PULSEDSILAC
+puma,LGPL (>= 2.1),Xuejun Liu,10.18129/B9.BIOC.PUMA
+pvac,LGPL (>= 2.1),Jun Lu,10.18129/B9.BIOC.PVAC
+pvca,LGPL (>= 2.1),Jianying LI,10.18129/B9.BIOC.PVCA
+Pviz,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PVIZ
+PWMEnrich,LGPL (>= 2.1),Diego Diez,10.18129/B9.BIOC.PWMENRICH
+pwOmics,GPL (>= 2),Maren Sitte,10.18129/B9.BIOC.PWOMICS
+qckitfastq,Artistic-2.0,August Guang,10.18129/B9.BIOC.QCKITFASTQ
+qcmetrics,GPL-2,Laurent Gatto,10.18129/B9.BIOC.QCMETRICS
+QDNAseq,GPL,Daoud Sie,10.18129/B9.BIOC.QDNASEQ
+QFeatures,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.QFEATURES
+qmtools,GPL-3,Jaehyun Joo,10.18129/B9.BIOC.QMTOOLS
+qpcrNorm,LGPL (>= 2.1),Jessica Mar,10.18129/B9.BIOC.QPCRNORM
+qpgraph,GPL (>= 2),Robert Castelo,10.18129/B9.BIOC.QPGRAPH
+qrqc,GPL (>= 2),Vince Buffalo,10.18129/B9.BIOC.QRQC
+qsmooth,CC BY 4.0,Stephanie C. Hicks,10.18129/B9.BIOC.QSMOOTH
+qsvaR,Artistic-2.0,Joshua Stolz,10.18129/B9.BIOC.QSVAR
+Qtlizer,GPL-3,Matthias Munz,10.18129/B9.BIOC.QTLIZER
+quantiseqr,GPL-3,Federico Marini,10.18129/B9.BIOC.QUANTISEQR
+quantro,GPL (>= 3),Stephanie Hicks,10.18129/B9.BIOC.QUANTRO
+quantsmooth,GPL-2,Jan Oosting,10.18129/B9.BIOC.QUANTSMOOTH
+QuartPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.QUARTPAC
+QuaternaryProd,GPL (>= 3),Carl Tony Fakhry,10.18129/B9.BIOC.QUATERNARYPROD
+qusage,GPL (>= 2),Christopher Bolen,10.18129/B9.BIOC.QUSAGE
+qvalue,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.QVALUE
+R3CPET,GPL (>= 2),Mohamed Nadhir Djekidel,10.18129/B9.BIOC.R3CPET
+r3Cseq,GPL-3,Supat Thongjuea,10.18129/B9.BIOC.R3CSEQ
+R453Plus1Toolbox,LGPL (>= 2.1),Hans-Ulrich Klein,10.18129/B9.BIOC.R453PLUS1TOOLBOX
+R4RNA,GPL-3,Daniel Lai,10.18129/B9.BIOC.R4RNA
+RaggedExperiment,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.RAGGEDEXPERIMENT
+rama,GPL (>= 2),Raphael Gottardo,10.18129/B9.BIOC.RAMA
+ramr,Artistic-2.0,Oleksii Nikolaienko,10.18129/B9.BIOC.RAMR
+randPack,Artistic-2.0,Robert Gentleman,10.18129/B9.BIOC.RANDPACK
+randRotation,GPL-3,Peter Hettegger,10.18129/B9.BIOC.RANDROTATION
+RAREsim,GPL-3,Ryan Barnard,10.18129/B9.BIOC.RARESIM
+RareVariantVis,Artistic-2.0,Tomasz Stokowy,10.18129/B9.BIOC.RAREVARIANTVIS
+RbcBook1,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.RBCBOOK1
+Rbec,LGPL (>= 2.1),Pengfan Zhang,10.18129/B9.BIOC.RBEC
+RBGL,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.RBGL
+RBioinf,Artistic-2.0,Robert Gentleman,10.18129/B9.BIOC.RBIOINF
+rBiopaxParser,GPL (>= 2),Frank Kramer,10.18129/B9.BIOC.RBIOPAXPARSER
+RBM,GPL (>= 2),Dongmei Li,10.18129/B9.BIOC.RBM
+rbsurv,GPL (>= 2),Soo-heang Eo,10.18129/B9.BIOC.RBSURV
+Rcade,GPL-2,Jonathan Cairns,10.18129/B9.BIOC.RCADE
+RCASPAR,GPL (>= 3),Douaa Mugahid,10.18129/B9.BIOC.RCASPAR
+rcellminer,LGPL (>= 2.1),Augustin Luna,10.18129/B9.BIOC.RCELLMINER
+rCGH,Artistic-2.0,Frederic Commo,10.18129/B9.BIOC.RCGH
+RCM,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.RCM
+RCSL,GPL-3,Qinglin Mei,10.18129/B9.BIOC.RCSL
+Rcwl,GPL-2,Qiang Hu,10.18129/B9.BIOC.RCWL
+RcwlPipelines,GPL-2,Qiang Hu,10.18129/B9.BIOC.RCWLPIPELINES
+RCX,MIT,Florian Auer,10.18129/B9.BIOC.RCX
+RCyjs,MIT,Paul Shannon,10.18129/B9.BIOC.RCYJS
+RDRToolbox,GPL (>= 2),Christoph Bartenhagen,10.18129/B9.BIOC.RDRTOOLBOX
+ReactomeContentService4R,Apache License 2.0,Chi-Lam Poon,10.18129/B9.BIOC.REACTOMECONTENTSERVICE4R
+ReactomeGraph4R,Apache License 2.0,Chi-Lam Poon,10.18129/B9.BIOC.REACTOMEGRAPH4R
+ReactomeGSA,MIT,Johannes Griss,10.18129/B9.BIOC.REACTOMEGSA
+REBET,GPL-2,Bill Wheeler,10.18129/B9.BIOC.REBET
+rebook,GPL-3,Aaron Lun,10.18129/B9.BIOC.REBOOK
+receptLoss,GPL-3,Daniel Pique,10.18129/B9.BIOC.RECEPTLOSS
+reconsi,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.RECONSI
+recount3,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.RECOUNT3
+recoup,GPL (>= 3),Panagiotis Moulos,10.18129/B9.BIOC.RECOUP
+RedeR,GPL (>= 3),Mauro Castro,10.18129/B9.BIOC.REDER
+REDseq,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.REDSEQ
+RefPlus,GPL (>= 2),Kai-Ming Chang,10.18129/B9.BIOC.REFPLUS
+RegEnrich,GPL (>= 2),Weiyang Tao,10.18129/B9.BIOC.REGENRICH
+regsplice,MIT,Lukas M. Weber,10.18129/B9.BIOC.REGSPLICE
+regutools,Artistic-2.0,Joselyn Chavez,10.18129/B9.BIOC.REGUTOOLS
+REMP,GPL-3,Yinan Zheng,10.18129/B9.BIOC.REMP
+Repitools,LGPL (>= 2.1),Mark Robinson,10.18129/B9.BIOC.REPITOOLS
+RepViz,GPL-3,"Thomas Faux, Asta Laiho",10.18129/B9.BIOC.REPVIZ
+ReQON,GPL-2,Christopher Cabanski,10.18129/B9.BIOC.REQON
+ResidualMatrix,GPL-3,Aaron Lun,10.18129/B9.BIOC.RESIDUALMATRIX
+restfulSE,Artistic-2.0,Shweta Gopaulakrishnan,10.18129/B9.BIOC.RESTFULSE
+rexposome,MIT,Xavier Escribà Montagut,10.18129/B9.BIOC.REXPOSOME
+Rfastp,GPL-3,Thomas Carroll,10.18129/B9.BIOC.RFASTP
+rfPred,GPL (>= 2),Hugo Varet,10.18129/B9.BIOC.RFPRED
+rGADEM,Artistic-2.0,Arnaud Droit,10.18129/B9.BIOC.RGADEM
+rGenomeTracks,GPL-3,Omar Elashkar,10.18129/B9.BIOC.RGENOMETRACKS
+Rgin,MIT,Hector Climente-Gonzalez,10.18129/B9.BIOC.RGIN
+RGMQL,Artistic-2.0,Simone Pallotta,10.18129/B9.BIOC.RGMQL
+rgoslin,MIT,Nils Hoffmann,10.18129/B9.BIOC.RGOSLIN
+RGraph2js,GPL-2,Stephane Cano,10.18129/B9.BIOC.RGRAPH2JS
+Rgraphviz,EPL,Kasper Daniel Hansen,10.18129/B9.BIOC.RGRAPHVIZ
+rGREAT,MIT,Zuguang Gu,10.18129/B9.BIOC.RGREAT
+RGSEA,GPL (>= 3),Chengcheng Ma,10.18129/B9.BIOC.RGSEA
+rhdf5,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RHDF5
+rhdf5client,Artistic-2.0,Vincent Carey,10.18129/B9.BIOC.RHDF5CLIENT
+rhdf5filters,BSD_2_clause,Mike Smith,10.18129/B9.BIOC.RHDF5FILTERS
+Rhdf5lib,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RHDF5LIB
+Rhisat2,GPL-3,Charlotte Soneson,10.18129/B9.BIOC.RHISAT2
+Rhtslib,LGPL (>= 2.1),Bioconductor Package Maintainer,10.18129/B9.BIOC.RHTSLIB
+RiboCrypt,MIT,Michal Swirski,10.18129/B9.BIOC.RIBOCRYPT
+RiboDiPA,LGPL (>= 2.1),Ji-Ping Wang,10.18129/B9.BIOC.RIBODIPA
+RiboProfiling,GPL-3,A. Popa,10.18129/B9.BIOC.RIBOPROFILING
+ribor,GPL-3,Michael Geng,10.18129/B9.BIOC.RIBOR
+riboSeqR,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.RIBOSEQR
+ribosomeProfilingQC,GPL (>= 3),Jianhong Ou,10.18129/B9.BIOC.RIBOSOMEPROFILINGQC
+rifi,GPL-3,Jens Georg,10.18129/B9.BIOC.RIFI
+RImmPort,GPL-3,Zicheng Hu,10.18129/B9.BIOC.RIMMPORT
+Ringo,Artistic-2.0,J. Toedling,10.18129/B9.BIOC.RINGO
+RIPAT,Artistic-2.0,Min-Jeong Baek,10.18129/B9.BIOC.RIPAT
+Risa,LGPL (>= 2.1),Alejandra Gonzalez-Beltran,10.18129/B9.BIOC.RISA
+RIVER,GPL (>= 2),Yungil Kim,10.18129/B9.BIOC.RIVER
+RLassoCox,Artistic-2.0,Wei Liu,10.18129/B9.BIOC.RLASSOCOX
+RLMM,LGPL (>= 2.1),Nusrat Rabbee,10.18129/B9.BIOC.RLMM
+RLSeq,MIT,Henry Miller,10.18129/B9.BIOC.RLSEQ
+Rmagpie,GPL (>= 3),Camille Maumet,10.18129/B9.BIOC.RMAGPIE
+RMassBank,Artistic-2.0,RMassBank at Eawag,10.18129/B9.BIOC.RMASSBANK
+rmelting,GPL-2,J. Aravind,10.18129/B9.BIOC.RMELTING
+RNAdecay,GPL-2,Reed Sorenson,10.18129/B9.BIOC.RNADECAY
+rnaEditr,GPL-3,Lanyu Zhang,10.18129/B9.BIOC.RNAEDITR
+RNAinteract,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RNAINTERACT
+RNAmodR,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR
+RNAmodR.AlkAnilineSeq,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.ALKANILINESEQ
+RNAmodR.ML,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.ML
+RNAmodR.RiboMethSeq,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.RIBOMETHSEQ
+RNAsense,GPL-3,Marcus Rosenblatt,10.18129/B9.BIOC.RNASENSE
+rnaseqcomp,GPL-3,Mingxiang Teng,10.18129/B9.BIOC.RNASEQCOMP
+RNASeqPower,LGPL (>= 2.1),Terry M Therneau,10.18129/B9.BIOC.RNASEQPOWER
+RnaSeqSampleSize,GPL (>= 2),Shilin Zhao Developer,10.18129/B9.BIOC.RNASEQSAMPLESIZE
+Rnits,GPL-3,Dipen P. Sangurdekar,10.18129/B9.BIOC.RNITS
+roar,GPL-3,Elena Grassi,10.18129/B9.BIOC.ROAR
+ROC,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.ROC
+ROCpAI,GPL-3,Juan-Pedro Garcia,10.18129/B9.BIOC.ROCPAI
+RolDE,GPL-3,Tommi Valikangas,10.18129/B9.BIOC.ROLDE
+rols,GPL-2,Laurent Gatto,10.18129/B9.BIOC.ROLS
+ROntoTools,CC BY-NC-ND 4.0,Calin Voichita,10.18129/B9.BIOC.RONTOTOOLS
+ropls,CeCILL,Etienne A. Thevenot,10.18129/B9.BIOC.ROPLS
+ROSeq,GPL-3,Krishan Gupta,10.18129/B9.BIOC.ROSEQ
+RPA,BSD_2_clause,Leo Lahti,10.18129/B9.BIOC.RPA
+rprimer,GPL-3,Sofia Persson,10.18129/B9.BIOC.RPRIMER
+RProtoBufLib,BSD_3_clause,Mike Jiang,10.18129/B9.BIOC.RPROTOBUFLIB
+RpsiXML,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.RPSIXML
+rpx,GPL-2,Laurent Gatto,10.18129/B9.BIOC.RPX
+rqubic,GPL-2,Jitao David Zhang,10.18129/B9.BIOC.RQUBIC
+rRDP,GPL-2,Michael Hahsler,10.18129/B9.BIOC.RRDP
+RRHO,GPL-2,Jonathan Rosenblatt,10.18129/B9.BIOC.RRHO
+rrvgo,GPL-3,Sergi Sayols,10.18129/B9.BIOC.RRVGO
+Rsamtools,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.RSAMTOOLS
+rsbml,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.RSBML
+rScudo,GPL-3,Matteo Ciciani,10.18129/B9.BIOC.RSCUDO
+rsemmed,Artistic-2.0,Leslie Myint,10.18129/B9.BIOC.RSEMMED
+RSeqAn,BSD_3_clause,August Guang,10.18129/B9.BIOC.RSEQAN
+RSVSim,LGPL (>= 2.1),Christoph Bartenhagen,10.18129/B9.BIOC.RSVSIM
+RTCA,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.RTCA
+RTCGA,GPL-2,Marcin Kosinski,10.18129/B9.BIOC.RTCGA
+RTopper,GPL (>= 3),Luigi Marchionni,10.18129/B9.BIOC.RTOPPER
+Rtreemix,LGPL (>= 2.1),Jasmina Bogojeska,10.18129/B9.BIOC.RTREEMIX
+rTRMui,GPL-3,Diego Diez,10.18129/B9.BIOC.RTRMUI
+RUVcorr,GPL-2,Saskia Freytag,10.18129/B9.BIOC.RUVCORR
+RUVnormalize,GPL-3,Laurent Jacob,10.18129/B9.BIOC.RUVNORMALIZE
+RUVSeq,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.RUVSEQ
+RVS,GPL-2,Thomas Sherman,10.18129/B9.BIOC.RVS
+rWikiPathways,MIT,Egon Willighagen,10.18129/B9.BIOC.RWIKIPATHWAYS
+S4Vectors,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.S4VECTORS
+safe,GPL (>= 2),Ludwig Geistlinger,10.18129/B9.BIOC.SAFE
+sagenhaft,GPL (>= 2),Tim Beissbarth,10.18129/B9.BIOC.SAGENHAFT
+sampleClassifier,Artistic-2.0,Khadija El Amrani,10.18129/B9.BIOC.SAMPLECLASSIFIER
+SamSPECTRAL,GPL (>= 2),Habil,10.18129/B9.BIOC.SAMSPECTRAL
+sangeranalyseR,GPL-2,Kuan-Hao Chao,10.18129/B9.BIOC.SANGERANALYSER
+sangerseqR,GPL-2,Jonathon Hill,10.18129/B9.BIOC.SANGERSEQR
+satuRn,Artistic-2.0,Jeroen Gilis,10.18129/B9.BIOC.SATURN
+savR,AGPL-3,R. Brent Calder,10.18129/B9.BIOC.SAVR
+SBGNview,AGPL-3,Weijun Luo,10.18129/B9.BIOC.SBGNVIEW
+SBMLR,GPL-2,Tomas Radivoyevitch,10.18129/B9.BIOC.SBMLR
+SC3,GPL-3,Vladimir Kiselev,10.18129/B9.BIOC.SC3
+Scale4C,LGPL (>= 2.1),Carolin Walter,10.18129/B9.BIOC.SCALE4C
+ScaledMatrix,GPL-3,Aaron Lun,10.18129/B9.BIOC.SCALEDMATRIX
+scanMiR,GPL-3,Fridolin Gross,10.18129/B9.BIOC.SCANMIR
+scanMiRApp,GPL-3,Pierre-Luc Germain,10.18129/B9.BIOC.SCANMIRAPP
+scAnnotatR,MIT,Johannes Griss,10.18129/B9.BIOC.SCANNOTATR
+SCArray,GPL-3,Xiuwen Zheng,10.18129/B9.BIOC.SCARRAY
+SCATE,MIT,Wenpin Hou,10.18129/B9.BIOC.SCATE
+scater,GPL-3,Alan O'Callaghan,10.18129/B9.BIOC.SCATER
+scatterHatch,MIT,Atul Deshpande,10.18129/B9.BIOC.SCATTERHATCH
+scBFA,GPL-3,Ruoxin Li,10.18129/B9.BIOC.SCBFA
+SCBN,GPL-2,Yan Zhou,10.18129/B9.BIOC.SCBN
+scClassify,GPL-3,Yingxin Lin,10.18129/B9.BIOC.SCCLASSIFY
+sccomp,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.SCCOMP
+scDataviz,GPL-3,Kevin Blighe,10.18129/B9.BIOC.SCDATAVIZ
+scDD,GPL-2,Keegan Korthauer,10.18129/B9.BIOC.SCDD
+scde,GPL-2,Jean Fan,10.18129/B9.BIOC.SCDE
+scds,MIT,Dennis Kostka,10.18129/B9.BIOC.SCDS
+SCFA,LGPL (>= 2.1),Duc Tran,10.18129/B9.BIOC.SCFA
+scFeatureFilter,MIT,Guillaume Devailly,10.18129/B9.BIOC.SCFEATUREFILTER
+scGPS,GPL-3,Quan Nguyen,10.18129/B9.BIOC.SCGPS
+schex,GPL-3,Saskia Freytag,10.18129/B9.BIOC.SCHEX
+scHOT,GPL-3,Shila Ghazanfar,10.18129/B9.BIOC.SCHOT
+scMAGeCK,BSD_2_clause,Xiaolong Cheng,10.18129/B9.BIOC.SCMAGECK
+scmap,GPL-3,Vladimir Kiselev,10.18129/B9.BIOC.SCMAP
+scmeth,GPL-2,Divy Kangeyan,10.18129/B9.BIOC.SCMETH
+SCnorm,GPL (>= 2),Rhonda Bacher,10.18129/B9.BIOC.SCNORM
+scone,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.SCONE
+Sconify,Artistic-2.0,Tyler J Burns,10.18129/B9.BIOC.SCONIFY
+SCOPE,GPL-2,Rujin Wang,10.18129/B9.BIOC.SCOPE
+scp,Artistic-2.0,Christophe Vanderaa,10.18129/B9.BIOC.SCP
+scPCA,MIT,Philippe Boileau,10.18129/B9.BIOC.SCPCA
+scPipe,GPL (>= 2),Luyi Tian,10.18129/B9.BIOC.SCPIPE
+scReClassify,GPL-3,Taiyun Kim,10.18129/B9.BIOC.SCRECLASSIFY
+scRecover,GPL,Zhun Miao,10.18129/B9.BIOC.SCRECOVER
+scRepertoire,Apache License 2.0,Nick Borcherding,10.18129/B9.BIOC.SCREPERTOIRE
+scruff,MIT,Zhe Wang,10.18129/B9.BIOC.SCRUFF
+scry,Artistic-2.0,Kelly Street,10.18129/B9.BIOC.SCRY
+scShapes,GPL-3,Malindrie Dharmaratne,10.18129/B9.BIOC.SCSHAPES
+scTensor,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.SCTENSOR
+scTGIF,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.SCTGIF
+scTHI,GPL-2,Michele Ceccarelli,10.18129/B9.BIOC.SCTHI
+scTreeViz,Artistic-2.0,Jayaram Kancherla,10.18129/B9.BIOC.SCTREEVIZ
+SDAMS,GPL,Yuntong Li,10.18129/B9.BIOC.SDAMS
+sechm,GPL-3,Pierre-Luc Germain,10.18129/B9.BIOC.SECHM
+segmenter,GPL-3,Mahmoud Ahmed,10.18129/B9.BIOC.SEGMENTER
+segmentSeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.SEGMENTSEQ
+selectKSigs,GPL-3,Zhi Yang,10.18129/B9.BIOC.SELECTKSIGS
+SELEX,GPL (>= 2),Harmen J. Bussemaker,10.18129/B9.BIOC.SELEX
+SemDist,GPL (>= 2),Ian Gonzalez,10.18129/B9.BIOC.SEMDIST
+semisup,GPL-3,Armin Rauschenberger,10.18129/B9.BIOC.SEMISUP
+SEPIRA,GPL-3,Yuting Chen,10.18129/B9.BIOC.SEPIRA
+seq2pathway,GPL-2,Arjun Kinstlick,10.18129/B9.BIOC.SEQ2PATHWAY
+seqArchR,GPL-3,Sarvesh Nikumbh,10.18129/B9.BIOC.SEQARCHR
+seqCAT,MIT,Erik Fasterius,10.18129/B9.BIOC.SEQCAT
+seqCNA,GPL-3,David Mosen-Ansorena,10.18129/B9.BIOC.SEQCNA
+seqcombo,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.SEQCOMBO
+SeqGate,GPL (>= 2.0),Stéphanie Rialle,10.18129/B9.BIOC.SEQGATE
+SeqGSEA,GPL (>= 3),Xi Wang,10.18129/B9.BIOC.SEQGSEA
+seqLogo,LGPL (>= 2.1),Robert Ivanek,10.18129/B9.BIOC.SEQLOGO
+seqPattern,GPL-3,Vanja Haberle,10.18129/B9.BIOC.SEQPATTERN
+seqsetvis,MIT,Joseph R Boyd,10.18129/B9.BIOC.SEQSETVIS
+seqTools,Artistic-2.0,Wolfgang Kaisers,10.18129/B9.BIOC.SEQTOOLS
+SeqVarTools,GPL-3,Stephanie M. Gogarten,10.18129/B9.BIOC.SEQVARTOOLS
+SEtools,GPL,Pierre-Luc Germain,10.18129/B9.BIOC.SETOOLS
+sevenbridges,Apache License 2.0,Soner Koc,10.18129/B9.BIOC.SEVENBRIDGES
+SharedObject,GPL-3,Jiefei Wang,10.18129/B9.BIOC.SHAREDOBJECT
+shinyepico,AGPL-3,Octavio Morante-Palacios,10.18129/B9.BIOC.SHINYEPICO
+SIAMCAT,GPL-3,Jakob Wirbel,10.18129/B9.BIOC.SIAMCAT
+SICtools,GPL (>= 2),Xiaobin Xing,10.18129/B9.BIOC.SICTOOLS
+SigCheck,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.SIGCHECK
+SigFuge,GPL-3,Patrick Kimes,10.18129/B9.BIOC.SIGFUGE
+siggenes,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.SIGGENES
+sights,GPL-3,Elika Garg,10.18129/B9.BIOC.SIGHTS
+sigPathway,GPL-2,Weil Lai,10.18129/B9.BIOC.SIGPATHWAY
+SigsPack,GPL-3,Franziska Schumann,10.18129/B9.BIOC.SIGSPACK
+sigsquared,GPL-3,UnJin Lee,10.18129/B9.BIOC.SIGSQUARED
+SIM,GPL (>= 2),Renee X. de Menezes,10.18129/B9.BIOC.SIM
+SIMAT,GPL-2,M. R. Nezami Ranjbar,10.18129/B9.BIOC.SIMAT
+SimBindProfiles,GPL-3,Bettina Fischer,10.18129/B9.BIOC.SIMBINDPROFILES
+SIMD,GPL-3,Jiadi Zhu,10.18129/B9.BIOC.SIMD
+SimFFPE,LGPL (>= 2.1),Lanying Wei,10.18129/B9.BIOC.SIMFFPE
+similaRpeak,Artistic-2.0,Astrid Deschênes,10.18129/B9.BIOC.SIMILARPEAK
+simplifyEnrichment,MIT,Zuguang Gu,10.18129/B9.BIOC.SIMPLIFYENRICHMENT
+sincell,GPL (>= 2),Miguel Julia,10.18129/B9.BIOC.SINCELL
+single,MIT,Rocio Espada,10.18129/B9.BIOC.SINGLE
+SingleCellExperiment,GPL-3,Davide Risso,10.18129/B9.BIOC.SINGLECELLEXPERIMENT
+SingleCellSignalR,GPL-3,Jacques Colinge,10.18129/B9.BIOC.SINGLECELLSIGNALR
+singleCellTK,MIT,Yichen Wang,10.18129/B9.BIOC.SINGLECELLTK
+SingleMoleculeFootprinting,GPL-3,Guido Barzaghi,10.18129/B9.BIOC.SINGLEMOLECULEFOOTPRINTING
+SISPA,GPL-2,Bhakti Dwivedi,10.18129/B9.BIOC.SISPA
+sitadela,Artistic-2.0,Panagiotis Moulos,10.18129/B9.BIOC.SITADELA
+sitePath,MIT,Chengyang Ji,10.18129/B9.BIOC.SITEPATH
+sizepower,LGPL (>= 2.1),Weiliang Qiu,10.18129/B9.BIOC.SIZEPOWER
+skewr,GPL-2,Ryan Putney,10.18129/B9.BIOC.SKEWR
+slalom,GPL-2,Davis McCarthy,10.18129/B9.BIOC.SLALOM
+slingshot,Artistic-2.0,Kelly Street,10.18129/B9.BIOC.SLINGSHOT
+SLqPCR,GPL (>= 2),Matthias Kohl,10.18129/B9.BIOC.SLQPCR
+SMAD,MIT,Qingzhou Zhang,10.18129/B9.BIOC.SMAD
+SMAP,GPL-2,Robin Andersson,10.18129/B9.BIOC.SMAP
+SMITE,GPL (>= 2),Neil Ari Wijetunga,10.18129/B9.BIOC.SMITE
+SNAGEE,Artistic-2.0,David Venet,10.18129/B9.BIOC.SNAGEE
+snapCGH,GPL,John Marioni,10.18129/B9.BIOC.SNAPCGH
+snapcount,MIT,Rone Charles,10.18129/B9.BIOC.SNAPCOUNT
+snm,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.SNM
+SNPediaR,GPL-2,David Montaner,10.18129/B9.BIOC.SNPEDIAR
+SNPhood,LGPL (>= 2.1),Christian Arnold,10.18129/B9.BIOC.SNPHOOD
+snpStats,GPL-3,David Clayton,10.18129/B9.BIOC.SNPSTATS
+soGGi,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.SOGGI
+sojourner,Artistic-2.0,Sojourner Developer,10.18129/B9.BIOC.SOJOURNER
+SOMNiBUS,MIT,Kathleen Klein,10.18129/B9.BIOC.SOMNIBUS
+SpacePAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.SPACEPAC
+Spaniel,MIT,Rachel Queen,10.18129/B9.BIOC.SPANIEL
+sparrow,MIT,Steve Lianoglou,10.18129/B9.BIOC.SPARROW
+sparseDOSSA,MIT,Boyu Ren,10.18129/B9.BIOC.SPARSEDOSSA
+sparseMatrixStats,MIT,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.SPARSEMATRIXSTATS
+sparsenetgls,GPL-3,Irene Zeng,10.18129/B9.BIOC.SPARSENETGLS
+SpatialCPie,MIT,Joseph Bergenstraahle,10.18129/B9.BIOC.SPATIALCPIE
+spatialDE,MIT,Davide Corso,10.18129/B9.BIOC.SPATIALDE
+SpatialDecon,MIT,Maddy Griswold,10.18129/B9.BIOC.SPATIALDECON
+SpatialExperiment,GPL-3,Dario Righelli,10.18129/B9.BIOC.SPATIALEXPERIMENT
+spatialHeatmap,Artistic-2.0,Jianhai Zhang,10.18129/B9.BIOC.SPATIALHEATMAP
+spatzie,GPL-3,Jennifer Hammelman,10.18129/B9.BIOC.SPATZIE
+specL,GPL-3,Christian Panse,10.18129/B9.BIOC.SPECL
+SpeCond,LGPL (>= 2.1),Florence Cavalli,10.18129/B9.BIOC.SPECOND
+Spectra,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.SPECTRA
+SPEM,GPL-2,Xinyi YANG,10.18129/B9.BIOC.SPEM
+spicyR,GPL (>= 2),Ellis Patrick,10.18129/B9.BIOC.SPICYR
+SpidermiR,GPL (>= 3),Claudia Cava,10.18129/B9.BIOC.SPIDERMIR
+spikeLI,GPL-2,Enrico Carlon,10.18129/B9.BIOC.SPIKELI
+spiky,GPL-2,Tim Triche,10.18129/B9.BIOC.SPIKY
+spkTools,GPL (>= 2),Matthew N McCall,10.18129/B9.BIOC.SPKTOOLS
+SplicingFactory,GPL-3,Endre Sebestyen,10.18129/B9.BIOC.SPLICINGFACTORY
+SplicingGraphs,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.SPLICINGGRAPHS
+splineTimeR,GPL-3,Herbert Braselmann,10.18129/B9.BIOC.SPLINETIMER
+SPLINTER,GPL-2,Diana Low,10.18129/B9.BIOC.SPLINTER
+splots,LGPL (>= 2.1),Wolfgang Huber,10.18129/B9.BIOC.SPLOTS
+SPONGE,GPL (>= 3),Markus List,10.18129/B9.BIOC.SPONGE
+SPOTlight,GPL-3,Marc Elosua-Bayes,10.18129/B9.BIOC.SPOTLIGHT
+spqn,Artistic-2.0,Yi Wang,10.18129/B9.BIOC.SPQN
+SPsimSeq,GPL-2,Joris Meys,10.18129/B9.BIOC.SPSIMSEQ
+SQLDataFrame,GPL-3,Qian Liu,10.18129/B9.BIOC.SQLDATAFRAME
+SQUADD,GPL (>= 2),Martial Sankar,10.18129/B9.BIOC.SQUADD
+sRACIPE,MIT,Vivek Kohar,10.18129/B9.BIOC.SRACIPE
+SRAdb,Artistic-2.0,Jack Zhu,10.18129/B9.BIOC.SRADB
+srnadiff,GPL-3,Zytnicki Matthias,10.18129/B9.BIOC.SRNADIFF
+sscore,GPL (>= 2),Richard Kennedy,10.18129/B9.BIOC.SSCORE
+sscu,GPL (>= 2),Yu Sun,10.18129/B9.BIOC.SSCU
+sSeq,GPL (>= 3),Danni Yu,10.18129/B9.BIOC.SSEQ
+ssize,LGPL (>= 2.1),Gregory R. Warnes,10.18129/B9.BIOC.SSIZE
+sSNAPPY,GPL-3,Wenjun Liu,10.18129/B9.BIOC.SSNAPPY
+ssPATHS,MIT,Natalie R. Davidson,10.18129/B9.BIOC.SSPATHS
+ssrch,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.SSRCH
+ssviz,GPL-2,Diana Low,10.18129/B9.BIOC.SSVIZ
+stageR,GNU General Public License version 3,Koen Van den Berge,10.18129/B9.BIOC.STAGER
+STAN,GPL (>= 2),Rafael Campos-Martin,10.18129/B9.BIOC.STAN
+standR,MIT,Ning Liu,10.18129/B9.BIOC.STANDR
+staRank,GPL,Juliane Siebourg,10.18129/B9.BIOC.STARANK
+StarBioTrek,GPL (>= 3),Claudia Cava,10.18129/B9.BIOC.STARBIOTREK
+STATegRa,GPL-2,David Gomez-Cabrero,10.18129/B9.BIOC.STATEGRA
+statTarget,LGPL (>= 2.1),Hemi Luan,10.18129/B9.BIOC.STATTARGET
+STdeconvolve,GPL-3,Brendan Miller,10.18129/B9.BIOC.STDECONVOLVE
+stepNorm,LGPL (>= 2.1),Yuanyuan Xiao,10.18129/B9.BIOC.STEPNORM
+strandCheckR,GPL (>= 2),Thu-Hien To,10.18129/B9.BIOC.STRANDCHECKR
+Streamer,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.STREAMER
+STRINGdb,GPL-2,Damian Szklarczyk,10.18129/B9.BIOC.STRINGDB
+STROMA4,GPL-3,Sadiq Saleh,10.18129/B9.BIOC.STROMA4
+struct,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.STRUCT
+Structstrings,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.STRUCTSTRINGS
+structToolbox,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.STRUCTTOOLBOX
+StructuralVariantAnnotation,GPL-3,Daniel Cameron,10.18129/B9.BIOC.STRUCTURALVARIANTANNOTATION
+SubCellBarCode,GPL-2,Taner Arslan,10.18129/B9.BIOC.SUBCELLBARCODE
+subSeq,MIT,Andrew J. Bass,10.18129/B9.BIOC.SUBSEQ
+SummarizedExperiment,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.SUMMARIZEDEXPERIMENT
+Summix,MIT,Audrey Hendricks,10.18129/B9.BIOC.SUMMIX
+supersigs,GPL-3,Albert Kuo,10.18129/B9.BIOC.SUPERSIGS
+supraHex,GPL-2,Hai Fang,10.18129/B9.BIOC.SUPRAHEX
+surfaltr,MIT,Pooja Gangras,10.18129/B9.BIOC.SURFALTR
+survcomp,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.SURVCOMP
+survtype,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.SURVTYPE
+Sushi,GPL (>= 2),Douglas H Phanstiel,10.18129/B9.BIOC.SUSHI
+sva,Artistic-2.0,Jeffrey T. Leek,10.18129/B9.BIOC.SVA
+svaNUMT,GPL-3,Ruining Dong,10.18129/B9.BIOC.SVANUMT
+svaRetro,GPL-3,Ruining Dong,10.18129/B9.BIOC.SVARETRO
+SwathXtend,GPL-2,Jemma Wu,10.18129/B9.BIOC.SWATHXTEND
+swfdr,GPL (>= 3),Simina M. Boca,10.18129/B9.BIOC.SWFDR
+switchde,GPL (>= 2),Kieran Campbell,10.18129/B9.BIOC.SWITCHDE
+synapsis,MIT,Lucy McNeill,10.18129/B9.BIOC.SYNAPSIS
+synergyfinder,Mozilla Public License 2.0,Shuyu Zheng,10.18129/B9.BIOC.SYNERGYFINDER
+SynExtend,GPL-3,Nicholas Cooley,10.18129/B9.BIOC.SYNEXTEND
+synlet,GPL-3,Chunxuan Shao,10.18129/B9.BIOC.SYNLET
+SynMut,GPL-2,Haogao Gu,10.18129/B9.BIOC.SYNMUT
+systemPipeShiny,GPL (>= 3),Le Zhang,10.18129/B9.BIOC.SYSTEMPIPESHINY
+systemPipeTools,Artistic-2.0,Daniela Cassol,10.18129/B9.BIOC.SYSTEMPIPETOOLS
+target,GPL-3,Mahmoud Ahmed,10.18129/B9.BIOC.TARGET
+TargetDecoy,Artistic-2.0,Elke Debrie,10.18129/B9.BIOC.TARGETDECOY
+TBSignatureProfiler,MIT,Aubrey Odom-Mabey,10.18129/B9.BIOC.TBSIGNATUREPROFILER
+TCC,GPL-2,Jianqiang Sun,10.18129/B9.BIOC.TCC
+TCGAbiolinksGUI,GPL (>= 3),Tiago C. Silva,10.18129/B9.BIOC.TCGABIOLINKSGUI
+TCGAutils,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.TCGAUTILS
+TCseq,GPL (>= 2),Mengjun Wu,10.18129/B9.BIOC.TCSEQ
+TDARACNE,GPL-2,Zoppoli Pietro,10.18129/B9.BIOC.TDARACNE
+TEKRABber,GPL (>= 2),Yao-Chung Chen,10.18129/B9.BIOC.TEKRABBER
+tenXplore,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.TENXPLORE
+TEQC,GPL (>= 2),Sarah Bonnin,10.18129/B9.BIOC.TEQC
+ternarynet,GPL (>= 2),McCall N. Matthew,10.18129/B9.BIOC.TERNARYNET
+terraTCGAdata,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.TERRATCGADATA
+TFARM,Artistic-2.0,Liuba Nausicaa Martino,10.18129/B9.BIOC.TFARM
+TFHAZ,Artistic-2.0,Gaia Ceddia,10.18129/B9.BIOC.TFHAZ
+TFutils,Artistic-2.0,Vincent Carey,10.18129/B9.BIOC.TFUTILS
+tidybulk,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYBULK
+tidySingleCellExperiment,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYSINGLECELLEXPERIMENT
+tidySummarizedExperiment,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYSUMMARIZEDEXPERIMENT
+TileDBArray,MIT,Aaron Lun,10.18129/B9.BIOC.TILEDBARRAY
+tilingArray,Artistic-2.0,Zhenyu Xu,10.18129/B9.BIOC.TILINGARRAY
+timecourse,LGPL (>= 2.1),Yu Chuan Tai,10.18129/B9.BIOC.TIMECOURSE
+timeOmics,GPL-3,Antoine Bodein,10.18129/B9.BIOC.TIMEOMICS
+timescape,GPL-3,Maia Smith,10.18129/B9.BIOC.TIMESCAPE
+TimeSeriesExperiment,MIT,Lan Huong Nguyen,10.18129/B9.BIOC.TIMESERIESEXPERIMENT
+TimiRGeN,GPL-3,Krutik Patel,10.18129/B9.BIOC.TIMIRGEN
+TIN,Artistic-2.0,Bjarne Johannessen,10.18129/B9.BIOC.TIN
+TitanCNA,GPL-3,Gavin Ha,10.18129/B9.BIOC.TITANCNA
+tkWidgets,Artistic-2.0,J. Zhang,10.18129/B9.BIOC.TKWIDGETS
+tLOH,MIT,Michelle Webb,10.18129/B9.BIOC.TLOH
+TMixClust,GPL (>= 2),Monica Golumbeanu,10.18129/B9.BIOC.TMIXCLUST
+TNBC.CMS,GPL-3,Doyeong Yu,10.18129/B9.BIOC.TNBC.CMS
+TnT,AGPL-3,Jialin Ma,10.18129/B9.BIOC.TNT
+TOAST,GPL-2,Ziyi Li,10.18129/B9.BIOC.TOAST
+tomoda,MIT,Wendao Liu,10.18129/B9.BIOC.TOMODA
+tomoseqr,MIT,Ryosuke Matsuzawa,10.18129/B9.BIOC.TOMOSEQR
+topGO,LGPL (>= 2.1),Adrian Alexa,10.18129/B9.BIOC.TOPGO
+ToxicoGx,MIT,Benjamin Haibe-Kains,10.18129/B9.BIOC.TOXICOGX
+TPP,Artistic-2.0,Dorothee Childs,10.18129/B9.BIOC.TPP
+tracktables,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.TRACKTABLES
+tradeSeq,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.TRADESEQ
+TrajectoryGeometry,MIT,Michael Shapiro,10.18129/B9.BIOC.TRAJECTORYGEOMETRY
+TrajectoryUtils,GPL-3,Aaron Lun,10.18129/B9.BIOC.TRAJECTORYUTILS
+transcriptR,GPL-3,Armen R. Karapetyan,10.18129/B9.BIOC.TRANSCRIPTR
+transformGamPoi,GPL-3,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.TRANSFORMGAMPOI
+tRanslatome,GPL-3,Toma Tebaldi,10.18129/B9.BIOC.TRANSLATOME
+transomics2cytoscape,Artistic-2.0,Kozo Nishida,10.18129/B9.BIOC.TRANSOMICS2CYTOSCAPE
+TransView,GPL-3,Julius Muller,10.18129/B9.BIOC.TRANSVIEW
+TraRe,MIT,Jesus De La Fuente Cedeño,10.18129/B9.BIOC.TRARE
+traseR,GPL,li chen,10.18129/B9.BIOC.TRASER
+Travel,GPL-3,Jiefei Wang,10.18129/B9.BIOC.TRAVEL
+traviz,MIT,Koen Van den Berge,10.18129/B9.BIOC.TRAVIZ
+treeio,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.TREEIO
+treekoR,GPL-3,Adam Chan,10.18129/B9.BIOC.TREEKOR
+TreeSummarizedExperiment,GPL (>= 2),Ruizhu Huang,10.18129/B9.BIOC.TREESUMMARIZEDEXPERIMENT
+TREG,Artistic-2.0,Louise Huuki-Myers,10.18129/B9.BIOC.TREG
+trena,GPL-3,Paul Shannon,10.18129/B9.BIOC.TRENA
+Trendy,GPL-3,Rhonda Bacher,10.18129/B9.BIOC.TRENDY
+TRESS,GPL-3,Zhenxing Guo,10.18129/B9.BIOC.TRESS
+trigger,GPL-3,John D. Storey,10.18129/B9.BIOC.TRIGGER
+trio,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.TRIO
+tripr,MIT,Iason Ofeidis,10.18129/B9.BIOC.TRIPR
+tRNA,GPL-3,Felix GM Ernst,10.18129/B9.BIOC.TRNA
+tRNAdbImport,GPL-3,Felix G.M. Ernst,10.18129/B9.BIOC.TRNADBIMPORT
+tRNAscanImport,GPL-3,Felix G.M. Ernst,10.18129/B9.BIOC.TRNASCANIMPORT
+TRONCO,GPL-3,Luca De Sano,10.18129/B9.BIOC.TRONCO
+TSCAN,GPL (>= 2),Zhicheng Ji,10.18129/B9.BIOC.TSCAN
+tscR,Artistic-2.0,Fernando Pérez-Sanz,10.18129/B9.BIOC.TSCR
+tspair,GPL-2,Jeffrey T. Leek,10.18129/B9.BIOC.TSPAIR
+ttgsea,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.TTGSEA
+TTMap,GPL-2,Rachel Jeitziner,10.18129/B9.BIOC.TTMAP
+TurboNorm,LGPL (>= 2.1),Maarten van Iterson,10.18129/B9.BIOC.TURBONORM
+TVTB,Artistic-2.0,Kevin Rue-Albrecht,10.18129/B9.BIOC.TVTB
+tweeDEseq,GPL (>= 2),Juan R Gonzalez,10.18129/B9.BIOC.TWEEDESEQ
+twilight,GPL (>= 2),Stefanie Scheid,10.18129/B9.BIOC.TWILIGHT
+twoddpcr,GPL-3,Anthony Chiu,10.18129/B9.BIOC.TWODDPCR
+txcutr,GPL-3,Mervin Fansler,10.18129/B9.BIOC.TXCUTR
+TypeInfo,BSD_2_clause,Duncan Temple Lang,10.18129/B9.BIOC.TYPEINFO
+UCell,GPL-3,Massimo Andreatta,10.18129/B9.BIOC.UCELL
+UMI4Cats,Artistic-2.0,Mireia Ramos-Rodriguez,10.18129/B9.BIOC.UMI4CATS
+uncoverappLib,MIT,Emanuela Iovino,10.18129/B9.BIOC.UNCOVERAPPLIB
+UNDO,GPL-2,Niya Wang,10.18129/B9.BIOC.UNDO
+unifiedWMWqPCR,GPL (>= 2),Joris Meys,10.18129/B9.BIOC.UNIFIEDWMWQPCR
+UniProt.ws,Artistic License 2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.UNIPROT.WS
+universalmotif,GPL-3,Benjamin Jean-Marie Tremblay,10.18129/B9.BIOC.UNIVERSALMOTIF
+updateObject,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.UPDATEOBJECT
+uSORT,Artistic-2.0,Hao Chen,10.18129/B9.BIOC.USORT
+VAExprs,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.VAEXPRS
+VanillaICE,LGPL (>= 2.1),Robert Scharpf,10.18129/B9.BIOC.VANILLAICE
+VarCon,GPL-3,Johannes Ptok,10.18129/B9.BIOC.VARCON
+VariantExperiment,GPL-3,Qian Liu,10.18129/B9.BIOC.VARIANTEXPERIMENT
+VariantFiltering,Artistic-2.0,Robert Castelo,10.18129/B9.BIOC.VARIANTFILTERING
+VariantTools,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.VARIANTTOOLS
+vbmp,GPL (>= 2),Nicola Lama,10.18129/B9.BIOC.VBMP
+VCFArray,GPL-3,Qian Liu,10.18129/B9.BIOC.VCFARRAY
+VegaMC,GPL-2,Sandro Morganella,10.18129/B9.BIOC.VEGAMC
+velociraptor,MIT,Kevin Rue-Albrecht,10.18129/B9.BIOC.VELOCIRAPTOR
+veloviz,GPL-3,Lyla Atta,10.18129/B9.BIOC.VELOVIZ
+VennDetail,GPL-2,Kai Guo,10.18129/B9.BIOC.VENNDETAIL
+vidger,GPL-3,Brandon Monier,10.18129/B9.BIOC.VIDGER
+vissE,GPL-3,Dharmesh D. Bhuva,10.18129/B9.BIOC.VISSE
+VplotR,GPL-3,Jacques Serizay,10.18129/B9.BIOC.VPLOTR
+vsn,Artistic-2.0,Wolfgang Huber,10.18129/B9.BIOC.VSN
+vtpnet,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.VTPNET
+vulcan,LGPL (>= 2.1),Federico M. Giorgi,10.18129/B9.BIOC.VULCAN
+waddR,MIT,Julian Flesch,10.18129/B9.BIOC.WADDR
+weaver,GPL-2,Seth Falcon,10.18129/B9.BIOC.WEAVER
+webbioc,GPL (>= 2),Colin A. Smith,10.18129/B9.BIOC.WEBBIOC
+weitrix,LGPL (>= 2.1),Paul Harrison,10.18129/B9.BIOC.WEITRIX
+widgetTools,LGPL (>= 2.1),Jianhua Zhang,10.18129/B9.BIOC.WIDGETTOOLS
+wiggleplotr,Apache License 2.0,Kaur Alasoo,10.18129/B9.BIOC.WIGGLEPLOTR
+wpm,Artistic-2.0,Helene Borges,10.18129/B9.BIOC.WPM
+wppi,MIT,Ana Galhoz,10.18129/B9.BIOC.WPPI
+Wrench,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.WRENCH
+xcms,GPL (>= 2),Steffen Neumann,10.18129/B9.BIOC.XCMS
+xcore,GPL-2,Maciej Migdał,10.18129/B9.BIOC.XCORE
+Xeva,GPL-3,Benjamin Haibe-Kains,10.18129/B9.BIOC.XEVA
+XINA,GPL-3,Lang Ho Lee,10.18129/B9.BIOC.XINA
+xmapbridge,LGPL (>= 2.1),Chris Wirth,10.18129/B9.BIOC.XMAPBRIDGE
+XNAString,GPL-2,Marianna Plucinska,10.18129/B9.BIOC.XNASTRING
+XVector,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.XVECTOR
+YAPSA,GPL-3,Daniel Huebschmann,10.18129/B9.BIOC.YAPSA
+yarn,Artistic-2.0,Joseph N Paulson,10.18129/B9.BIOC.YARN
+zellkonverter,MIT,Luke Zappia,10.18129/B9.BIOC.ZELLKONVERTER
+zFPKM,GPL-3,Ron Ammar,10.18129/B9.BIOC.ZFPKM
+zinbwave,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.ZINBWAVE
+zlibbioc,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ZLIBBIOC
