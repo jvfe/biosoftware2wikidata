@@ -58,7 +58,6 @@ AnVILPublish,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ANVILPUBLISH
 apComplex,LGPL (>= 2.1),Denise Scholtens,10.18129/B9.BIOC.APCOMPLEX
 APL,GPL (>= 3),Elzbieta Gralinska,10.18129/B9.BIOC.APL
 appreci8R,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.APPRECI8R
-ArrayExpress,Artistic-2.0,Suhaib Mohammed,10.18129/B9.BIOC.ARRAYEXPRESS
 ArrayExpressHTS,Artistic License 2.0,Angela Goncalves,10.18129/B9.BIOC.ARRAYEXPRESSHTS
 arrayMvout,Artistic-2.0,V. Carey,10.18129/B9.BIOC.ARRAYMVOUT
 arrayQuality,LGPL (>= 2.1),Agnes Paquet,10.18129/B9.BIOC.ARRAYQUALITY
@@ -150,7 +149,6 @@ biodbNcbi,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCBI
 biodbNci,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCI
 biodbUniprot,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBUNIPROT
 bioDist,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIODIST
-biomaRt,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.BIOMART
 biomformat,GPL-2,Paul J. McMurdie,10.18129/B9.BIOC.BIOMFORMAT
 BioMM,GPL-3,Junfang Chen,10.18129/B9.BIOC.BIOMM
 BioMVCClass,LGPL (>= 2.1),Elizabeth Whalen,10.18129/B9.BIOC.BIOMVCCLASS
@@ -219,6 +217,7 @@ ccfindR,GPL (>= 2),Jun Woo,10.18129/B9.BIOC.CCFINDR
 ccmap,MIT,Alex Pickering,10.18129/B9.BIOC.CCMAP
 CCPROMISE,GPL (>= 2),Xueyuan Cao,10.18129/B9.BIOC.CCPROMISE
 ccrepe,MIT,Emma Schwager,10.18129/B9.BIOC.CCREPE
+celaref,GPL-3,Sarah Williams,10.18129/B9.BIOC.CELAREF
 celda,MIT,Joshua Campbell,10.18129/B9.BIOC.CELDA
 CellaRepertorium,GPL-3,Andrew McDavid,10.18129/B9.BIOC.CELLAREPERTORIUM
 CellBarcode,MIT,Wenjie Sun,10.18129/B9.BIOC.CELLBARCODE
@@ -415,7 +414,6 @@ DEqMS,LGPL (>= 2.1),Yafeng Zhu,10.18129/B9.BIOC.DEQMS
 derfinderHelper,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERHELPER
 derfinderPlot,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERPLOT
 DEScan2,Artistic-2.0,Dario Righelli,10.18129/B9.BIOC.DESCAN2
-DESeq2,LGPL (>= 2.1),Michael Love,10.18129/B9.BIOC.DESEQ2
 DEsubs,GPL-3,Aristidis G. Vrahatis,10.18129/B9.BIOC.DESUBS
 DEWSeq,LGPL (>= 2.1),bioinformatics team Hentze,10.18129/B9.BIOC.DEWSEQ
 DExMA,GPL-2,Juan Antonio Villatoro-García,10.18129/B9.BIOC.DEXMA
@@ -677,7 +675,6 @@ GSEABase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GSEABASE
 GSEAlm,Artistic-2.0,Assaf Oron,10.18129/B9.BIOC.GSEALM
 GSEAmining,GPL-3,Oriol Arqués,10.18129/B9.BIOC.GSEAMINING
 gsean,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.GSEAN
-GSgalgoR,MIT,Carlos Catania,10.18129/B9.BIOC.GSGALGOR
 GSReg,GPL-2,Bahman Afsari,10.18129/B9.BIOC.GSREG
 GSRI,GPL-3,Julian Gehring,10.18129/B9.BIOC.GSRI
 gtrellis,MIT,Zuguang Gu,10.18129/B9.BIOC.GTRELLIS
@@ -806,7 +803,6 @@ lefser,Artistic-2.0,Asya Khleborodova,10.18129/B9.BIOC.LEFSER
 les,GPL-3,Julian Gehring,10.18129/B9.BIOC.LES
 levi,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.LEVI
 lfa,GPL-3,Wei Hao,10.18129/B9.BIOC.LFA
-limma,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.LIMMA
 limmaGUI,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.LIMMAGUI
 LineagePulse,Artistic-2.0,David S Fischer,10.18129/B9.BIOC.LINEAGEPULSE
 lineagespot,MIT,Nikolaos Pechlivanis,10.18129/B9.BIOC.LINEAGESPOT
@@ -846,7 +842,6 @@ MAGAR,GPL-3,Michael Scherer,10.18129/B9.BIOC.MAGAR
 MAGeCKFlute,GPL (>= 3),Wubing Zhang,10.18129/B9.BIOC.MAGECKFLUTE
 MAI,GPL-3,Jonathan Dekermanjian,10.18129/B9.BIOC.MAI
 maigesPack,GPL (>= 2),Gustavo H. Esteves,10.18129/B9.BIOC.MAIGESPACK
-MAIT,GPL-2,Pol Sola-Santos,10.18129/B9.BIOC.MAIT
 makecdfenv,GPL (>= 2),James W. MacDonald,10.18129/B9.BIOC.MAKECDFENV
 MANOR,GPL-2,Pierre Neuvial,10.18129/B9.BIOC.MANOR
 MantelCorr,GPL (>= 2),Brian Steinmeyer,10.18129/B9.BIOC.MANTELCORR
@@ -972,7 +967,6 @@ MobilityTransformR,Artistic-2.0,Liesa Salzer,10.18129/B9.BIOC.MOBILITYTRANSFORMR
 MODA,GPL (>= 2),Dong Li,10.18129/B9.BIOC.MODA
 ModCon,GPL-3,Johannes Ptok,10.18129/B9.BIOC.MODCON
 Modstrings,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MODSTRINGS
-MOFA2,GPL (>= 2),Britta Velten,10.18129/B9.BIOC.MOFA2
 MOGAMUN,GPL-3,Elva-María Novoa-del-Toro,10.18129/B9.BIOC.MOGAMUN
 mogsa,GPL-2,Chen Meng,10.18129/B9.BIOC.MOGSA
 MOMA,GPL-3,Sunny Jones,10.18129/B9.BIOC.MOMA
@@ -1001,7 +995,6 @@ msmsTests,GPL-2,Josep Gregori i Font,10.18129/B9.BIOC.MSMSTESTS
 MSnbase,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.MSNBASE
 MSnID,Artistic-2.0,Vlad Petyuk,10.18129/B9.BIOC.MSNID
 MSPrep,GPL-3,Max McGrath,10.18129/B9.BIOC.MSPREP
-MSstats,Artistic-2.0,Meena Choi,10.18129/B9.BIOC.MSSTATS
 MSstatsConvert,Artistic-2.0,Mateusz Staniak,10.18129/B9.BIOC.MSSTATSCONVERT
 MSstatsLiP,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSLIP
 MSstatsPTM,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSPTM
@@ -1029,7 +1022,6 @@ mygene,Artistic-2.0,"Adam Mark, Cyrus Afrasiabi, Chunlei Wu",10.18129/B9.BIOC.MY
 myvariant,Artistic-2.0,"Adam Mark, Chunlei Wu",10.18129/B9.BIOC.MYVARIANT
 mzID,GPL (>= 2),Laurent Gatto,10.18129/B9.BIOC.MZID
 "NADfinder",GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.NADFINDER
-NanoMethViz,Apache License 2.0,Shian Su,10.18129/B9.BIOC.NANOMETHVIZ
 NanoStringDiff,GPL,tingting zhai,10.18129/B9.BIOC.NANOSTRINGDIFF
 NanoStringNCTools,MIT,Nicole Ortogero,10.18129/B9.BIOC.NANOSTRINGNCTOOLS
 NanoStringQCPro,Artistic-2.0,Robert Ziman,10.18129/B9.BIOC.NANOSTRINGQCPRO
@@ -1389,7 +1381,6 @@ scanMiRApp,GPL-3,Pierre-Luc Germain,10.18129/B9.BIOC.SCANMIRAPP
 scAnnotatR,MIT,Johannes Griss,10.18129/B9.BIOC.SCANNOTATR
 SCArray,GPL-3,Xiuwen Zheng,10.18129/B9.BIOC.SCARRAY
 SCATE,MIT,Wenpin Hou,10.18129/B9.BIOC.SCATE
-scater,GPL-3,Alan O'Callaghan,10.18129/B9.BIOC.SCATER
 scatterHatch,MIT,Atul Deshpande,10.18129/B9.BIOC.SCATTERHATCH
 scBFA,GPL-3,Ruoxin Li,10.18129/B9.BIOC.SCBFA
 SCBN,GPL-2,Yan Zhou,10.18129/B9.BIOC.SCBN

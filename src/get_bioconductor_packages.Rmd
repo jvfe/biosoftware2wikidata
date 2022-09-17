@@ -26,11 +26,12 @@ bioc_packages <- read.dcf(url(
 
 in_wdt <-  WikidataQueryServiceR::query_wikidata(
   "
- SELECT ?item ?itemLabel ?doi
+ SELECT ?item ?itemLabel ?bioc_proj ?doi
   WHERE
   {
    ?item wdt:P31/wdt:P279* wd:Q73539779.
-   ?item wdt:P356 ?doi.
+   ?item wdt:P10892 ?bioc_proj.
+   OPTIONAL { ?item wdt:P356 ?doi. }
    SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt-br,en\". }
   }
   "
@@ -161,7 +162,8 @@ get_maintainer <- purrr::safely(.get_maintainer)
 
 ```{r}
 not_in_wikidata <- with_dois %>% 
-  filter(!(DOI %in% in_wdt$doi))
+  filter(!(DOI %in% in_wdt$doi)) %>% 
+  filter(!(Package %in% in_wdt$bioc_proj))
 
 with_maintainer <- not_in_wikidata %>% 
   mutate(maintainer = purrr::map(Package, get_maintainer))
