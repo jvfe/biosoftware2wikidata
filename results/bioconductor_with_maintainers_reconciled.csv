@@ -1,0 +1,1686 @@
+Package,License,maintainer,DOI,authorItem,Descr_lang,Descr
+a4,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4,,,
+a4Base,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4BASE,,,
+a4Classif,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4CLASSIF,,,
+a4Core,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4CORE,,,
+a4Preproc,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4PREPROC,,,
+a4Reporting,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.A4REPORTING,,,
+ABarray,GPL,Yongming Andrew Sun,10.18129/B9.BIOC.ABARRAY,,,
+abseqR,GPL-3,JiaHong Fong,10.18129/B9.BIOC.ABSEQR,,,
+ABSSeq,GPL (>= 3),Wentao Yang,10.18129/B9.BIOC.ABSSEQ,Q61944267,en,researcher ORCID ID = 0000-0002-7253-7814
+acde,GPL-3,Juan Pablo Acosta,10.18129/B9.BIOC.ACDE,,,
+aCGH,GPL-2,Peter Dimitrov,10.18129/B9.BIOC.ACGH,,,
+ACME,GPL (>= 2),Sean Davis,10.18129/B9.BIOC.ACME,Q37390205,en,bioinformatician
+ADAM,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.ADAM,,,
+ADAMgui,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.ADAMGUI,,,
+adductomicsR,Artistic-2.0,Josie Hayes,10.18129/B9.BIOC.ADDUCTOMICSR,Q56425373,en,researcher
+ADImpute,GPL-3,Ana Carolina Leote,10.18129/B9.BIOC.ADIMPUTE,,,
+adSplit,GPL (>= 2),Claudio Lottaz,10.18129/B9.BIOC.ADSPLIT,,,
+AffiXcan,GPL-3,Alessandro Lussana,10.18129/B9.BIOC.AFFIXCAN,,,
+affxparser,LGPL (>= 2.1),Kasper Daniel Hansen,10.18129/B9.BIOC.AFFXPARSER,Q30504905,en,researcher
+affycomp,GPL (>= 2),Rafael A. Irizarry,10.18129/B9.BIOC.AFFYCOMP,Q39073664,en,American professor of biostatistics
+AffyCompatible,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.AFFYCOMPATIBLE,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+affyContam,Artistic-2.0,V. Carey,10.18129/B9.BIOC.AFFYCONTAM,,,
+affycoretools,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.AFFYCORETOOLS,,,
+affyILM,GPL-3,Myriam Kroll and Fabrice Berger,10.18129/B9.BIOC.AFFYILM,,,
+affyio,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.AFFYIO,,,
+affylmGUI,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.AFFYLMGUI,Q37391308,en,researcher
+affyPLM,GPL (>= 2),Ben Bolstad,10.18129/B9.BIOC.AFFYPLM,,,
+AGDEX,GPL (>= 2),Cuilan lani Gao,10.18129/B9.BIOC.AGDEX,,,
+aggregateBioVar,GPL-3,Jason Ratcliff,10.18129/B9.BIOC.AGGREGATEBIOVAR,,,
+agilp,GPL-3,Benny Chain,10.18129/B9.BIOC.AGILP,Q56942468,en,researcher
+AgiMicroRna,GPL-3,Pedro Lopez-Romero,10.18129/B9.BIOC.AGIMICRORNA,Q90209309,en,researcher
+AIMS,Artistic-2.0,Eric R Paquet,10.18129/B9.BIOC.AIMS,,,
+airpart,GPL-2,Wancen Mu,10.18129/B9.BIOC.AIRPART,,,
+alevinQC,MIT,Charlotte Soneson,10.18129/B9.BIOC.ALEVINQC,Q43290839,en,researcher
+AlphaBeta,GPL-3,Yadollah Shahryary Dizaji,10.18129/B9.BIOC.ALPHABETA,,,
+altcdfenvs,GPL (>= 2),Laurent Gautier,10.18129/B9.BIOC.ALTCDFENVS,Q21513832,en,botanist
+AMARETTO,Apache License 2.0,Olivier Gevaert,10.18129/B9.BIOC.AMARETTO,Q56334002,en,researcher
+AMOUNTAIN,GPL (>= 2),Dong Li,10.18129/B9.BIOC.AMOUNTAIN,Q50148351,en,researcher (ORCID 0000-0002-2508-3282)
+Anaquin,BSD_3_clause,Ted Wong,10.18129/B9.BIOC.ANAQUIN,,,
+ANCOMBC,Artistic-2.0,Huang Lin,10.18129/B9.BIOC.ANCOMBC,,,
+ANF,GPL-3,Tianle Ma,10.18129/B9.BIOC.ANF,,,
+annaffy,LGPL (>= 2.1),Colin A. Smith,10.18129/B9.BIOC.ANNAFFY,,,
+annmap,GPL-2,Chris Wirth,10.18129/B9.BIOC.ANNMAP,Q88391169,en,researcher
+annotate,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATE,,,
+AnnotationDbi,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONDBI,,,
+AnnotationFilter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONFILTER,,,
+AnnotationForge,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONFORGE,,,
+AnnotationHub,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONHUB,,,
+AnnotationHubData,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ANNOTATIONHUBDATA,,,
+annotationTools,GPL,Alexandre Kuhn,10.18129/B9.BIOC.ANNOTATIONTOOLS,Q90907542,en,researcher (ORCID 0000-0001-5539-9002)
+annotatr,GPL-3,Raymond G. Cavalcante,10.18129/B9.BIOC.ANNOTATR,,,
+anota,GPL-3,Ola Larsson,10.18129/B9.BIOC.ANOTA,Q42738485,en,researcher
+antiProfiles,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.ANTIPROFILES,Q35703653,en,researcher
+AnVIL,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ANVIL,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+AnVILBilling,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.ANVILBILLING,,,
+AnVILPublish,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ANVILPUBLISH,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+apComplex,LGPL (>= 2.1),Denise Scholtens,10.18129/B9.BIOC.APCOMPLEX,Q96581058,en,researcher
+APL,GPL (>= 3),Elzbieta Gralinska,10.18129/B9.BIOC.APL,,,
+appreci8R,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.APPRECI8R,Q87882953,en,researcher
+ArrayExpressHTS,Artistic License 2.0,Angela Goncalves,10.18129/B9.BIOC.ARRAYEXPRESSHTS,Q57059479,en,researcher
+arrayMvout,Artistic-2.0,V. Carey,10.18129/B9.BIOC.ARRAYMVOUT,,,
+arrayQuality,LGPL (>= 2.1),Agnes Paquet,10.18129/B9.BIOC.ARRAYQUALITY,,,
+arrayQualityMetrics,LGPL (>= 2.1),Mike Smith,10.18129/B9.BIOC.ARRAYQUALITYMETRICS,,,
+ARRmNormalization,Artistic-2.0,Jean-Philippe Fortin,10.18129/B9.BIOC.ARRMNORMALIZATION,,,
+artMS,GPL (>= 3),David Jimenez-Morales,10.18129/B9.BIOC.ARTMS,Q56153116,en,researcher
+ASAFE,Artistic-2.0,Qian Zhang,10.18129/B9.BIOC.ASAFE,Q55692659,en,researcher ORCID: 0000-0002-9040-3289
+ASEB,GPL (>= 3),Likun Wang,10.18129/B9.BIOC.ASEB,Q55188166,en,researcher (ORCID 0000-0002-0933-2808)
+ASGSCA,GPL-3,Hela Romdhani,10.18129/B9.BIOC.ASGSCA,,,
+ASpediaFI,GPL-3,Doyeong Yu,10.18129/B9.BIOC.ASPEDIAFI,,,
+ASpli,GPL,Estefania Mancini,10.18129/B9.BIOC.ASPLI,Q88231423,en,researcher
+ASSET,GPL-2,Samsiddhi Bhattacharjee,10.18129/B9.BIOC.ASSET,Q54877894,en,researcher
+ASSIGN,MIT,Ying Shen,10.18129/B9.BIOC.ASSIGN,Q90391118,en,researcher (ORCID 0000-0001-7034-5328)
+ASURAT,GPL-3,Keita Iida,10.18129/B9.BIOC.ASURAT,Q96207195,en,researcher
+atena,Artistic-2.0,Beatriz Calvo-Serra,10.18129/B9.BIOC.ATENA,,,
+attract,LGPL (>= 2.1),Samuel Zimmerman,10.18129/B9.BIOC.ATTRACT,,,
+autonomics,GPL-3,Aditya Bhagwat,10.18129/B9.BIOC.AUTONOMICS,Q99247327,en,researcher
+AWFisher,GPL-3,Zhiguang Huo,10.18129/B9.BIOC.AWFISHER,Q60654964,en,researcher ORCID ID = 0000-0002-8032-4392
+awst,MIT,Davide Risso,10.18129/B9.BIOC.AWST,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+BaalChIP,Artistic-2.0,Ines de Santiago,10.18129/B9.BIOC.BAALCHIP,Q55754913,en,researcher
+BAC,Artistic-2.0,Raphael Gottardo,10.18129/B9.BIOC.BAC,Q88268514,en,researcher
+bacon,GPL (>= 2),Maarten van Iterson,10.18129/B9.BIOC.BACON,Q96198616,en,researcher
+BADER,GPL-2,Andreas Neudecker,10.18129/B9.BIOC.BADER,,,
+BadRegionFinder,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.BADREGIONFINDER,Q87882953,en,researcher
+BAGS,Artistic-2.0,Alejandro Quiroz-Zarate,10.18129/B9.BIOC.BAGS,,,
+ballgown,Artistic-2.0,Jack Fu,10.18129/B9.BIOC.BALLGOWN,Q59157536,en,researcher ORCID ID = 0000-0002-9397-0668
+bambu,GPL-3,Ying Chen,10.18129/B9.BIOC.BAMBU,Q38320549,en,researcher (ORCID 0000-0002-7322-2224)
+bamsignals,GPL-2,Johannes Helmuth,10.18129/B9.BIOC.BAMSIGNALS,Q88140556,en,researcher
+bandle,Artistic-2.0,Oliver M. Crook,10.18129/B9.BIOC.BANDLE,,,
+banocc,MIT,George Weingart,10.18129/B9.BIOC.BANOCC,,,
+basecallQC,GPL (>= 3),Thomas Carroll,10.18129/B9.BIOC.BASECALLQC,Q73146220,en,researcher
+BaseSpaceR,Apache License 2.0,Jared O'Connell,10.18129/B9.BIOC.BASESPACER,Q90159812,en,researcher
+Basic4Cseq,LGPL (>= 2.1),Carolin Walter,10.18129/B9.BIOC.BASIC4CSEQ,Q29966678,,
+BASiCS,GPL (>= 2),Alan O'Callaghan,10.18129/B9.BIOC.BASICS,Q104475246,en,researcher
+BasicSTARRseq,LGPL (>= 2.1),Annika Buerger,10.18129/B9.BIOC.BASICSTARRSEQ,,,
+basilisk,GPL-3,Aaron Lun,10.18129/B9.BIOC.BASILISK,,,
+basilisk.utils,GPL-3,Aaron Lun,10.18129/B9.BIOC.BASILISK.UTILS,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+BayesKnockdown,GPL-3,William Chad Young,10.18129/B9.BIOC.BAYESKNOCKDOWN,Q90555309,en,researcher (ORCID 0000-0002-3368-052X)
+BayesSpace,MIT,Matt Stone,10.18129/B9.BIOC.BAYESSPACE,,,
+bayNorm,GPL (>= 2),Wenhao Tang,10.18129/B9.BIOC.BAYNORM,,,
+baySeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.BAYSEQ,,,
+BBCAnalyzer,LGPL (>= 2.1),Sarah Sandmann,10.18129/B9.BIOC.BBCANALYZER,Q87882953,en,researcher
+BCRANK,GPL-2,Adam Ameur,10.18129/B9.BIOC.BCRANK,Q37373461,en,researcher
+BDMMAcorrect,GPL (>= 2),ZHENWEI DAI,10.18129/B9.BIOC.BDMMACORRECT,,,
+beadarray,MIT,Mark Dunning,10.18129/B9.BIOC.BEADARRAY,Q41044344,en,researcher
+beadarraySNP,GPL-2,Jan Oosting,10.18129/B9.BIOC.BEADARRAYSNP,Q90115240,en,researcher
+BeadDataPackR,GPL-2,Mike Smith,10.18129/B9.BIOC.BEADDATAPACKR,,,
+BEARscc,GPL-3,Benjamin Schuster-Boeckler,10.18129/B9.BIOC.BEARSCC,,,
+BEAT,LGPL (>= 2.1),Kemal Akman,10.18129/B9.BIOC.BEAT,Q102441015,en,Dr. rer. nat. Ludwig-Maximilians-Universität München 2014
+beer,MIT,Athena Chen,10.18129/B9.BIOC.BEER,,,
+benchdamic,Artistic-2.0,Matteo Calgaro,10.18129/B9.BIOC.BENCHDAMIC,Q91169524,en,researcher (ORCID 0000-0002-3056-518X)
+BgeeCall,GPL-3,Julien Wollbrett,10.18129/B9.BIOC.BGEECALL,,,
+BGmix,GPL-2,Alex Lewin,10.18129/B9.BIOC.BGMIX,Q55274517,en,researcher
+bgx,GPL-2,Ernest Turro,10.18129/B9.BIOC.BGX,Q56596752,en,researcher
+BHC,GPL-3,Rich Savage,10.18129/B9.BIOC.BHC,,,
+BicARE,GPL-2,Pierre Gestraud,10.18129/B9.BIOC.BICARE,Q57204531,en,researcher
+BiFET,GPL-3,Ahrim Youn,10.18129/B9.BIOC.BIFET,,,
+bigPint,GPL-3,Lindsay Rutter,10.18129/B9.BIOC.BIGPINT,Q65945324,en,American bioinformatician
+Biobase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOBASE,,,
+biobroom,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.BIOBROOM,Q55121965,en,genomics statistician
+biobtreeR,MIT,Tamer Gur,10.18129/B9.BIOC.BIOBTREER,Q56598323,en,researcher
+bioCancer,AGPL-3,Karim Mezhoud,10.18129/B9.BIOC.BIOCANCER,,,
+BiocCheck,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCCHECK,,,
+BiocDockerManager,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCDOCKERMANAGER,,,
+BiocFileCache,Artistic-2.0,Lori Shepherd,10.18129/B9.BIOC.BIOCFILECACHE,Q58147814,en,"researcher, ORCID id # 0000-0002-5910-4010"
+BiocGenerics,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCGENERICS,,,
+biocGraph,Artistic-2.0,Florian Hahne,10.18129/B9.BIOC.BIOCGRAPH,Q95841593,,
+BiocIO,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCIO,,,
+BiocNeighbors,GPL-3,Aaron Lun,10.18129/B9.BIOC.BIOCNEIGHBORS,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+BiocOncoTK,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.BIOCONCOTK,,,
+BioCor,MIT,Lluís Revilla Sancho,10.18129/B9.BIOC.BIOCOR,,,
+BiocParallel,GPL-2,Martin Morgan,10.18129/B9.BIOC.BIOCPARALLEL,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+BiocPkgTools,MIT,Sean Davis,10.18129/B9.BIOC.BIOCPKGTOOLS,Q37390205,en,bioinformatician
+BiocSet,Artistic-2.0,Kayla Morrell,10.18129/B9.BIOC.BIOCSET,,,
+BiocSingular,GPL-3,Aaron Lun,10.18129/B9.BIOC.BIOCSINGULAR,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+BiocSklearn,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.BIOCSKLEARN,,,
+BiocStyle,Artistic-2.0,Bioconductor Package,10.18129/B9.BIOC.BIOCSTYLE,Q112607797,en,software project hosted on the Bioconductor website
+biocthis,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.BIOCTHIS,Q56433434,en,researcher
+BiocVersion,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCVERSION,,,
+biocViews,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIOCVIEWS,,,
+biodb,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODB,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbChebi,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBCHEBI,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbExpasy,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBEXPASY,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbHmdb,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBHMDB,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbKegg,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBKEGG,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbLipidmaps,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBLIPIDMAPS,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbMirbase,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBMIRBASE,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbNcbi,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCBI,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbNci,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBNCI,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+biodbUniprot,AGPL-3,Pierrick Roger,10.18129/B9.BIOC.BIODBUNIPROT,Q61663151,en,researcher ORCID ID = 0000-0001-8177-4873
+bioDist,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.BIODIST,,,
+biomformat,GPL-2,Paul J. McMurdie,10.18129/B9.BIOC.BIOMFORMAT,Q55121955,en,researcher
+BioMM,GPL-3,Junfang Chen,10.18129/B9.BIOC.BIOMM,Q109650453,en,researcher  0000-0003-0945-962X
+BioMVCClass,LGPL (>= 2.1),Elizabeth Whalen,10.18129/B9.BIOC.BIOMVCCLASS,Q88664281,en,researcher
+biomvRCNS,GPL (>= 2),Yang Du,10.18129/B9.BIOC.BIOMVRCNS,Q8289912,en,politician (1875-1931)
+BioNERO,GPL-3,Fabricio Almeida-Silva,10.18129/B9.BIOC.BIONERO,,,
+BioNet,GPL (>= 2),Marcus Dittrich,10.18129/B9.BIOC.BIONET,,,
+BioNetStat,GPL (>= 3),Vinicius Jardim,10.18129/B9.BIOC.BIONETSTAT,,,
+BioPlex,Artistic-2.0,Ludwig Geistlinger,10.18129/B9.BIOC.BIOPLEX,Q88561965,en,researcher
+BioQC,GPL (>= 3),Jitao David Zhang,10.18129/B9.BIOC.BIOQC,Q64785559,en,researcher
+biosigner,CeCILL,Etienne A. Thevenot,10.18129/B9.BIOC.BIOSIGNER,Q43370375,en,researcher
+Biostrings,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.BIOSTRINGS,,,
+BioTIP,GPL-2,Yuxi (Jennifer) Sun,10.18129/B9.BIOC.BIOTIP,,,
+biotmle,MIT,Nima Hejazi,10.18129/B9.BIOC.BIOTMLE,Q99572891,en,researcher
+biovizBase,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.BIOVIZBASE,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+BiRewire,GPL-3,Andrea Gobbi,10.18129/B9.BIOC.BIREWIRE,Q63808457,en,researcher
+biscuiteer,GPL-3,Jacob Morrison,10.18129/B9.BIOC.BISCUITEER,,,
+BiSeq,LGPL (>= 2.1),Katja Hebestreit,10.18129/B9.BIOC.BISEQ,Q88200632,en,researcher
+blacksheepr,MIT,RugglesLab,10.18129/B9.BIOC.BLACKSHEEPR,,,
+blima,GPL-3,Vojtěch Kulvait,10.18129/B9.BIOC.BLIMA,Q83378312,en,researcher
+BLMA,GPL (>= 2),Hung Nguyen,10.18129/B9.BIOC.BLMA,Q37372404,en,researcher (ORCID 0000-0003-3373-8178)
+BloodGen3Module,GPL-2,Darawan Rinchai,10.18129/B9.BIOC.BLOODGEN3MODULE,Q56767099,en,researcher
+bluster,GPL-3,Aaron Lun,10.18129/B9.BIOC.BLUSTER,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+bnem,GPL-3,Martin Pirkl,10.18129/B9.BIOC.BNEM,,,
+BOBaFIT,GPL (>= 3),Gaia Mazzocchetti,10.18129/B9.BIOC.BOBAFIT,,,
+borealis,GPL-3,Garrett Jenkinson,10.18129/B9.BIOC.BOREALIS,Q89958653,en,researcher
+BRAIN,GPL-2,Piotr Dittwald,10.18129/B9.BIOC.BRAIN,,,
+brainflowprobes,Artistic-2.0,Amanda Price,10.18129/B9.BIOC.BRAINFLOWPROBES,Q64091402,en,researcher (ORCID 0000-0001-7352-3732)
+BrainSABER,Artistic-2.0,USD Biomedical Engineering,10.18129/B9.BIOC.BRAINSABER,,,
+branchpointer,BSD_3_clause,Beth Signal,10.18129/B9.BIOC.BRANCHPOINTER,,,
+brendaDb,MIT,Yi Zhou,10.18129/B9.BIOC.BRENDADB,Q11512663,,
+BRGenomics,Artistic-2.0,Mike DeBerardine,10.18129/B9.BIOC.BRGENOMICS,,,
+bridge,GPL (>= 2),Raphael Gottardo,10.18129/B9.BIOC.BRIDGE,Q88268514,en,researcher
+BridgeDbR,AGPL-3,Egon Willighagen,10.18129/B9.BIOC.BRIDGEDBR,Q20895241,en,Dutch chemist
+BrowserViz,GPL-2,Paul Shannon,10.18129/B9.BIOC.BROWSERVIZ,,,
+BSgenome,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.BSGENOME,,,
+BubbleTree,LGPL (>= 2.1),Todd Creasy,10.18129/B9.BIOC.BUBBLETREE,Q77545357,,
+BufferedMatrix,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.BUFFEREDMATRIX,,,
+BufferedMatrixMethods,GPL (>= 2),Ben Bolstad,10.18129/B9.BIOC.BUFFEREDMATRIXMETHODS,,,
+bugsigdbr,GPL-3,Ludwig Geistlinger,10.18129/B9.BIOC.BUGSIGDBR,Q88561965,en,researcher
+BUMHMM,GPL-3,Alina Selega,10.18129/B9.BIOC.BUMHMM,,,
+BumpyMatrix,MIT,Aaron Lun,10.18129/B9.BIOC.BUMPYMATRIX,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+BUS,GPL-3,Yuanhua Liu,10.18129/B9.BIOC.BUS,Q91458492,en,researcher (ORCID 0000-0001-9633-9639)
+BUScorrect,GPL (>= 2),Xiangyu Luo,10.18129/B9.BIOC.BUSCORRECT,Q58218606,en,"researcher, ORCID id # 0000-0002-8825-3250"
+BUSpaRse,BSD_2_clause,Lambda Moses,10.18129/B9.BIOC.BUSPARSE,,,
+BUSseq,Artistic-2.0,Fangda Song,10.18129/B9.BIOC.BUSSEQ,Q96952573,en,researcher
+CAEN,GPL-2,Zhou Yan,10.18129/B9.BIOC.CAEN,,,
+CAFE,GPL-3,Sander Bollen,10.18129/B9.BIOC.CAFE,,,
+cageminer,GPL-3,Fabrício Almeida-Silva,10.18129/B9.BIOC.CAGEMINER,,,
+calm,GPL (>= 2),Kun Liang,10.18129/B9.BIOC.CALM,Q47351457,en,researcher (ORCID 0000-0001-5551-1439)
+CAMERA,GPL (>= 2),Steffen Neumann,10.18129/B9.BIOC.CAMERA,Q28541023,en,German scientist
+canceR,GPL-2,Karim Mezhoud,10.18129/B9.BIOC.CANCER,,,
+cancerclass,GPL-3,Daniel Kosztyla,10.18129/B9.BIOC.CANCERCLASS,,,
+CancerInSilico,GPL-2,Thomas D. Sherman,10.18129/B9.BIOC.CANCERINSILICO,,,
+CancerSubtypes,GPL (>= 2),Taosheng Xu,10.18129/B9.BIOC.CANCERSUBTYPES,Q59703538,en,researcher ORCID ID = 0000-0001-8283-7274
+CAnD,Artistic-2.0,Caitlin McHugh,10.18129/B9.BIOC.CAND,,,
+caOmicsV,GPL (>= 2.0),Henry Zhang,10.18129/B9.BIOC.CAOMICSV,Q92887253,en,researcher (ORCID 0000-0003-4340-7487)
+CARNIVAL,GPL-3,Attila Gabor,10.18129/B9.BIOC.CARNIVAL,Q86584322,en,researcher
+casper,GPL (>= 2),David Rossell,10.18129/B9.BIOC.CASPER,Q90533855,en,researcher (ORCID 0000-0002-7104-5789)
+CATALYST,GPL (>= 2),Helena L. Crowell,10.18129/B9.BIOC.CATALYST,,,
+Category,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.CATEGORY,,,
+CausalR,GPL (>= 2),Glyn Bradley,10.18129/B9.BIOC.CAUSALR,Q19845628,en,researcher
+cbaf,Artistic-2.0,Arman Shahrisa,10.18129/B9.BIOC.CBAF,Q88072597,en,researcher
+CBEA,MIT,Quang Nguyen,10.18129/B9.BIOC.CBEA,Q57200187,en,researcher
+cbpManager,AGPL-3,Arsenij Ustjanzew,10.18129/B9.BIOC.CBPMANAGER,,,
+ccfindR,GPL (>= 2),Jun Woo,10.18129/B9.BIOC.CCFINDR,,,
+ccmap,MIT,Alex Pickering,10.18129/B9.BIOC.CCMAP,,,
+CCPROMISE,GPL (>= 2),Xueyuan Cao,10.18129/B9.BIOC.CCPROMISE,Q38362258,en,researcher (ORCID 0000-0002-4746-4000)
+ccrepe,MIT,Emma Schwager,10.18129/B9.BIOC.CCREPE,Q89119770,en,researcher
+celaref,GPL-3,Sarah Williams,10.18129/B9.BIOC.CELAREF,,,
+celda,MIT,Joshua Campbell,10.18129/B9.BIOC.CELDA,Q90079720,en,researcher
+CellaRepertorium,GPL-3,Andrew McDavid,10.18129/B9.BIOC.CELLAREPERTORIUM,Q58072429,en,"researcher, ORCID id # 0000-0002-6581-1213"
+CellBarcode,MIT,Wenjie Sun,10.18129/B9.BIOC.CELLBARCODE,Q93338694,en,researcher (ORCID 0000-0002-2608-9037)
+cellbaseR,Apache License 2.0,Mohammed OE Abdallah,10.18129/B9.BIOC.CELLBASER,,,
+CellBench,GPL-3,Shian Su,10.18129/B9.BIOC.CELLBENCH,,,
+cellHTS2,Artistic-2.0,Joseph Barry,10.18129/B9.BIOC.CELLHTS2,,,
+CelliD,GPL-3,Akira Cortal,10.18129/B9.BIOC.CELLID,,,
+cellity,GPL (>= 2),Tomislav Ilicic,10.18129/B9.BIOC.CELLITY,,,
+CellMapper,Artistic-2.0,Brad Nelms,10.18129/B9.BIOC.CELLMAPPER,,,
+cellmigRation,GPL-2,Waldir Leoncio,10.18129/B9.BIOC.CELLMIGRATION,,,
+CellMixS,GPL (>= 2),Almut Lütge,10.18129/B9.BIOC.CELLMIXS,,,
+CellNOptR,GPL-3,Attila Gabor,10.18129/B9.BIOC.CELLNOPTR,Q86584322,en,researcher
+cellscape,GPL-3,Maia Smith,10.18129/B9.BIOC.CELLSCAPE,Q59150957,en,researcher ORCID ID = 0000-0002-1154-1158
+CellScore,GPL-3,Nancy Mah,10.18129/B9.BIOC.CELLSCORE,Q41048265,en,researcher
+cellTree,Artistic-2.0,David duVerle,10.18129/B9.BIOC.CELLTREE,,,
+cellxgenedp,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.CELLXGENEDP,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+censcyt,MIT,Reto Gerber,10.18129/B9.BIOC.CENSCYT,,,
+Cepo,MIT,Hani Jieun Kim,10.18129/B9.BIOC.CEPO,,,
+ceRNAnetsim,GPL (>= 3.0),Selcen Ari Yuka,10.18129/B9.BIOC.CERNANETSIM,,,
+CexoR,Artistic-2.0,Pedro Madrigal,10.18129/B9.BIOC.CEXOR,Q30504999,en,Computational biologist
+CFAssay,LGPL (>= 2.1),Herbert Braselmann,10.18129/B9.BIOC.CFASSAY,Q58212202,en,"researcher, ORCID id # 0000-0001-5416-9440"
+cfDNAPro,GPL-3,Haichao Wang,10.18129/B9.BIOC.CFDNAPRO,Q37375045,en,researcher (ORCID 0000-0002-0211-9000)
+CGEN,GPL-2,Justin Lee,10.18129/B9.BIOC.CGEN,Q43198708,en,researcher (ORCID 0000-0001-8269-7494)
+CGHbase,GPL,Mark van de Wiel,10.18129/B9.BIOC.CGHBASE,Q90102015,en,biostatistician
+cghMCR,LGPL (>= 2.1),J. Zhang,10.18129/B9.BIOC.CGHMCR,Q61624271,,
+CGHnormaliter,GPL (>= 3),Bart P.P. van Houte,10.18129/B9.BIOC.CGHNORMALITER,,,
+ChemmineR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.CHEMMINER,Q55473652,en,researcher
+ChIC,GPL-2,Carmen Maria Livi,10.18129/B9.BIOC.CHIC,Q55979705,en,researcher
+Chicago,Artistic-2.0,Mikhail Spivakov,10.18129/B9.BIOC.CHICAGO,Q37608451,en,researcher
+chimeraviz,Artistic-2.0,Stian Lågstad,10.18129/B9.BIOC.CHIMERAVIZ,,,
+chipenrich,GPL-3,Raymond G. Cavalcante,10.18129/B9.BIOC.CHIPENRICH,,,
+ChIPexoQual,GPL (>= 2),Rene Welch,10.18129/B9.BIOC.CHIPEXOQUAL,Q61313147,en,researcher ORCID ID = 0000-0001-9861-530X
+ChIPQC,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.CHIPQC,,,
+chipseq,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.CHIPSEQ,,,
+ChIPsim,GPL (>= 2),Peter Humburg,10.18129/B9.BIOC.CHIPSIM,Q55245621,en,researcher
+ChIPXpress,GPL (>= 2),George Wu,10.18129/B9.BIOC.CHIPXPRESS,Q102361026,en,Ph.D. Harvard University 1991
+chopsticks,GPL-3,Hin-Tak Leung,10.18129/B9.BIOC.CHOPSTICKS,,,
+ChromHeatMap,Artistic-2.0,Tim F. Rayner,10.18129/B9.BIOC.CHROMHEATMAP,Q47502905,en,researcher
+chromPlot,GPL (>= 2),Karen Y. Orostica,10.18129/B9.BIOC.CHROMPLOT,,,
+chromstaR,Artistic-2.0,Aaron Taudt,10.18129/B9.BIOC.CHROMSTAR,Q56975152,en,researcher
+CHRONOS,GPL-2,Panos Balomenos,10.18129/B9.BIOC.CHRONOS,,,
+CIMICE,Artistic-2.0,Nicolò Rossi,10.18129/B9.BIOC.CIMICE,,,
+CINdex,GPL (>= 2),Yuriy Gusev,10.18129/B9.BIOC.CINDEX,Q57548014,en,researcher ORCID ID = 0000-0001-7371-4715
+circRNAprofiler,GPL-3,Simona Aufiero,10.18129/B9.BIOC.CIRCRNAPROFILER,Q88138160,en,researcher
+cisPath,GPL (>= 3),Likun Wang,10.18129/B9.BIOC.CISPATH,Q55188166,en,researcher (ORCID 0000-0002-0933-2808)
+CiteFuse,GPL-3,Yingxin Lin,10.18129/B9.BIOC.CITEFUSE,,,
+ClassifyR,GPL-3,Dario Strbenac,10.18129/B9.BIOC.CLASSIFYR,Q88235510,en,researcher
+cleaver,GPL (>= 3),Sebastian Gibb,10.18129/B9.BIOC.CLEAVER,Q57412465,en,researcher ORCID id 0000-0001-7406-4443
+clippda,GPL (>= 2),Stephen Nyangoma,10.18129/B9.BIOC.CLIPPDA,Q102310864,en,Ph.D. University of Auckland 2000
+clipper,AGPL-3,Paolo Martini,10.18129/B9.BIOC.CLIPPER,Q83826287,en,researcher
+cliProfiler,Artistic-2.0,You Zhou,10.18129/B9.BIOC.CLIPROFILER,,,
+cliqueMS,GPL (>= 2),Oriol Senan Campos,10.18129/B9.BIOC.CLIQUEMS,,,
+Clomial,GPL (>= 2),Habil Zare,10.18129/B9.BIOC.CLOMIAL,Q30348803,en,researcher
+Clonality,GPL-3,Irina Ostrovnaya,10.18129/B9.BIOC.CLONALITY,Q90067884,en,researcher
+clst,GPL-3,Noah Hoffman,10.18129/B9.BIOC.CLST,,,
+clstutils,GPL-3,Noah Hoffman,10.18129/B9.BIOC.CLSTUTILS,,,
+CluMSID,MIT,Tobias Depke,10.18129/B9.BIOC.CLUMSID,Q97559095,en,researcher
+clustComp,GPL (>= 2),Aurora Torrente,10.18129/B9.BIOC.CLUSTCOMP,Q47502906,en,researcher
+clusterExperiment,Artistic-2.0,Elizabeth Purdom,10.18129/B9.BIOC.CLUSTEREXPERIMENT,Q91088563,en,researcher (ORCID 0000-0001-9455-7990)
+ClusterJudge,Artistic-2.0,Adrian Pasculescu,10.18129/B9.BIOC.CLUSTERJUDGE,Q30225112,en,researcher
+clusterProfiler,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.CLUSTERPROFILER,Q56548905,en,researcher
+clusterSeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.CLUSTERSEQ,,,
+ClusterSignificance,GPL-3,Jason T Serviss,10.18129/B9.BIOC.CLUSTERSIGNIFICANCE,Q58585996,en,researcher ORCID ID = 0000-0002-5778-7014
+clusterStab,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.CLUSTERSTAB,,,
+clustifyr,MIT,Kent Riemondy,10.18129/B9.BIOC.CLUSTIFYR,Q64516200,en,researcher
+CMA,GPL (>= 2),Roman Hornung,10.18129/B9.BIOC.CMA,Q90524063,en,researcher (ORCID 0000-0002-6036-1495)
+cn.farms,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.CN.FARMS,Q96766980,en,researcher
+CNAnorm,GPL-2,Stefano Berri,10.18129/B9.BIOC.CNANORM,Q43102399,en,researcher
+CNEr,GPL-2,Ge Tan,10.18129/B9.BIOC.CNER,Q56958242,en,researcher (ORCID 0000-0003-0026-8739)
+CNORdt,GPL-2,A. MacNamara,10.18129/B9.BIOC.CNORDT,,,
+CNORfeeder,GPL-3,Attila Gabor,10.18129/B9.BIOC.CNORFEEDER,Q86584322,en,researcher
+CNORfuzzy,GPL-2,T. Cokelaer,10.18129/B9.BIOC.CNORFUZZY,,,
+CNORode,GPL-2,Attila Gabor,10.18129/B9.BIOC.CNORODE,Q86584322,en,researcher
+CNTools,LGPL (>= 2.1),J. Zhang,10.18129/B9.BIOC.CNTOOLS,Q61624271,,
+CNVfilteR,Artistic-2.0,Jose Marcos Moreno-Cabrera,10.18129/B9.BIOC.CNVFILTER,Q90810329,en,researcher (ORCID 0000-0001-8570-0345)
+CNVgears,GPL-3,Simone Montalbano,10.18129/B9.BIOC.CNVGEARS,,,
+cnvGSA,LGPL (>= 2.1),Joseph Lugo,10.18129/B9.BIOC.CNVGSA,,,
+CNViz,Artistic-2.0,Rebecca Greenblatt,10.18129/B9.BIOC.CNVIZ,,,
+CNVMetrics,Artistic-2.0,Astrid Deschênes,10.18129/B9.BIOC.CNVMETRICS,Q41046641,en,researcher
+CNVPanelizer,GPL-3,Thomas Wolf,10.18129/B9.BIOC.CNVPANELIZER,,,
+CNVrd2,GPL-2,Hoang Tan Nguyen,10.18129/B9.BIOC.CNVRD2,,,
+CoCiteStats,CPL,Bioconductor Package Maintainer,10.18129/B9.BIOC.COCITESTATS,,,
+CODEX,GPL-2,Yuchao Jiang,10.18129/B9.BIOC.CODEX,Q88373101,en,researcher (ORCID 0000-0001-7012-0559)
+CoGAPS,BSD_3_clause,Elana J. Fertig,10.18129/B9.BIOC.COGAPS,Q39186609,en,American cancer biologist
+cogena,LGPL (>= 2.1),Zhilong Jia,10.18129/B9.BIOC.COGENA,Q86089132,en,researcher
+cogeqc,GPL-3,Fabrício Almeida-Silva,10.18129/B9.BIOC.COGEQC,,,
+Cogito,LGPL (>= 2.1),Annika Bürger,10.18129/B9.BIOC.COGITO,,,
+coGPS,GPL-2,Yingying Wei,10.18129/B9.BIOC.COGPS,Q57036152,en,researcher (ORCID 0000-0003-3826-336X)
+COHCAP,GPL-3,Charles Warden,10.18129/B9.BIOC.COHCAP,Q91178623,en,researcher (ORCID 0000-0002-1827-4486)
+cola,MIT,Zuguang Gu,10.18129/B9.BIOC.COLA,Q44539523,en,researcher
+comapr,MIT,Ruqian Lyu,10.18129/B9.BIOC.COMAPR,,,
+combi,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.COMBI,Q91545755,en,researcher (ORCID 0000-0002-4501-5180)
+coMET,GPL (>= 2),Tiphaine Martin,10.18129/B9.BIOC.COMET,Q59540166,en,researcher ORCID ID = 0000-0001-9990-1455
+coMethDMR,GPL-3,Fernanda Veitzman,10.18129/B9.BIOC.COMETHDMR,,,
+compartmap,GPL-3,Benjamin Johnson,10.18129/B9.BIOC.COMPARTMAP,,,
+COMPASS,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.COMPASS,Q55364287,en,researcher
+compcodeR,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.COMPCODER,Q43290839,en,researcher
+ComplexHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.COMPLEXHEATMAP,Q44539523,en,researcher
+CompoundDb,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.COMPOUNDDB,Q55266814,en,researcher
+ComPrAn,MIT,Petra Palenikova,10.18129/B9.BIOC.COMPRAN,,,
+conclus,GPL-3,Ilyess Rachedi,10.18129/B9.BIOC.CONCLUS,,,
+condiments,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.CONDIMENTS,Q95627783,en,researcher
+CONFESS,GPL-2,Diana LOW,10.18129/B9.BIOC.CONFESS,Q21454050,,
+consensus,BSD_3_clause,Tim Peters,10.18129/B9.BIOC.CONSENSUS,Q30506668,en,researcher
+consensusDE,GPL-3,Ashley J. Waardenberg,10.18129/B9.BIOC.CONSENSUSDE,,,
+contiBAIT,BSD_2_clause,Kieran O'Neill,10.18129/B9.BIOC.CONTIBAIT,Q37379978,en,researcher
+conumee,GPL (>= 2),Volker Hovestadt,10.18129/B9.BIOC.CONUMEE,Q43153333,en,researcher
+convert,LGPL (>= 2.1),Yee Hwa (Jean) Yang,10.18129/B9.BIOC.CONVERT,,,
+copa,Artistic-2.0,James W. MacDonald,10.18129/B9.BIOC.COPA,,,
+copynumber,Artistic-2.0,Gro Nilsen,10.18129/B9.BIOC.COPYNUMBER,Q88022438,en,researcher
+CopyNumberPlots,Artistic-2.0,Bernat Gel,10.18129/B9.BIOC.COPYNUMBERPLOTS,Q55323714,en,researcher
+CopywriteR,GPL-2,Oscar Krijgsman,10.18129/B9.BIOC.COPYWRITER,Q59550604,en,researcher ORCID ID = 0000-0003-0825-3291
+coRdon,Artistic-2.0,Anamaria Elek,10.18129/B9.BIOC.CORDON,,,
+CoRegNet,GPL-3,Remy Nicolle,10.18129/B9.BIOC.COREGNET,Q60036062,en,researcher ORCID ID = 0000-0001-8084-1173
+Cormotif,GPL-2,Yingying Wei,10.18129/B9.BIOC.CORMOTIF,Q57036152,en,researcher (ORCID 0000-0003-3826-336X)
+corral,GPL-2,Lauren Hsu,10.18129/B9.BIOC.CORRAL,,,
+CORREP,GPL (>= 2),Dongxiao Zhu,10.18129/B9.BIOC.CORREP,,,
+coseq,GPL-3,Andrea Rau,10.18129/B9.BIOC.COSEQ,,,
+cosmiq,GPL-3,David Fischer,10.18129/B9.BIOC.COSMIQ,Q92768246,en,researcher (ORCID 0000-0002-1293-7656)
+cosmosR,GPL-3,Attila Gabor,10.18129/B9.BIOC.COSMOSR,Q86584322,en,researcher
+COSNet,GPL (>= 2),Marco Frasca,10.18129/B9.BIOC.COSNET,Q47695494,en,researcher (ORCID 0000-0002-4170-0922)
+COTAN,GPL-3,Galfrè Silvia Giulia,10.18129/B9.BIOC.COTAN,,,
+countsimQC,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.COUNTSIMQC,Q43290839,en,researcher
+covEB,GPL-3,C. Pacini,10.18129/B9.BIOC.COVEB,,,
+CoverageView,Artistic-2.0,Ernesto Lowy,10.18129/B9.BIOC.COVERAGEVIEW,Q88764914,en,researcher
+covRNA,GPL (>= 2),Lara Urban,10.18129/B9.BIOC.COVRNA,Q57386766,en,researcher
+cpvSNP,Artistic-2.0,Caitlin McHugh,10.18129/B9.BIOC.CPVSNP,,,
+cqn,Artistic-2.0,Kasper Daniel Hansen,10.18129/B9.BIOC.CQN,Q30504905,en,researcher
+CRImage,Artistic-2.0,Henrik Failmezger,10.18129/B9.BIOC.CRIMAGE,Q102441017,en,Dr. rer. nat. Universität zu Köln 2015
+crisprBase,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBASE,,,
+crisprBowtie,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBOWTIE,,,
+crisprBwa,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRBWA,,,
+crisprScore,MIT,Jean-Philippe Fortin,10.18129/B9.BIOC.CRISPRSCORE,,,
+CRISPRseek,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.CRISPRSEEK,Q59510987,en,researcher ORCID ID = 0000-0001-7416-0590
+crisprseekplus,GPL-3,Alper Kucukural,10.18129/B9.BIOC.CRISPRSEEKPLUS,Q37392507,en,Bioinformatician
+crlmm,Artistic-2.0,Benilton S Carvalho,10.18129/B9.BIOC.CRLMM,,,
+crossmeta,MIT,Alex Pickering,10.18129/B9.BIOC.CROSSMETA,,,
+CSAR,Artistic-2.0,Jose M Muino,10.18129/B9.BIOC.CSAR,Q57673904,en,researcher ORCID ID = 0000-0002-6403-7262
+csaw,GPL-3,Aaron Lun,10.18129/B9.BIOC.CSAW,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+csdR,GPL-3,Jakob Peder Pettersen,10.18129/B9.BIOC.CSDR,,,
+CSSP,GPL-2,Chandler Zuo,10.18129/B9.BIOC.CSSP,Q102660182,en,Ph.D. University of Wisconsin-Madison 2015
+CSSQ,Artistic-2.0,Fan Lab at Georgia Institute of Technology,10.18129/B9.BIOC.CSSQ,,,
+ctc,GPL-2,Antoine Lucas,10.18129/B9.BIOC.CTC,Q54015972,en,researcher
+CTDquerier,MIT,Xavier Escribà-Montagut,10.18129/B9.BIOC.CTDQUERIER,,,
+ctgGEM,GPL (>= 2),USD Biomedical Engineering,10.18129/B9.BIOC.CTGGEM,,,
+cTRAP,MIT,Nuno Saraiva-Agostinho,10.18129/B9.BIOC.CTRAP,Q63980419,en,researcher
+ctsGE,GPL-2,Michal Sharabi-Schwager,10.18129/B9.BIOC.CTSGE,,,
+cummeRbund,Artistic-2.0,Loyal A. Goff,10.18129/B9.BIOC.CUMMERBUND,,,
+customCMPdb,Artistic-2.0,Yuzhu Duan,10.18129/B9.BIOC.CUSTOMCMPDB,,,
+cyanoFilter,MIT,Oluwafemi Olusoji,10.18129/B9.BIOC.CYANOFILTER,,,
+cycle,GPL-2,Matthias Futschik,10.18129/B9.BIOC.CYCLE,Q37376165,en,researcher
+CytoDx,GPL-2,Zicheng Hu,10.18129/B9.BIOC.CYTODX,Q98499375,en,researcher
+CyTOFpower,LGPL (>= 2.1),Anne-Maud Ferreira,10.18129/B9.BIOC.CYTOFPOWER,,,
+CytoGLMM,LGPL (>= 2.1),Christof Seiler,10.18129/B9.BIOC.CYTOGLMM,Q57294845,en,researcher
+cytoKernel,GPL-3,Tusharkanti Ghosh,10.18129/B9.BIOC.CYTOKERNEL,Q92681377,en,researcher (ORCID 0000-0003-3865-239X)
+cytoMEM,GPL-3,Jonathan Irish,10.18129/B9.BIOC.CYTOMEM,Q41645616,en,cell biologist
+CytoTree,GPL-3,Yuting Dai,10.18129/B9.BIOC.CYTOTREE,Q92435806,en,researcher (ORCID 0000-0002-6678-3760)
+daMA,GPL (>= 2),Jobst Landgrebe,10.18129/B9.BIOC.DAMA,,,
+DAPAR,Artistic-2.0,Samuel Wieczorek,10.18129/B9.BIOC.DAPAR,Q87077502,en,researcher
+dasper,Artistic-2.0,David Zhang,10.18129/B9.BIOC.DASPER,Q45954735,en,researcher (ORCID 0000-0002-5027-5286)
+dcanr,GPL-3,Dharmesh D. Bhuva,10.18129/B9.BIOC.DCANR,,,
+dce,GPL-3,Kim Philipp Jablonski,10.18129/B9.BIOC.DCE,Q89747588,en,researcher
+dcGSA,GPL-2,Jiehuan sun,10.18129/B9.BIOC.DCGSA,Q91279058,en,researcher (ORCID 0000-0002-5940-4822)
+ddCt,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.DDCT,Q64785559,en,researcher
+ddPCRclust,Artistic-2.0,Benedikt G. Brink,10.18129/B9.BIOC.DDPCRCLUST,,,
+debCAM,GPL-2,Lulu Chen,10.18129/B9.BIOC.DEBCAM,Q90288827,en,researcher (ORCID 0000-0001-9621-9231)
+DECIPHER,GPL-3,Erik Wright,10.18129/B9.BIOC.DECIPHER,,,
+DEComplexDisease,GPL-3,Guofeng Meng,10.18129/B9.BIOC.DECOMPLEXDISEASE,Q92235046,en,researcher (ORCID 0000-0002-5418-3821)
+decompTumor2Sig,GPL-2,Rosario M. Piro,10.18129/B9.BIOC.DECOMPTUMOR2SIG,Q51075539,en,researcher
+DeconRNASeq,GPL-2,Ting Gong,10.18129/B9.BIOC.DECONRNASEQ,Q90149284,en,researcher (ORCID 0000-0001-9732-7162)
+deconvR,Artistic-2.0,İrem B. Gündüz,10.18129/B9.BIOC.DECONVR,,,
+decoupleR,GPL-3,Pau Badia-i-Mompel,10.18129/B9.BIOC.DECOUPLER,,,
+DeepBlueR,GPL (>= 2.0),Felipe Albrecht,10.18129/B9.BIOC.DEEPBLUER,Q96036284,en,researcher
+DeepPINCS,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.DEEPPINCS,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+deepSNV,GPL-3,Moritz Gerstung,10.18129/B9.BIOC.DEEPSNV,Q42710184,en,researcher
+DEFormats,GPL-3,Andrzej Oleś,10.18129/B9.BIOC.DEFORMATS,Q57196115,en,Polish researcher
+DegNorm,LGPL (>= 2.1),Ji-Ping Wang,10.18129/B9.BIOC.DEGNORM,Q93135491,en,researcher (ORCID 0000-0002-8398-939X)
+DEGraph,GPL-3,Laurent Jacob,10.18129/B9.BIOC.DEGRAPH,Q87770737,en,researcher (ORCID 0000-0003-4767-0442)
+DEGreport,MIT,Lorena Pantano,10.18129/B9.BIOC.DEGREPORT,Q88703023,en,researcher
+DEGseq,LGPL (>= 2.1),Likun Wang,10.18129/B9.BIOC.DEGSEQ,Q55188166,en,researcher (ORCID 0000-0002-0933-2808)
+DelayedArray,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.DELAYEDARRAY,,,
+DelayedDataFrame,GPL-3,Qian Liu,10.18129/B9.BIOC.DELAYEDDATAFRAME,,,
+DelayedMatrixStats,MIT,Peter Hickey,10.18129/B9.BIOC.DELAYEDMATRIXSTATS,Q55692622,en,researcher
+DelayedRandomArray,GPL-3,Aaron Lun,10.18129/B9.BIOC.DELAYEDRANDOMARRAY,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+DelayedTensor,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.DELAYEDTENSOR,Q59158511,en,researcher ORCID ID = 0000-0003-3797-2148
+deltaCaptureC,MIT,Michael Shapiro,10.18129/B9.BIOC.DELTACAPTUREC,,,
+deltaGseg,GPL-2,Diana Low,10.18129/B9.BIOC.DELTAGSEG,Q21454050,,
+DeMixT,GPL-3,Shuai Guo,10.18129/B9.BIOC.DEMIXT,Q89939414,en,researcher (ORCID 0000-0002-7418-6915)
+DEP,Artistic-2.0,Arne Smits,10.18129/B9.BIOC.DEP,Q42648769,en,researcher
+DepecheR,MIT,Jakob Theorell,10.18129/B9.BIOC.DEPECHER,Q92198238,en,researcher (ORCID 0000-0001-8752-3151)
+DepInfeR,GPL-3,Junyan Lu,10.18129/B9.BIOC.DEPINFER,Q51550184,en,researcher
+DEqMS,LGPL (>= 2.1),Yafeng Zhu,10.18129/B9.BIOC.DEQMS,,,
+derfinderHelper,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERHELPER,Q56433434,en,researcher
+derfinderPlot,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.DERFINDERPLOT,Q56433434,en,researcher
+DEScan2,Artistic-2.0,Dario Righelli,10.18129/B9.BIOC.DESCAN2,Q64141115,en,researcher
+DEsubs,GPL-3,Aristidis G. Vrahatis,10.18129/B9.BIOC.DESUBS,Q102707911,en,Ph.D. 2016
+DEWSeq,LGPL (>= 2.1),bioinformatics team Hentze,10.18129/B9.BIOC.DEWSEQ,,,
+DExMA,GPL-2,Juan Antonio Villatoro-García,10.18129/B9.BIOC.DEXMA,,,
+DFP,GPL-2,Rodrigo Alvarez-Glez,10.18129/B9.BIOC.DFP,,,
+DIAlignR,GPL-3,Shubham Gupta,10.18129/B9.BIOC.DIALIGNR,Q91296856,en,researcher (ORCID 0000-0003-3500-8152)
+DiffBind,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.DIFFBIND,Q42664072,en,researcher
+diffcoexp,GPL (> 2),Wenbin Wei,10.18129/B9.BIOC.DIFFCOEXP,Q38319488,en,researcher (ORCID 0000-0003-1288-6999)
+diffcyt,MIT,Lukas M. Weber,10.18129/B9.BIOC.DIFFCYT,,,
+DifferentialRegulation,GPL-3,Simone Tiberi,10.18129/B9.BIOC.DIFFERENTIALREGULATION,Q90364833,en,researcher (ORCID 0000-0002-3054-9964)
+diffGeneAnalysis,GPL,Choudary Jagarlamudi,10.18129/B9.BIOC.DIFFGENEANALYSIS,,,
+diffHic,GPL-3,Aaron Lun,10.18129/B9.BIOC.DIFFHIC,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+DiffLogo,GPL (>= 2),Hendrik Treutler,10.18129/B9.BIOC.DIFFLOGO,Q56558767,en,researcher
+diffloop,MIT,Caleb Lareau,10.18129/B9.BIOC.DIFFLOOP,Q58658137,en,researcher ORCID ID = 0000-0003-4179-4807
+Dino,GPL-3,Jared Brown,10.18129/B9.BIOC.DINO,Q89961108,en,researcher
+dir.expiry,GPL-3,Aaron Lun,10.18129/B9.BIOC.DIR.EXPIRY,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+DirichletMultinomial,LGPL (>= 2.1),Martin Morgan,10.18129/B9.BIOC.DIRICHLETMULTINOMIAL,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+discordant,GPL-3,McGrath Max,10.18129/B9.BIOC.DISCORDANT,,,
+distinct,GPL (>= 3),Simone Tiberi,10.18129/B9.BIOC.DISTINCT,Q90364833,en,researcher (ORCID 0000-0002-3054-9964)
+divergence,GPL-2,Wikum Dinalankara,10.18129/B9.BIOC.DIVERGENCE,Q88390965,en,researcher
+dks,GPL,Jeffrey T. Leek,10.18129/B9.BIOC.DKS,Q41905110,en,biostatistician and data scientist
+DMCFB,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.DMCFB,Q91246619,en,researcher (ORCID 0000-0002-6224-2609)
+DMCHMM,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.DMCHMM,Q91246619,en,researcher (ORCID 0000-0002-6224-2609)
+DMRforPairs,GPL (>= 2),Martin Rijlaarsdam,10.18129/B9.BIOC.DMRFORPAIRS,Q59692049,en,researcher ORCID ID = 0000-0002-2528-8077
+DMRScan,GPL-3,Christian M Page,10.18129/B9.BIOC.DMRSCAN,,,
+DNABarcodes,GPL-2,Tilo Buschmann,10.18129/B9.BIOC.DNABARCODES,,,
+DNAcopy,GPL (>= 2),Venkatraman E. Seshan,10.18129/B9.BIOC.DNACOPY,,,
+Doscheda,GPL-3,Bruno Contrino,10.18129/B9.BIOC.DOSCHEDA,,,
+doseR,GPL,ake.vastermark,10.18129/B9.BIOC.DOSER,,,
+dpeak,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.DPEAK,Q50903908,en,researcher
+DriverNet,GPL-3,Jiarui Ding,10.18129/B9.BIOC.DRIVERNET,Q88764446,en,researcher
+drugTargetInteractions,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.DRUGTARGETINTERACTIONS,Q55473652,en,researcher
+DrugVsDisease,GPL-3,j. Saez-Rodriguez,10.18129/B9.BIOC.DRUGVSDISEASE,,,
+dStruct,GPL (>= 2),Krishna Choudhary,10.18129/B9.BIOC.DSTRUCT,Q82756495,en,researcher
+DTA,Artistic-2.0,Bjoern Schwalb,10.18129/B9.BIOC.DTA,Q102441009,en,Dr. rer. nat. Ludwig-Maximilians-Universität München 2012
+Dune,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.DUNE,Q95627783,en,researcher
+DynDoc,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.DYNDOC,,,
+easyreporting,Artistic-2.0,Dario Righelli,10.18129/B9.BIOC.EASYREPORTING,Q64141115,en,researcher
+EBarrays,GPL (>= 2),Ming Yuan,10.18129/B9.BIOC.EBARRAYS,,,
+EBcoexpress,GPL (>= 2),John A. Dawson,10.18129/B9.BIOC.EBCOEXPRESS,,,
+EBSEA,GPL-2,Arfa Mehmood,10.18129/B9.BIOC.EBSEA,,,
+EBSeq,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.EBSEQ,,,
+EBSeqHMM,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.EBSEQHMM,,,
+ecolitk,GPL (>= 2),Laurent Gautier,10.18129/B9.BIOC.ECOLITK,Q21513832,en,botanist
+EDASeq,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.EDASEQ,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+edge,MIT,John D. Storey,10.18129/B9.BIOC.EDGE,Q55121965,en,genomics statistician
+eegc,GPL-2,Xiaoyuan Zhou,10.18129/B9.BIOC.EEGC,Q89074957,en,researcher (ORCID 0000-0002-0930-1278)
+eiR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.EIR,Q55473652,en,researcher
+EMDomics,MIT,Sadhika Malladi,10.18129/B9.BIOC.EMDOMICS,,,
+EmpiricalBrownsMethod,MIT,David Gibbs,10.18129/B9.BIOC.EMPIRICALBROWNSMETHOD,Q64104494,en,researcher
+EnhancedVolcano,GPL-3,Kevin Blighe,10.18129/B9.BIOC.ENHANCEDVOLCANO,Q92890211,en,researcher (ORCID 0000-0002-6322-6571)
+enhancerHomologSearch,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.ENHANCERHOMOLOGSEARCH,Q60678173,en,researcher
+EnMCB,GPL-2,Xin Yu,10.18129/B9.BIOC.ENMCB,Q55873625,en,researcher (ORCID 0000-0001-8996-0267)
+ENmix,Artistic-2.0,Zongli Xu,10.18129/B9.BIOC.ENMIX,Q56435605,en,researcher
+EnrichedHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.ENRICHEDHEATMAP,Q44539523,en,researcher
+enrichplot,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.ENRICHPLOT,Q56548905,en,researcher
+enrichTF,GPL-3,Zheng Wei,10.18129/B9.BIOC.ENRICHTF,,,
+ensemblVEP,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ENSEMBLVEP,,,
+epialleleR,Artistic-2.0,Oleksii Nikolaienko,10.18129/B9.BIOC.EPIALLELER,Q37838408,en,researcher
+EpiCompare,GPL-3,Sera Choi,10.18129/B9.BIOC.EPICOMPARE,,,
+epidecodeR,GPL-3,Kandarp Joshi,10.18129/B9.BIOC.EPIDECODER,,,
+EpiDISH,GPL-2,Shijie C. Zheng,10.18129/B9.BIOC.EPIDISH,,,
+epigraHMM,MIT,Pedro Baldoni,10.18129/B9.BIOC.EPIGRAHMM,Q91966734,en,researcher (ORCID 0000-0002-9510-8326)
+epihet,Artistic-2.0,Xiaowen Chen,10.18129/B9.BIOC.EPIHET,Q59694901,en,researcher ORCID ID = 0000-0002-3118-3837
+epimutacions,MIT,Leire Abarrategui,10.18129/B9.BIOC.EPIMUTACIONS,,,
+epistack,MIT,DEVAILLY Guillaume,10.18129/B9.BIOC.EPISTACK,,,
+EpiTxDb,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.EPITXDB,,,
+epivizr,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZR,Q35703653,en,researcher
+epivizrChart,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRCHART,Q35703653,en,researcher
+epivizrData,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRDATA,Q35703653,en,researcher
+epivizrServer,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRSERVER,Q35703653,en,researcher
+epivizrStandalone,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.EPIVIZRSTANDALONE,Q35703653,en,researcher
+erccdashboard,GPL (>= 2),Sarah Munro,10.18129/B9.BIOC.ERCCDASHBOARD,Q63616662,en,researcher (ORCID 0000-0002-3884-6592)
+erma,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.ERMA,,,
+ERSSA,GPL-3,Zixuan Shao,10.18129/B9.BIOC.ERSSA,,,
+escape,GPL-2,Nick Borcherding,10.18129/B9.BIOC.ESCAPE,,,
+esetVis,GPL-3,Laure Cougnaud,10.18129/B9.BIOC.ESETVIS,,,
+eudysbiome,GPL-2,Xiaoyuan Zhou,10.18129/B9.BIOC.EUDYSBIOME,Q89074957,en,researcher (ORCID 0000-0002-0930-1278)
+evaluomeR,GPL-3,José Antonio Bernabé-Díaz,10.18129/B9.BIOC.EVALUOMER,,,
+ExCluster,GPL-3,R. Matthew Tanner,10.18129/B9.BIOC.EXCLUSTER,,,
+ExiMiR,GPL-2,Sylvain Gubian,10.18129/B9.BIOC.EXIMIR,,,
+exomeCopy,GPL (>= 2),Michael Love,10.18129/B9.BIOC.EXOMECOPY,Q50556919,en,researcher
+exomePeak2,Artistic-2.0,Zhen Wei,10.18129/B9.BIOC.EXOMEPEAK2,Q61940007,en,researcher ORCID ID = 0000-0002-1760-8878
+ExperimentHub,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.EXPERIMENTHUB,,,
+ExperimentHubData,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.EXPERIMENTHUBDATA,,,
+ExperimentSubset,MIT,Irzam Sarfraz,10.18129/B9.BIOC.EXPERIMENTSUBSET,,,
+ExploreModelMatrix,MIT,Charlotte Soneson,10.18129/B9.BIOC.EXPLOREMODELMATRIX,Q43290839,en,researcher
+ExpressionAtlas,GPL (>= 3),Pedro Madrigal,10.18129/B9.BIOC.EXPRESSIONATLAS,Q30504999,en,Computational biologist
+extraChIPs,GPL-3,Stephen Pederson,10.18129/B9.BIOC.EXTRACHIPS,Q61727562,en,researcher ORCID ID = 0000-0001-8197-3303
+fabia,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.FABIA,Q96766980,en,researcher
+factDesign,LGPL (>= 2.1),Denise Scholtens,10.18129/B9.BIOC.FACTDESIGN,Q96581058,en,researcher
+famat,GPL-3,Mathieu Charles,10.18129/B9.BIOC.FAMAT,Q52184215,,
+farms,LGPL (>= 2.1),Djork-Arne Clevert,10.18129/B9.BIOC.FARMS,Q59559864,en,researcher ORCID ID = 0000-0003-4191-2156
+fastLiquidAssociation,GPL-2,Tina Gunderson,10.18129/B9.BIOC.FASTLIQUIDASSOCIATION,Q86693010,en,researcher
+FastqCleaner,MIT,Leandro Roser,10.18129/B9.BIOC.FASTQCLEANER,,,
+fastreeR,GPL-3,Anestis Gkanogiannis,10.18129/B9.BIOC.FASTREER,,,
+FCBF,MIT,Tiago Lubiana,10.18129/B9.BIOC.FCBF,Q90076935,en,researcher
+fCI,GPL (>= 2),Shaojun Tang,10.18129/B9.BIOC.FCI,Q103362474,en,Ph.D. Wuhan University 2018
+fcoex,GPL-3,Tiago Lubiana,10.18129/B9.BIOC.FCOEX,Q90076935,en,researcher
+fcScan,Artistic-2.0,Pierre Khoueiry,10.18129/B9.BIOC.FCSCAN,Q51909397,en,researcher
+fdrame,GPL (>= 2),Effi Kenigsberg,10.18129/B9.BIOC.FDRAME,,,
+FEAST,GPL-2,Kenong Su,10.18129/B9.BIOC.FEAST,,,
+fedup,MIT,Catherine Ross,10.18129/B9.BIOC.FEDUP,,,
+fgga,GPL-3,Spetale Flavio,10.18129/B9.BIOC.FGGA,,,
+FilterFFPE,LGPL (>= 2.1),Lanying Wei,10.18129/B9.BIOC.FILTERFFPE,,,
+FISHalyseR,Artistic-2.0,Karesh Arunakirinathan,10.18129/B9.BIOC.FISHALYSER,,,
+FitHiC,GPL (>= 2),Ruyu Tan,10.18129/B9.BIOC.FITHIC,,,
+flagme,LGPL (>= 2.1),Mark Robinson,10.18129/B9.BIOC.FLAGME,Q37391287,en,researcher
+FLAMES,GPL (>= 2),Voogd Oliver,10.18129/B9.BIOC.FLAMES,,,
+flowBeads,Artistic-2.0,Nikolas Pontikos,10.18129/B9.BIOC.FLOWBEADS,Q55718209,en,researcher
+flowBin,Artistic-2.0,Kieran O'Neill,10.18129/B9.BIOC.FLOWBIN,Q37379978,en,researcher
+flowcatchR,BSD_3_clause,Federico Marini,10.18129/B9.BIOC.FLOWCATCHR,Q43198520,en,researcher ORCID: 0000-0001-8266-1117
+flowCHIC,GPL-2,Author: Joachim Schumann,10.18129/B9.BIOC.FLOWCHIC,,,
+flowCL,Artistic-2.0,Justin Meskas,10.18129/B9.BIOC.FLOWCL,,,
+flowClean,Artistic-2.0,Kipper Fletez-Brant,10.18129/B9.BIOC.FLOWCLEAN,Q62816451,en,researcher
+flowClust,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWCLUST,Q55364287,en,researcher
+flowCore,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.FLOWCORE,,,
+flowCut,Artistic-2.0,Justin Meskas,10.18129/B9.BIOC.FLOWCUT,,,
+flowCyBar,GPL-2,Joachim Schumann,10.18129/B9.BIOC.FLOWCYBAR,,,
+flowDensity,Artistic-2.0,Mehrnoush Malek,10.18129/B9.BIOC.FLOWDENSITY,,,
+flowFP,Artistic-2.0,Herb Holyst,10.18129/B9.BIOC.FLOWFP,,,
+flowGraph,Artistic-2.0,Alice Yue,10.18129/B9.BIOC.FLOWGRAPH,Q57081028,en,researcher
+flowMap,GPL (>= 2),Chiaowen Joyce Hsiao,10.18129/B9.BIOC.FLOWMAP,Q87647055,en,researcher
+flowMatch,Artistic-2.0,Ariful Azad,10.18129/B9.BIOC.FLOWMATCH,Q103035626,en,Ph.D. Purdue University 2014
+flowMeans,Artistic-2.0,Nima Aghaeepour,10.18129/B9.BIOC.FLOWMEANS,Q97905004,en,researcher
+flowMerge,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWMERGE,Q55364287,en,researcher
+flowPeaks,Artistic-1.0,Yongchao Ge,10.18129/B9.BIOC.FLOWPEAKS,Q102263097,en,"Ph.D. University of California, Berkeley 2003"
+flowPlots,Artistic-2.0,N. Hawkins,10.18129/B9.BIOC.FLOWPLOTS,,,
+FlowSOM,GPL (>= 2),Sofie Van Gassen,10.18129/B9.BIOC.FLOWSOM,Q56489658,en,researcher
+flowSpecs,MIT,Jakob Theorell,10.18129/B9.BIOC.FLOWSPECS,Q92198238,en,researcher (ORCID 0000-0001-8752-3151)
+flowStats,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWSTATS,Q55364287,en,researcher
+flowTime,Artistic-2.0,R. Clay Wright,10.18129/B9.BIOC.FLOWTIME,Q83940147,en,researcher
+flowTrans,Artistic-2.0,Greg Finak,10.18129/B9.BIOC.FLOWTRANS,Q55364287,en,researcher
+flowUtils,Artistic-2.0,Josef Spidlen,10.18129/B9.BIOC.FLOWUTILS,Q91525462,en,researcher (ORCID 0000-0002-9710-1910)
+flowViz,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.FLOWVIZ,,,
+flowVS,Artistic-2.0,Ariful Azad,10.18129/B9.BIOC.FLOWVS,Q103035626,en,Ph.D. Purdue University 2014
+fmcsR,Artistic-2.0,Thomas Girke,10.18129/B9.BIOC.FMCSR,Q55473652,en,researcher
+fmrs,GPL-3,Farhad Shokoohi,10.18129/B9.BIOC.FMRS,Q91246619,en,researcher (ORCID 0000-0002-6224-2609)
+FRASER,MIT,Christian Mertes,10.18129/B9.BIOC.FRASER,Q55718281,en,researcher
+frenchFISH,Artistic-2.0,Adam Berman,10.18129/B9.BIOC.FRENCHFISH,Q89260027,en,researcher
+FRGEpistasis,GPL-2,Futao Zhang,10.18129/B9.BIOC.FRGEPISTASIS,Q57638791,en,researcher ORCID ID = 0000-0002-6043-1756
+frma,GPL (>= 2),Matthew N. McCall,10.18129/B9.BIOC.FRMA,,,
+frmaTools,GPL (>= 2),Matthew N. McCall,10.18129/B9.BIOC.FRMATOOLS,,,
+FScanR,Artistic-2.0,Xiao Chen,10.18129/B9.BIOC.FSCANR,Q54409574,en,researcher (ORCID 0000-0002-4438-5286)
+FunChIP,Artistic-2.0,Alice Parodi,10.18129/B9.BIOC.FUNCHIP,,,
+funtooNorm,GPL-3,Kathleen Klein,10.18129/B9.BIOC.FUNTOONORM,,,
+GA4GHclient,GPL (>= 2),Welliton Souza,10.18129/B9.BIOC.GA4GHCLIENT,,,
+GA4GHshiny,GPL-3,Welliton Souza,10.18129/B9.BIOC.GA4GHSHINY,,,
+gaga,GPL (>= 2),David Rossell,10.18129/B9.BIOC.GAGA,Q90533855,en,researcher (ORCID 0000-0002-7104-5789)
+gage,GPL (>= 2.0),Weijun Luo,10.18129/B9.BIOC.GAGE,Q88221529,en,researcher (ORCID 0000-0002-6048-5164)
+gaia,GPL-2,S. Morganella,10.18129/B9.BIOC.GAIA,,,
+GAPGOM,MIT,Rezvan Ehsani,10.18129/B9.BIOC.GAPGOM,,,
+GAprediction,GPL (>= 2),Jon Bohlin,10.18129/B9.BIOC.GAPREDICTION,Q42322490,en,researcher
+garfield,GPL-3,Valentina Iotchkova,10.18129/B9.BIOC.GARFIELD,Q42533512,en,researcher
+GateFinder,Artistic-2.0,Nima Aghaeepour,10.18129/B9.BIOC.GATEFINDER,Q97905004,en,researcher
+GBScleanR,GPL-3,Tomoyuki Furuta,10.18129/B9.BIOC.GBSCLEANR,Q61793769,en,researcher ORCID ID = 0000-0002-0869-6626
+gcatest,GPL-3,Wei Hao,10.18129/B9.BIOC.GCATEST,,,
+gCrisprTools,Artistic-2.0,Russell Bainer,10.18129/B9.BIOC.GCRISPRTOOLS,Q96063657,en,researcher
+gcrma,LGPL (>= 2.1),Z. Wu,10.18129/B9.BIOC.GCRMA,Q48898068,,
+GCSConnection,GPL (>= 2),Jiefei Wang,10.18129/B9.BIOC.GCSCONNECTION,Q90928985,en,researcher (ORCID 0000-0002-2709-5332)
+GCSFilesystem,GPL (>= 2),Jiefei Wang,10.18129/B9.BIOC.GCSFILESYSTEM,Q90928985,en,researcher (ORCID 0000-0002-2709-5332)
+GCSscore,GPL (>= 3),Guy M. Harris,10.18129/B9.BIOC.GCSSCORE,,,
+GDCRNATools,Artistic-2.0,Ruidong Li,10.18129/B9.BIOC.GDCRNATOOLS,Q98159158,en,researcher
+GDSArray,GPL-3,Qian Liu,10.18129/B9.BIOC.GDSARRAY,,,
+GEM,Artistic-2.0,Hong Pan,10.18129/B9.BIOC.GEM,,,
+gemini,BSD_3_clause,Sidharth Jain,10.18129/B9.BIOC.GEMINI,,,
+genbankr,Artistic-2.0,Gabriel Becker,10.18129/B9.BIOC.GENBANKR,Q102675489,en,"Ph.D. University of California, Davis 2014"
+geneAttribution,Artistic-2.0,Arthur Wuster,10.18129/B9.BIOC.GENEATTRIBUTION,Q41483745,en,researcher
+GeneBreak,GPL-2,Evert van den Broek,10.18129/B9.BIOC.GENEBREAK,,,
+geneClassifiers,GPL-2,R Kuiper,10.18129/B9.BIOC.GENECLASSIFIERS,,,
+genefilter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEFILTER,,,
+genefu,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.GENEFU,Q38639014,en,researcher
+GeneGA,GPL-2,Zhenpeng Li,10.18129/B9.BIOC.GENEGA,,,
+GeneMeta,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEMETA,,,
+GeneNetworkBuilder,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.GENENETWORKBUILDER,Q60678173,en,researcher
+GeneOverlap,GPL-3,Ant,10.18129/B9.BIOC.GENEOVERLAP,,,
+geneplotter,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENEPLOTTER,,,
+geneRecommender,GPL (>= 2),Greg Hather,10.18129/B9.BIOC.GENERECOMMENDER,,,
+GeneRegionScan,GPL (>= 2),Lasse Folkersen,10.18129/B9.BIOC.GENEREGIONSCAN,Q37629479,en,researcher
+GeneSelectMMD,GPL (>= 2),Weiliang Qiu,10.18129/B9.BIOC.GENESELECTMMD,Q55507718,en,researcher
+GeneStructureTools,BSD_3_clause,Beth Signal,10.18129/B9.BIOC.GENESTRUCTURETOOLS,,,
+GeneticsPed,LGPL (>= 2.1),David Henderson,10.18129/B9.BIOC.GENETICSPED,,,
+geneXtendeR,GPL (>= 3),Bohdan Khomtchouk,10.18129/B9.BIOC.GENEXTENDER,Q96187547,en,researcher
+genoCN,GPL (>= 2),Wei Sun,10.18129/B9.BIOC.GENOCN,Q90742969,en,researcher (ORCID 0000-0002-6350-1107)
+GenomeInfoDb,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENOMEINFODB,,,
+genomeIntervals,Artistic-2.0,Julien Gagneur,10.18129/B9.BIOC.GENOMEINTERVALS,Q42293455,en,researcher
+genomes,GPL-3,Chris Stubben,10.18129/B9.BIOC.GENOMES,Q59196429,en,researcher ORCID ID = 0000-0002-3390-4888
+GenomicDataCommons,Artistic-2.0,Sean Davis,10.18129/B9.BIOC.GENOMICDATACOMMONS,Q37390205,en,bioinformatician
+GenomicDistributions,BSD_2_clause,Kristyna Kupkova,10.18129/B9.BIOC.GENOMICDISTRIBUTIONS,Q56888478,en,researcher
+GenomicFiles,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GENOMICFILES,,,
+GenomicOZone,LGPL (>= 2.1),Hua Zhong,10.18129/B9.BIOC.GENOMICOZONE,Q106767235,,
+GenomicScores,Artistic-2.0,Robert Castelo,10.18129/B9.BIOC.GENOMICSCORES,Q42551515,,
+GenomicSuperSignature,Artistic-2.0,Sehyun Oh,10.18129/B9.BIOC.GENOMICSUPERSIGNATURE,Q98196256,en,researcher
+genphen,GPL (>= 2),Simo Kitanovski,10.18129/B9.BIOC.GENPHEN,Q47565668,en,researcher
+GenProSeq,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.GENPROSEQ,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+GenVisR,GPL-3,Zachary Skidmore,10.18129/B9.BIOC.GENVISR,Q41044304,en,researcher
+GeoDiff,MIT,Nicole Ortogero,10.18129/B9.BIOC.GEODIFF,,,
+GEOexplorer,GPL-3,Guy Hunt,10.18129/B9.BIOC.GEOEXPLORER,,,
+GEOfastq,MIT,Alex Pickering,10.18129/B9.BIOC.GEOFASTQ,,,
+GeomxTools,MIT,Nicole Ortogero,10.18129/B9.BIOC.GEOMXTOOLS,,,
+GEOquery,MIT,Sean Davis,10.18129/B9.BIOC.GEOQUERY,Q37390205,en,bioinformatician
+GEOsubmission,GPL (>= 2),Alexandre Kuhn,10.18129/B9.BIOC.GEOSUBMISSION,Q90907542,en,researcher (ORCID 0000-0001-5539-9002)
+gep2pep,GPL-3,Francesco Napolitano,10.18129/B9.BIOC.GEP2PEP,,,
+gespeR,GPL-3,Fabian Schmich,10.18129/B9.BIOC.GESPER,Q86413377,en,researcher
+geva,LGPL (>= 2.1),Itamar José Guimarães Nunes,10.18129/B9.BIOC.GEVA,Q106714661,,
+GEWIST,GPL-2,Wei Q. Deng,10.18129/B9.BIOC.GEWIST,,,
+ggbio,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.GGBIO,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+ggcyto,Artistic-2.0,Mike Jiang,10.18129/B9.BIOC.GGCYTO,,,
+ggmanh,MIT,John Lee,10.18129/B9.BIOC.GGMANH,,,
+ggmsa,Artistic-2.0,Lang Zhou,10.18129/B9.BIOC.GGMSA,Q113651049,,
+GGPA,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.GGPA,Q50903908,en,researcher
+ggspavis,MIT,Lukas M. Weber,10.18129/B9.BIOC.GGSPAVIS,,,
+ggtree,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.GGTREE,Q56548905,en,researcher
+GIGSEA,LGPL (>= 2.1),Shijia Zhu,10.18129/B9.BIOC.GIGSEA,,,
+GISPA,GPL-2,Bhakti Dwivedi,10.18129/B9.BIOC.GISPA,Q50107918,en,researcher
+GLAD,GPL-2,Philippe Hupe,10.18129/B9.BIOC.GLAD,Q47666497,en,researcher
+GladiaTOX,GPL-2,PMP S.A. R Support,10.18129/B9.BIOC.GLADIATOX,,,
+Glimma,GPL-3,Shian Su,10.18129/B9.BIOC.GLIMMA,,,
+glmSparseNet,GPL-3,André Veríssimo,10.18129/B9.BIOC.GLMSPARSENET,Q56591509,en,researcher
+GlobalAncova,GPL (>= 2),Manuela Hummel,10.18129/B9.BIOC.GLOBALANCOVA,Q89423921,en,researcher
+globalSeq,GPL-3,Armin Rauschenberger,10.18129/B9.BIOC.GLOBALSEQ,Q87418762,en,researcher
+globaltest,GPL (>= 2),Jelle Goeman,10.18129/B9.BIOC.GLOBALTEST,Q48799316,en,researcher
+gmapR,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.GMAPR,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+GmicR,GPL-2,Richard Virgen-Slane,10.18129/B9.BIOC.GMICR,Q59708113,en,researcher ORCID ID = 0000-0002-0011-3844
+gmoviz,GPL-3,Kathleen Zeglinski,10.18129/B9.BIOC.GMOVIZ,,,
+GMRP,GPL (>= 2),Yuan-De Tan,10.18129/B9.BIOC.GMRP,,,
+GNET2,Apache License 2.0,Chen Chen,10.18129/B9.BIOC.GNET2,Q42488282,en,researcher 0000-0003-2104-534X
+GOexpress,GPL (>= 3),Kevin Rue-Albrecht,10.18129/B9.BIOC.GOEXPRESS,Q58165399,en,"researcher, ORCID id # 0000-0003-3899-3872"
+GOfuncR,GPL (>= 2),Steffi Grote,10.18129/B9.BIOC.GOFUNCR,,,
+GOpro,GPL-3,Lidia Chrabaszcz,10.18129/B9.BIOC.GOPRO,,,
+goProfiles,GPL-2,Alex Sanchez,10.18129/B9.BIOC.GOPROFILES,,,
+goseq,LGPL (>= 2.1),Matthew Young,10.18129/B9.BIOC.GOSEQ,Q58234510,en,"researcher, ORCID id # 0000-0003-2921-3432"
+GOSim,GPL (>= 2),Holger Froehlich,10.18129/B9.BIOC.GOSIM,Q39066037,en,German bioinformatician
+goSTAG,GPL-3,Brian D. Bennett,10.18129/B9.BIOC.GOSTAG,,,
+GOstats,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GOSTATS,,,
+GOsummaries,GPL (>= 2),Raivo Kolde,10.18129/B9.BIOC.GOSUMMARIES,Q42082024,en,researcher
+goTools,GPL-2,Agnes Paquet,10.18129/B9.BIOC.GOTOOLS,,,
+GPA,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.GPA,Q50903908,en,researcher
+gpart,MIT,Sun Ah Kim,10.18129/B9.BIOC.GPART,Q73487665,en,researcher
+gpls,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GPLS,,,
+gpuMagic,GPL-3,Jiefei Wang,10.18129/B9.BIOC.GPUMAGIC,Q90928985,en,researcher (ORCID 0000-0002-2709-5332)
+GRaNIE,Artistic-2.0,Christian Arnold,10.18129/B9.BIOC.GRANIE,Q57463112,en,researcher ORCID ID = 0000-0001-9088-4150
+granulator,GPL-3,Sabina Pfister,10.18129/B9.BIOC.GRANULATOR,,,
+graper,GPL (>= 2),Britta Velten,10.18129/B9.BIOC.GRAPER,Q103112237,en,Ph.D. ETH Zürich 2019
+graph,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GRAPH,,,
+GraphAT,LGPL (>= 2.1),Thomas LaFramboise,10.18129/B9.BIOC.GRAPHAT,Q90066038,en,researcher
+graphite,AGPL-3,Gabriele Sales,10.18129/B9.BIOC.GRAPHITE,,,
+GraphPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.GRAPHPAC,Q102430589,en,Ph.D. Yale University 2014
+GRENITS,GPL (>= 2),Edward Morrissey,10.18129/B9.BIOC.GRENITS,Q57244785,en,researcher
+GreyListChIP,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.GREYLISTCHIP,Q42664072,en,researcher
+GRmetrics,GPL-3,Nicholas Clark,10.18129/B9.BIOC.GRMETRICS,Q42882969,en,researcher (ORCID 0000-0001-7131-3301)
+groHMM,GPL-3,Anusha Nagari,10.18129/B9.BIOC.GROHMM,,,
+GRridge,GPL-3,Mark A. van de Wiel,10.18129/B9.BIOC.GRRIDGE,Q90102015,en,biostatistician
+GSALightning,GPL (>= 2),Billy Heung Wing Chang,10.18129/B9.BIOC.GSALIGHTNING,,,
+GSAR,GPL (>= 2),Yasir Rahmatallah,10.18129/B9.BIOC.GSAR,Q92773351,en,researcher (ORCID 0000-0002-8176-6328)
+GSCA,GPL (>= 2),Zhicheng Ji,10.18129/B9.BIOC.GSCA,Q92560339,en,researcher (ORCID 0000-0002-4837-7240)
+GSEABase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.GSEABASE,,,
+GSEAlm,Artistic-2.0,Assaf Oron,10.18129/B9.BIOC.GSEALM,,,
+GSEAmining,GPL-3,Oriol Arqués,10.18129/B9.BIOC.GSEAMINING,Q60648829,en,researcher ORCID ID = 0000-0003-2603-3874
+gsean,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.GSEAN,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+GSReg,GPL-2,Bahman Afsari,10.18129/B9.BIOC.GSREG,Q91967610,en,researcher (ORCID 0000-0001-8717-7199)
+GSRI,GPL-3,Julian Gehring,10.18129/B9.BIOC.GSRI,Q56604473,en,researcher
+gtrellis,MIT,Zuguang Gu,10.18129/B9.BIOC.GTRELLIS,Q44539523,en,researcher
+GUIDEseq,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.GUIDESEQ,Q59510987,en,researcher ORCID ID = 0000-0001-7416-0590
+Guitar,GPL-2,Jia Meng,10.18129/B9.BIOC.GUITAR,Q37374363,en,researcher (ORCID 0000-0003-3455-205X)
+GWAS.BAYES,GPL-2,Jake Williams,10.18129/B9.BIOC.GWAS.BAYES,,,
+gwascat,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.GWASCAT,,,
+gwasurvivr,Artistic-2.0,Abbas Rizvi,10.18129/B9.BIOC.GWASURVIVR,,,
+GWENA,GPL-3,Gwenaëlle Lemoine,10.18129/B9.BIOC.GWENA,,,
+hapFabia,LGPL (>= 2.1),Andreas Mitterecker,10.18129/B9.BIOC.HAPFABIA,Q96766980,en,researcher
+Harshlight,GPL (>= 2),Maurizio Pellegrino,10.18129/B9.BIOC.HARSHLIGHT,,,
+hca,MIT,Martin Morgan,10.18129/B9.BIOC.HCA,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+HDF5Array,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.HDF5ARRAY,,,
+HDTD,GPL-3,Anestis Touloumis,10.18129/B9.BIOC.HDTD,Q59564590,en,researcher ORCID ID = 0000-0002-5965-1639
+heatmaps,Artistic-2.0,Malcolm Perry,10.18129/B9.BIOC.HEATMAPS,,,
+Heatplus,GPL (>= 2),Alexander Ploner,10.18129/B9.BIOC.HEATPLUS,Q54997547,en,researcher
+HelloRanges,GPL (>= 2),Michael Lawrence,10.18129/B9.BIOC.HELLORANGES,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+HELP,GPL (>= 2),Reid F. Thompson,10.18129/B9.BIOC.HELP,,,
+HEM,GPL (>= 2),HyungJun Cho,10.18129/B9.BIOC.HEM,Q57437033,en,researcher
+hermes,Apache License 2.0,Daniel Sabanés Bové,10.18129/B9.BIOC.HERMES,Q102426905,en,Dr. sc. nat. Universität Zürich 2014
+HGC,GPL-3,XGlab,10.18129/B9.BIOC.HGC,,,
+hiAnnotator,GPL (>= 2),Nirav V Malani,10.18129/B9.BIOC.HIANNOTATOR,,,
+HIBAG,GPL-3,Xiuwen Zheng,10.18129/B9.BIOC.HIBAG,Q56992852,en,researcher (ORCID 0000-0002-1390-0708)
+HiCDCPlus,GPL-3,Merve Sahin,10.18129/B9.BIOC.HICDCPLUS,Q82658840,en,researcher
+hierGWAS,GPL-3,Laura Buzdugan,10.18129/B9.BIOC.HIERGWAS,,,
+hierinf,GPL-3,Claude Renaux,10.18129/B9.BIOC.HIERINF,,,
+HilbertCurve,MIT,Zuguang Gu,10.18129/B9.BIOC.HILBERTCURVE,Q44539523,en,researcher
+HiLDA,GPL-3,Zhi Yang,10.18129/B9.BIOC.HILDA,Q58120268,en,"researcher, ORCID id # 0000-0002-2222-2312"
+hipathia,GPL-2,Marta R. Hidalgo,10.18129/B9.BIOC.HIPATHIA,,,
+HIPPO,GPL (>= 2),Tae Kim,10.18129/B9.BIOC.HIPPO,Q91854988,en,researcher (ORCID 0000-0003-0201-5401)
+hiReadsProcessor,GPL-3,Nirav V Malani,10.18129/B9.BIOC.HIREADSPROCESSOR,,,
+HIREewas,GPL (>= 2),Xiangyu Luo,10.18129/B9.BIOC.HIREEWAS,Q58218606,en,"researcher, ORCID id # 0000-0002-8825-3250"
+hmdbQuery,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.HMDBQUERY,,,
+HMMcopy,GPL-3,Daniel Lai,10.18129/B9.BIOC.HMMCOPY,Q57263306,en,researcher ORCID: 0000-0001-6365-3189
+hopach,GPL (>= 2),Katherine S. Pollard,10.18129/B9.BIOC.HOPACH,Q90391163,en,"Professor at the Gladstone Institute,  University of California, San Francisco"
+hpar,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.HPAR,Q29998944,en,researcher
+HPAStainR,Artistic-2.0,Tim O. Nieuwenhuis,10.18129/B9.BIOC.HPASTAINR,,,
+HPiP,MIT,Matineh Rahmatbakhsh,10.18129/B9.BIOC.HPIP,,,
+HTqPCR,Artistic-2.0,Heidi Dvinge,10.18129/B9.BIOC.HTQPCR,Q55137388,en,researcher
+HTSeqGenie,Artistic-2.0,Jens Reeder,10.18129/B9.BIOC.HTSEQGENIE,,,
+HTSFilter,Artistic-2.0,Andrea Rau,10.18129/B9.BIOC.HTSFILTER,,,
+HubPub,Artistic-2.0,Kayla Interdonato,10.18129/B9.BIOC.HUBPUB,,,
+HumanTranscriptomeCompendium,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.HUMANTRANSCRIPTOMECOMPENDIUM,,,
+HybridMTest,GPL (>= 2),Demba Fofana,10.18129/B9.BIOC.HYBRIDMTEST,Q102443911,en,Ph.D. The University of Memphis 2016
+hypeR,GPL-3,Anthony Federico,10.18129/B9.BIOC.HYPER,Q90665329,en,researcher (ORCID 0000-0002-9200-1689)
+hyperdraw,GPL (>= 2),Paul Murrell,10.18129/B9.BIOC.HYPERDRAW,,,
+hypergraph,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.HYPERGRAPH,,,
+iASeq,GPL-2,Yingying Wei,10.18129/B9.BIOC.IASEQ,Q57036152,en,researcher (ORCID 0000-0003-3826-336X)
+iasva,GPL-2,Donghyung Lee,10.18129/B9.BIOC.IASVA,Q89452071,en,researcher
+iBBiG,Artistic-2.0,Aedin Culhane,10.18129/B9.BIOC.IBBIG,Q41048650,en,researcher
+ibh,GPL (>= 2),Kircicegi Korkmaz,10.18129/B9.BIOC.IBH,,,
+iBMQ,Artistic-2.0,Greg Imholte,10.18129/B9.BIOC.IBMQ,,,
+iCARE,GPL-3,Bill Wheeler,10.18129/B9.BIOC.ICARE,,,
+Icens,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ICENS,,,
+icetea,GPL-3,Vivek Bhardwaj,10.18129/B9.BIOC.ICETEA,Q55979466,en,researcher
+iCheck,GPL (>= 2),Weiliang Qiu,10.18129/B9.BIOC.ICHECK,Q55507718,en,researcher
+iChip,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ICHIP,Q104495361,en,researcher
+iClusterPlus,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ICLUSTERPLUS,Q104495361,en,researcher
+iCNV,GPL-2,Zilu Zhou,10.18129/B9.BIOC.ICNV,Q87718923,en,researcher
+iCOBRA,GPL (>= 2),Charlotte Soneson,10.18129/B9.BIOC.ICOBRA,Q43290839,en,researcher
+IdeoViz,GPL-2,Shraddha Pai,10.18129/B9.BIOC.IDEOVIZ,Q91831658,en,researcher (ORCID 0000-0002-1048-581X)
+idiogram,GPL-2,Karl J. Dykema,10.18129/B9.BIOC.IDIOGRAM,,,
+iGC,GPL-2,Liang-Bo Wang,10.18129/B9.BIOC.IGC,Q58049197,en,"researcher, ORCID id # 0000-0001-6977-9348"
+igvR,MIT,Paul Shannon,10.18129/B9.BIOC.IGVR,,,
+ILoReg,GPL-3,Johannes Smolander,10.18129/B9.BIOC.ILOREG,,,
+IMAS,GPL-2,Seonggyun Han,10.18129/B9.BIOC.IMAS,,,
+imcRtools,GPL-3,Nils Eling,10.18129/B9.BIOC.IMCRTOOLS,Q57496148,en,researcher ORCID ID = 0000-0002-4711-1176
+IMMAN,Artistic-2.0,Minoo Ashtiani,10.18129/B9.BIOC.IMMAN,,,
+ImmuneSpaceR,GPL-2,ImmuneSpace Package Maintainer,10.18129/B9.BIOC.IMMUNESPACER,,,
+immunoClust,Artistic-2.0,Till Soerensen,10.18129/B9.BIOC.IMMUNOCLUST,,,
+immunotation,GPL-3,Katharina Imkeller,10.18129/B9.BIOC.IMMUNOTATION,Q89031449,en,researcher
+impute,GPL-2,Balasubramanian Narasimhan,10.18129/B9.BIOC.IMPUTE,Q88873807,en,researcher (ORCID 0000-0002-9627-094X)
+INDEED,Artistic-2.0,Ressom group,10.18129/B9.BIOC.INDEED,,,
+infercnv,BSD_3_clause,Christophe Georgescu,10.18129/B9.BIOC.INFERCNV,,,
+infinityFlow,GPL-3,Etienne Becht,10.18129/B9.BIOC.INFINITYFLOW,Q89183551,en,researcher
+Informeasure,GPL-3,Chu Pan,10.18129/B9.BIOC.INFORMEASURE,Q91869084,en,researcher (ORCID 0000-0002-6482-248X)
+InPAS,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.INPAS,Q60678173,en,researcher
+INPower,GPL-2,Bill Wheeler,10.18129/B9.BIOC.INPOWER,,,
+intansv,MIT,Wen Yao,10.18129/B9.BIOC.INTANSV,Q59175069,en,researcher ORCID ID = 0000-0002-0643-506X
+interacCircos,GPL-3,Zhe Cui,10.18129/B9.BIOC.INTERACCIRCOS,Q59395491,en,researcher ORCID ID = 0000-0002-2967-8566
+InteractionSet,GPL-3,Aaron Lun,10.18129/B9.BIOC.INTERACTIONSET,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+InteractiveComplexHeatmap,MIT,Zuguang Gu,10.18129/B9.BIOC.INTERACTIVECOMPLEXHEATMAP,Q44539523,en,researcher
+interactiveDisplay,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.INTERACTIVEDISPLAY,,,
+interactiveDisplayBase,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.INTERACTIVEDISPLAYBASE,,,
+InterCellar,MIT,Marta Interlandi,10.18129/B9.BIOC.INTERCELLAR,,,
+InterMineR,LGPL (>= 2.1),InterMine Team,10.18129/B9.BIOC.INTERMINER,,,
+IntramiRExploreR,GPL-2,Surajit Bhattacharya,10.18129/B9.BIOC.INTRAMIREXPLORER,Q86093682,en,researcher
+inveRsion,GPL (>= 2),Alejandro Caceres,10.18129/B9.BIOC.INVERSION,Q84721761,en,researcher (ORCID 0000-0001-6490-9107)
+IONiseR,MIT,Mike Smith,10.18129/B9.BIOC.IONISER,,,
+iPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.IPAC,Q102430589,en,Ph.D. Yale University 2014
+iPath,GPL-2,Kenong Su,10.18129/B9.BIOC.IPATH,,,
+ipdDb,Artistic-2.0,Steffen Klasberg,10.18129/B9.BIOC.IPDDB,,,
+IPO,GPL (>= 2),Thomas Riebenbauer,10.18129/B9.BIOC.IPO,,,
+IRISFGM,GPL-2,Yuzhou Chang,10.18129/B9.BIOC.IRISFGM,Q90987576,en,researcher (ORCID 0000-0002-0220-2429)
+ISAnalytics,CC BY 4.0,Andrea Calabria,10.18129/B9.BIOC.ISANALYTICS,Q56426631,en,researcher
+iSEEu,MIT,Kevin Rue-Albrecht,10.18129/B9.BIOC.ISEEU,Q58165399,en,"researcher, ORCID id # 0000-0003-3899-3872"
+iSeq,GPL (>= 2),Qianxing Mo,10.18129/B9.BIOC.ISEQ,Q104495361,en,researcher
+isobar,LGPL (>= 2.1),Florian P Breitwieser,10.18129/B9.BIOC.ISOBAR,Q54195937,en,researcher
+IsoCorrectoR,GPL-3,Christian Kohler,10.18129/B9.BIOC.ISOCORRECTOR,,,
+IsoCorrectoRGUI,GPL-3,Christian Kohler,10.18129/B9.BIOC.ISOCORRECTORGUI,,,
+IsoGeneGUI,GPL-2,Setia Pramana,10.18129/B9.BIOC.ISOGENEGUI,Q56810327,en,researcher
+ISoLDE,GPL (>= 2.0),Christelle Reynès,10.18129/B9.BIOC.ISOLDE,,,
+isomiRs,MIT,Lorena Pantano,10.18129/B9.BIOC.ISOMIRS,Q88703023,en,researcher
+ITALICS,GPL-2,Guillem Rigaill,10.18129/B9.BIOC.ITALICS,,,
+iterativeBMA,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.ITERATIVEBMA,Q42872283,en,researcher and professor at the University of Washington
+iterativeBMAsurv,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.ITERATIVEBMASURV,Q42872283,en,researcher and professor at the University of Washington
+iteremoval,GPL-2,Jiacheng Chuan,10.18129/B9.BIOC.ITEREMOVAL,,,
+IVAS,GPL-2,Seonggyun Han,10.18129/B9.BIOC.IVAS,,,
+ivygapSE,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.IVYGAPSE,,,
+KBoost,GPL-2,Luis F. Iglesias-Martinez,10.18129/B9.BIOC.KBOOST,,,
+KCsmart,GPL-3,Jorma de Ronde,10.18129/B9.BIOC.KCSMART,,,
+KEGGgraph,GPL (>= 2),Jitao David Zhang,10.18129/B9.BIOC.KEGGGRAPH,Q64785559,en,researcher
+KEGGlincs,GPL-3,Shana White,10.18129/B9.BIOC.KEGGLINCS,,,
+keggorthology,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.KEGGORTHOLOGY,,,
+KEGGREST,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.KEGGREST,,,
+KinSwingR,GPL-3,Ashley J. Waardenberg,10.18129/B9.BIOC.KINSWINGR,,,
+kissDE,GPL (>= 2),Aurélie Siberchicot,10.18129/B9.BIOC.KISSDE,Q60731824,en,researcher ORCID ID = 0000-0002-7638-8318
+KnowSeq,GPL (>= 2),Daniel Castillo-Secilla,10.18129/B9.BIOC.KNOWSEQ,,,
+lapmix,GPL (>= 2),Yann Ruffieux,10.18129/B9.BIOC.LAPMIX,Q82972450,en,researcher
+LBE,GPL-2,Cyril Dalmasso,10.18129/B9.BIOC.LBE,,,
+ldblock,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.LDBLOCK,,,
+LEA,GPL-3,Olivier Francois,10.18129/B9.BIOC.LEA,Q58657867,en,researcher ORCID ID = 0000-0003-2402-2442
+lefser,Artistic-2.0,Asya Khleborodova,10.18129/B9.BIOC.LEFSER,,,
+les,GPL-3,Julian Gehring,10.18129/B9.BIOC.LES,Q56604473,en,researcher
+levi,GPL (>= 2),Jose Luiz Rybarczyk Filho,10.18129/B9.BIOC.LEVI,,,
+lfa,GPL-3,Wei Hao,10.18129/B9.BIOC.LFA,,,
+limmaGUI,GPL (>= 2),Gordon Smyth,10.18129/B9.BIOC.LIMMAGUI,Q37391308,en,researcher
+LineagePulse,Artistic-2.0,David S Fischer,10.18129/B9.BIOC.LINEAGEPULSE,Q92768246,en,researcher (ORCID 0000-0002-1293-7656)
+lineagespot,MIT,Nikolaos Pechlivanis,10.18129/B9.BIOC.LINEAGESPOT,,,
+LinkHD,GPL-3,"""Laura M Zingaretti""",10.18129/B9.BIOC.LINKHD,,,
+LinTInd,MIT,Luyue Wang,10.18129/B9.BIOC.LINTIND,,,
+lipidr,MIT,Ahmed Mohamed,10.18129/B9.BIOC.LIPIDR,Q73192823,en,researcher
+LiquidAssociation,GPL (>= 3),Yen-Yi Ho,10.18129/B9.BIOC.LIQUIDASSOCIATION,Q92147364,en,researcher (ORCID 0000-0002-3224-3184)
+lisaClust,GPL (>= 2),Ellis Patrick,10.18129/B9.BIOC.LISACLUST,Q47792701,en,researcher
+lmdme,GPL (>= 2),Cristobal Fresno,10.18129/B9.BIOC.LMDME,Q104751312,en,researcher
+LOBSTAHS,GPL (>= 3),Henry Holm,10.18129/B9.BIOC.LOBSTAHS,Q12316508,,
+loci2path,Artistic-2.0,Tianlei Xu,10.18129/B9.BIOC.LOCI2PATH,Q37367979,en,researcher
+logicFS,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.LOGICFS,Q91265114,en,researcher (ORCID 0000-0002-2858-6715)
+logitT,GPL (>= 2),Tobias Guennel,10.18129/B9.BIOC.LOGITT,,,
+LOLA,GPL-3,Nathan Sheffield,10.18129/B9.BIOC.LOLA,Q56433945,en,researcher
+LoomExperiment,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.LOOMEXPERIMENT,,,
+LPE,LGPL (>= 2.1),Nitin Jain,10.18129/B9.BIOC.LPE,Q62066797,en,researcher (ORCID 0000-0001-8555-1773)
+LPEadj,LGPL (>= 2.1),Carl Murie,10.18129/B9.BIOC.LPEADJ,,,
+lpNet,Artistic License 2.0,Lars Kaderali,10.18129/B9.BIOC.LPNET,Q55476916,en,researcher
+lpsymphony,EPL,Vladislav Kim,10.18129/B9.BIOC.LPSYMPHONY,,,
+LRBaseDbi,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.LRBASEDBI,Q59158511,en,researcher ORCID ID = 0000-0003-3797-2148
+LRcell,MIT,Wenjing Ma,10.18129/B9.BIOC.LRCELL,Q91393481,en,researcher (ORCID 0000-0003-4732-1875)
+lumi,LGPL (>= 2.1),Lei Huang,10.18129/B9.BIOC.LUMI,,,
+LymphoSeq,Artistic-2.0,David Coffey,10.18129/B9.BIOC.LYMPHOSEQ,Q87727539,en,researcher
+M3C,AGPL-3,Christopher John,10.18129/B9.BIOC.M3C,,,
+M3Drop,GPL (>= 2),Tallulah Andrews,10.18129/B9.BIOC.M3DROP,Q60063271,en,researcher ORCID ID = 0000-0003-1120-2196
+m6Aboost,Artistic-2.0,You Zhou,10.18129/B9.BIOC.M6ABOOST,,,
+Maaslin2,MIT,Lauren McIver,10.18129/B9.BIOC.MAASLIN2,,,
+Macarron,MIT,Sagun Maharjan,10.18129/B9.BIOC.MACARRON,,,
+macat,Artistic-2.0,Joern Toedling,10.18129/B9.BIOC.MACAT,Q38318693,en,researcher
+maCorrPlot,GPL (>= 2),Alexander Ploner,10.18129/B9.BIOC.MACORRPLOT,Q54997547,en,researcher
+MACPET,GPL-3,Ioannis Vardaxis,10.18129/B9.BIOC.MACPET,,,
+MACSQuantifyR,Artistic-2.0,Raphaël Bonnet,10.18129/B9.BIOC.MACSQUANTIFYR,Q98232254,,
+MACSr,BSD_3_clause,Qiang Hu,10.18129/B9.BIOC.MACSR,Q89865938,en,researcher (ORCID 0000-0002-4090-5539)
+MADSEQ,GPL (>= 2),Yu Kong,10.18129/B9.BIOC.MADSEQ,Q95975501,en,researcher
+MAGAR,GPL-3,Michael Scherer,10.18129/B9.BIOC.MAGAR,,,
+MAGeCKFlute,GPL (>= 3),Wubing Zhang,10.18129/B9.BIOC.MAGECKFLUTE,,,
+MAI,GPL-3,Jonathan Dekermanjian,10.18129/B9.BIOC.MAI,,,
+maigesPack,GPL (>= 2),Gustavo H. Esteves,10.18129/B9.BIOC.MAIGESPACK,Q58889026,en,researcher ORCID ID = 0000-0003-1000-2387
+makecdfenv,GPL (>= 2),James W. MacDonald,10.18129/B9.BIOC.MAKECDFENV,,,
+MANOR,GPL-2,Pierre Neuvial,10.18129/B9.BIOC.MANOR,Q38155324,en,researcher
+MantelCorr,GPL (>= 2),Brian Steinmeyer,10.18129/B9.BIOC.MANTELCORR,,,
+mAPKL,GPL (>= 2),Argiris Sakellariou,10.18129/B9.BIOC.MAPKL,,,
+maPredictDSC,GPL-2,Adi Laurentiu Tarca,10.18129/B9.BIOC.MAPREDICTDSC,,,
+mapscape,GPL-3,Maia Smith,10.18129/B9.BIOC.MAPSCAPE,Q59150957,en,researcher ORCID ID = 0000-0002-1154-1158
+marr,GPL (>= 3),Tusharkanti Ghosh,10.18129/B9.BIOC.MARR,Q92681377,en,researcher (ORCID 0000-0003-3865-239X)
+marray,LGPL (>= 2.1),Yee Hwa (Jean) Yang,10.18129/B9.BIOC.MARRAY,,,
+martini,GPL-3,Hector Climente-Gonzalez,10.18129/B9.BIOC.MARTINI,Q57450057,en,researcher
+maser,MIT,Diogo F.T. Veiga,10.18129/B9.BIOC.MASER,,,
+maSigPro,GPL (>= 2),Maria Jose Nueda,10.18129/B9.BIOC.MASIGPRO,Q42082615,en,researcher
+maskBAD,GPL (>= 2),Michael Dannemann,10.18129/B9.BIOC.MASKBAD,Q28805283,en,researcher
+MassArray,GPL (>= 2),Reid F. Thompson,10.18129/B9.BIOC.MASSARRAY,,,
+MassSpecWavelet,LGPL (>= 2.1),Sergio Oller Moreno,10.18129/B9.BIOC.MASSSPECWAVELET,Q47223899,en,researcher
+MAST,GPL (>= 2),Andrew McDavid,10.18129/B9.BIOC.MAST,Q58072429,en,"researcher, ORCID id # 0000-0002-6581-1213"
+MatrixGenerics,Artistic-2.0,Peter Hickey,10.18129/B9.BIOC.MATRIXGENERICS,Q55692622,en,researcher
+MatrixQCvis,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.MATRIXQCVIS,Q89993665,en,researcher
+MatrixRider,GPL-3,Elena Grassi,10.18129/B9.BIOC.MATRIXRIDER,Q56550564,en,researcher
+matter,Artistic-2.0,Kylie A. Bemis,10.18129/B9.BIOC.MATTER,,,
+MBAmethyl,Artistic-2.0,Tao Wang,10.18129/B9.BIOC.MBAMETHYL,,,
+MBASED,Artistic-2.0,Oleg Mayba,10.18129/B9.BIOC.MBASED,,,
+MBCB,GPL (>= 2),Jeff Allen,10.18129/B9.BIOC.MBCB,,,
+MBECS,Artistic-2.0,Michael Olbrich,10.18129/B9.BIOC.MBECS,Q95757822,,
+mbkmeans,MIT,Davide Risso,10.18129/B9.BIOC.MBKMEANS,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+mbOmic,Artistic-2.0,Congcong Gong,10.18129/B9.BIOC.MBOMIC,,,
+mBPCR,GPL (>= 2),P.M.V. Rancoita,10.18129/B9.BIOC.MBPCR,,,
+MBQN,GPL-3,Eva Brombacher,10.18129/B9.BIOC.MBQN,Q99632481,en,researcher
+MBttest,GPL-3,Yuan-De Tan,10.18129/B9.BIOC.MBTTEST,,,
+MCbiclust,GPL-2,Robert Bentham,10.18129/B9.BIOC.MCBICLUST,,,
+mdp,GPL-3,Helder Nakaya,10.18129/B9.BIOC.MDP,Q42614737,en,researcher
+mdqc,LGPL (>= 2.1),Gabriela Cohen-Freue,10.18129/B9.BIOC.MDQC,,,
+MDTS,Artistic-2.0,Jack M.. Fu,10.18129/B9.BIOC.MDTS,,,
+MEAL,Artistic-2.0,Xavier Escribà Montagut,10.18129/B9.BIOC.MEAL,,,
+MeasurementError.cor,LGPL (>= 2.1),Beiying Ding,10.18129/B9.BIOC.MEASUREMENTERROR.COR,Q102170453,en,Ph.D. Harvard University 2005
+MEAT,MIT,Sarah Voisin,10.18129/B9.BIOC.MEAT,Q55743382,en,researcher
+MEB,GPL-2,Jiadi Zhu,10.18129/B9.BIOC.MEB,Q90370561,en,researcher (ORCID 0000-0001-7319-3913)
+MEDIPS,GPL (>= 2),Lukas Chavez,10.18129/B9.BIOC.MEDIPS,Q53473799,en,researcher
+MEDME,GPL (>= 2),Mattia Pelizzola,10.18129/B9.BIOC.MEDME,Q38155143,en,researcher
+megadepth,Artistic-2.0,David Zhang,10.18129/B9.BIOC.MEGADEPTH,Q45954735,en,researcher (ORCID 0000-0002-5027-5286)
+MEIGOR,GPL-3,Jose A. Egea,10.18129/B9.BIOC.MEIGOR,Q55383037,en,researcher
+memes,MIT,Spencer Nystrom,10.18129/B9.BIOC.MEMES,Q89864881,en,researcher
+Mergeomics,GPL (>= 2),Zeyneb Kurt,10.18129/B9.BIOC.MERGEOMICS,Q57651908,en,researcher ORCID ID = 0000-0003-3186-8091
+MesKit,GPL-3,Mengni Liu,10.18129/B9.BIOC.MESKIT,,,
+metabCombiner,GPL-3,Hani Habra,10.18129/B9.BIOC.METABCOMBINER,,,
+MetaboAnnotation,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.METABOANNOTATION,Q55266814,en,researcher
+MetaboCoreUtils,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.METABOCOREUTILS,Q55266814,en,researcher
+metabolomicsWorkbenchR,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.METABOLOMICSWORKBENCHR,,,
+metabomxtr,GPL-2,Michael Nodzenski,10.18129/B9.BIOC.METABOMXTR,,,
+MetaCyto,GPL (>= 2),Zicheng Hu,10.18129/B9.BIOC.METACYTO,Q98499375,en,researcher
+metagene,Artistic-2.0,Charles Joly Beauparlant,10.18129/B9.BIOC.METAGENE,,,
+metagene2,Artistic-2.0,Eric Fournier,10.18129/B9.BIOC.METAGENE2,Q65582013,,
+metahdep,GPL-3,John R. Stevens,10.18129/B9.BIOC.METAHDEP,Q112111706,,
+metaMS,GPL (>= 2),Yann Guitton,10.18129/B9.BIOC.METAMS,Q57903212,en,"researcher, ORCID id # 0000-0002-4479-0636"
+metapod,GPL-3,Aaron Lun,10.18129/B9.BIOC.METAPOD,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+metapone,Artistic-2.0,Tianwei Yu,10.18129/B9.BIOC.METAPONE,Q88180855,en,researcher
+metaSeq,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.METASEQ,Q59158511,en,researcher ORCID ID = 0000-0003-3797-2148
+metaseqR2,GPL (>= 3),Panagiotis Moulos,10.18129/B9.BIOC.METASEQR2,Q104755397,en,researcher
+metavizr,MIT,Hector Corrada Bravo,10.18129/B9.BIOC.METAVIZR,Q35703653,en,researcher
+MetaVolcanoR,GPL-3,Cesar Prada,10.18129/B9.BIOC.METAVOLCANOR,Q60729215,en,researcher ORCID ID = 0000-0003-1939-2297
+MetCirc,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.METCIRC,Q89993665,en,researcher
+MethPed,GPL-2,Helena Carén,10.18129/B9.BIOC.METHPED,Q39025579,en,researcher
+MethReg,GPL-3,Tiago Silva,10.18129/B9.BIOC.METHREG,Q39500829,en,researcher
+MethTargetedNGS,Artistic-2.0,Muhammad Ahmer Jamil,10.18129/B9.BIOC.METHTARGETEDNGS,,,
+MethylAid,GPL (>= 2),L.J.Sinke,10.18129/B9.BIOC.METHYLAID,,,
+methylCC,CC BY 4.0,Stephanie C. Hicks,10.18129/B9.BIOC.METHYLCC,,,
+methylclock,MIT,Dolors Pelegri-Siso,10.18129/B9.BIOC.METHYLCLOCK,,,
+methylKit,Artistic-2.0,Altuna Akalin,10.18129/B9.BIOC.METHYLKIT,Q56614722,en,researcher
+MethylMix,GPL-2,Olivier Gevaert,10.18129/B9.BIOC.METHYLMIX,Q56334002,en,researcher
+methylMnM,GPL-3,Yan Zhou,10.18129/B9.BIOC.METHYLMNM,Q42052619,en,researcher ORCID: 0000-0002-5545-5681
+methylscaper,GPL-2,Bacher Rhonda,10.18129/B9.BIOC.METHYLSCAPER,,,
+methylumi,GPL-2,Sean Davis,10.18129/B9.BIOC.METHYLUMI,Q37390205,en,bioinformatician
+MetID,Artistic-2.0,Zhenzhi Li,10.18129/B9.BIOC.METID,,,
+MetNet,GPL (>= 3),Thomas Naake,10.18129/B9.BIOC.METNET,Q89993665,en,researcher
+Mfuzz,GPL-2,Matthias Futschik,10.18129/B9.BIOC.MFUZZ,Q37376165,en,researcher
+MGFM,GPL-3,Khadija El Amrani,10.18129/B9.BIOC.MGFM,,,
+MGFR,GPL-3,Khadija El Amrani,10.18129/B9.BIOC.MGFR,,,
+mgsa,Artistic-2.0,Sebastian Bauer,10.18129/B9.BIOC.MGSA,Q62554558,en,researcher (ORCID 0000-0001-5949-8120)
+mia,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MIA,,,
+miaSim,Artistic-2.0,Yagmur Simsek,10.18129/B9.BIOC.MIASIM,,,
+miaViz,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MIAVIZ,,,
+MiChip,GPL (>= 2),Jonathon Blake,10.18129/B9.BIOC.MICHIP,,,
+microbiome,BSD_2_clause,Leo Lahti,10.18129/B9.BIOC.MICROBIOME,Q42633248,en,researcher
+microbiomeDASim,MIT,Justin Williams,10.18129/B9.BIOC.MICROBIOMEDASIM,,,
+microbiomeExplorer,MIT,Janina Reeder,10.18129/B9.BIOC.MICROBIOMEEXPLORER,Q98394844,en,researcher
+microbiomeMarker,GPL-3,Yang Cao,10.18129/B9.BIOC.MICROBIOMEMARKER,Q55182105,en,researcher (ORCID 0000-0002-3552-9153)
+MicrobiomeProfiler,GPL-2,Meijun Chen,10.18129/B9.BIOC.MICROBIOMEPROFILER,,,
+MicrobiotaProcess,GPL (>= 3.0),Shuangbin Xu,10.18129/B9.BIOC.MICROBIOTAPROCESS,,,
+microRNA,Artistic-2.0,"""James F. Reid""",10.18129/B9.BIOC.MICRORNA,,,
+midasHLA,MIT,Maciej Migdał,10.18129/B9.BIOC.MIDASHLA,,,
+MIGSA,GPL (>= 2),Juan C. Rodriguez,10.18129/B9.BIOC.MIGSA,,,
+miloR,GPL-3,Mike Morgan,10.18129/B9.BIOC.MILOR,,,
+mimager,MIT,Aaron Wolen,10.18129/B9.BIOC.MIMAGER,Q58109768,en,"researcher, ORCID id # 0000-0003-2542-2202"
+mina,GPL,Rui Guan,10.18129/B9.BIOC.MINA,,,
+MineICA,GPL-2,Anne Biton,10.18129/B9.BIOC.MINEICA,,,
+minet,Artistic-2.0,Patrick E. Meyer,10.18129/B9.BIOC.MINET,,,
+MinimumDistance,Artistic-2.0,Robert Scharpf,10.18129/B9.BIOC.MINIMUMDISTANCE,Q88790168,en,researcher
+MiPP,GPL (>= 2),Sukwoo Kim,10.18129/B9.BIOC.MIPP,,,
+miQC,BSD_3_clause,Ariel Hippen,10.18129/B9.BIOC.MIQC,,,
+MIRA,GPL-3,John Lawson,10.18129/B9.BIOC.MIRA,Q57020039,en,researcher
+miRBaseConverter,GPL (>= 2),Taosheng Xu,10.18129/B9.BIOC.MIRBASECONVERTER,Q59703538,en,researcher ORCID ID = 0000-0001-8283-7274
+miRcomp,GPL-3,Matthew N. McCall,10.18129/B9.BIOC.MIRCOMP,,,
+mirIntegrator,GPL (>= 3),Diana Diaz,10.18129/B9.BIOC.MIRINTEGRATOR,,,
+miRLAB,GPL (>= 2),Thuc Duy Le,10.18129/B9.BIOC.MIRLAB,Q57305901,en,researcher
+miRmine,GPL (>= 3),Dusan Randjelovic,10.18129/B9.BIOC.MIRMINE,,,
+miRNApath,LGPL (>= 2.1),James M. Ward,10.18129/B9.BIOC.MIRNAPATH,,,
+miRNAtap,GPL-2,T. Ian Simpson,10.18129/B9.BIOC.MIRNATAP,,,
+miRSM,GPL-3,Junpeng Zhang,10.18129/B9.BIOC.MIRSM,Q42826224,en,researcher (ORCID 0000-0001-6127-9701)
+miRspongeR,GPL-3,Junpeng Zhang,10.18129/B9.BIOC.MIRSPONGER,Q42826224,en,researcher (ORCID 0000-0001-6127-9701)
+mirTarRnaSeq,MIT,Mercedeh Movassagh,10.18129/B9.BIOC.MIRTARRNASEQ,,,
+missMethyl,GPL-2,Belinda Phipson,10.18129/B9.BIOC.MISSMETHYL,Q57386988,en,researcher
+missRows,Artistic-2.0,Gonzalez Ignacio,10.18129/B9.BIOC.MISSROWS,,,
+mistyR,GPL-3,Jovan Tanevski,10.18129/B9.BIOC.MISTYR,Q85471304,en,researcher
+mitoClone2,GPL-3,Benjamin Story,10.18129/B9.BIOC.MITOCLONE2,Q87912837,en,researcher
+mixOmics,GPL (>= 2),Al J Abadi,10.18129/B9.BIOC.MIXOMICS,,,
+MLInterfaces,LGPL (>= 2.1),V. Carey,10.18129/B9.BIOC.MLINTERFACES,,,
+MLP,GPL-3,Tobias Verbeke,10.18129/B9.BIOC.MLP,,,
+MMAPPR2,GPL-3,Jonathon Hill,10.18129/B9.BIOC.MMAPPR2,Q37656690,en,researcher
+MMDiff2,Artistic-2.0,Gabriele Schweikert,10.18129/B9.BIOC.MMDIFF2,,,
+MMUPHin,MIT,Siyuan MA,10.18129/B9.BIOC.MMUPHIN,Q88608108,en,researcher (ORCID 0000-0002-3542-4490)
+mnem,GPL-3,Martin Pirkl,10.18129/B9.BIOC.MNEM,,,
+moanin,BSD 3-clause License,Nelle Varoquaux,10.18129/B9.BIOC.MOANIN,Q56775122,en,researcher
+MobilityTransformR,Artistic-2.0,Liesa Salzer,10.18129/B9.BIOC.MOBILITYTRANSFORMR,,,
+MODA,GPL (>= 2),Dong Li,10.18129/B9.BIOC.MODA,Q50148351,en,researcher (ORCID 0000-0002-2508-3282)
+ModCon,GPL-3,Johannes Ptok,10.18129/B9.BIOC.MODCON,Q104101821,en,researcher
+Modstrings,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.MODSTRINGS,,,
+MOGAMUN,GPL-3,Elva-María Novoa-del-Toro,10.18129/B9.BIOC.MOGAMUN,,,
+mogsa,GPL-2,Chen Meng,10.18129/B9.BIOC.MOGSA,,,
+MOMA,GPL-3,Sunny Jones,10.18129/B9.BIOC.MOMA,,,
+monaLisa,GPL (>= 3),Michael Stadler,10.18129/B9.BIOC.MONALISA,Q85429147,en,researcher
+monocle,Artistic-2.0,Cole Trapnell,10.18129/B9.BIOC.MONOCLE,Q56398006,en,Assistant Professor in the Department of Genome Sciences at the University of Washington
+MoonlightR,GPL (>= 3),Matteo Tiberti,10.18129/B9.BIOC.MOONLIGHTR,,,
+mosaics,GPL (>= 2),Dongjun Chung,10.18129/B9.BIOC.MOSAICS,Q50903908,en,researcher
+mosbi,AGPL-3,Tim Daniel Rose,10.18129/B9.BIOC.MOSBI,Q97522214,en,researcher
+MOSim,GPL-3,Carlos Martínez,10.18129/B9.BIOC.MOSIM,,,
+Motif2Site,GPL-2,Peyman Zarrineh,10.18129/B9.BIOC.MOTIF2SITE,Q102391290,en,Ph.D. Katholieke Universiteit Leuven 2011
+motifcounter,GPL-2,Wolfgang Kopp,10.18129/B9.BIOC.MOTIFCOUNTER,Q91153253,en,researcher (ORCID 0000-0002-8869-5470)
+motifmatchr,GPL-3,Alicia Schep,10.18129/B9.BIOC.MOTIFMATCHR,Q58012661,en,"researcher, ORCID id # 0000-0002-3915-0618"
+MPFE,GPL (>= 3),Conrad Burden,10.18129/B9.BIOC.MPFE,Q51909432,en,"statistician, bioinformatician"
+MPRAnalyze,GPL-3,Tal Ashuach,10.18129/B9.BIOC.MPRANALYZE,Q93060621,en,researcher (ORCID 0000-0003-1939-0865)
+MQmetrics,GPL-3,Alvaro Sanchez-Villalba,10.18129/B9.BIOC.MQMETRICS,,,
+MSA2dist,MIT,Kristian K Ullrich,10.18129/B9.BIOC.MSA2DIST,Q88432175,en,researcher
+MsBackendMassbank,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSBACKENDMASSBANK,,,
+MsBackendMgf,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSBACKENDMGF,,,
+MsBackendMsp,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.MSBACKENDMSP,Q55266814,en,researcher
+MsCoreUtils,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.MSCOREUTILS,,,
+MsFeatures,Artistic-2.0,Johannes Rainer,10.18129/B9.BIOC.MSFEATURES,Q55266814,en,researcher
+msgbsR,GPL-2,Benjamin Mayne,10.18129/B9.BIOC.MSGBSR,Q98181164,en,researcher
+msImpute,GPL (>= 2),Soroor Hediyeh-zadeh,10.18129/B9.BIOC.MSIMPUTE,Q89876420,en,researcher
+msmsEDA,GPL-2,Josep Gregori,10.18129/B9.BIOC.MSMSEDA,Q56810885,en,researcher
+msmsTests,GPL-2,Josep Gregori i Font,10.18129/B9.BIOC.MSMSTESTS,,,
+MSnbase,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.MSNBASE,Q29998944,en,researcher
+MSnID,Artistic-2.0,Vlad Petyuk,10.18129/B9.BIOC.MSNID,,,
+MSPrep,GPL-3,Max McGrath,10.18129/B9.BIOC.MSPREP,Q96103391,en,researcher
+MSstatsConvert,Artistic-2.0,Mateusz Staniak,10.18129/B9.BIOC.MSSTATSCONVERT,,,
+MSstatsLiP,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSLIP,,,
+MSstatsPTM,Artistic-2.0,Devon Kohler,10.18129/B9.BIOC.MSSTATSPTM,,,
+MSstatsQC,Artistic License 2.0,Eralp Dogu,10.18129/B9.BIOC.MSSTATSQC,Q93205338,en,researcher (ORCID 0000-0002-8256-7304)
+MSstatsQCgui,Artistic License 2.0,Eralp Dogu,10.18129/B9.BIOC.MSSTATSQCGUI,Q93205338,en,researcher (ORCID 0000-0002-8256-7304)
+MSstatsSampleSize,Artistic-2.0,Ting Huang,10.18129/B9.BIOC.MSSTATSSAMPLESIZE,Q64532646,en,researcher (ORCID 0000-0003-3448-6216)
+MSstatsTMT,Artistic-2.0,Ting Huang,10.18129/B9.BIOC.MSSTATSTMT,Q64532646,en,researcher (ORCID 0000-0003-3448-6216)
+MuData,GPL-3,Danila Bredikhin,10.18129/B9.BIOC.MUDATA,,,
+Mulcom,GPL-2,Claudio Isella,10.18129/B9.BIOC.MULCOM,Q56686206,en,researcher
+MultiAssayExperiment,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.MULTIASSAYEXPERIMENT,Q98196257,en,researcher
+MultiBaC,GPL-3,The package maintainer,10.18129/B9.BIOC.MULTIBAC,,,
+multiClust,GPL (>= 2),Nathan Lawlor,10.18129/B9.BIOC.MULTICLUST,Q59553854,en,researcher ORCID ID = 0000-0003-3263-6057
+MultiMed,GPL (>= 2),Simina M. Boca,10.18129/B9.BIOC.MULTIMED,Q37393163,en,researcher
+multiOmicsViz,LGPL (>= 2.1),Jing Wang,10.18129/B9.BIOC.MULTIOMICSVIZ,Q42838181,en,researcher (ORCID 0000-0001-6291-5802)
+multiscan,GPL (>= 2),Mizanur Khondoker,10.18129/B9.BIOC.MULTISCAN,Q47163880,en,researcher
+multiSight,CeCILL,Florian Jeanneret,10.18129/B9.BIOC.MULTISIGHT,,,
+multtest,LGPL (>= 2.1),Katherine S. Pollard,10.18129/B9.BIOC.MULTTEST,Q90391163,en,"Professor at the Gladstone Institute,  University of California, San Francisco"
+mumosa,GPL-3,Aaron Lun,10.18129/B9.BIOC.MUMOSA,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+MungeSumstats,Artistic-2.0,Alan Murphy,10.18129/B9.BIOC.MUNGESUMSTATS,,,
+muscat,GPL-3,Helena L. Crowell,10.18129/B9.BIOC.MUSCAT,,,
+musicatk,LGPL (>= 2.1),Aaron Chevalier,10.18129/B9.BIOC.MUSICATK,Q96057866,en,researcher (ORCID 0000-0002-3173-7350)
+MutationalPatterns,MIT,Mark van Roosmalen,10.18129/B9.BIOC.MUTATIONALPATTERNS,,,
+MVCClass,LGPL (>= 2.1),Elizabeth Whalen,10.18129/B9.BIOC.MVCCLASS,Q88664281,en,researcher
+mygene,Artistic-2.0,"Adam Mark, Cyrus Afrasiabi, Chunlei Wu",10.18129/B9.BIOC.MYGENE,,,
+myvariant,Artistic-2.0,"Adam Mark, Chunlei Wu",10.18129/B9.BIOC.MYVARIANT,,,
+mzID,GPL (>= 2),Laurent Gatto,10.18129/B9.BIOC.MZID,Q29998944,en,researcher
+NADfinder,GPL (>= 2),Jianhong Ou,10.18129/B9.BIOC.NADFINDER,Q60678173,en,researcher
+NanoStringDiff,GPL,tingting zhai,10.18129/B9.BIOC.NANOSTRINGDIFF,Q92202803,en,researcher (ORCID 0000-0002-0891-4777)
+NanoStringNCTools,MIT,Nicole Ortogero,10.18129/B9.BIOC.NANOSTRINGNCTOOLS,,,
+NanoStringQCPro,Artistic-2.0,Robert Ziman,10.18129/B9.BIOC.NANOSTRINGQCPRO,,,
+NanoTube,GPL-3,Caleb Class,10.18129/B9.BIOC.NANOTUBE,Q50278295,en,researcher
+NBSplice,GPL (>= 2),Gabriela Merino,10.18129/B9.BIOC.NBSPLICE,Q89362357,en,researcher
+ncGTW,GPL-2,Chiung-Ting Wu,10.18129/B9.BIOC.NCGTW,,,
+NCIgraph,GPL-3,Laurent Jacob,10.18129/B9.BIOC.NCIGRAPH,Q87770737,en,researcher (ORCID 0000-0003-4767-0442)
+ncRNAtools,GPL-3,Lara Selles Vidal,10.18129/B9.BIOC.NCRNATOOLS,Q96148673,en,researcher
+ndexr,BSD_3_clause,Florian Auer,10.18129/B9.BIOC.NDEXR,,,
+nearBynding,Artistic-2.0,Veronica Busa,10.18129/B9.BIOC.NEARBYNDING,,,
+Nebulosa,GPL-3,Jose Alquicira-Hernandez,10.18129/B9.BIOC.NEBULOSA,Q101409862,en,researcher
+NeighborNet,CC BY-NC-ND 4.0,Sahar Ansari,10.18129/B9.BIOC.NEIGHBORNET,,,
+nempi,GPL-3,Martin Pirkl,10.18129/B9.BIOC.NEMPI,,,
+netbiov,GPL (>= 2),Shailesh tripathi,10.18129/B9.BIOC.NETBIOV,Q91428862,en,researcher (ORCID 0000-0001-5142-3781)
+netboxr,LGPL (>= 2.1),Eirc Minwei Liu,10.18129/B9.BIOC.NETBOXR,,,
+nethet,GPL-2,Nicolas Staedler,10.18129/B9.BIOC.NETHET,,,
+netOmics,GPL-3,Antoine Bodein,10.18129/B9.BIOC.NETOMICS,,,
+NetPathMiner,GPL (>= 2),Ahmed Mohamed,10.18129/B9.BIOC.NETPATHMINER,Q73192823,en,researcher
+netprioR,GPL-3,Fabian Schmich,10.18129/B9.BIOC.NETPRIOR,Q86413377,en,researcher
+netresponse,GPL (>= 2),Leo Lahti,10.18129/B9.BIOC.NETRESPONSE,Q42633248,en,researcher
+NetSAM,LGPL (>= 2.1),Zhiao Shi,10.18129/B9.BIOC.NETSAM,Q102344985,en,Ph.D. University of Tennessee - Knoxville 2006
+networkBMA,GPL (>= 2),Ka Yee Yeung,10.18129/B9.BIOC.NETWORKBMA,Q42872283,en,researcher and professor at the University of Washington
+netZooR,GPL-3,Marouen Ben Guebila,10.18129/B9.BIOC.NETZOOR,Q100384572,en,researcher
+NeuCA,GPL-2,Hao Feng,10.18129/B9.BIOC.NEUCA,Q85920307,en,researcher (ORCID 0000-0003-4066-8104)
+NewWave,GPL-3,Federico Agostinis,10.18129/B9.BIOC.NEWWAVE,,,
+nnNorm,LGPL (>= 2.1),Adi Laurentiu Tarca,10.18129/B9.BIOC.NNNORM,,,
+nnSVG,MIT,Lukas M. Weber,10.18129/B9.BIOC.NNSVG,,,
+NOISeq,Artistic-2.0,Sonia Tarazona,10.18129/B9.BIOC.NOISEQ,Q42082605,en,researcher
+nondetects,GPL-3,Valeriia Sherina,10.18129/B9.BIOC.NONDETECTS,,,
+NoRCE,MIT,Gulden Olgun,10.18129/B9.BIOC.NORCE,,,
+normalize450K,BSD_2_clause,Jonathan Alexander Heiss,10.18129/B9.BIOC.NORMALIZE450K,,,
+normr,GPL-2,Johannes Helmuth,10.18129/B9.BIOC.NORMR,Q88140556,en,researcher
+NPARC,GPL-3,Nils Kurzawa,10.18129/B9.BIOC.NPARC,Q58409624,en,researcher ORCID ID = 0000-0002-7846-2817
+NTW,GPL-2,Yuanhua Liu,10.18129/B9.BIOC.NTW,Q91458492,en,researcher (ORCID 0000-0001-9633-9639)
+nucleR,LGPL (>= 2.1),Alba Sala,10.18129/B9.BIOC.NUCLER,,,
+nullranges,GPL-3,Michael Love,10.18129/B9.BIOC.NULLRANGES,Q50556919,en,researcher
+NuPoP,GPL-2,Ji-Ping Wang,10.18129/B9.BIOC.NUPOP,Q93135491,en,researcher (ORCID 0000-0002-8398-939X)
+NxtIRFcore,MIT,Alex Chit Hei Wong,10.18129/B9.BIOC.NXTIRFCORE,,,
+occugene,GPL (>= 2),Oliver Will,10.18129/B9.BIOC.OCCUGENE,Q102239593,en,Ph.D. University of Southern California 2001
+OCplus,LGPL (>= 2.1),Alexander Ploner,10.18129/B9.BIOC.OCPLUS,Q54997547,en,researcher
+ODER,Artistic-2.0,David Zhang,10.18129/B9.BIOC.ODER,Q45954735,en,researcher (ORCID 0000-0002-5027-5286)
+odseq,MIT,José Jiménez,10.18129/B9.BIOC.ODSEQ,Q57155402,en,researcher ORCID: 0000-0003-0900-4684
+OGRE,Artistic-2.0,Sven Berres,10.18129/B9.BIOC.OGRE,,,
+oligoClasses,GPL (>= 2),Benilton Carvalho,10.18129/B9.BIOC.OLIGOCLASSES,Q61821345,en,researcher ORCID ID = 0000-0001-5122-5646
+OLIN,GPL-2,Matthias Futschik,10.18129/B9.BIOC.OLIN,Q37376165,en,researcher
+OLINgui,GPL-2,Matthias Futschik,10.18129/B9.BIOC.OLINGUI,Q37376165,en,researcher
+OmaDB,GPL-3,Klara Kaleb,10.18129/B9.BIOC.OMADB,Q89837384,en,researcher
+omicade4,GPL-2,Chen Meng,10.18129/B9.BIOC.OMICADE4,,,
+OmicCircos,GPL-2,Ying Hu,10.18129/B9.BIOC.OMICCIRCOS,Q88403942,en,researcher (ORCID 0000-0003-2469-5604)
+omicplotR,MIT,Daniel Giguere,10.18129/B9.BIOC.OMICPLOTR,Q91293935,en,researcher (ORCID 0000-0002-4215-9859)
+omicRexposome,MIT,Xavier Escribà Montagut,10.18129/B9.BIOC.OMICREXPOSOME,,,
+OmicsLonDA,MIT,Ahmed A. Metwally,10.18129/B9.BIOC.OMICSLONDA,,,
+OMICsPCA,GPL-3,Subhadeep Das,10.18129/B9.BIOC.OMICSPCA,Q87175547,en,researcher (ORCID 0000-0003-1870-8456)
+omicsPrint,GPL (>= 2),Davy Cats,10.18129/B9.BIOC.OMICSPRINT,,,
+omicsViewer,GPL-2,Chen Meng,10.18129/B9.BIOC.OMICSVIEWER,,,
+Omixer,MIT,Lucy Sinke,10.18129/B9.BIOC.OMIXER,,,
+ompBAM,MIT,Alex Chit Hei Wong,10.18129/B9.BIOC.OMPBAM,,,
+oncomix,GPL-3,Daniel Pique,10.18129/B9.BIOC.ONCOMIX,Q96644189,en,researcher
+oneSENSE,GPL (>= 3),Yong Kee Tan,10.18129/B9.BIOC.ONESENSE,,,
+openPrimeR,GPL-2,Matthias Döring,10.18129/B9.BIOC.OPENPRIMER,,,
+OpenStats,GPL (>= 2),Hamed Haseli Mashhadi,10.18129/B9.BIOC.OPENSTATS,,,
+oposSOM,GPL (>= 2),Henry Loeffler-Wirth,10.18129/B9.BIOC.OPOSSOM,Q89694367,en,researcher
+oppar,GPL-2,Soroor Hediyeh zadeh,10.18129/B9.BIOC.OPPAR,Q89876420,en,researcher
+oppti,MIT,Abdulkadir Elmas,10.18129/B9.BIOC.OPPTI,,,
+optimalFlow,Artistic-2.0,Hristo Inouzhe,10.18129/B9.BIOC.OPTIMALFLOW,Q101240980,en,researcher
+OPWeight,Artistic-2.0,Mohamad Hasan,10.18129/B9.BIOC.OPWEIGHT,,,
+OrderedList,GPL (>= 2),Claudio Lottaz,10.18129/B9.BIOC.ORDEREDLIST,,,
+ORFhunteR,Artistic-2.0,Vasily V. Grinev,10.18129/B9.BIOC.ORFHUNTER,,,
+Organism.dplyr,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.ORGANISM.DPLYR,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+OrganismDbi,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ORGANISMDBI,,,
+orthogene,GPL-3,Brian Schilder,10.18129/B9.BIOC.ORTHOGENE,Q89505492,en,researcher
+OSAT,Artistic-2.0,Li Yan,10.18129/B9.BIOC.OSAT,,,
+Oscope,Artistic-2.0,Ning Leng,10.18129/B9.BIOC.OSCOPE,,,
+OTUbase,Artistic-2.0,Daniel Beck,10.18129/B9.BIOC.OTUBASE,,,
+OVESEG,GPL-2,Lulu Chen,10.18129/B9.BIOC.OVESEG,Q90288827,en,researcher (ORCID 0000-0001-9621-9231)
+packFinder,GPL-2,Jack Gisby,10.18129/B9.BIOC.PACKFINDER,,,
+padma,GPL (>= 3),Andrea Rau,10.18129/B9.BIOC.PADMA,,,
+PADOG,GPL (>= 2),Adi L. Tarca,10.18129/B9.BIOC.PADOG,,,
+pageRank,GPL-2,Hongxu Ding,10.18129/B9.BIOC.PAGERANK,,,
+PAIRADISE,MIT,Qiang Hu,10.18129/B9.BIOC.PAIRADISE,Q89865938,en,researcher (ORCID 0000-0002-4090-5539)
+paircompviz,GPL (>= 3.0),Michal Burda,10.18129/B9.BIOC.PAIRCOMPVIZ,Q95166694,,
+pairkat,GPL-3,Max McGrath,10.18129/B9.BIOC.PAIRKAT,Q96103391,en,researcher
+pandaR,GPL-2,Joseph N. Paulson,10.18129/B9.BIOC.PANDAR,,,
+PanomiR,MIT,Pourya Naderi,10.18129/B9.BIOC.PANOMIR,,,
+PANR,Artistic-2.0,Xin Wang,10.18129/B9.BIOC.PANR,Q53569210,en,researcher ORCID: 0000-0002-3522-5627
+pareg,GPL-3,Kim Philipp Jablonski,10.18129/B9.BIOC.PAREG,Q89747588,en,researcher
+parglms,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.PARGLMS,,,
+parody,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.PARODY,,,
+PAST,GPL (>= 3),Thrash Adam,10.18129/B9.BIOC.PAST,,,
+Path2PPI,GPL (>= 2),Oliver Philipp,10.18129/B9.BIOC.PATH2PPI,,,
+PathNet,GPL-3,Ludwig Geistlinger,10.18129/B9.BIOC.PATHNET,Q88561965,en,researcher
+PathoStat,GPL (>= 2),Solaiappan Manimaran,10.18129/B9.BIOC.PATHOSTAT,,,
+pathRender,LGPL (>= 2.1),Vince Carey,10.18129/B9.BIOC.PATHRENDER,,,
+pathVar,LGPL (>= 2.1),Samuel Zimmerman,10.18129/B9.BIOC.PATHVAR,,,
+pathwayPCA,GPL-3,Gabriel Odom,10.18129/B9.BIOC.PATHWAYPCA,Q91617733,en,researcher (ORCID 0000-0003-1341-4555)
+paxtoolsr,LGPL (>= 2.1),Augustin Luna,10.18129/B9.BIOC.PAXTOOLSR,Q92751037,en,researcher (ORCID 0000-0001-5709-371X)
+pcaMethods,GPL (>= 3),Henning Redestig,10.18129/B9.BIOC.PCAMETHODS,Q43114286,en,researcher
+PCAtools,GPL-3,Kevin Blighe,10.18129/B9.BIOC.PCATOOLS,Q92890211,en,researcher (ORCID 0000-0002-6322-6571)
+pcxn,MIT,Sokratis Kariotis,10.18129/B9.BIOC.PCXN,Q88097006,en,researcher
+PDATK,MIT,Benjamin Haibe-Kains,10.18129/B9.BIOC.PDATK,Q38639014,en,researcher
+pdInfoBuilder,Artistic-2.0,Benilton Carvalho,10.18129/B9.BIOC.PDINFOBUILDER,Q61821345,en,researcher ORCID ID = 0000-0001-5122-5646
+PeacoQC,GPL (>= 3),Annelies Emmaneel,10.18129/B9.BIOC.PEACOQC,Q90206554,en,researcher
+peakPantheR,GPL-3,Arnaud Wolfer,10.18129/B9.BIOC.PEAKPANTHER,Q58897016,en,researcher ORCID ID = 0000-0001-5856-3218
+PECA,GPL (>= 2),Tomi Suomi,10.18129/B9.BIOC.PECA,Q59674576,en,researcher ORCID ID = 0000-0003-3639-979X
+peco,GPL (>= 3),Chiaowen Joyce Hsiao,10.18129/B9.BIOC.PECO,Q87647055,en,researcher
+pengls,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.PENGLS,Q91545755,en,researcher (ORCID 0000-0002-4501-5180)
+PepsNMR,GPL-2,Manon Martin,10.18129/B9.BIOC.PEPSNMR,,,
+pepStat,Artistic-2.0,Gregory C Imholte,10.18129/B9.BIOC.PEPSTAT,,,
+pepXMLTab,Artistic-2.0,Xiaojing Wang,10.18129/B9.BIOC.PEPXMLTAB,Q88617664,en,researcher (ORCID 0000-0002-1495-4740)
+PERFect,Artistic-2.0,Quy Cao,10.18129/B9.BIOC.PERFECT,,,
+periodicDNA,GPL-3,Jacques Serizay,10.18129/B9.BIOC.PERIODICDNA,Q99248806,en,researcher
+PFP,GPL-2,XC Zhang,10.18129/B9.BIOC.PFP,,,
+pgca,GPL (>= 2),Gabriela Cohen-Freue,10.18129/B9.BIOC.PGCA,,,
+phantasus,MIT,Alexey Sergushichev,10.18129/B9.BIOC.PHANTASUS,Q30503358,en,researcher
+PharmacoGx,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.PHARMACOGX,Q38639014,en,researcher
+phemd,GPL-2,William S Chen,10.18129/B9.BIOC.PHEMD,Q92438680,en,researcher (ORCID 0000-0002-3717-670X)
+PhenoGeneRanker,Creative Commons Attribution 4.0 International License,Cagatay Dursun,10.18129/B9.BIOC.PHENOGENERANKER,,,
+phenopath,Apache License 2.0,Kieran Campbell,10.18129/B9.BIOC.PHENOPATH,,,
+phenoTest,GPL (>= 2),Evarist Planet,10.18129/B9.BIOC.PHENOTEST,,,
+PhIPData,MIT,Athena Chen,10.18129/B9.BIOC.PHIPDATA,,,
+phosphonormalizer,GPL (>= 2),Sohrab Saraei,10.18129/B9.BIOC.PHOSPHONORMALIZER,,,
+PhosR,GPL-3,Taiyun Kim,10.18129/B9.BIOC.PHOSR,,,
+PhyloProfile,MIT,Vinh Tran,10.18129/B9.BIOC.PHYLOPROFILE,,,
+phyloseq,AGPL-3,Paul J. McMurdie,10.18129/B9.BIOC.PHYLOSEQ,Q55121955,en,researcher
+pickgene,GPL (>= 2),Brian S. Yandell,10.18129/B9.BIOC.PICKGENE,,,
+PICS,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PICS,,,
+Pigengene,GPL (>= 2),Habil Zare,10.18129/B9.BIOC.PIGENGENE,Q30348803,en,researcher
+PING,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PING,,,
+pipeFrame,GPL-3,Zheng Wei,10.18129/B9.BIOC.PIPEFRAME,,,
+pkgDepTools,GPL-2,Bioconductor Package Maintainer,10.18129/B9.BIOC.PKGDEPTOOLS,,,
+planet,GPL-2,Victor Yuan,10.18129/B9.BIOC.PLANET,Q91043430,en,researcher (ORCID 0000-0002-3394-998X)
+plethy,GPL-3,Daniel Bottomly,10.18129/B9.BIOC.PLETHY,,,
+plier,GPL (>= 2),Crispin Miller,10.18129/B9.BIOC.PLIER,Q42564955,en,researcher
+PloGO2,GPL-2,Jemma Wu,10.18129/B9.BIOC.PLOGO2,,,
+plotgardener,MIT,Nicole Kramer,10.18129/B9.BIOC.PLOTGARDENER,,,
+plotGrouper,GPL-3,John D. Gagnon,10.18129/B9.BIOC.PLOTGROUPER,,,
+PLPE,GPL (>= 2),Soo-heang Eo,10.18129/B9.BIOC.PLPE,,,
+plyranges,Artistic-2.0,Stuart Lee,10.18129/B9.BIOC.PLYRANGES,Q47326867,en,researcher
+pmm,GPL-3,Anna Drewek,10.18129/B9.BIOC.PMM,,,
+pmp,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.PMP,,,
+PoDCall,GPL-3,Hans Petter Brodal,10.18129/B9.BIOC.PODCALL,,,
+podkat,GPL (>= 2),Ulrich Bodenhofer,10.18129/B9.BIOC.PODKAT,,,
+pogos,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.POGOS,,,
+polyester,Artistic-2.0,Jack Fu,10.18129/B9.BIOC.POLYESTER,Q59157536,en,researcher ORCID ID = 0000-0002-9397-0668
+POMA,GPL-3,Pol Castellano-Escuder,10.18129/B9.BIOC.POMA,Q110611014,en,Researcher ORCID = 0000-0001-6466-877X
+PoTRA,LGPL (>= 2.1),Margaret Linan,10.18129/B9.BIOC.POTRA,,,
+powerTCR,Artistic-2.0,Hillary Koch,10.18129/B9.BIOC.POWERTCR,Q98775056,en,researcher
+POWSC,GPL-2,Kenong Su,10.18129/B9.BIOC.POWSC,,,
+ppcseq,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.PPCSEQ,Q104281752,en,researcher
+PPInfer,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.PPINFER,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+ppiStats,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.PPISTATS,,,
+preciseTAD,MIT,Mikhail Dozmorov,10.18129/B9.BIOC.PRECISETAD,Q42846470,en,researcher
+PrecisionTrialDrawer,GPL-3,Giorgio Melloni,10.18129/B9.BIOC.PRECISIONTRIALDRAWER,Q58865094,en,researcher ORCID ID = 0000-0001-6371-1334
+PREDA,GPL-2,Francesco Ferrari,10.18129/B9.BIOC.PREDA,Q37371337,en,researcher (ORCID 0000-0002-9811-3753)
+preprocessCore,LGPL (>= 2.1),Ben Bolstad,10.18129/B9.BIOC.PREPROCESSCORE,,,
+primirTSS,GPL-2,Pumin Li,10.18129/B9.BIOC.PRIMIRTSS,,,
+PrInCE,GPL-3,Michael Skinnider,10.18129/B9.BIOC.PRINCE,Q47474705,en,researcher
+proBAMr,Artistic-2.0,Xiaojing Wang,10.18129/B9.BIOC.PROBAMR,,,
+proBatch,GPL-3,Chloe H. Lee,10.18129/B9.BIOC.PROBATCH,,,
+PROcess,Artistic-2.0,Xiaochun Li,10.18129/B9.BIOC.PROCESS,Q91791382,en,associate professor of biostatistics
+proDA,GPL-3,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.PRODA,,,
+proFIA,CeCILL,Alexis Delabriere,10.18129/B9.BIOC.PROFIA,,,
+profileplyr,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.PROFILEPLYR,,,
+profileScoreDist,MIT,Paal O. Westermark,10.18129/B9.BIOC.PROFILESCOREDIST,,,
+progeny,Apache License 2.0,Aurélien Dugourd,10.18129/B9.BIOC.PROGENY,Q47322571,en,researcher
+projectR,GPL (== 2),Genevieve Stein-O'Brien,10.18129/B9.BIOC.PROJECTR,Q63676109,en,researcher
+pRoloc,GPL-2,Laurent Gatto,10.18129/B9.BIOC.PROLOC,Q29998944,en,researcher
+pRolocGUI,GPL-2,Laurent Gatto,10.18129/B9.BIOC.PROLOCGUI,Q29998944,en,researcher
+PROMISE,GPL (>= 2),Stan Pounds,10.18129/B9.BIOC.PROMISE,,,
+PROPS,GPL-2,Lichy Han,10.18129/B9.BIOC.PROPS,,,
+Prostar,Artistic-2.0,Samuel Wieczorek,10.18129/B9.BIOC.PROSTAR,Q87077502,en,researcher
+proteinProfiles,GPL-3,Julian Gehring,10.18129/B9.BIOC.PROTEINPROFILES,Q56604473,en,researcher
+ProteoDisco,GPL-3,Job van Riet,10.18129/B9.BIOC.PROTEODISCO,Q47203962,en,researcher
+ProteoMM,MIT,Yuliya V Karpievitch,10.18129/B9.BIOC.PROTEOMM,,,
+protGear,GPL-3,Kennedy Mwai,10.18129/B9.BIOC.PROTGEAR,Q56800149,en,researcher
+ProtGenerics,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.PROTGENERICS,Q29998944,en,researcher
+psichomics,MIT,Nuno Saraiva-Agostinho,10.18129/B9.BIOC.PSICHOMICS,Q63980419,en,researcher
+PSICQUIC,Apache License 2.0,Paul Shannon,10.18129/B9.BIOC.PSICQUIC,,,
+PSMatch,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.PSMATCH,Q29998944,en,researcher
+psygenet2r,MIT,Alba Gutierrez-Sacristan,10.18129/B9.BIOC.PSYGENET2R,Q95600910,en,researcher
+ptairMS,GPL-3,"c(""camille Roquencourt"", ""camille Roquencourt"")",10.18129/B9.BIOC.PTAIRMS,,,
+PubScore,MIT,Tiago Lubiana,10.18129/B9.BIOC.PUBSCORE,Q90076935,en,researcher
+pulsedSilac,GPL-3,Marc Pagès-Gallego,10.18129/B9.BIOC.PULSEDSILAC,Q90758699,en,researcher (ORCID 0000-0001-8888-5699)
+puma,LGPL (>= 2.1),Xuejun Liu,10.18129/B9.BIOC.PUMA,Q90031186,en,researcher (ORCID 0000-0002-8367-5833)
+pvac,LGPL (>= 2.1),Jun Lu,10.18129/B9.BIOC.PVAC,Q56988835,en,researcher ORCID: 0000-0002-2237-8771
+pvca,LGPL (>= 2.1),Jianying LI,10.18129/B9.BIOC.PVCA,Q57059325,en,researcher
+Pviz,Artistic-2.0,Renan Sauteraud,10.18129/B9.BIOC.PVIZ,,,
+PWMEnrich,LGPL (>= 2.1),Diego Diez,10.18129/B9.BIOC.PWMENRICH,Q81243268,en,researcher
+pwOmics,GPL (>= 2),Maren Sitte,10.18129/B9.BIOC.PWOMICS,,,
+qckitfastq,Artistic-2.0,August Guang,10.18129/B9.BIOC.QCKITFASTQ,Q60055921,en,researcher
+qcmetrics,GPL-2,Laurent Gatto,10.18129/B9.BIOC.QCMETRICS,Q29998944,en,researcher
+QDNAseq,GPL,Daoud Sie,10.18129/B9.BIOC.QDNASEQ,Q42860422,en,researcher
+QFeatures,Artistic-2.0,Laurent Gatto,10.18129/B9.BIOC.QFEATURES,Q29998944,en,researcher
+qmtools,GPL-3,Jaehyun Joo,10.18129/B9.BIOC.QMTOOLS,,,
+qpcrNorm,LGPL (>= 2.1),Jessica Mar,10.18129/B9.BIOC.QPCRNORM,Q61165370,en,researcher ORCID ID = 0000-0002-5147-9299
+qpgraph,GPL (>= 2),Robert Castelo,10.18129/B9.BIOC.QPGRAPH,Q42551515,en,researcher
+qrqc,GPL (>= 2),Vince Buffalo,10.18129/B9.BIOC.QRQC,Q87781060,en,researcher
+qsmooth,CC BY 4.0,Stephanie C. Hicks,10.18129/B9.BIOC.QSMOOTH,,,
+qsvaR,Artistic-2.0,Joshua Stolz,10.18129/B9.BIOC.QSVAR,,,
+Qtlizer,GPL-3,Matthias Munz,10.18129/B9.BIOC.QTLIZER,Q40225208,en,researcher
+quantiseqr,GPL-3,Federico Marini,10.18129/B9.BIOC.QUANTISEQR,Q43198520,en,researcher ORCID: 0000-0001-8266-1117
+quantro,GPL (>= 3),Stephanie Hicks,10.18129/B9.BIOC.QUANTRO,Q56073268,en,researcher
+quantsmooth,GPL-2,Jan Oosting,10.18129/B9.BIOC.QUANTSMOOTH,Q90115240,en,researcher
+QuartPAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.QUARTPAC,Q102430589,en,Ph.D. Yale University 2014
+QuaternaryProd,GPL (>= 3),Carl Tony Fakhry,10.18129/B9.BIOC.QUATERNARYPROD,,,
+qusage,GPL (>= 2),Christopher Bolen,10.18129/B9.BIOC.QUSAGE,Q89420869,en,researcher
+qvalue,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.QVALUE,Q55121965,en,genomics statistician
+R3CPET,GPL (>= 2),Mohamed Nadhir Djekidel,10.18129/B9.BIOC.R3CPET,Q86956721,en,researcher
+r3Cseq,GPL-3,Supat Thongjuea,10.18129/B9.BIOC.R3CSEQ,Q57165037,en,researcher
+R453Plus1Toolbox,LGPL (>= 2.1),Hans-Ulrich Klein,10.18129/B9.BIOC.R453PLUS1TOOLBOX,Q55283675,en,researcher
+R4RNA,GPL-3,Daniel Lai,10.18129/B9.BIOC.R4RNA,Q57263306,en,researcher ORCID: 0000-0001-6365-3189
+RaggedExperiment,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.RAGGEDEXPERIMENT,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+rama,GPL (>= 2),Raphael Gottardo,10.18129/B9.BIOC.RAMA,Q88268514,en,researcher
+ramr,Artistic-2.0,Oleksii Nikolaienko,10.18129/B9.BIOC.RAMR,Q37838408,en,researcher
+randPack,Artistic-2.0,Robert Gentleman,10.18129/B9.BIOC.RANDPACK,Q7344712,en,Canadian statistician and bioinformatician
+randRotation,GPL-3,Peter Hettegger,10.18129/B9.BIOC.RANDROTATION,Q92903216,en,researcher (ORCID 0000-0001-8557-588X)
+RAREsim,GPL-3,Ryan Barnard,10.18129/B9.BIOC.RARESIM,,,
+RareVariantVis,Artistic-2.0,Tomasz Stokowy,10.18129/B9.BIOC.RAREVARIANTVIS,Q42316054,en,researcher
+RbcBook1,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.RBCBOOK1,,,
+Rbec,LGPL (>= 2.1),Pengfan Zhang,10.18129/B9.BIOC.RBEC,Q59532989,en,researcher ORCID ID = 0000-0002-4197-3605
+RBGL,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.RBGL,,,
+RBioinf,Artistic-2.0,Robert Gentleman,10.18129/B9.BIOC.RBIOINF,Q7344712,en,Canadian statistician and bioinformatician
+rBiopaxParser,GPL (>= 2),Frank Kramer,10.18129/B9.BIOC.RBIOPAXPARSER,,,
+RBM,GPL (>= 2),Dongmei Li,10.18129/B9.BIOC.RBM,Q61089846,en,researcher ORCID ID = 0000-0001-9140-2483
+rbsurv,GPL (>= 2),Soo-heang Eo,10.18129/B9.BIOC.RBSURV,,,
+Rcade,GPL-2,Jonathan Cairns,10.18129/B9.BIOC.RCADE,Q42290346,en,researcher
+RCASPAR,GPL (>= 3),Douaa Mugahid,10.18129/B9.BIOC.RCASPAR,Q92490347,en,researcher (ORCID 0000-0002-3455-2992)
+rcellminer,LGPL (>= 2.1),Augustin Luna,10.18129/B9.BIOC.RCELLMINER,Q92751037,en,researcher (ORCID 0000-0001-5709-371X)
+rCGH,Artistic-2.0,Frederic Commo,10.18129/B9.BIOC.RCGH,Q87457497,en,researcher
+RCM,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.RCM,Q91545755,en,researcher (ORCID 0000-0002-4501-5180)
+RCSL,GPL-3,Qinglin Mei,10.18129/B9.BIOC.RCSL,,,
+Rcwl,GPL-2,Qiang Hu,10.18129/B9.BIOC.RCWL,Q89865938,en,researcher (ORCID 0000-0002-4090-5539)
+RcwlPipelines,GPL-2,Qiang Hu,10.18129/B9.BIOC.RCWLPIPELINES,Q89865938,en,researcher (ORCID 0000-0002-4090-5539)
+RCX,MIT,Florian Auer,10.18129/B9.BIOC.RCX,,,
+RCyjs,MIT,Paul Shannon,10.18129/B9.BIOC.RCYJS,,,
+RDRToolbox,GPL (>= 2),Christoph Bartenhagen,10.18129/B9.BIOC.RDRTOOLBOX,,,
+ReactomeContentService4R,Apache License 2.0,Chi-Lam Poon,10.18129/B9.BIOC.REACTOMECONTENTSERVICE4R,Q104742846,en,researcher
+ReactomeGraph4R,Apache License 2.0,Chi-Lam Poon,10.18129/B9.BIOC.REACTOMEGRAPH4R,Q104742846,en,researcher
+ReactomeGSA,MIT,Johannes Griss,10.18129/B9.BIOC.REACTOMEGSA,Q29998980,en,researcher
+REBET,GPL-2,Bill Wheeler,10.18129/B9.BIOC.REBET,,,
+rebook,GPL-3,Aaron Lun,10.18129/B9.BIOC.REBOOK,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+receptLoss,GPL-3,Daniel Pique,10.18129/B9.BIOC.RECEPTLOSS,Q96644189,en,researcher
+reconsi,GPL-2,Stijn Hawinkel,10.18129/B9.BIOC.RECONSI,Q91545755,en,researcher (ORCID 0000-0002-4501-5180)
+recount3,Artistic-2.0,Leonardo Collado-Torres,10.18129/B9.BIOC.RECOUNT3,Q56433434,en,researcher
+recoup,GPL (>= 3),Panagiotis Moulos,10.18129/B9.BIOC.RECOUP,Q104755397,en,researcher
+RedeR,GPL (>= 3),Mauro Castro,10.18129/B9.BIOC.REDER,Q41049476,en,researcher
+REDseq,GPL (>= 2),Lihua Julie Zhu,10.18129/B9.BIOC.REDSEQ,Q59510987,en,researcher ORCID ID = 0000-0001-7416-0590
+RefPlus,GPL (>= 2),Kai-Ming Chang,10.18129/B9.BIOC.REFPLUS,,,
+RegEnrich,GPL (>= 2),Weiyang Tao,10.18129/B9.BIOC.REGENRICH,Q100299210,en,researcher (ORCID 0000-0003-1107-5975)
+regsplice,MIT,Lukas M. Weber,10.18129/B9.BIOC.REGSPLICE,,,
+regutools,Artistic-2.0,Joselyn Chavez,10.18129/B9.BIOC.REGUTOOLS,Q88474441,en,researcher
+REMP,GPL-3,Yinan Zheng,10.18129/B9.BIOC.REMP,Q59591375,en,researcher ORCID ID = 0000-0002-2006-7320
+Repitools,LGPL (>= 2.1),Mark Robinson,10.18129/B9.BIOC.REPITOOLS,Q37391287,en,researcher
+RepViz,GPL-3,"Thomas Faux, Asta Laiho",10.18129/B9.BIOC.REPVIZ,,,
+ReQON,GPL-2,Christopher Cabanski,10.18129/B9.BIOC.REQON,,,
+ResidualMatrix,GPL-3,Aaron Lun,10.18129/B9.BIOC.RESIDUALMATRIX,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+restfulSE,Artistic-2.0,Shweta Gopaulakrishnan,10.18129/B9.BIOC.RESTFULSE,,,
+rexposome,MIT,Xavier Escribà Montagut,10.18129/B9.BIOC.REXPOSOME,,,
+Rfastp,GPL-3,Thomas Carroll,10.18129/B9.BIOC.RFASTP,Q73146220,en,researcher
+rfPred,GPL (>= 2),Hugo Varet,10.18129/B9.BIOC.RFPRED,Q90350158,en,researcher (ORCID 0000-0003-3980-4463)
+rGADEM,Artistic-2.0,Arnaud Droit,10.18129/B9.BIOC.RGADEM,Q86783080,en,researcher and university professor
+rGenomeTracks,GPL-3,Omar Elashkar,10.18129/B9.BIOC.RGENOMETRACKS,,,
+Rgin,MIT,Hector Climente-Gonzalez,10.18129/B9.BIOC.RGIN,Q57450057,en,researcher
+RGMQL,Artistic-2.0,Simone Pallotta,10.18129/B9.BIOC.RGMQL,,,
+rgoslin,MIT,Nils Hoffmann,10.18129/B9.BIOC.RGOSLIN,Q61152364,en,researcher ORCID ID = 0000-0002-6540-6875
+RGraph2js,GPL-2,Stephane Cano,10.18129/B9.BIOC.RGRAPH2JS,,,
+Rgraphviz,EPL,Kasper Daniel Hansen,10.18129/B9.BIOC.RGRAPHVIZ,Q30504905,en,researcher
+rGREAT,MIT,Zuguang Gu,10.18129/B9.BIOC.RGREAT,Q44539523,en,researcher
+RGSEA,GPL (>= 3),Chengcheng Ma,10.18129/B9.BIOC.RGSEA,,,
+rhdf5,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RHDF5,,,
+rhdf5client,Artistic-2.0,Vincent Carey,10.18129/B9.BIOC.RHDF5CLIENT,Q91812157,en,researcher (ORCID 0000-0003-4046-0063)
+rhdf5filters,BSD_2_clause,Mike Smith,10.18129/B9.BIOC.RHDF5FILTERS,,,
+Rhdf5lib,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RHDF5LIB,,,
+Rhisat2,GPL-3,Charlotte Soneson,10.18129/B9.BIOC.RHISAT2,Q43290839,en,researcher
+Rhtslib,LGPL (>= 2.1),Bioconductor Package Maintainer,10.18129/B9.BIOC.RHTSLIB,,,
+RiboCrypt,MIT,Michal Swirski,10.18129/B9.BIOC.RIBOCRYPT,Q30957861,,
+RiboDiPA,LGPL (>= 2.1),Ji-Ping Wang,10.18129/B9.BIOC.RIBODIPA,Q93135491,en,researcher (ORCID 0000-0002-8398-939X)
+RiboProfiling,GPL-3,A. Popa,10.18129/B9.BIOC.RIBOPROFILING,,,
+ribor,GPL-3,Michael Geng,10.18129/B9.BIOC.RIBOR,,,
+riboSeqR,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.RIBOSEQR,,,
+ribosomeProfilingQC,GPL (>= 3),Jianhong Ou,10.18129/B9.BIOC.RIBOSOMEPROFILINGQC,Q60678173,en,researcher
+rifi,GPL-3,Jens Georg,10.18129/B9.BIOC.RIFI,Q42395283,en,researcher
+RImmPort,GPL-3,Zicheng Hu,10.18129/B9.BIOC.RIMMPORT,Q98499375,en,researcher
+Ringo,Artistic-2.0,J. Toedling,10.18129/B9.BIOC.RINGO,,,
+RIPAT,Artistic-2.0,Min-Jeong Baek,10.18129/B9.BIOC.RIPAT,Q99557735,en,researcher
+Risa,LGPL (>= 2.1),Alejandra Gonzalez-Beltran,10.18129/B9.BIOC.RISA,Q27824575,en,researcher
+RIVER,GPL (>= 2),Yungil Kim,10.18129/B9.BIOC.RIVER,,,
+RLassoCox,Artistic-2.0,Wei Liu,10.18129/B9.BIOC.RLASSOCOX,Q68637652,,
+RLMM,LGPL (>= 2.1),Nusrat Rabbee,10.18129/B9.BIOC.RLMM,Q102170458,en,Ph.D. Harvard University 2005
+RLSeq,MIT,Henry Miller,10.18129/B9.BIOC.RLSEQ,,,
+Rmagpie,GPL (>= 3),Camille Maumet,10.18129/B9.BIOC.RMAGPIE,Q57014454,en,researcher
+RMassBank,Artistic-2.0,RMassBank at Eawag,10.18129/B9.BIOC.RMASSBANK,,,
+rmelting,GPL-2,J. Aravind,10.18129/B9.BIOC.RMELTING,,,
+RNAdecay,GPL-2,Reed Sorenson,10.18129/B9.BIOC.RNADECAY,,,
+rnaEditr,GPL-3,Lanyu Zhang,10.18129/B9.BIOC.RNAEDITR,,,
+RNAinteract,Artistic-2.0,Mike Smith,10.18129/B9.BIOC.RNAINTERACT,,,
+RNAmodR,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR,,,
+RNAmodR.AlkAnilineSeq,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.ALKANILINESEQ,,,
+RNAmodR.ML,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.ML,,,
+RNAmodR.RiboMethSeq,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.RNAMODR.RIBOMETHSEQ,,,
+RNAsense,GPL-3,Marcus Rosenblatt,10.18129/B9.BIOC.RNASENSE,,,
+rnaseqcomp,GPL-3,Mingxiang Teng,10.18129/B9.BIOC.RNASEQCOMP,Q42697106,en,researcher
+RNASeqPower,LGPL (>= 2.1),Terry M Therneau,10.18129/B9.BIOC.RNASEQPOWER,,,
+RnaSeqSampleSize,GPL (>= 2),Shilin Zhao Developer,10.18129/B9.BIOC.RNASEQSAMPLESIZE,,,
+Rnits,GPL-3,Dipen P. Sangurdekar,10.18129/B9.BIOC.RNITS,,,
+roar,GPL-3,Elena Grassi,10.18129/B9.BIOC.ROAR,Q56550564,en,researcher
+ROC,Artistic-2.0,Vince Carey,10.18129/B9.BIOC.ROC,,,
+ROCpAI,GPL-3,Juan-Pedro Garcia,10.18129/B9.BIOC.ROCPAI,Q107574487,,
+RolDE,GPL-3,Tommi Valikangas,10.18129/B9.BIOC.ROLDE,,,
+rols,GPL-2,Laurent Gatto,10.18129/B9.BIOC.ROLS,Q29998944,en,researcher
+ROntoTools,CC BY-NC-ND 4.0,Calin Voichita,10.18129/B9.BIOC.RONTOTOOLS,,,
+ropls,CeCILL,Etienne A. Thevenot,10.18129/B9.BIOC.ROPLS,Q43370375,en,researcher
+ROSeq,GPL-3,Krishan Gupta,10.18129/B9.BIOC.ROSEQ,,,
+RPA,BSD_2_clause,Leo Lahti,10.18129/B9.BIOC.RPA,Q42633248,en,researcher
+rprimer,GPL-3,Sofia Persson,10.18129/B9.BIOC.RPRIMER,Q58678387,en,researcher ORCID ID = 0000-0003-2611-3030
+RProtoBufLib,BSD_3_clause,Mike Jiang,10.18129/B9.BIOC.RPROTOBUFLIB,,,
+RpsiXML,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.RPSIXML,Q64785559,en,researcher
+rpx,GPL-2,Laurent Gatto,10.18129/B9.BIOC.RPX,Q29998944,en,researcher
+rqubic,GPL-2,Jitao David Zhang,10.18129/B9.BIOC.RQUBIC,Q64785559,en,researcher
+rRDP,GPL-2,Michael Hahsler,10.18129/B9.BIOC.RRDP,Q84562916,en,researcher
+RRHO,GPL-2,Jonathan Rosenblatt,10.18129/B9.BIOC.RRHO,Q88337067,en,researcher
+rrvgo,GPL-3,Sergi Sayols,10.18129/B9.BIOC.RRVGO,Q56571064,en,researcher
+Rsamtools,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.RSAMTOOLS,,,
+rsbml,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.RSBML,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+rScudo,GPL-3,Matteo Ciciani,10.18129/B9.BIOC.RSCUDO,,,
+rsemmed,Artistic-2.0,Leslie Myint,10.18129/B9.BIOC.RSEMMED,Q88480996,en,researcher
+RSeqAn,BSD_3_clause,August Guang,10.18129/B9.BIOC.RSEQAN,Q60055921,en,researcher
+RSVSim,LGPL (>= 2.1),Christoph Bartenhagen,10.18129/B9.BIOC.RSVSIM,,,
+RTCA,LGPL (>= 2.1),Jitao David Zhang,10.18129/B9.BIOC.RTCA,Q64785559,en,researcher
+RTopper,GPL (>= 3),Luigi Marchionni,10.18129/B9.BIOC.RTOPPER,Q52094524,en,researcher
+Rtreemix,LGPL (>= 2.1),Jasmina Bogojeska,10.18129/B9.BIOC.RTREEMIX,,,
+rTRMui,GPL-3,Diego Diez,10.18129/B9.BIOC.RTRMUI,Q81243268,en,researcher
+RUVcorr,GPL-2,Saskia Freytag,10.18129/B9.BIOC.RUVCORR,Q91523347,en,researcher (ORCID 0000-0002-2185-7068)
+RUVnormalize,GPL-3,Laurent Jacob,10.18129/B9.BIOC.RUVNORMALIZE,Q87770737,en,researcher (ORCID 0000-0003-4767-0442)
+RUVSeq,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.RUVSEQ,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+RVS,GPL-2,Thomas Sherman,10.18129/B9.BIOC.RVS,,,
+rWikiPathways,MIT,Egon Willighagen,10.18129/B9.BIOC.RWIKIPATHWAYS,Q20895241,en,Dutch chemist
+S4Vectors,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.S4VECTORS,,,
+safe,GPL (>= 2),Ludwig Geistlinger,10.18129/B9.BIOC.SAFE,Q88561965,en,researcher
+sagenhaft,GPL (>= 2),Tim Beissbarth,10.18129/B9.BIOC.SAGENHAFT,Q42701830,en,researcher
+sampleClassifier,Artistic-2.0,Khadija El Amrani,10.18129/B9.BIOC.SAMPLECLASSIFIER,,,
+SamSPECTRAL,GPL (>= 2),Habil,10.18129/B9.BIOC.SAMSPECTRAL,Q17763949,,
+sangeranalyseR,GPL-2,Kuan-Hao Chao,10.18129/B9.BIOC.SANGERANALYSER,,,
+sangerseqR,GPL-2,Jonathon Hill,10.18129/B9.BIOC.SANGERSEQR,Q37656690,en,researcher
+satuRn,Artistic-2.0,Jeroen Gilis,10.18129/B9.BIOC.SATURN,,,
+savR,AGPL-3,R. Brent Calder,10.18129/B9.BIOC.SAVR,,,
+SBGNview,AGPL-3,Weijun Luo,10.18129/B9.BIOC.SBGNVIEW,Q88221529,en,researcher (ORCID 0000-0002-6048-5164)
+SBMLR,GPL-2,Tomas Radivoyevitch,10.18129/B9.BIOC.SBMLR,Q52352675,en,researcher
+SC3,GPL-3,Vladimir Kiselev,10.18129/B9.BIOC.SC3,Q57242082,en,researcher
+Scale4C,LGPL (>= 2.1),Carolin Walter,10.18129/B9.BIOC.SCALE4C,Q29966678,,
+ScaledMatrix,GPL-3,Aaron Lun,10.18129/B9.BIOC.SCALEDMATRIX,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+scanMiR,GPL-3,Fridolin Gross,10.18129/B9.BIOC.SCANMIR,,,
+scanMiRApp,GPL-3,Pierre-Luc Germain,10.18129/B9.BIOC.SCANMIRAPP,Q48356693,en,researcher
+scAnnotatR,MIT,Johannes Griss,10.18129/B9.BIOC.SCANNOTATR,Q29998980,en,researcher
+SCArray,GPL-3,Xiuwen Zheng,10.18129/B9.BIOC.SCARRAY,Q56992852,en,researcher (ORCID 0000-0002-1390-0708)
+SCATE,MIT,Wenpin Hou,10.18129/B9.BIOC.SCATE,,,
+scatterHatch,MIT,Atul Deshpande,10.18129/B9.BIOC.SCATTERHATCH,Q63506797,en,researcher
+scBFA,GPL-3,Ruoxin Li,10.18129/B9.BIOC.SCBFA,,,
+SCBN,GPL-2,Yan Zhou,10.18129/B9.BIOC.SCBN,Q42052619,en,researcher ORCID: 0000-0002-5545-5681
+scClassify,GPL-3,Yingxin Lin,10.18129/B9.BIOC.SCCLASSIFY,,,
+sccomp,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.SCCOMP,Q104281752,en,researcher
+scDataviz,GPL-3,Kevin Blighe,10.18129/B9.BIOC.SCDATAVIZ,Q92890211,en,researcher (ORCID 0000-0002-6322-6571)
+scDD,GPL-2,Keegan Korthauer,10.18129/B9.BIOC.SCDD,Q63436837,en,researcher
+scde,GPL-2,Jean Fan,10.18129/B9.BIOC.SCDE,Q55149609,en,researcher
+scds,MIT,Dennis Kostka,10.18129/B9.BIOC.SCDS,Q90616680,en,researcher (ORCID 0000-0002-1460-5487)
+SCFA,LGPL (>= 2.1),Duc Tran,10.18129/B9.BIOC.SCFA,Q57069930,en,researcher
+scFeatureFilter,MIT,Guillaume Devailly,10.18129/B9.BIOC.SCFEATUREFILTER,Q57031818,en,researcher
+scGPS,GPL-3,Quan Nguyen,10.18129/B9.BIOC.SCGPS,Q58324230,en,"researcher, ORCID id # 0000-0001-7870-5703"
+schex,GPL-3,Saskia Freytag,10.18129/B9.BIOC.SCHEX,Q91523347,en,researcher (ORCID 0000-0002-2185-7068)
+scHOT,GPL-3,Shila Ghazanfar,10.18129/B9.BIOC.SCHOT,Q59709249,en,researcher ORCID ID = 0000-0001-7861-6997
+scMAGeCK,BSD_2_clause,Xiaolong Cheng,10.18129/B9.BIOC.SCMAGECK,Q88940641,en,researcher (ORCID 0000-0001-9513-6258)
+scmap,GPL-3,Vladimir Kiselev,10.18129/B9.BIOC.SCMAP,Q57242082,en,researcher
+scmeth,GPL-2,Divy Kangeyan,10.18129/B9.BIOC.SCMETH,,,
+SCnorm,GPL (>= 2),Rhonda Bacher,10.18129/B9.BIOC.SCNORM,Q59676921,en,researcher ORCID ID = 0000-0001-5787-476X
+scone,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.SCONE,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+Sconify,Artistic-2.0,Tyler J Burns,10.18129/B9.BIOC.SCONIFY,,,
+SCOPE,GPL-2,Rujin Wang,10.18129/B9.BIOC.SCOPE,,,
+scp,Artistic-2.0,Christophe Vanderaa,10.18129/B9.BIOC.SCP,Q92569055,en,researcher (ORCID 0000-0001-7443-5427)
+scPCA,MIT,Philippe Boileau,10.18129/B9.BIOC.SCPCA,,,
+scPipe,GPL (>= 2),Luyi Tian,10.18129/B9.BIOC.SCPIPE,Q59676590,en,researcher ORCID ID = 0000-0003-3420-3685
+scReClassify,GPL-3,Taiyun Kim,10.18129/B9.BIOC.SCRECLASSIFY,,,
+scRecover,GPL,Zhun Miao,10.18129/B9.BIOC.SCRECOVER,,,
+scRepertoire,Apache License 2.0,Nick Borcherding,10.18129/B9.BIOC.SCREPERTOIRE,,,
+scruff,MIT,Zhe Wang,10.18129/B9.BIOC.SCRUFF,Q51525497,en,researcher ORCID: 0000-0003-4103-0751
+scry,Artistic-2.0,Kelly Street,10.18129/B9.BIOC.SCRY,Q95627782,en,researcher
+scShapes,GPL-3,Malindrie Dharmaratne,10.18129/B9.BIOC.SCSHAPES,,,
+scTensor,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.SCTENSOR,Q59158511,en,researcher ORCID ID = 0000-0003-3797-2148
+scTGIF,Artistic-2.0,Koki Tsuyuzaki,10.18129/B9.BIOC.SCTGIF,Q59158511,en,researcher ORCID ID = 0000-0003-3797-2148
+scTHI,GPL-2,Michele Ceccarelli,10.18129/B9.BIOC.SCTHI,Q42773743,en,researcher
+scTreeViz,Artistic-2.0,Jayaram Kancherla,10.18129/B9.BIOC.SCTREEVIZ,Q43837597,en,researcher
+SDAMS,GPL,Yuntong Li,10.18129/B9.BIOC.SDAMS,Q92961248,en,researcher (ORCID 0000-0002-3538-1881)
+sechm,GPL-3,Pierre-Luc Germain,10.18129/B9.BIOC.SECHM,Q48356693,en,researcher
+segmenter,GPL-3,Mahmoud Ahmed,10.18129/B9.BIOC.SEGMENTER,,,
+segmentSeq,GPL-3,Thomas J. Hardcastle,10.18129/B9.BIOC.SEGMENTSEQ,,,
+selectKSigs,GPL-3,Zhi Yang,10.18129/B9.BIOC.SELECTKSIGS,Q58120268,en,"researcher, ORCID id # 0000-0002-2222-2312"
+SELEX,GPL (>= 2),Harmen J. Bussemaker,10.18129/B9.BIOC.SELEX,,,
+SemDist,GPL (>= 2),Ian Gonzalez,10.18129/B9.BIOC.SEMDIST,,,
+semisup,GPL-3,Armin Rauschenberger,10.18129/B9.BIOC.SEMISUP,Q87418762,en,researcher
+SEPIRA,GPL-3,Yuting Chen,10.18129/B9.BIOC.SEPIRA,Q57059752,en,researcher (ORCID 0000-0003-0436-8876)
+seq2pathway,GPL-2,Arjun Kinstlick,10.18129/B9.BIOC.SEQ2PATHWAY,,,
+seqArchR,GPL-3,Sarvesh Nikumbh,10.18129/B9.BIOC.SEQARCHR,Q87858529,en,researcher
+seqCAT,MIT,Erik Fasterius,10.18129/B9.BIOC.SEQCAT,Q59663111,en,researcher ORCID ID = 0000-0003-0492-9960
+seqCNA,GPL-3,David Mosen-Ansorena,10.18129/B9.BIOC.SEQCNA,,,
+seqcombo,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.SEQCOMBO,Q56548905,en,researcher
+SeqGate,GPL (>= 2.0),Stéphanie Rialle,10.18129/B9.BIOC.SEQGATE,,,
+SeqGSEA,GPL (>= 3),Xi Wang,10.18129/B9.BIOC.SEQGSEA,Q42779362,en,researcher (ORCID 0000-0002-7572-6354)
+seqLogo,LGPL (>= 2.1),Robert Ivanek,10.18129/B9.BIOC.SEQLOGO,Q63681463,en,researcher
+seqPattern,GPL-3,Vanja Haberle,10.18129/B9.BIOC.SEQPATTERN,Q56994331,en,researcher
+seqsetvis,MIT,Joseph R Boyd,10.18129/B9.BIOC.SEQSETVIS,Q88625560,en,researcher
+seqTools,Artistic-2.0,Wolfgang Kaisers,10.18129/B9.BIOC.SEQTOOLS,Q41618652,en,researcher
+SeqVarTools,GPL-3,Stephanie M. Gogarten,10.18129/B9.BIOC.SEQVARTOOLS,Q55426348,en,researcher
+SEtools,GPL,Pierre-Luc Germain,10.18129/B9.BIOC.SETOOLS,Q48356693,en,researcher
+sevenbridges,Apache License 2.0,Soner Koc,10.18129/B9.BIOC.SEVENBRIDGES,Q104143093,en,researcher
+SharedObject,GPL-3,Jiefei Wang,10.18129/B9.BIOC.SHAREDOBJECT,Q90928985,en,researcher (ORCID 0000-0002-2709-5332)
+shinyepico,AGPL-3,Octavio Morante-Palacios,10.18129/B9.BIOC.SHINYEPICO,,,
+SIAMCAT,GPL-3,Jakob Wirbel,10.18129/B9.BIOC.SIAMCAT,Q91000106,en,researcher (ORCID 0000-0002-4073-3562)
+SICtools,GPL (>= 2),Xiaobin Xing,10.18129/B9.BIOC.SICTOOLS,,,
+SigCheck,Artistic-2.0,Rory Stark,10.18129/B9.BIOC.SIGCHECK,Q42664072,en,researcher
+SigFuge,GPL-3,Patrick Kimes,10.18129/B9.BIOC.SIGFUGE,Q59684611,en,researcher ORCID ID = 0000-0001-6819-9077
+siggenes,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.SIGGENES,Q91265114,en,researcher (ORCID 0000-0002-2858-6715)
+sights,GPL-3,Elika Garg,10.18129/B9.BIOC.SIGHTS,Q92379810,en,researcher (ORCID 0000-0002-3093-7940)
+sigPathway,GPL-2,Weil Lai,10.18129/B9.BIOC.SIGPATHWAY,,,
+SigsPack,GPL-3,Franziska Schumann,10.18129/B9.BIOC.SIGSPACK,,,
+sigsquared,GPL-3,UnJin Lee,10.18129/B9.BIOC.SIGSQUARED,,,
+SIM,GPL (>= 2),Renee X. de Menezes,10.18129/B9.BIOC.SIM,,,
+SIMAT,GPL-2,M. R. Nezami Ranjbar,10.18129/B9.BIOC.SIMAT,,,
+SimBindProfiles,GPL-3,Bettina Fischer,10.18129/B9.BIOC.SIMBINDPROFILES,Q89334273,en,researcher
+SIMD,GPL-3,Jiadi Zhu,10.18129/B9.BIOC.SIMD,Q90370561,en,researcher (ORCID 0000-0001-7319-3913)
+SimFFPE,LGPL (>= 2.1),Lanying Wei,10.18129/B9.BIOC.SIMFFPE,,,
+similaRpeak,Artistic-2.0,Astrid Deschênes,10.18129/B9.BIOC.SIMILARPEAK,Q41046641,en,researcher
+simplifyEnrichment,MIT,Zuguang Gu,10.18129/B9.BIOC.SIMPLIFYENRICHMENT,Q44539523,en,researcher
+sincell,GPL (>= 2),Miguel Julia,10.18129/B9.BIOC.SINCELL,Q85430696,en,researcher
+single,MIT,Rocio Espada,10.18129/B9.BIOC.SINGLE,Q41048756,en,researcher (ORCID 0000-0003-3829-473X)
+SingleCellExperiment,GPL-3,Davide Risso,10.18129/B9.BIOC.SINGLECELLEXPERIMENT,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+SingleCellSignalR,GPL-3,Jacques Colinge,10.18129/B9.BIOC.SINGLECELLSIGNALR,Q30169839,en,researcher
+singleCellTK,MIT,Yichen Wang,10.18129/B9.BIOC.SINGLECELLTK,Q43066456,en,researcher
+SingleMoleculeFootprinting,GPL-3,Guido Barzaghi,10.18129/B9.BIOC.SINGLEMOLECULEFOOTPRINTING,,,
+SISPA,GPL-2,Bhakti Dwivedi,10.18129/B9.BIOC.SISPA,Q50107918,en,researcher
+sitadela,Artistic-2.0,Panagiotis Moulos,10.18129/B9.BIOC.SITADELA,Q104755397,en,researcher
+sitePath,MIT,Chengyang Ji,10.18129/B9.BIOC.SITEPATH,,,
+sizepower,LGPL (>= 2.1),Weiliang Qiu,10.18129/B9.BIOC.SIZEPOWER,Q55507718,en,researcher
+skewr,GPL-2,Ryan Putney,10.18129/B9.BIOC.SKEWR,,,
+slalom,GPL-2,Davis McCarthy,10.18129/B9.BIOC.SLALOM,Q37391267,en,researcher
+slingshot,Artistic-2.0,Kelly Street,10.18129/B9.BIOC.SLINGSHOT,Q95627782,en,researcher
+SLqPCR,GPL (>= 2),Matthias Kohl,10.18129/B9.BIOC.SLQPCR,Q56594914,en,researcher
+SMAD,MIT,Qingzhou Zhang,10.18129/B9.BIOC.SMAD,Q85634863,en,researcher
+SMAP,GPL-2,Robin Andersson,10.18129/B9.BIOC.SMAP,Q39066508,en,researcher
+SMITE,GPL (>= 2),Neil Ari Wijetunga,10.18129/B9.BIOC.SMITE,,,
+SNAGEE,Artistic-2.0,David Venet,10.18129/B9.BIOC.SNAGEE,Q99564335,en,researcher
+snapCGH,GPL,John Marioni,10.18129/B9.BIOC.SNAPCGH,Q38320103,en,researcher
+snapcount,MIT,Rone Charles,10.18129/B9.BIOC.SNAPCOUNT,Q85887367,en,researcher
+snm,LGPL (>= 2.1),John D. Storey,10.18129/B9.BIOC.SNM,Q55121965,en,genomics statistician
+SNPediaR,GPL-2,David Montaner,10.18129/B9.BIOC.SNPEDIAR,Q37609122,en,researcher
+SNPhood,LGPL (>= 2.1),Christian Arnold,10.18129/B9.BIOC.SNPHOOD,Q57463112,en,researcher ORCID ID = 0000-0001-9088-4150
+snpStats,GPL-3,David Clayton,10.18129/B9.BIOC.SNPSTATS,Q47502495,en,researcher
+soGGi,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.SOGGI,,,
+sojourner,Artistic-2.0,Sojourner Developer,10.18129/B9.BIOC.SOJOURNER,,,
+SOMNiBUS,MIT,Kathleen Klein,10.18129/B9.BIOC.SOMNIBUS,,,
+SpacePAC,GPL-2,Gregory Ryslik,10.18129/B9.BIOC.SPACEPAC,Q102430589,en,Ph.D. Yale University 2014
+Spaniel,MIT,Rachel Queen,10.18129/B9.BIOC.SPANIEL,Q103835856,en,researcher
+sparrow,MIT,Steve Lianoglou,10.18129/B9.BIOC.SPARROW,Q59384474,en,researcher ORCID ID = 0000-0002-0924-1754
+sparseDOSSA,MIT,Boyu Ren,10.18129/B9.BIOC.SPARSEDOSSA,,,
+sparseMatrixStats,MIT,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.SPARSEMATRIXSTATS,,,
+sparsenetgls,GPL-3,Irene Zeng,10.18129/B9.BIOC.SPARSENETGLS,Q45938727,en,researcher
+SpatialCPie,MIT,Joseph Bergenstraahle,10.18129/B9.BIOC.SPATIALCPIE,,,
+spatialDE,MIT,Davide Corso,10.18129/B9.BIOC.SPATIALDE,,,
+SpatialDecon,MIT,Maddy Griswold,10.18129/B9.BIOC.SPATIALDECON,,,
+SpatialExperiment,GPL-3,Dario Righelli,10.18129/B9.BIOC.SPATIALEXPERIMENT,Q64141115,en,researcher
+spatialHeatmap,Artistic-2.0,Jianhai Zhang,10.18129/B9.BIOC.SPATIALHEATMAP,Q56971189,en,researcher (ORCID 0000-0001-6005-8376)
+spatzie,GPL-3,Jennifer Hammelman,10.18129/B9.BIOC.SPATZIE,Q108617507,,
+specL,GPL-3,Christian Panse,10.18129/B9.BIOC.SPECL,Q89370567,en,researcher
+SpeCond,LGPL (>= 2.1),Florence Cavalli,10.18129/B9.BIOC.SPECOND,,,
+Spectra,Artistic-2.0,RforMassSpectrometry Package Maintainer,10.18129/B9.BIOC.SPECTRA,,,
+SPEM,GPL-2,Xinyi YANG,10.18129/B9.BIOC.SPEM,Q92674192,en,researcher (ORCID 0000-0002-5128-5128)
+spicyR,GPL (>= 2),Ellis Patrick,10.18129/B9.BIOC.SPICYR,Q47792701,en,researcher
+SpidermiR,GPL (>= 3),Claudia Cava,10.18129/B9.BIOC.SPIDERMIR,Q57204478,en,researcher
+spikeLI,GPL-2,Enrico Carlon,10.18129/B9.BIOC.SPIKELI,Q43198509,en,researcher
+spiky,GPL-2,Tim Triche,10.18129/B9.BIOC.SPIKY,Q58925437,en,researcher ORCID ID = 0000-0001-5665-946X
+spkTools,GPL (>= 2),Matthew N McCall,10.18129/B9.BIOC.SPKTOOLS,Q89000270,en,researcher
+SplicingFactory,GPL-3,Endre Sebestyen,10.18129/B9.BIOC.SPLICINGFACTORY,Q55136894,en,researcher
+SplicingGraphs,Artistic-2.0,H. Pagès,10.18129/B9.BIOC.SPLICINGGRAPHS,,,
+splineTimeR,GPL-3,Herbert Braselmann,10.18129/B9.BIOC.SPLINETIMER,Q58212202,en,"researcher, ORCID id # 0000-0001-5416-9440"
+SPLINTER,GPL-2,Diana Low,10.18129/B9.BIOC.SPLINTER,Q21454050,,
+splots,LGPL (>= 2.1),Wolfgang Huber,10.18129/B9.BIOC.SPLOTS,,,
+SPONGE,GPL (>= 3),Markus List,10.18129/B9.BIOC.SPONGE,Q56543289,en,researcher
+SPOTlight,GPL-3,Marc Elosua-Bayes,10.18129/B9.BIOC.SPOTLIGHT,Q59687749,en,researcher ORCID ID = 0000-0001-5315-815X
+spqn,Artistic-2.0,Yi Wang,10.18129/B9.BIOC.SPQN,,,
+SPsimSeq,GPL-2,Joris Meys,10.18129/B9.BIOC.SPSIMSEQ,,,
+SQLDataFrame,GPL-3,Qian Liu,10.18129/B9.BIOC.SQLDATAFRAME,,,
+SQUADD,GPL (>= 2),Martial Sankar,10.18129/B9.BIOC.SQUADD,,,
+sRACIPE,MIT,Vivek Kohar,10.18129/B9.BIOC.SRACIPE,Q85300603,en,researcher
+SRAdb,Artistic-2.0,Jack Zhu,10.18129/B9.BIOC.SRADB,Q94478651,en,researcher
+srnadiff,GPL-3,Zytnicki Matthias,10.18129/B9.BIOC.SRNADIFF,,,
+sscore,GPL (>= 2),Richard Kennedy,10.18129/B9.BIOC.SSCORE,Q87894172,en,researcher
+sscu,GPL (>= 2),Yu Sun,10.18129/B9.BIOC.SSCU,,,
+sSeq,GPL (>= 3),Danni Yu,10.18129/B9.BIOC.SSEQ,,,
+ssize,LGPL (>= 2.1),Gregory R. Warnes,10.18129/B9.BIOC.SSIZE,Q110717731,en,"PhD, University of Washington, 2000"
+sSNAPPY,GPL-3,Wenjun Liu,10.18129/B9.BIOC.SSNAPPY,Q81408897,en,researcher (ORCID 0000-0001-9380-2990)
+ssPATHS,MIT,Natalie R. Davidson,10.18129/B9.BIOC.SSPATHS,,,
+ssrch,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.SSRCH,,,
+ssviz,GPL-2,Diana Low,10.18129/B9.BIOC.SSVIZ,Q21454050,,
+stageR,GNU General Public License version 3,Koen Van den Berge,10.18129/B9.BIOC.STAGER,Q52686499,en,researcher
+STAN,GPL (>= 2),Rafael Campos-Martin,10.18129/B9.BIOC.STAN,,,
+standR,MIT,Ning Liu,10.18129/B9.BIOC.STANDR,Q80171940,en,researcher (ORCID 0000-0002-7925-8535)
+staRank,GPL,Juliane Siebourg,10.18129/B9.BIOC.STARANK,Q90020844,en,researcher
+StarBioTrek,GPL (>= 3),Claudia Cava,10.18129/B9.BIOC.STARBIOTREK,Q57204478,en,researcher
+STATegRa,GPL-2,David Gomez-Cabrero,10.18129/B9.BIOC.STATEGRA,Q40263865,en,researcher
+statTarget,LGPL (>= 2.1),Hemi Luan,10.18129/B9.BIOC.STATTARGET,Q56998215,en,researcher
+STdeconvolve,GPL-3,Brendan Miller,10.18129/B9.BIOC.STDECONVOLVE,,,
+stepNorm,LGPL (>= 2.1),Yuanyuan Xiao,10.18129/B9.BIOC.STEPNORM,Q90657851,en,researcher (ORCID 0000-0003-0216-938X)
+strandCheckR,GPL (>= 2),Thu-Hien To,10.18129/B9.BIOC.STRANDCHECKR,,,
+Streamer,Artistic-2.0,Martin Morgan,10.18129/B9.BIOC.STREAMER,Q60662565,en,researcher ORCID ID = 0000-0002-5874-8148
+STRINGdb,GPL-2,Damian Szklarczyk,10.18129/B9.BIOC.STRINGDB,Q30002479,en,researcher
+STROMA4,GPL-3,Sadiq Saleh,10.18129/B9.BIOC.STROMA4,,,
+struct,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.STRUCT,,,
+Structstrings,Artistic-2.0,Felix G.M. Ernst,10.18129/B9.BIOC.STRUCTSTRINGS,,,
+structToolbox,GPL-3,Gavin Rhys Lloyd,10.18129/B9.BIOC.STRUCTTOOLBOX,,,
+StructuralVariantAnnotation,GPL-3,Daniel Cameron,10.18129/B9.BIOC.STRUCTURALVARIANTANNOTATION,Q57155586,en,researcher
+SubCellBarCode,GPL-2,Taner Arslan,10.18129/B9.BIOC.SUBCELLBARCODE,Q58741768,en,researcher ORCID ID = 0000-0002-8773-2700
+subSeq,MIT,Andrew J. Bass,10.18129/B9.BIOC.SUBSEQ,,,
+SummarizedExperiment,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.SUMMARIZEDEXPERIMENT,,,
+Summix,MIT,Audrey Hendricks,10.18129/B9.BIOC.SUMMIX,Q57067979,en,researcher
+supersigs,GPL-3,Albert Kuo,10.18129/B9.BIOC.SUPERSIGS,,,
+supraHex,GPL-2,Hai Fang,10.18129/B9.BIOC.SUPRAHEX,Q47502483,en,researcher (ORCID 0000-0003-3961-8572)
+surfaltr,MIT,Pooja Gangras,10.18129/B9.BIOC.SURFALTR,,,
+survcomp,Artistic-2.0,Benjamin Haibe-Kains,10.18129/B9.BIOC.SURVCOMP,Q38639014,en,researcher
+survtype,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.SURVTYPE,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+Sushi,GPL (>= 2),Douglas H Phanstiel,10.18129/B9.BIOC.SUSHI,,,
+sva,Artistic-2.0,Jeffrey T. Leek,10.18129/B9.BIOC.SVA,Q41905110,en,biostatistician and data scientist
+svaNUMT,GPL-3,Ruining Dong,10.18129/B9.BIOC.SVANUMT,,,
+svaRetro,GPL-3,Ruining Dong,10.18129/B9.BIOC.SVARETRO,,,
+SwathXtend,GPL-2,Jemma Wu,10.18129/B9.BIOC.SWATHXTEND,,,
+swfdr,GPL (>= 3),Simina M. Boca,10.18129/B9.BIOC.SWFDR,Q37393163,en,researcher
+switchde,GPL (>= 2),Kieran Campbell,10.18129/B9.BIOC.SWITCHDE,,,
+synapsis,MIT,Lucy McNeill,10.18129/B9.BIOC.SYNAPSIS,,,
+synergyfinder,Mozilla Public License 2.0,Shuyu Zheng,10.18129/B9.BIOC.SYNERGYFINDER,Q87675376,en,researcher
+SynExtend,GPL-3,Nicholas Cooley,10.18129/B9.BIOC.SYNEXTEND,Q104476979,en,researcher
+synlet,GPL-3,Chunxuan Shao,10.18129/B9.BIOC.SYNLET,,,
+SynMut,GPL-2,Haogao Gu,10.18129/B9.BIOC.SYNMUT,,,
+systemPipeShiny,GPL (>= 3),Le Zhang,10.18129/B9.BIOC.SYSTEMPIPESHINY,Q59685266,en,researcher ORCID ID = 0000-0003-1841-1986
+systemPipeTools,Artistic-2.0,Daniela Cassol,10.18129/B9.BIOC.SYSTEMPIPETOOLS,Q89390367,en,researcher
+target,GPL-3,Mahmoud Ahmed,10.18129/B9.BIOC.TARGET,,,
+TargetDecoy,Artistic-2.0,Elke Debrie,10.18129/B9.BIOC.TARGETDECOY,,,
+TBSignatureProfiler,MIT,Aubrey Odom-Mabey,10.18129/B9.BIOC.TBSIGNATUREPROFILER,,,
+TCC,GPL-2,Jianqiang Sun,10.18129/B9.BIOC.TCC,Q60195713,en,researcher ORCID ID = 0000-0002-1296-3192
+TCGAbiolinksGUI,GPL (>= 3),Tiago C. Silva,10.18129/B9.BIOC.TCGABIOLINKSGUI,,,
+TCGAutils,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.TCGAUTILS,Q98196257,en,researcher
+TCseq,GPL (>= 2),Mengjun Wu,10.18129/B9.BIOC.TCSEQ,,,
+TDARACNE,GPL-2,Zoppoli Pietro,10.18129/B9.BIOC.TDARACNE,,,
+TEKRABber,GPL (>= 2),Yao-Chung Chen,10.18129/B9.BIOC.TEKRABBER,,,
+tenXplore,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.TENXPLORE,,,
+TEQC,GPL (>= 2),Sarah Bonnin,10.18129/B9.BIOC.TEQC,Q53923186,en,researcher
+ternarynet,GPL (>= 2),McCall N. Matthew,10.18129/B9.BIOC.TERNARYNET,,,
+terraTCGAdata,Artistic-2.0,Marcel Ramos,10.18129/B9.BIOC.TERRATCGADATA,Q98196257,en,researcher
+TFARM,Artistic-2.0,Liuba Nausicaa Martino,10.18129/B9.BIOC.TFARM,,,
+TFHAZ,Artistic-2.0,Gaia Ceddia,10.18129/B9.BIOC.TFHAZ,Q90025322,en,researcher
+TFutils,Artistic-2.0,Vincent Carey,10.18129/B9.BIOC.TFUTILS,Q91812157,en,researcher (ORCID 0000-0003-4046-0063)
+tidybulk,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYBULK,Q104281752,en,researcher
+tidySingleCellExperiment,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYSINGLECELLEXPERIMENT,Q104281752,en,researcher
+tidySummarizedExperiment,GPL-3,Stefano Mangiola,10.18129/B9.BIOC.TIDYSUMMARIZEDEXPERIMENT,Q104281752,en,researcher
+TileDBArray,MIT,Aaron Lun,10.18129/B9.BIOC.TILEDBARRAY,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+tilingArray,Artistic-2.0,Zhenyu Xu,10.18129/B9.BIOC.TILINGARRAY,Q92405785,en,researcher (ORCID 0000-0001-7374-9387)
+timecourse,LGPL (>= 2.1),Yu Chuan Tai,10.18129/B9.BIOC.TIMECOURSE,Q102175585,en,"Ph.D. University of California, Berkeley 2005"
+timeOmics,GPL-3,Antoine Bodein,10.18129/B9.BIOC.TIMEOMICS,,,
+timescape,GPL-3,Maia Smith,10.18129/B9.BIOC.TIMESCAPE,Q59150957,en,researcher ORCID ID = 0000-0002-1154-1158
+TimeSeriesExperiment,MIT,Lan Huong Nguyen,10.18129/B9.BIOC.TIMESERIESEXPERIMENT,Q59749405,en,researcher ORCID ID = 0000-0003-3397-0380
+TimiRGeN,GPL-3,Krutik Patel,10.18129/B9.BIOC.TIMIRGEN,,,
+TIN,Artistic-2.0,Bjarne Johannessen,10.18129/B9.BIOC.TIN,,,
+TitanCNA,GPL-3,Gavin Ha,10.18129/B9.BIOC.TITANCNA,Q55079545,en,researcher
+tkWidgets,Artistic-2.0,J. Zhang,10.18129/B9.BIOC.TKWIDGETS,Q61624271,,
+tLOH,MIT,Michelle Webb,10.18129/B9.BIOC.TLOH,Q54877958,en,biochemist
+TMixClust,GPL (>= 2),Monica Golumbeanu,10.18129/B9.BIOC.TMIXCLUST,,,
+TNBC.CMS,GPL-3,Doyeong Yu,10.18129/B9.BIOC.TNBC.CMS,,,
+TnT,AGPL-3,Jialin Ma,10.18129/B9.BIOC.TNT,Q56936987,en,researcher (ORCID 0000-0001-6671-3474)
+TOAST,GPL-2,Ziyi Li,10.18129/B9.BIOC.TOAST,Q89524412,en,researcher (ORCID 0000-0001-8815-5696)
+tomoda,MIT,Wendao Liu,10.18129/B9.BIOC.TOMODA,Q8274498,,
+tomoseqr,MIT,Ryosuke Matsuzawa,10.18129/B9.BIOC.TOMOSEQR,,,
+topGO,LGPL (>= 2.1),Adrian Alexa,10.18129/B9.BIOC.TOPGO,,,
+ToxicoGx,MIT,Benjamin Haibe-Kains,10.18129/B9.BIOC.TOXICOGX,Q38639014,en,researcher
+TPP,Artistic-2.0,Dorothee Childs,10.18129/B9.BIOC.TPP,Q90466750,en,researcher (ORCID 0000-0002-2432-4128)
+tracktables,GPL (>= 3),Tom Carroll,10.18129/B9.BIOC.TRACKTABLES,,,
+tradeSeq,MIT,Hector Roux de Bezieux,10.18129/B9.BIOC.TRADESEQ,,,
+TrajectoryGeometry,MIT,Michael Shapiro,10.18129/B9.BIOC.TRAJECTORYGEOMETRY,,,
+TrajectoryUtils,GPL-3,Aaron Lun,10.18129/B9.BIOC.TRAJECTORYUTILS,Q61727711,en,researcher ORCID ID = 0000-0002-3564-4813
+transcriptR,GPL-3,Armen R. Karapetyan,10.18129/B9.BIOC.TRANSCRIPTR,,,
+transformGamPoi,GPL-3,Constantin Ahlmann-Eltze,10.18129/B9.BIOC.TRANSFORMGAMPOI,,,
+tRanslatome,GPL-3,Toma Tebaldi,10.18129/B9.BIOC.TRANSLATOME,Q57231205,en,researcher
+transomics2cytoscape,Artistic-2.0,Kozo Nishida,10.18129/B9.BIOC.TRANSOMICS2CYTOSCAPE,,,
+TransView,GPL-3,Julius Muller,10.18129/B9.BIOC.TRANSVIEW,Q55154445,en,"genetics researcher at Molecular Health GmbH, Heidelberg"
+TraRe,MIT,Jesus De La Fuente Cedeño,10.18129/B9.BIOC.TRARE,,,
+traseR,GPL,li chen,10.18129/B9.BIOC.TRASER,,,
+Travel,GPL-3,Jiefei Wang,10.18129/B9.BIOC.TRAVEL,Q90928985,en,researcher (ORCID 0000-0002-2709-5332)
+traviz,MIT,Koen Van den Berge,10.18129/B9.BIOC.TRAVIZ,Q52686499,en,researcher
+treeio,Artistic-2.0,Guangchuang Yu,10.18129/B9.BIOC.TREEIO,Q56548905,en,researcher
+treekoR,GPL-3,Adam Chan,10.18129/B9.BIOC.TREEKOR,,,
+TreeSummarizedExperiment,GPL (>= 2),Ruizhu Huang,10.18129/B9.BIOC.TREESUMMARIZEDEXPERIMENT,Q92020780,en,researcher (ORCID 0000-0003-3285-1945)
+TREG,Artistic-2.0,Louise Huuki-Myers,10.18129/B9.BIOC.TREG,,,
+trena,GPL-3,Paul Shannon,10.18129/B9.BIOC.TRENA,,,
+Trendy,GPL-3,Rhonda Bacher,10.18129/B9.BIOC.TRENDY,Q59676921,en,researcher ORCID ID = 0000-0001-5787-476X
+TRESS,GPL-3,Zhenxing Guo,10.18129/B9.BIOC.TRESS,Q96195417,en,researcher
+trigger,GPL-3,John D. Storey,10.18129/B9.BIOC.TRIGGER,Q55121965,en,genomics statistician
+trio,LGPL (>= 2.1),Holger Schwender,10.18129/B9.BIOC.TRIO,Q91265114,en,researcher (ORCID 0000-0002-2858-6715)
+tripr,MIT,Iason Ofeidis,10.18129/B9.BIOC.TRIPR,,,
+tRNA,GPL-3,Felix GM Ernst,10.18129/B9.BIOC.TRNA,,,
+tRNAdbImport,GPL-3,Felix G.M. Ernst,10.18129/B9.BIOC.TRNADBIMPORT,,,
+tRNAscanImport,GPL-3,Felix G.M. Ernst,10.18129/B9.BIOC.TRNASCANIMPORT,,,
+TRONCO,GPL-3,Luca De Sano,10.18129/B9.BIOC.TRONCO,,,
+TSCAN,GPL (>= 2),Zhicheng Ji,10.18129/B9.BIOC.TSCAN,Q92560339,en,researcher (ORCID 0000-0002-4837-7240)
+tscR,Artistic-2.0,Fernando Pérez-Sanz,10.18129/B9.BIOC.TSCR,Q89682567,en,researcher
+tspair,GPL-2,Jeffrey T. Leek,10.18129/B9.BIOC.TSPAIR,Q41905110,en,biostatistician and data scientist
+ttgsea,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.TTGSEA,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+TTMap,GPL-2,Rachel Jeitziner,10.18129/B9.BIOC.TTMAP,,,
+TurboNorm,LGPL (>= 2.1),Maarten van Iterson,10.18129/B9.BIOC.TURBONORM,Q96198616,en,researcher
+TVTB,Artistic-2.0,Kevin Rue-Albrecht,10.18129/B9.BIOC.TVTB,Q58165399,en,"researcher, ORCID id # 0000-0003-3899-3872"
+tweeDEseq,GPL (>= 2),Juan R Gonzalez,10.18129/B9.BIOC.TWEEDESEQ,Q48190660,en,researcher
+twilight,GPL (>= 2),Stefanie Scheid,10.18129/B9.BIOC.TWILIGHT,Q43184439,en,researcher
+twoddpcr,GPL-3,Anthony Chiu,10.18129/B9.BIOC.TWODDPCR,Q84463147,en,researcher (ORCID 0000-0003-2411-7302)
+txcutr,GPL-3,Mervin Fansler,10.18129/B9.BIOC.TXCUTR,,,
+TypeInfo,BSD_2_clause,Duncan Temple Lang,10.18129/B9.BIOC.TYPEINFO,Q57567653,en,researcher ORCID ID = 0000-0003-0159-1546
+UCell,GPL-3,Massimo Andreatta,10.18129/B9.BIOC.UCELL,Q57052162,en,researcher
+UMI4Cats,Artistic-2.0,Mireia Ramos-Rodriguez,10.18129/B9.BIOC.UMI4CATS,Q58051482,en,"researcher, ORCID id # 0000-0001-8083-2445"
+uncoverappLib,MIT,Emanuela Iovino,10.18129/B9.BIOC.UNCOVERAPPLIB,,,
+UNDO,GPL-2,Niya Wang,10.18129/B9.BIOC.UNDO,,,
+unifiedWMWqPCR,GPL (>= 2),Joris Meys,10.18129/B9.BIOC.UNIFIEDWMWQPCR,,,
+UniProt.ws,Artistic License 2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.UNIPROT.WS,,,
+universalmotif,GPL-3,Benjamin Jean-Marie Tremblay,10.18129/B9.BIOC.UNIVERSALMOTIF,,,
+updateObject,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.UPDATEOBJECT,,,
+uSORT,Artistic-2.0,Hao Chen,10.18129/B9.BIOC.USORT,Q55441679,en,researcher ORCID: 0000-0002-8400-3780
+VAExprs,Artistic-2.0,Dongmin Jung,10.18129/B9.BIOC.VAEXPRS,Q91273582,en,researcher (ORCID 0000-0001-7499-8422)
+VanillaICE,LGPL (>= 2.1),Robert Scharpf,10.18129/B9.BIOC.VANILLAICE,Q88790168,en,researcher
+VarCon,GPL-3,Johannes Ptok,10.18129/B9.BIOC.VARCON,Q104101821,en,researcher
+VariantExperiment,GPL-3,Qian Liu,10.18129/B9.BIOC.VARIANTEXPERIMENT,,,
+VariantFiltering,Artistic-2.0,Robert Castelo,10.18129/B9.BIOC.VARIANTFILTERING,Q42551515,en,researcher
+VariantTools,Artistic-2.0,Michael Lawrence,10.18129/B9.BIOC.VARIANTTOOLS,Q57321289,en,researcher (ORCID 0000-0003-1999-0801)
+vbmp,GPL (>= 2),Nicola Lama,10.18129/B9.BIOC.VBMP,Q91132009,en,researcher (ORCID 0000-0003-0717-679X)
+VCFArray,GPL-3,Qian Liu,10.18129/B9.BIOC.VCFARRAY,,,
+VegaMC,GPL-2,Sandro Morganella,10.18129/B9.BIOC.VEGAMC,Q57065550,en,researcher
+velociraptor,MIT,Kevin Rue-Albrecht,10.18129/B9.BIOC.VELOCIRAPTOR,Q58165399,en,"researcher, ORCID id # 0000-0003-3899-3872"
+veloviz,GPL-3,Lyla Atta,10.18129/B9.BIOC.VELOVIZ,,,
+VennDetail,GPL-2,Kai Guo,10.18129/B9.BIOC.VENNDETAIL,Q89507475,en,researcher (ORCID 0000-0002-0013-3263)
+vidger,GPL-3,Brandon Monier,10.18129/B9.BIOC.VIDGER,,,
+vissE,GPL-3,Dharmesh D. Bhuva,10.18129/B9.BIOC.VISSE,,,
+VplotR,GPL-3,Jacques Serizay,10.18129/B9.BIOC.VPLOTR,Q99248806,en,researcher
+vsn,Artistic-2.0,Wolfgang Huber,10.18129/B9.BIOC.VSN,,,
+vtpnet,Artistic-2.0,VJ Carey,10.18129/B9.BIOC.VTPNET,,,
+vulcan,LGPL (>= 2.1),Federico M. Giorgi,10.18129/B9.BIOC.VULCAN,,,
+waddR,MIT,Julian Flesch,10.18129/B9.BIOC.WADDR,,,
+weaver,GPL-2,Seth Falcon,10.18129/B9.BIOC.WEAVER,,,
+webbioc,GPL (>= 2),Colin A. Smith,10.18129/B9.BIOC.WEBBIOC,,,
+weitrix,LGPL (>= 2.1),Paul Harrison,10.18129/B9.BIOC.WEITRIX,Q56439843,en,researcher (ORCID 0000-0001-6117-0896)
+widgetTools,LGPL (>= 2.1),Jianhua Zhang,10.18129/B9.BIOC.WIDGETTOOLS,Q56027767,en,researcher ORCID: 0000-0002-3819-2437
+wiggleplotr,Apache License 2.0,Kaur Alasoo,10.18129/B9.BIOC.WIGGLEPLOTR,Q48146741,en,researcher
+wpm,Artistic-2.0,Helene Borges,10.18129/B9.BIOC.WPM,Q92249173,en,researcher (ORCID 0000-0001-6769-1836)
+wppi,MIT,Ana Galhoz,10.18129/B9.BIOC.WPPI,,,
+Wrench,Artistic-2.0,Hector Corrada Bravo,10.18129/B9.BIOC.WRENCH,Q35703653,en,researcher
+xcms,GPL (>= 2),Steffen Neumann,10.18129/B9.BIOC.XCMS,Q28541023,en,German scientist
+xcore,GPL-2,Maciej Migdał,10.18129/B9.BIOC.XCORE,,,
+Xeva,GPL-3,Benjamin Haibe-Kains,10.18129/B9.BIOC.XEVA,Q38639014,en,researcher
+XINA,GPL-3,Lang Ho Lee,10.18129/B9.BIOC.XINA,,,
+xmapbridge,LGPL (>= 2.1),Chris Wirth,10.18129/B9.BIOC.XMAPBRIDGE,Q88391169,en,researcher
+XNAString,GPL-2,Marianna Plucinska,10.18129/B9.BIOC.XNASTRING,,,
+XVector,Artistic-2.0,Hervé Pagès,10.18129/B9.BIOC.XVECTOR,,,
+YAPSA,GPL-3,Daniel Huebschmann,10.18129/B9.BIOC.YAPSA,Q47142821,en,researcher
+yarn,Artistic-2.0,Joseph N Paulson,10.18129/B9.BIOC.YARN,Q91044301,en,researcher (ORCID 0000-0001-8221-7139)
+zellkonverter,MIT,Luke Zappia,10.18129/B9.BIOC.ZELLKONVERTER,Q57961562,en,"researcher, ORCID id # 0000-0001-7744-8565"
+zFPKM,GPL-3,Ron Ammar,10.18129/B9.BIOC.ZFPKM,Q93177751,en,researcher (ORCID 0000-0002-6006-7392)
+zinbwave,Artistic-2.0,Davide Risso,10.18129/B9.BIOC.ZINBWAVE,Q55979537,en,researcher (ORCID 0000-0001-8508-5012)
+zlibbioc,Artistic-2.0,Bioconductor Package Maintainer,10.18129/B9.BIOC.ZLIBBIOC,,,
